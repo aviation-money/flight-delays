@@ -61,9 +61,20 @@
    "status": "GateClosed",
    "scheduled": "2026-11-19T07:40:00Z",
    "actual": "2026-11-19T08:05:00Z"
+  },
+  "ЛЩ 9687|2026-11-19T08:30:00Z": {
+   "number": "ЛЩ 9687",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T08:30:00Z",
+   "actual": "2026-11-19T08:30:00Z"
   }
  },
  "fetched": [
-  "2026-11-19T08:24:17Z"
+  "2026-11-19T08:24:17Z",
+  "2026-11-19T08:26:09Z"
  ]
 }

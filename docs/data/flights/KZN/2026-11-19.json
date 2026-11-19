@@ -121,12 +121,23 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T07:20:00Z",
    "actual": "2026-11-19T08:20:00Z"
+  },
+  "WZ 1068|2026-11-19T06:00:00Z": {
+   "number": "WZ 1068",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T06:00:00Z",
+   "actual": "2026-11-19T09:25:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
   "2026-11-19T08:20:51Z",
-  "2026-11-19T08:24:17Z"
+  "2026-11-19T08:24:17Z",
+  "2026-11-19T08:26:09Z"
  ]
 }
