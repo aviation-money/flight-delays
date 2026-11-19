@@ -1,0 +1,49 @@
+{
+ "airport": "ZIA",
+ "date": "2026-11-19",
+ "flights": {
+  "SZ 232|2026-11-18T22:10:00Z": {
+   "number": "SZ 232",
+   "airline": "Somon Air",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:10:00Z",
+   "actual": "2026-11-18T22:11:00Z"
+  },
+  "U6 2617|2026-11-19T04:50:00Z": {
+   "number": "U6 2617",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:50:00Z",
+   "actual": "2026-11-19T05:08:00Z"
+  },
+  "U6 2427|2026-11-19T08:00:00Z": {
+   "number": "U6 2427",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T08:00:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "SZ 338|2026-11-19T09:00:00Z": {
+   "number": "SZ 338",
+   "airline": "Somon Air",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-900",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:00:00Z",
+   "actual": "2026-11-19T09:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

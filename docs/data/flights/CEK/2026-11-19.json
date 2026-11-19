@@ -1,0 +1,109 @@
+{
+ "airport": "CEK",
+ "date": "2026-11-19",
+ "flights": {
+  "Y7 908|2026-11-18T20:30:00Z": {
+   "number": "Y7 908",
+   "airline": "NordStar",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:30:00Z",
+   "actual": "2026-11-18T21:51:00Z"
+  },
+  "SU 1093|2026-11-19T01:05:00Z": {
+   "number": "SU 1093",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:05:00Z",
+   "actual": "2026-11-19T01:35:00Z"
+  },
+  "FV 6462|2026-11-19T01:25:00Z": {
+   "number": "FV 6462",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:25:00Z",
+   "actual": "2026-11-19T01:44:00Z"
+  },
+  "DP 414|2026-11-19T01:30:00Z": {
+   "number": "DP 414",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:30:00Z",
+   "actual": "2026-11-19T01:59:00Z"
+  },
+  "DP 550|2026-11-19T00:40:00Z": {
+   "number": "DP 550",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:40:00Z",
+   "actual": "2026-11-19T02:06:00Z"
+  },
+  "DP 6568|2026-11-19T00:30:00Z": {
+   "number": "DP 6568",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:30:00Z",
+   "actual": "2026-11-19T03:50:00Z"
+  },
+  "DP 6570|2026-11-19T01:00:00Z": {
+   "number": "DP 6570",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:00:00Z",
+   "actual": "2026-11-19T04:32:00Z"
+  },
+  "U6 2811|2026-11-19T06:05:00Z": {
+   "number": "U6 2811",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:05:00Z",
+   "actual": "2026-11-19T06:19:00Z"
+  },
+  "SU 1535|2026-11-19T07:30:00Z": {
+   "number": "SU 1535",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:30:00Z",
+   "actual": "2026-11-19T07:45:00Z"
+  },
+  "UT 260|2026-11-19T08:40:00Z": {
+   "number": "UT 260",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T08:40:00Z",
+   "actual": "2026-11-19T08:40:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

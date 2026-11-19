@@ -1,0 +1,309 @@
+{
+ "airport": "DME",
+ "date": "2026-11-19",
+ "flights": {
+  "J2 186|2026-11-18T21:45:00Z": {
+   "number": "J2 186",
+   "airline": "AZAL Azerbaijan",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:45:00Z",
+   "actual": "2026-11-18T21:56:00Z"
+  },
+  "U6 8253|2026-11-18T21:55:00Z": {
+   "number": "U6 8253",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:55:00Z",
+   "actual": "2026-11-18T22:31:00Z"
+  },
+  "Y7 4400|2026-11-18T22:15:00Z": {
+   "number": "Y7 4400",
+   "airline": "NordStar",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:15:00Z",
+   "actual": "2026-11-18T22:43:00Z"
+  },
+  "YC 90|2026-11-18T22:30:00Z": {
+   "number": "YC 90",
+   "airline": "Yamal",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:30:00Z",
+   "actual": "2026-11-18T22:47:00Z"
+  },
+  "S7 2571|2026-11-18T22:40:00Z": {
+   "number": "S7 2571",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:40:00Z",
+   "actual": "2026-11-18T22:51:00Z"
+  },
+  "HH 716|2026-11-18T23:10:00Z": {
+   "number": "HH 716",
+   "airline": "Taban",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "Canceled",
+   "scheduled": "2026-11-18T23:10:00Z",
+   "actual": "2026-11-18T23:10:00Z"
+  },
+  "YC 32|2026-11-19T00:05:00Z": {
+   "number": "YC 32",
+   "airline": "Yamal",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:05:00Z",
+   "actual": "2026-11-19T00:25:00Z"
+  },
+  "3F 1316|2026-11-18T23:50:00Z": {
+   "number": "3F 1316",
+   "airline": "FlyOne Armenia",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:50:00Z",
+   "actual": "2026-11-19T00:28:00Z"
+  },
+  "HH 704|2026-11-19T00:30:00Z": {
+   "number": "HH 704",
+   "airline": "Taban",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321-200 (Sharklets)",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T00:30:00Z",
+   "actual": "2026-11-19T00:30:00Z"
+  },
+  "YC 173|2026-11-19T00:45:00Z": {
+   "number": "YC 173",
+   "airline": "Yamal",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:45:00Z",
+   "actual": "2026-11-19T01:08:00Z"
+  },
+  "U6 2611|2026-11-19T04:00:00Z": {
+   "number": "U6 2611",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:00:00Z",
+   "actual": "2026-11-19T04:31:00Z"
+  },
+  "U6 2803|2026-11-19T05:15:00Z": {
+   "number": "U6 2803",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:15:00Z",
+   "actual": "2026-11-19T05:46:00Z"
+  },
+  "U6 371|2026-11-19T06:00:00Z": {
+   "number": "U6 371",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:00:00Z",
+   "actual": "2026-11-19T06:30:00Z"
+  },
+  "S7 2041|2026-11-19T06:15:00Z": {
+   "number": "S7 2041",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:15:00Z",
+   "actual": "2026-11-19T06:32:00Z"
+  },
+  "U6 261|2026-11-19T07:00:00Z": {
+   "number": "U6 261",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:00:00Z",
+   "actual": "2026-11-19T07:15:00Z"
+  },
+  "S7 3235|2026-11-19T06:55:00Z": {
+   "number": "S7 3235",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:55:00Z",
+   "actual": "2026-11-19T07:17:00Z"
+  },
+  "EK 130|2026-11-19T06:55:00Z": {
+   "number": "EK 130",
+   "airline": "Emirates",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 777-300",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:55:00Z",
+   "actual": "2026-11-19T07:25:00Z"
+  },
+  "HY 604|2026-11-19T07:20:00Z": {
+   "number": "HY 604",
+   "airline": "Uzbekistan",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 767-300",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:20:00Z",
+   "actual": "2026-11-19T07:27:00Z"
+  },
+  "U6 1387|2026-11-19T07:15:00Z": {
+   "number": "U6 1387",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:15:00Z",
+   "actual": "2026-11-19T07:32:00Z"
+  },
+  "HH 718|2026-11-19T07:50:00Z": {
+   "number": "HH 718",
+   "airline": "Taban",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T07:50:00Z",
+   "actual": "2026-11-19T07:50:00Z"
+  },
+  "YK 966|2026-11-19T07:45:00Z": {
+   "number": "YK 966",
+   "airline": "Avia Traffic Company",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-300",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:45:00Z",
+   "actual": "2026-11-19T07:58:00Z"
+  },
+  "U6 427|2026-11-19T08:00:00Z": {
+   "number": "U6 427",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T08:00:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "MS 728|2026-11-19T08:00:00Z": {
+   "number": "MS 728",
+   "airline": "EgyptAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T08:00:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "S7 1135|2026-11-19T08:00:00Z": {
+   "number": "S7 1135",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T08:00:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "S7 2143|2026-11-19T08:05:00Z": {
+   "number": "S7 2143",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T08:05:00Z",
+   "actual": "2026-11-19T08:05:00Z"
+  },
+  "S7 2505|2026-11-19T08:15:00Z": {
+   "number": "S7 2505",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T08:15:00Z",
+   "actual": "2026-11-19T08:15:00Z"
+  },
+  "U6 1343|2026-11-19T08:20:00Z": {
+   "number": "U6 1343",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T08:20:00Z",
+   "actual": "2026-11-19T08:20:00Z"
+  },
+  "U6 627|2026-11-19T08:30:00Z": {
+   "number": "U6 627",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T08:30:00Z",
+   "actual": "2026-11-19T08:30:00Z"
+  },
+  "S7 3021|2026-11-19T09:05:00Z": {
+   "number": "S7 3021",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:05:00Z",
+   "actual": "2026-11-19T09:05:00Z"
+  },
+  "S7 2153|2026-11-19T09:05:00Z": {
+   "number": "S7 2153",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:05:00Z",
+   "actual": "2026-11-19T09:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

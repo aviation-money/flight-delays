@@ -1,0 +1,299 @@
+{
+ "airport": "KJA",
+ "date": "2026-11-19",
+ "flights": {
+  "HY 9684|2026-11-18T20:00:00Z": {
+   "number": "HY 9684",
+   "airline": "Uzbekistan",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:00:00Z",
+   "actual": "2026-11-18T20:00:00Z"
+  },
+  "KV 103|2026-11-18T20:30:00Z": {
+   "number": "KV 103",
+   "airline": "KrasAvia",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 42-500",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:30:00Z",
+   "actual": "2026-11-18T20:30:00Z"
+  },
+  "S7 5310|2026-11-18T21:15:00Z": {
+   "number": "S7 5310",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:15:00Z",
+   "actual": "2026-11-18T21:15:00Z"
+  },
+  "FV 6877|2026-11-18T21:45:00Z": {
+   "number": "FV 6877",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:45:00Z",
+   "actual": "2026-11-18T21:45:00Z"
+  },
+  "KV 105|2026-11-18T21:50:00Z": {
+   "number": "KV 105",
+   "airline": "KrasAvia",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 42-500",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:50:00Z",
+   "actual": "2026-11-18T21:50:00Z"
+  },
+  "UT 6149|2026-11-18T21:50:00Z": {
+   "number": "UT 6149",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:50:00Z",
+   "actual": "2026-11-18T21:50:00Z"
+  },
+  "DP 6550|2026-11-18T22:30:00Z": {
+   "number": "DP 6550",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:30:00Z",
+   "actual": "2026-11-18T22:30:00Z"
+  },
+  "SU 2859|2026-11-18T23:45:00Z": {
+   "number": "SU 2859",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-8LJ",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:45:00Z",
+   "actual": "2026-11-18T23:45:00Z"
+  },
+  "SU 1481|2026-11-19T00:15:00Z": {
+   "number": "SU 1481",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:15:00Z",
+   "actual": "2026-11-19T00:15:00Z"
+  },
+  "KV 111|2026-11-19T00:30:00Z": {
+   "number": "KV 111",
+   "airline": "KrasAvia",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 42-500",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:30:00Z",
+   "actual": "2026-11-19T00:30:00Z"
+  },
+  "FV 6574|2026-11-19T00:35:00Z": {
+   "number": "FV 6574",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:35:00Z",
+   "actual": "2026-11-19T00:35:00Z"
+  },
+  "FV 6837|2026-11-19T01:25:00Z": {
+   "number": "FV 6837",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:25:00Z",
+   "actual": "2026-11-19T01:25:00Z"
+  },
+  "FV 6879|2026-11-19T01:35:00Z": {
+   "number": "FV 6879",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:35:00Z",
+   "actual": "2026-11-19T01:35:00Z"
+  },
+  "FV 6673|2026-11-19T01:45:00Z": {
+   "number": "FV 6673",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:45:00Z",
+   "actual": "2026-11-19T01:45:00Z"
+  },
+  "DP 6548|2026-11-19T00:05:00Z": {
+   "number": "DP 6548",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:05:00Z",
+   "actual": "2026-11-19T01:55:00Z"
+  },
+  "FV 2441|2026-11-19T02:10:00Z": {
+   "number": "FV 2441",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:10:00Z",
+   "actual": "2026-11-19T02:10:00Z"
+  },
+  "FV 6881|2026-11-19T02:25:00Z": {
+   "number": "FV 6881",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:25:00Z",
+   "actual": "2026-11-19T02:25:00Z"
+  },
+  "Y7 207|2026-11-19T02:40:00Z": {
+   "number": "Y7 207",
+   "airline": "NordStar",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:40:00Z",
+   "actual": "2026-11-19T02:40:00Z"
+  },
+  "FV 6817|2026-11-19T02:45:00Z": {
+   "number": "FV 6817",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:45:00Z",
+   "actual": "2026-11-19T02:45:00Z"
+  },
+  "KV 9265|2026-11-19T02:50:00Z": {
+   "number": "KV 9265",
+   "airline": "KrasAvia",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 42-500",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:50:00Z",
+   "actual": "2026-11-19T02:50:00Z"
+  },
+  "UT 572|2026-11-19T00:10:00Z": {
+   "number": "UT 572",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:10:00Z",
+   "actual": "2026-11-19T03:00:00Z"
+  },
+  "S7 5306|2026-11-19T03:00:00Z": {
+   "number": "S7 5306",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:00:00Z",
+   "actual": "2026-11-19T03:00:00Z"
+  },
+  "KV 187|2026-11-19T03:00:00Z": {
+   "number": "KV 187",
+   "airline": "KrasAvia",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 42-500",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:00:00Z",
+   "actual": "2026-11-19T03:00:00Z"
+  },
+  "FV 6791|2026-11-19T03:05:00Z": {
+   "number": "FV 6791",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:05:00Z",
+   "actual": "2026-11-19T03:05:00Z"
+  },
+  "SU 1483|2026-11-19T04:05:00Z": {
+   "number": "SU 1483",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:05:00Z",
+   "actual": "2026-11-19T04:35:00Z"
+  },
+  "UT 6101|2026-11-19T01:50:00Z": {
+   "number": "UT 6101",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-400",
+   "status": "Canceled",
+   "scheduled": "2026-11-19T01:50:00Z",
+   "actual": "2026-11-19T05:10:00Z"
+  },
+  "KV 177|2026-11-19T06:20:00Z": {
+   "number": "KV 177",
+   "airline": "KrasAvia",
+   "to": null,
+   "to_name": null,
+   "model": "Yak 42",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:20:00Z",
+   "actual": "2026-11-19T06:20:00Z"
+  },
+  "S7 5308|2026-11-19T07:50:00Z": {
+   "number": "S7 5308",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-19T07:50:00Z",
+   "actual": "2026-11-19T07:50:00Z"
+  },
+  "KV 9283|2026-11-19T08:00:00Z": {
+   "number": "KV 9283",
+   "airline": "KrasAvia",
+   "to": null,
+   "to_name": null,
+   "model": "An-26",
+   "status": "Delayed",
+   "scheduled": "2026-11-19T08:00:00Z",
+   "actual": "2026-11-19T09:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

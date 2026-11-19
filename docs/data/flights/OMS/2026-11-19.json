@@ -1,0 +1,129 @@
+{
+ "airport": "OMS",
+ "date": "2026-11-19",
+ "flights": {
+  "ZF 4083|2026-11-18T22:00:00Z": {
+   "number": "ZF 4083",
+   "airline": "AZUR Air",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 767-300",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:00:00Z",
+   "actual": "2026-11-18T22:34:00Z"
+  },
+  "FV 6472|2026-11-18T23:10:00Z": {
+   "number": "FV 6472",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:10:00Z",
+   "actual": "2026-11-18T23:24:00Z"
+  },
+  "N4 308|2026-11-19T00:10:00Z": {
+   "number": "N4 308",
+   "airline": "Nordwind",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:10:00Z",
+   "actual": "2026-11-19T00:19:00Z"
+  },
+  "S7 2566|2026-11-19T00:25:00Z": {
+   "number": "S7 2566",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:25:00Z",
+   "actual": "2026-11-19T00:27:00Z"
+  },
+  "DP 6522|2026-11-19T01:05:00Z": {
+   "number": "DP 6522",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:05:00Z",
+   "actual": "2026-11-19T01:46:00Z"
+  },
+  "FV 6872|2026-11-18T23:50:00Z": {
+   "number": "FV 6872",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:50:00Z",
+   "actual": "2026-11-19T02:04:00Z"
+  },
+  "SU 1639|2026-11-19T02:05:00Z": {
+   "number": "SU 1639",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:05:00Z",
+   "actual": "2026-11-19T02:33:00Z"
+  },
+  "А4 6186|2026-11-19T02:25:00Z": {
+   "number": "А4 6186",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:25:00Z",
+   "actual": "2026-11-19T02:36:00Z"
+  },
+  "S7 5344|2026-11-19T05:45:00Z": {
+   "number": "S7 5344",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "EMB170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:45:00Z",
+   "actual": "2026-11-19T05:49:00Z"
+  },
+  "RT 652|2026-11-19T06:05:00Z": {
+   "number": "RT 652",
+   "airline": "UVT Aero",
+   "to": null,
+   "to_name": null,
+   "model": "TsR200",
+   "status": "Expected",
+   "scheduled": "2026-11-19T06:05:00Z",
+   "actual": "2026-11-19T06:05:00Z"
+  },
+  "YC 318|2026-11-19T08:20:00Z": {
+   "number": "YC 318",
+   "airline": "Yamal",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-19T08:20:00Z",
+   "actual": "2026-11-19T08:20:00Z"
+  },
+  "YC 418|2026-11-19T08:30:00Z": {
+   "number": "YC 418",
+   "airline": "Yamal",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-19T08:30:00Z",
+   "actual": "2026-11-19T08:30:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

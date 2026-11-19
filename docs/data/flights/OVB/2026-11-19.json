@@ -1,0 +1,779 @@
+{
+ "airport": "OVB",
+ "date": "2026-11-19",
+ "flights": {
+  "S7 5277|2026-11-18T17:05:00Z": {
+   "number": "S7 5277",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T17:05:00Z",
+   "actual": "2026-11-18T17:21:00Z"
+  },
+  "S7 5503|2026-11-18T17:30:00Z": {
+   "number": "S7 5503",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T17:30:00Z",
+   "actual": "2026-11-18T17:30:00Z"
+  },
+  "S7 5255|2026-11-18T17:45:00Z": {
+   "number": "S7 5255",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T17:45:00Z",
+   "actual": "2026-11-18T17:52:00Z"
+  },
+  "S7 5245|2026-11-18T17:40:00Z": {
+   "number": "S7 5245",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T17:40:00Z",
+   "actual": "2026-11-18T18:06:00Z"
+  },
+  "SU 636|2026-11-18T18:10:00Z": {
+   "number": "SU 636",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 777-300ER",
+   "status": "Departed",
+   "scheduled": "2026-11-18T18:10:00Z",
+   "actual": "2026-11-18T19:04:00Z"
+  },
+  "S7 5225|2026-11-18T19:15:00Z": {
+   "number": "S7 5225",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:15:00Z",
+   "actual": "2026-11-18T19:15:00Z"
+  },
+  "S7 5309|2026-11-18T19:20:00Z": {
+   "number": "S7 5309",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:20:00Z",
+   "actual": "2026-11-18T19:22:00Z"
+  },
+  "S7 5223|2026-11-18T19:15:00Z": {
+   "number": "S7 5223",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:15:00Z",
+   "actual": "2026-11-18T19:24:00Z"
+  },
+  "S7 5725|2026-11-18T19:10:00Z": {
+   "number": "S7 5725",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:10:00Z",
+   "actual": "2026-11-18T19:27:00Z"
+  },
+  "6R 590|2026-11-18T19:30:00Z": {
+   "number": "6R 590",
+   "airline": "Alrosa",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:30:00Z",
+   "actual": "2026-11-18T19:37:00Z"
+  },
+  "S7 5213|2026-11-18T19:25:00Z": {
+   "number": "S7 5213",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:25:00Z",
+   "actual": "2026-11-18T19:39:00Z"
+  },
+  "DV 1026|2026-11-18T19:25:00Z": {
+   "number": "DV 1026",
+   "airline": "SCAT",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737 MAX 8",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:25:00Z",
+   "actual": "2026-11-18T19:52:00Z"
+  },
+  "R3 9915|2026-11-18T20:00:00Z": {
+   "number": "R3 9915",
+   "airline": "Yakutia",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:00:00Z",
+   "actual": "2026-11-18T20:20:00Z"
+  },
+  "IQ 512|2026-11-18T18:35:00Z": {
+   "number": "IQ 512",
+   "airline": "Qazaq Air",
+   "to": null,
+   "to_name": null,
+   "model": "De Havilland Canada DHC-8-400 Dash 8Q",
+   "status": "Departed",
+   "scheduled": "2026-11-18T18:35:00Z",
+   "actual": "2026-11-18T20:27:00Z"
+  },
+  "S7 5357|2026-11-18T20:45:00Z": {
+   "number": "S7 5357",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:45:00Z",
+   "actual": "2026-11-18T20:51:00Z"
+  },
+  "S7 5701|2026-11-18T20:45:00Z": {
+   "number": "S7 5701",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:45:00Z",
+   "actual": "2026-11-18T20:56:00Z"
+  },
+  "S7 5327|2026-11-18T20:55:00Z": {
+   "number": "S7 5327",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:55:00Z",
+   "actual": "2026-11-18T20:58:00Z"
+  },
+  "S7 5241|2026-11-18T20:55:00Z": {
+   "number": "S7 5241",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:55:00Z",
+   "actual": "2026-11-18T21:09:00Z"
+  },
+  "S7 5283|2026-11-18T20:50:00Z": {
+   "number": "S7 5283",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:50:00Z",
+   "actual": "2026-11-18T21:16:00Z"
+  },
+  "S7 5229|2026-11-18T21:30:00Z": {
+   "number": "S7 5229",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:30:00Z",
+   "actual": "2026-11-18T21:30:00Z"
+  },
+  "FZ 964|2026-11-18T21:20:00Z": {
+   "number": "FZ 964",
+   "airline": "flydubai",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:20:00Z",
+   "actual": "2026-11-18T21:47:00Z"
+  },
+  "S7 5215|2026-11-18T21:50:00Z": {
+   "number": "S7 5215",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:50:00Z",
+   "actual": "2026-11-18T21:50:00Z"
+  },
+  "S7 5303|2026-11-18T21:35:00Z": {
+   "number": "S7 5303",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:35:00Z",
+   "actual": "2026-11-18T22:02:00Z"
+  },
+  "SHE 3515|2026-11-18T22:45:00Z": {
+   "number": "SHE 3515",
+   "airline": "Shell Aircraft",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A330-200",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:45:00Z",
+   "actual": "2026-11-18T22:45:00Z"
+  },
+  "9Z 3515|2026-11-18T21:45:00Z": {
+   "number": "9Z 3515",
+   "airline": "Siamwings Airlines",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A330-200",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:45:00Z",
+   "actual": "2026-11-18T22:45:00Z"
+  },
+  "S7 5017|2026-11-18T22:50:00Z": {
+   "number": "S7 5017",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:50:00Z",
+   "actual": "2026-11-18T22:50:00Z"
+  },
+  "S7 5387|2026-11-18T23:00:00Z": {
+   "number": "S7 5387",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:00:00Z",
+   "actual": "2026-11-18T23:09:00Z"
+  },
+  "FV 6642|2026-11-18T23:00:00Z": {
+   "number": "FV 6642",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:00:00Z",
+   "actual": "2026-11-18T23:11:00Z"
+  },
+  "S7 5313|2026-11-18T23:20:00Z": {
+   "number": "S7 5313",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:20:00Z",
+   "actual": "2026-11-18T23:22:00Z"
+  },
+  "SU 1549|2026-11-18T23:25:00Z": {
+   "number": "SU 1549",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:25:00Z",
+   "actual": "2026-11-18T23:53:00Z"
+  },
+  "S7 5335|2026-11-18T23:55:00Z": {
+   "number": "S7 5335",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:55:00Z",
+   "actual": "2026-11-19T00:17:00Z"
+  },
+  "S7 7079|2026-11-19T00:05:00Z": {
+   "number": "S7 7079",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:05:00Z",
+   "actual": "2026-11-19T00:35:00Z"
+  },
+  "S7 2502|2026-11-19T00:25:00Z": {
+   "number": "S7 2502",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:25:00Z",
+   "actual": "2026-11-19T00:37:00Z"
+  },
+  "FV 6542|2026-11-19T00:30:00Z": {
+   "number": "FV 6542",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:30:00Z",
+   "actual": "2026-11-19T00:40:00Z"
+  },
+  "5N 572|2026-11-19T01:05:00Z": {
+   "number": "5N 572",
+   "airline": "Smartavia",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:05:00Z",
+   "actual": "2026-11-19T01:17:00Z"
+  },
+  "S7 5115|2026-11-19T01:20:00Z": {
+   "number": "S7 5115",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:20:00Z",
+   "actual": "2026-11-19T01:20:00Z"
+  },
+  "S7 5305|2026-11-19T01:05:00Z": {
+   "number": "S7 5305",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:05:00Z",
+   "actual": "2026-11-19T01:24:00Z"
+  },
+  "DP 6526|2026-11-19T00:50:00Z": {
+   "number": "DP 6526",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:50:00Z",
+   "actual": "2026-11-19T01:27:00Z"
+  },
+  "S7 5347|2026-11-19T01:30:00Z": {
+   "number": "S7 5347",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:30:00Z",
+   "actual": "2026-11-19T01:35:00Z"
+  },
+  "S7 2504|2026-11-19T01:30:00Z": {
+   "number": "S7 2504",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:30:00Z",
+   "actual": "2026-11-19T01:37:00Z"
+  },
+  "S7 5231|2026-11-19T02:10:00Z": {
+   "number": "S7 5231",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:10:00Z",
+   "actual": "2026-11-19T02:17:00Z"
+  },
+  "S7 7001|2026-11-19T03:05:00Z": {
+   "number": "S7 7001",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:05:00Z",
+   "actual": "2026-11-19T03:25:00Z"
+  },
+  "S7 7009|2026-11-19T03:15:00Z": {
+   "number": "S7 7009",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:15:00Z",
+   "actual": "2026-11-19T03:34:00Z"
+  },
+  "S7 5103|2026-11-19T03:45:00Z": {
+   "number": "S7 5103",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:45:00Z",
+   "actual": "2026-11-19T03:50:00Z"
+  },
+  "S7 7013|2026-11-19T03:50:00Z": {
+   "number": "S7 7013",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:50:00Z",
+   "actual": "2026-11-19T03:52:00Z"
+  },
+  "S7 5343|2026-11-19T03:50:00Z": {
+   "number": "S7 5343",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:50:00Z",
+   "actual": "2026-11-19T03:54:00Z"
+  },
+  "S7 7023|2026-11-19T04:00:00Z": {
+   "number": "S7 7023",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:00:00Z",
+   "actual": "2026-11-19T04:08:00Z"
+  },
+  "S7 2512|2026-11-19T04:05:00Z": {
+   "number": "S7 2512",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:05:00Z",
+   "actual": "2026-11-19T04:17:00Z"
+  },
+  "SU 1307|2026-11-19T04:15:00Z": {
+   "number": "SU 1307",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:15:00Z",
+   "actual": "2026-11-19T04:20:00Z"
+  },
+  "S7 5127|2026-11-19T04:25:00Z": {
+   "number": "S7 5127",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:25:00Z",
+   "actual": "2026-11-19T04:29:00Z"
+  },
+  "S7 5003|2026-11-19T04:25:00Z": {
+   "number": "S7 5003",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:25:00Z",
+   "actual": "2026-11-19T04:36:00Z"
+  },
+  "S7 5501|2026-11-19T04:45:00Z": {
+   "number": "S7 5501",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:45:00Z",
+   "actual": "2026-11-19T04:46:00Z"
+  },
+  "UT 138|2026-11-19T05:00:00Z": {
+   "number": "UT 138",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:00:00Z",
+   "actual": "2026-11-19T05:10:00Z"
+  },
+  "S7 5579|2026-11-19T05:30:00Z": {
+   "number": "S7 5579",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:30:00Z",
+   "actual": "2026-11-19T05:46:00Z"
+  },
+  "S7 2508|2026-11-19T05:10:00Z": {
+   "number": "S7 2508",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:10:00Z",
+   "actual": "2026-11-19T05:49:00Z"
+  },
+  "S7 7005|2026-11-19T05:55:00Z": {
+   "number": "S7 7005",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:55:00Z",
+   "actual": "2026-11-19T05:55:00Z"
+  },
+  "S7 5307|2026-11-19T05:55:00Z": {
+   "number": "S7 5307",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:55:00Z",
+   "actual": "2026-11-19T06:03:00Z"
+  },
+  "6R 543|2026-11-19T06:15:00Z": {
+   "number": "6R 543",
+   "airline": "Alrosa",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:15:00Z",
+   "actual": "2026-11-19T06:15:00Z"
+  },
+  "S7 5555|2026-11-19T05:50:00Z": {
+   "number": "S7 5555",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:50:00Z",
+   "actual": "2026-11-19T06:25:00Z"
+  },
+  "S7 5569|2026-11-19T06:30:00Z": {
+   "number": "S7 5569",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:30:00Z",
+   "actual": "2026-11-19T06:34:00Z"
+  },
+  "S7 7099|2026-11-19T05:45:00Z": {
+   "number": "S7 7099",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:45:00Z",
+   "actual": "2026-11-19T06:50:00Z"
+  },
+  "S7 5315|2026-11-19T06:45:00Z": {
+   "number": "S7 5315",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:45:00Z",
+   "actual": "2026-11-19T06:53:00Z"
+  },
+  "S7 5035|2026-11-19T07:05:00Z": {
+   "number": "S7 5035",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:05:00Z",
+   "actual": "2026-11-19T07:13:00Z"
+  },
+  "S7 5341|2026-11-19T07:15:00Z": {
+   "number": "S7 5341",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:15:00Z",
+   "actual": "2026-11-19T07:15:00Z"
+  },
+  "S7 5545|2026-11-19T06:55:00Z": {
+   "number": "S7 5545",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:55:00Z",
+   "actual": "2026-11-19T07:17:00Z"
+  },
+  "S7 5013|2026-11-19T07:20:00Z": {
+   "number": "S7 5013",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:20:00Z",
+   "actual": "2026-11-19T07:22:00Z"
+  },
+  "S7 5005|2026-11-19T07:25:00Z": {
+   "number": "S7 5005",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:25:00Z",
+   "actual": "2026-11-19T07:35:00Z"
+  },
+  "S7 5031|2026-11-19T07:20:00Z": {
+   "number": "S7 5031",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:20:00Z",
+   "actual": "2026-11-19T07:37:00Z"
+  },
+  "S7 2510|2026-11-19T07:35:00Z": {
+   "number": "S7 2510",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:35:00Z",
+   "actual": "2026-11-19T07:39:00Z"
+  },
+  "S7 5045|2026-11-19T07:30:00Z": {
+   "number": "S7 5045",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:30:00Z",
+   "actual": "2026-11-19T07:41:00Z"
+  },
+  "R3 9925|2026-11-19T07:45:00Z": {
+   "number": "R3 9925",
+   "airline": "Yakutia",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:45:00Z",
+   "actual": "2026-11-19T07:48:00Z"
+  },
+  "S7 7019|2026-11-19T07:50:00Z": {
+   "number": "S7 7019",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T07:50:00Z",
+   "actual": "2026-11-19T07:50:00Z"
+  },
+  "S7 5565|2026-11-19T06:15:00Z": {
+   "number": "S7 5565",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:15:00Z",
+   "actual": "2026-11-19T07:54:00Z"
+  },
+  "S7 5541|2026-11-19T07:30:00Z": {
+   "number": "S7 5541",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:30:00Z",
+   "actual": "2026-11-19T07:56:00Z"
+  },
+  "S7 5227|2026-11-19T08:35:00Z": {
+   "number": "S7 5227",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T08:35:00Z",
+   "actual": "2026-11-19T08:35:00Z"
+  },
+  "S7 5039|2026-11-19T08:45:00Z": {
+   "number": "S7 5039",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T08:45:00Z",
+   "actual": "2026-11-19T08:45:00Z"
+  },
+  "S7 5027|2026-11-19T09:00:00Z": {
+   "number": "S7 5027",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:00:00Z",
+   "actual": "2026-11-19T09:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "airport": "KZN",
+ "date": "2026-11-19",
+ "flights": {
+  "N4 757|2026-11-18T21:40:00Z": {
+   "number": "N4 757",
+   "airline": "Nordwind",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:40:00Z",
+   "actual": "2026-11-18T21:32:00Z"
+  },
+  "N4 1409|2026-11-18T22:20:00Z": {
+   "number": "N4 1409",
+   "airline": "Nordwind",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:20:00Z",
+   "actual": "2026-11-18T22:20:00Z"
+  },
+  "FZ 974|2026-11-18T22:10:00Z": {
+   "number": "FZ 974",
+   "airline": "flydubai",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737 MAX 8",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:10:00Z",
+   "actual": "2026-11-18T22:34:00Z"
+  },
+  "FZ 984|2026-11-18T22:55:00Z": {
+   "number": "FZ 984",
+   "airline": "flydubai",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737 MAX 8",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:55:00Z",
+   "actual": "2026-11-18T22:50:00Z"
+  },
+  "RT 651|2026-11-19T01:30:00Z": {
+   "number": "RT 651",
+   "airline": "UVT Aero",
+   "to": null,
+   "to_name": null,
+   "model": "Bombardier CRJ200",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:30:00Z",
+   "actual": "2026-11-19T06:46:00Z"
+  },
+  "EO 733|2026-11-19T06:50:00Z": {
+   "number": "EO 733",
+   "airline": "Pegas Fly",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 190",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:50:00Z",
+   "actual": "2026-11-19T06:49:00Z"
+  },
+  "N4 412|2026-11-19T07:15:00Z": {
+   "number": "N4 412",
+   "airline": "Nordwind",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T07:15:00Z",
+   "actual": "2026-11-19T07:45:00Z"
+  },
+  "SU 1279|2026-11-19T03:50:00Z": {
+   "number": "SU 1279",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T03:50:00Z",
+   "actual": "2026-11-19T07:46:00Z"
+  },
+  "WZ 4677|2026-11-19T05:10:00Z": {
+   "number": "WZ 4677",
+   "airline": "Red Wings",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T05:10:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "N4 705|2026-11-19T07:00:00Z": {
+   "number": "N4 705",
+   "airline": "Nordwind",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-900",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T07:00:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "N4 3529|2026-11-19T01:50:00Z": {
+   "number": "N4 3529",
+   "airline": "Nordwind",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 777",
+   "status": "Delayed",
+   "scheduled": "2026-11-19T01:50:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "RT 535|2026-11-19T07:20:00Z": {
+   "number": "RT 535",
+   "airline": "UVT Aero",
+   "to": null,
+   "to_name": null,
+   "model": "Canadair CRJ 200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T07:20:00Z",
+   "actual": "2026-11-19T08:20:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

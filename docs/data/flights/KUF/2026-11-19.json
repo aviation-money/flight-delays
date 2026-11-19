@@ -1,0 +1,59 @@
+{
+ "airport": "KUF",
+ "date": "2026-11-19",
+ "flights": {
+  "FZ 996|2026-11-18T20:40:00Z": {
+   "number": "FZ 996",
+   "airline": "flydubai",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:40:00Z",
+   "actual": "2026-11-18T21:39:00Z"
+  },
+  "U6 1871|2026-11-18T22:10:00Z": {
+   "number": "U6 1871",
+   "airline": "Ural",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:10:00Z",
+   "actual": "2026-11-18T22:22:00Z"
+  },
+  "WZ 1034|2026-11-19T04:00:00Z": {
+   "number": "WZ 1034",
+   "airline": "Red Wings",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:00:00Z",
+   "actual": "2026-11-19T06:58:00Z"
+  },
+  "WZ 1369|2026-11-19T04:00:00Z": {
+   "number": "WZ 1369",
+   "airline": "Red Wings",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:00:00Z",
+   "actual": "2026-11-19T07:27:00Z"
+  },
+  "RT 9447|2026-11-19T07:00:00Z": {
+   "number": "RT 9447",
+   "airline": "UVT Aero",
+   "to": null,
+   "to_name": null,
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:00:00Z",
+   "actual": "2026-11-19T07:32:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

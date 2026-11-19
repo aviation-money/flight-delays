@@ -1,0 +1,59 @@
+{
+ "airport": "MMK",
+ "date": "2026-11-19",
+ "flights": {
+  "SU 1327|2026-11-18T23:55:00Z": {
+   "number": "SU 1327",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:55:00Z",
+   "actual": "2026-11-19T00:05:00Z"
+  },
+  "D2 54|2026-11-19T06:00:00Z": {
+   "number": "D2 54",
+   "airline": "Severstal Aircompany",
+   "to": null,
+   "to_name": null,
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T06:00:00Z",
+   "actual": "2026-11-19T06:00:00Z"
+  },
+  "D2 52|2026-11-19T08:00:00Z": {
+   "number": "D2 52",
+   "airline": "Severstal Aircompany",
+   "to": null,
+   "to_name": null,
+   "model": "Bombardier CRJ200",
+   "status": "Expected",
+   "scheduled": "2026-11-19T08:00:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "SU 1319|2026-11-19T08:40:00Z": {
+   "number": "SU 1319",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T08:40:00Z",
+   "actual": "2026-11-19T08:40:00Z"
+  },
+  "5N 508|2026-11-19T08:50:00Z": {
+   "number": "5N 508",
+   "airline": "Smartavia",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T08:50:00Z",
+   "actual": "2026-11-19T08:50:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

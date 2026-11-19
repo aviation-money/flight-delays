@@ -1,0 +1,119 @@
+{
+ "airport": "AER",
+ "date": "2026-11-19",
+ "flights": {
+  "A4 5007|2026-11-18T21:10:00Z": {
+   "number": "A4 5007",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:10:00Z",
+   "actual": "2026-11-18T21:45:00Z"
+  },
+  "SU 1133|2026-11-18T22:21:00Z": {
+   "number": "SU 1133",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:21:00Z",
+   "actual": "2026-11-18T22:21:00Z"
+  },
+  "FZ 972|2026-11-18T23:32:00Z": {
+   "number": "FZ 972",
+   "airline": "flydubai",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:32:00Z",
+   "actual": "2026-11-18T23:32:00Z"
+  },
+  "A4 5029|2026-11-19T04:00:00Z": {
+   "number": "A4 5029",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:00:00Z",
+   "actual": "2026-11-19T04:00:00Z"
+  },
+  "WZ 567|2026-11-19T04:30:00Z": {
+   "number": "WZ 567",
+   "airline": "Red Wings",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:30:00Z",
+   "actual": "2026-11-19T04:30:00Z"
+  },
+  "A4 5025|2026-11-19T05:30:00Z": {
+   "number": "A4 5025",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:30:00Z",
+   "actual": "2026-11-19T05:44:00Z"
+  },
+  "FV 6129|2026-11-19T06:02:00Z": {
+   "number": "FV 6129",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:02:00Z",
+   "actual": "2026-11-19T06:02:00Z"
+  },
+  "FV 6203|2026-11-19T05:35:00Z": {
+   "number": "FV 6203",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:35:00Z",
+   "actual": "2026-11-19T06:26:00Z"
+  },
+  "DP 331|2026-11-19T07:34:00Z": {
+   "number": "DP 331",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:34:00Z",
+   "actual": "2026-11-19T07:34:00Z"
+  },
+  "DP 112|2026-11-19T05:40:00Z": {
+   "number": "DP 112",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T05:40:00Z",
+   "actual": "2026-11-19T08:30:00Z"
+  },
+  "FV 6560|2026-11-19T09:05:00Z": {
+   "number": "FV 6560",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-19T09:05:00Z",
+   "actual": "2026-11-19T09:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

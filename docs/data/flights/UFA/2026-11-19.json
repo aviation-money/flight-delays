@@ -1,0 +1,219 @@
+{
+ "airport": "UFA",
+ "date": "2026-11-19",
+ "flights": {
+  "HY 9858|2026-11-18T19:35:00Z": {
+   "number": "HY 9858",
+   "airline": "Uzbekistan",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:35:00Z",
+   "actual": "2026-11-18T19:36:00Z"
+  },
+  "UT 422|2026-11-18T19:25:00Z": {
+   "number": "UT 422",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:25:00Z",
+   "actual": "2026-11-18T19:51:00Z"
+  },
+  "FZ 986|2026-11-18T20:05:00Z": {
+   "number": "FZ 986",
+   "airline": "flydubai",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:05:00Z",
+   "actual": "2026-11-18T20:22:00Z"
+  },
+  "Y7 4011|2026-11-18T22:15:00Z": {
+   "number": "Y7 4011",
+   "airline": "NordStar",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Canceled",
+   "scheduled": "2026-11-18T22:15:00Z",
+   "actual": "2026-11-18T22:15:00Z"
+  },
+  "DP 6504|2026-11-19T00:05:00Z": {
+   "number": "DP 6504",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:05:00Z",
+   "actual": "2026-11-19T00:07:00Z"
+  },
+  "FV 6412|2026-11-19T00:30:00Z": {
+   "number": "FV 6412",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:30:00Z",
+   "actual": "2026-11-19T00:42:00Z"
+  },
+  "UT 6577|2026-11-19T00:45:00Z": {
+   "number": "UT 6577",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:45:00Z",
+   "actual": "2026-11-19T01:20:00Z"
+  },
+  "UT 6107|2026-11-18T23:40:00Z": {
+   "number": "UT 6107",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-400",
+   "status": "Canceled",
+   "scheduled": "2026-11-18T23:40:00Z",
+   "actual": "2026-11-19T04:00:00Z"
+  },
+  "KV 9455|2026-11-19T03:45:00Z": {
+   "number": "KV 9455",
+   "airline": "KrasAvia",
+   "to": null,
+   "to_name": null,
+   "model": "Yak 42",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:45:00Z",
+   "actual": "2026-11-19T06:27:00Z"
+  },
+  "KV 9409|2026-11-19T04:00:00Z": {
+   "number": "KV 9409",
+   "airline": "KrasAvia",
+   "to": null,
+   "to_name": null,
+   "model": "Yak 42",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:00:00Z",
+   "actual": "2026-11-19T06:41:00Z"
+  },
+  "0E 9159|2026-11-19T06:25:00Z": {
+   "number": "0E 9159",
+   "airline": "0E",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:25:00Z",
+   "actual": "2026-11-19T07:28:00Z"
+  },
+  "YC 438|2026-11-19T03:55:00Z": {
+   "number": "YC 438",
+   "airline": "Yamal",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T03:55:00Z",
+   "actual": "2026-11-19T07:35:00Z"
+  },
+  "SU 1261|2026-11-19T02:55:00Z": {
+   "number": "SU 1261",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:55:00Z",
+   "actual": "2026-11-19T07:36:00Z"
+  },
+  "UT 402|2026-11-19T07:40:00Z": {
+   "number": "UT 402",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-400",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:40:00Z",
+   "actual": "2026-11-19T07:48:00Z"
+  },
+  "N4 256|2026-11-19T01:25:00Z": {
+   "number": "N4 256",
+   "airline": "Nordwind",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:25:00Z",
+   "actual": "2026-11-19T07:54:00Z"
+  },
+  "UT 185|2026-11-19T07:55:00Z": {
+   "number": "UT 185",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T07:55:00Z",
+   "actual": "2026-11-19T07:55:00Z"
+  },
+  "Y7 4701|2026-11-19T02:20:00Z": {
+   "number": "Y7 4701",
+   "airline": "NordStar",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:20:00Z",
+   "actual": "2026-11-19T07:59:00Z"
+  },
+  "UT 364|2026-11-19T03:00:00Z": {
+   "number": "UT 364",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T03:00:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "DP 977|2026-11-19T01:30:00Z": {
+   "number": "DP 977",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T01:30:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "UT 133|2026-11-19T08:55:00Z": {
+   "number": "UT 133",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T08:55:00Z",
+   "actual": "2026-11-19T08:55:00Z"
+  },
+  "4G 453|2026-11-19T02:25:00Z": {
+   "number": "4G 453",
+   "airline": "Gazpromavia",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-700",
+   "status": "Canceled",
+   "scheduled": "2026-11-19T02:25:00Z",
+   "actual": "2026-11-19T09:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

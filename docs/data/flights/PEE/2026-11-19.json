@@ -1,0 +1,99 @@
+{
+ "airport": "PEE",
+ "date": "2026-11-19",
+ "flights": {
+  "RT 542|2026-11-18T19:25:00Z": {
+   "number": "RT 542",
+   "airline": "UVT Aero",
+   "to": null,
+   "to_name": null,
+   "model": "Bombardier",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:25:00Z",
+   "actual": "2026-11-18T19:25:00Z"
+  },
+  "FV 6382|2026-11-18T20:20:00Z": {
+   "number": "FV 6382",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:20:00Z",
+   "actual": "2026-11-18T20:20:00Z"
+  },
+  "NE 427|2026-11-18T23:10:00Z": {
+   "number": "NE 427",
+   "airline": "Nesma",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:10:00Z",
+   "actual": "2026-11-19T00:01:00Z"
+  },
+  "DP 434|2026-11-19T00:50:00Z": {
+   "number": "DP 434",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:50:00Z",
+   "actual": "2026-11-19T01:04:00Z"
+  },
+  "DP 570|2026-11-19T00:20:00Z": {
+   "number": "DP 570",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:20:00Z",
+   "actual": "2026-11-19T01:19:00Z"
+  },
+  "FV 6582|2026-11-19T01:30:00Z": {
+   "number": "FV 6582",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:30:00Z",
+   "actual": "2026-11-19T01:50:00Z"
+  },
+  "DP 6512|2026-11-19T01:00:00Z": {
+   "number": "DP 6512",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:00:00Z",
+   "actual": "2026-11-19T01:58:00Z"
+  },
+  "SU 1395|2026-11-19T02:20:00Z": {
+   "number": "SU 1395",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:20:00Z",
+   "actual": "2026-11-19T02:22:00Z"
+  },
+  "DP 366|2026-11-19T01:10:00Z": {
+   "number": "DP 366",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:10:00Z",
+   "actual": "2026-11-19T03:50:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

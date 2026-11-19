@@ -1,0 +1,79 @@
+{
+ "airport": "MCX",
+ "date": "2026-11-19",
+ "flights": {
+  "FZ 994|2026-11-19T00:20:00Z": {
+   "number": "FZ 994",
+   "airline": "flydubai",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:20:00Z",
+   "actual": null
+  },
+  "UT 560|2026-11-19T03:00:00Z": {
+   "number": "UT 560",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-19T03:00:00Z",
+   "actual": null
+  },
+  "WZ 5046|2026-11-19T04:20:00Z": {
+   "number": "WZ 5046",
+   "airline": "Red Wings",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-19T04:20:00Z",
+   "actual": null
+  },
+  "DP 6926|2026-11-19T05:00:00Z": {
+   "number": "DP 6926",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T05:00:00Z",
+   "actual": null
+  },
+  "DP 192|2026-11-19T07:40:00Z": {
+   "number": "DP 192",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T07:40:00Z",
+   "actual": null
+  },
+  "HY 9732|2026-11-19T08:30:00Z": {
+   "number": "HY 9732",
+   "airline": "Uzbekistan",
+   "to": null,
+   "to_name": null,
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-19T08:30:00Z",
+   "actual": null
+  },
+  "DP 761|2026-11-19T08:50:00Z": {
+   "number": "DP 761",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T08:50:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

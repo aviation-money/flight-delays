@@ -1,0 +1,109 @@
+{
+ "airport": "MRV",
+ "date": "2026-11-19",
+ "flights": {
+  "A4 6185|2026-11-18T21:40:00Z": {
+   "number": "A4 6185",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:40:00Z",
+   "actual": "2026-11-18T22:05:00Z"
+  },
+  "A4 6065|2026-11-18T23:20:00Z": {
+   "number": "A4 6065",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:20:00Z",
+   "actual": "2026-11-18T23:53:00Z"
+  },
+  "FZ 978|2026-11-19T00:30:00Z": {
+   "number": "FZ 978",
+   "airline": "flydubai",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:30:00Z",
+   "actual": "2026-11-19T00:59:00Z"
+  },
+  "A4 6029|2026-11-19T04:00:00Z": {
+   "number": "A4 6029",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:00:00Z",
+   "actual": "2026-11-19T04:30:00Z"
+  },
+  "SU 612|2026-11-19T04:40:00Z": {
+   "number": "SU 612",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:40:00Z",
+   "actual": "2026-11-19T04:47:00Z"
+  },
+  "SU 1315|2026-11-19T06:45:00Z": {
+   "number": "SU 1315",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:45:00Z",
+   "actual": "2026-11-19T06:49:00Z"
+  },
+  "A4 6215|2026-11-19T07:00:00Z": {
+   "number": "A4 6215",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:00:00Z",
+   "actual": "2026-11-19T07:25:00Z"
+  },
+  "A4 6025|2026-11-19T06:30:00Z": {
+   "number": "A4 6025",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:30:00Z",
+   "actual": "2026-11-19T07:56:00Z"
+  },
+  "A4 6075|2026-11-19T07:35:00Z": {
+   "number": "A4 6075",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:35:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "A4 6039|2026-11-19T08:30:00Z": {
+   "number": "A4 6039",
+   "airline": "Azimuth",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T08:30:00Z",
+   "actual": "2026-11-19T08:30:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}

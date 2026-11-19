@@ -1,0 +1,479 @@
+{
+ "airport": "IKT",
+ "date": "2026-11-19",
+ "flights": {
+  "IO 230|2026-11-18T16:05:00Z": {
+   "number": "IO 230",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "Bombardier CRJ",
+   "status": "Departed",
+   "scheduled": "2026-11-18T16:05:00Z",
+   "actual": null
+  },
+  "S7 6405|2026-11-18T16:25:00Z": {
+   "number": "S7 6405",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T16:25:00Z",
+   "actual": null
+  },
+  "S7 6403|2026-11-18T16:35:00Z": {
+   "number": "S7 6403",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-18T16:35:00Z",
+   "actual": null
+  },
+  "HZ 5653|2026-11-18T16:50:00Z": {
+   "number": "HZ 5653",
+   "airline": "Aurora",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-18T16:50:00Z",
+   "actual": null
+  },
+  "FV 6686|2026-11-18T17:15:00Z": {
+   "number": "FV 6686",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-18T17:15:00Z",
+   "actual": null
+  },
+  "S7 6401|2026-11-18T17:25:00Z": {
+   "number": "S7 6401",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-18T17:25:00Z",
+   "actual": null
+  },
+  "S7 6311|2026-11-18T17:35:00Z": {
+   "number": "S7 6311",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-18T17:35:00Z",
+   "actual": null
+  },
+  "S7 5236|2026-11-18T17:40:00Z": {
+   "number": "S7 5236",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T17:40:00Z",
+   "actual": null
+  },
+  "N4 3523|2026-11-18T19:40:00Z": {
+   "number": "N4 3523",
+   "airline": "Nordwind",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A330-300",
+   "status": "Unknown",
+   "scheduled": "2026-11-18T19:40:00Z",
+   "actual": null
+  },
+  "SU 658|2026-11-18T19:50:00Z": {
+   "number": "SU 658",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-18T19:50:00Z",
+   "actual": null
+  },
+  "S7 5278|2026-11-18T20:05:00Z": {
+   "number": "S7 5278",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:05:00Z",
+   "actual": null
+  },
+  "SU 1565|2026-11-18T20:10:00Z": {
+   "number": "SU 1565",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-18T20:10:00Z",
+   "actual": null
+  },
+  "S7 6429|2026-11-18T20:20:00Z": {
+   "number": "S7 6429",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:20:00Z",
+   "actual": null
+  },
+  "S7 6307|2026-11-18T21:00:00Z": {
+   "number": "S7 6307",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:00:00Z",
+   "actual": null
+  },
+  "IO 183|2026-11-18T21:20:00Z": {
+   "number": "IO 183",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-18T21:20:00Z",
+   "actual": null
+  },
+  "IO 180|2026-11-18T21:30:00Z": {
+   "number": "IO 180",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-18T21:30:00Z",
+   "actual": null
+  },
+  "IO 1141|2026-11-18T21:55:00Z": {
+   "number": "IO 1141",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-18T21:55:00Z",
+   "actual": null
+  },
+  "S7 5228|2026-11-18T22:15:00Z": {
+   "number": "S7 5228",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:15:00Z",
+   "actual": null
+  },
+  "IO 382|2026-11-18T22:30:00Z": {
+   "number": "IO 382",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-18T22:30:00Z",
+   "actual": null
+  },
+  "IO 311|2026-11-18T22:30:00Z": {
+   "number": "IO 311",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:30:00Z",
+   "actual": null
+  },
+  "UT 165|2026-11-18T22:45:00Z": {
+   "number": "UT 165",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-18T22:45:00Z",
+   "actual": null
+  },
+  "IO 151|2026-11-18T23:00:00Z": {
+   "number": "IO 151",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-18T23:00:00Z",
+   "actual": null
+  },
+  "S7 6443|2026-11-18T23:30:00Z": {
+   "number": "S7 6443",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Unknown",
+   "scheduled": "2026-11-18T23:30:00Z",
+   "actual": null
+  },
+  "UT 158|2026-11-18T23:45:00Z": {
+   "number": "UT 158",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:45:00Z",
+   "actual": null
+  },
+  "S7 5232|2026-11-19T00:30:00Z": {
+   "number": "S7 5232",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:30:00Z",
+   "actual": null
+  },
+  "IO 2187|2026-11-19T01:00:00Z": {
+   "number": "IO 2187",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T01:00:00Z",
+   "actual": null
+  },
+  "S7 3018|2026-11-19T01:25:00Z": {
+   "number": "S7 3018",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-19T01:25:00Z",
+   "actual": null
+  },
+  "S7 6409|2026-11-19T01:50:00Z": {
+   "number": "S7 6409",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T01:50:00Z",
+   "actual": null
+  },
+  "SU 1443|2026-11-19T01:50:00Z": {
+   "number": "SU 1443",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T01:50:00Z",
+   "actual": null
+  },
+  "UT 284|2026-11-19T02:00:00Z": {
+   "number": "UT 284",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T02:00:00Z",
+   "actual": null
+  },
+  "S7 6309|2026-11-19T02:05:00Z": {
+   "number": "S7 6309",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T02:05:00Z",
+   "actual": null
+  },
+  "IO 9515|2026-11-19T02:15:00Z": {
+   "number": "IO 9515",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T02:15:00Z",
+   "actual": null
+  },
+  "FV 6732|2026-11-19T03:05:00Z": {
+   "number": "FV 6732",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T03:05:00Z",
+   "actual": null
+  },
+  "S7 3022|2026-11-19T03:40:00Z": {
+   "number": "S7 3022",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T03:40:00Z",
+   "actual": null
+  },
+  "S7 6447|2026-11-19T04:05:00Z": {
+   "number": "S7 6447",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T04:05:00Z",
+   "actual": null
+  },
+  "IO 779|2026-11-19T04:10:00Z": {
+   "number": "IO 779",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "Bombardier CRJ",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T04:10:00Z",
+   "actual": null
+  },
+  "FV 6882|2026-11-19T04:10:00Z": {
+   "number": "FV 6882",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:10:00Z",
+   "actual": null
+  },
+  "SU 2875|2026-11-19T04:30:00Z": {
+   "number": "SU 2875",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T04:30:00Z",
+   "actual": null
+  },
+  "S7 6415|2026-11-19T04:40:00Z": {
+   "number": "S7 6415",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-19T04:40:00Z",
+   "actual": null
+  },
+  "IO 141|2026-11-19T04:55:00Z": {
+   "number": "IO 141",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-19T04:55:00Z",
+   "actual": null
+  },
+  "UT 234|2026-11-19T05:00:00Z": {
+   "number": "UT 234",
+   "airline": "UTAir",
+   "to": null,
+   "to_name": null,
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T05:00:00Z",
+   "actual": null
+  },
+  "SU 1563|2026-11-19T05:05:00Z": {
+   "number": "SU 1563",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T05:05:00Z",
+   "actual": null
+  },
+  "S7 5230|2026-11-19T05:10:00Z": {
+   "number": "S7 5230",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:10:00Z",
+   "actual": null
+  },
+  "СЛ 51|2026-11-19T06:00:00Z": {
+   "number": "СЛ 51",
+   "airline": "Sibirskaya legkaya aviatsiya",
+   "to": null,
+   "to_name": null,
+   "model": "LET L-410",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T06:00:00Z",
+   "actual": null
+  },
+  "S7 6321|2026-11-19T06:25:00Z": {
+   "number": "S7 6321",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T06:25:00Z",
+   "actual": null
+  },
+  "IO 419|2026-11-19T06:40:00Z": {
+   "number": "IO 419",
+   "airline": "IrAero",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T06:40:00Z",
+   "actual": null
+  },
+  "CA 870|2026-11-19T09:05:00Z": {
+   "number": "CA 870",
+   "airline": "Air China",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T09:05:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:08:43Z"
+ ]
+}
