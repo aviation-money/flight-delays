@@ -88,9 +88,19 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Embraer 190",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:50:00Z",
-   "actual": "2026-11-19T11:15:00Z"
+   "actual": "2026-11-19T11:18:00Z"
+  },
+  "FV 6342|2026-11-19T12:10:00Z": {
+   "number": "FV 6342",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T12:10:00Z",
+   "actual": "2026-11-19T12:10:00Z"
   }
  },
  "fetched": [
@@ -101,6 +111,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }

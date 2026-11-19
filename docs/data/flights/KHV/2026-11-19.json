@@ -248,9 +248,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A319",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:25:00Z",
-   "actual": "2026-11-19T10:30:00Z"
+   "actual": "2026-11-19T11:08:00Z"
   },
   "4G 9652|2026-11-19T10:00:00Z": {
    "number": "4G 9652",
@@ -278,9 +278,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:30:00Z",
-   "actual": "2026-11-19T10:30:00Z"
+   "actual": "2026-11-19T11:16:00Z"
   },
   "4G 9652|2026-11-19T10:45:00Z": {
    "number": "4G 9652",
@@ -311,6 +311,16 @@
    "status": "Expected",
    "scheduled": "2026-11-19T11:55:00Z",
    "actual": "2026-11-19T11:55:00Z"
+  },
+  "4G 9652|2026-11-19T11:15:00Z": {
+   "number": "4G 9652",
+   "airline": "Gazpromavia",
+   "to": "Tomsk",
+   "to_name": "Tomsk",
+   "model": "Boeing 737-700",
+   "status": "Departed",
+   "scheduled": "2026-11-19T11:15:00Z",
+   "actual": "2026-11-19T11:51:00Z"
   }
  },
  "fetched": [
@@ -321,6 +331,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }

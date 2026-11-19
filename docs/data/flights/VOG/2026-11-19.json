@@ -28,9 +28,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T06:50:00Z",
-   "actual": "2026-11-19T10:35:00Z"
+   "actual": "2026-11-19T10:46:00Z"
   },
   "S7 2144|2026-11-19T10:50:00Z": {
    "number": "S7 2144",
@@ -38,9 +38,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:50:00Z",
-   "actual": "2026-11-19T10:50:00Z"
+   "actual": "2026-11-19T10:57:00Z"
   },
   "SU 1183|2026-11-19T11:05:00Z": {
    "number": "SU 1183",
@@ -48,9 +48,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T11:05:00Z",
-   "actual": "2026-11-19T11:05:00Z"
+   "actual": "2026-11-19T11:45:00Z"
   },
   "DP 518|2026-11-19T11:20:00Z": {
    "number": "DP 518",
@@ -58,9 +58,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T11:20:00Z",
-   "actual": "2026-11-19T11:20:00Z"
+   "actual": "2026-11-19T11:50:00Z"
   }
  },
  "fetched": [
@@ -68,6 +68,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }

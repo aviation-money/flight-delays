@@ -98,9 +98,9 @@
    "to": "RMZ",
    "to_name": "Tobolsk",
    "model": "TsR200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T06:05:00Z",
-   "actual": "2026-11-19T06:05:00Z"
+   "actual": "2026-11-19T10:54:00Z"
   },
   "YC 318|2026-11-19T08:20:00Z": {
    "number": "YC 318",
@@ -138,9 +138,19 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:55:00Z",
-   "actual": "2026-11-19T10:55:00Z"
+   "actual": "2026-11-19T11:01:00Z"
+  },
+  "S7 5346|2026-11-19T13:05:00Z": {
+   "number": "S7 5346",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "EMB170",
+   "status": "Expected",
+   "scheduled": "2026-11-19T13:05:00Z",
+   "actual": "2026-11-19T13:05:00Z"
   }
  },
  "fetched": [
@@ -151,6 +161,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }

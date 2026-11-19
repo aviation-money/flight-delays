@@ -147,7 +147,7 @@
    "airline": "Etihad",
    "to": "AUH",
    "to_name": "Abu Dhabi",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-19T10:07:00Z",
    "actual": "2026-11-19T10:07:00Z"
@@ -208,9 +208,59 @@
    "to": "Istanbul",
    "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Expected",
    "scheduled": "2026-11-19T10:00:00Z",
-   "actual": "2026-11-19T11:10:00Z"
+   "actual": "2026-11-19T11:50:00Z"
+  },
+  "S7 2042|2026-11-19T10:54:00Z": {
+   "number": "S7 2042",
+   "airline": "S7",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:54:00Z",
+   "actual": "2026-11-19T10:54:00Z"
+  },
+  "SU 1135|2026-11-19T11:07:00Z": {
+   "number": "SU 1135",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T11:07:00Z",
+   "actual": "2026-11-19T11:07:00Z"
+  },
+  "FV 6570|2026-11-19T12:35:00Z": {
+   "number": "FV 6570",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-19T12:35:00Z",
+   "actual": "2026-11-19T12:35:00Z"
+  },
+  "N4 411|2026-11-19T11:55:00Z": {
+   "number": "N4 411",
+   "airline": "Nordwind",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-19T11:55:00Z",
+   "actual": "2026-11-19T12:40:00Z"
+  },
+  "SU 1151|2026-11-19T13:05:00Z": {
+   "number": "SU 1151",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T13:05:00Z",
+   "actual": "2026-11-19T13:05:00Z"
   }
  },
  "fetched": [
@@ -221,6 +271,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }

@@ -231,6 +231,26 @@
    "status": "Departed",
    "scheduled": "2026-11-19T10:15:00Z",
    "actual": "2026-11-19T10:38:00Z"
+  },
+  "S7 5352|2026-11-19T12:35:00Z": {
+   "number": "S7 5352",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-19T12:35:00Z",
+   "actual": "2026-11-19T12:35:00Z"
+  },
+  "UT 464|2026-11-19T13:00:00Z": {
+   "number": "UT 464",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T13:00:00Z",
+   "actual": "2026-11-19T13:00:00Z"
   }
  },
  "fetched": [
@@ -241,6 +261,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }

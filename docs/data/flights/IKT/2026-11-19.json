@@ -468,7 +468,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:05:00Z",
    "actual": null
   },
@@ -501,6 +501,16 @@
    "status": "Expected",
    "scheduled": "2026-11-19T11:45:00Z",
    "actual": null
+  },
+  "SU 866|2026-11-19T12:05:00Z": {
+   "number": "SU 866",
+   "airline": "Aeroflot",
+   "to": "SYX",
+   "to_name": "Sanya",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T12:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -511,6 +521,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }

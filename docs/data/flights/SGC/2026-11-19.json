@@ -188,9 +188,9 @@
    "to": "NBC",
    "to_name": "Nizhnekamsk",
    "model": "Bombardier CRJ200",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:05:00Z",
-   "actual": "2026-11-19T10:55:00Z"
+   "actual": "2026-11-19T11:06:00Z"
   },
   "SZ 260|2026-11-19T11:40:00Z": {
    "number": "SZ 260",
@@ -198,7 +198,7 @@
    "to": "LBD",
    "to_name": "Khudzhand",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T11:40:00Z",
    "actual": "2026-11-19T11:40:00Z"
   }
@@ -208,6 +208,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }

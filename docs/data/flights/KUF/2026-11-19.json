@@ -107,10 +107,10 @@
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737-400",
-   "status": "GateClosed",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:00:00Z",
-   "actual": "2026-11-19T10:30:00Z"
+   "actual": "2026-11-19T10:48:00Z"
   },
   "FV 6204|2026-11-19T09:40:00Z": {
    "number": "FV 6204",
@@ -118,9 +118,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:40:00Z",
-   "actual": "2026-11-19T10:40:00Z"
+   "actual": "2026-11-19T10:49:00Z"
   },
   "DP 332|2026-11-19T11:25:00Z": {
    "number": "DP 332",
@@ -128,9 +128,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T11:25:00Z",
-   "actual": "2026-11-19T11:25:00Z"
+   "actual": "2026-11-19T11:27:00Z"
   },
   "S7 5032|2026-11-19T11:25:00Z": {
    "number": "S7 5032",
@@ -138,9 +138,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T11:25:00Z",
-   "actual": "2026-11-19T11:25:00Z"
+   "actual": "2026-11-19T11:37:00Z"
   }
  },
  "fetched": [
@@ -151,6 +151,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }

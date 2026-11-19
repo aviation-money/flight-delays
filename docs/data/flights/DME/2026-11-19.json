@@ -368,9 +368,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A321-200 (Sharklets)",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:40:00Z",
-   "actual": "2026-11-19T10:40:00Z"
+   "actual": "2026-11-19T11:10:00Z"
   },
   "S7 2507|2026-11-19T10:40:00Z": {
    "number": "S7 2507",
@@ -378,9 +378,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A320-200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:40:00Z",
-   "actual": "2026-11-19T10:40:00Z"
+   "actual": "2026-11-19T11:26:00Z"
   },
   "S7 2167|2026-11-19T10:50:00Z": {
    "number": "S7 2167",
@@ -388,9 +388,9 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Airbus A320-200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:50:00Z",
-   "actual": "2026-11-19T10:50:00Z"
+   "actual": "2026-11-19T11:08:00Z"
   },
   "S7 1211|2026-11-19T11:10:00Z": {
    "number": "S7 1211",
@@ -398,9 +398,49 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Airbus A320-200",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T11:10:00Z",
-   "actual": "2026-11-19T11:10:00Z"
+   "actual": "2026-11-19T11:28:00Z"
+  },
+  "S7 1165|2026-11-19T12:10:00Z": {
+   "number": "S7 1165",
+   "airline": "S7",
+   "to": "IJK",
+   "to_name": "Izhevsk",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T12:10:00Z",
+   "actual": "2026-11-19T12:10:00Z"
+  },
+  "HH 708|2026-11-19T12:40:00Z": {
+   "number": "HH 708",
+   "airline": "Taban",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A321-200 (Sharklets)",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T12:40:00Z",
+   "actual": "2026-11-19T12:40:00Z"
+  },
+  "MS 730|2026-11-19T12:45:00Z": {
+   "number": "MS 730",
+   "airline": "EgyptAir",
+   "to": "CAI",
+   "to_name": "Cairo",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T12:45:00Z",
+   "actual": "2026-11-19T12:45:00Z"
+  },
+  "S7 1015|2026-11-19T13:00:00Z": {
+   "number": "S7 1015",
+   "airline": "S7",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T13:00:00Z",
+   "actual": "2026-11-19T13:00:00Z"
   }
  },
  "fetched": [
@@ -411,6 +451,7 @@
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
   "2026-11-19T08:34:39Z",
-  "2026-11-19T10:57:17Z"
+  "2026-11-19T10:57:17Z",
+  "2026-11-19T12:06:15Z"
  ]
 }
