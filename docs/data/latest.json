@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:06:15Z",
+ "generated_at": "2026-11-19T12:06:56Z",
  "source": "aerodatabox",
  "methodology": {
   "version": "2026-11-11",
@@ -160,12 +160,12 @@
    "departed": 183,
    "cancelled": 1,
    "delayed": 46,
-   "delay_min": 4294,
-   "pax_hours": 10729,
-   "loss_pax": 6431621,
-   "loss_airline": 40197630,
-   "loss_total": 46629251,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "delay_min": 4296,
+   "pax_hours": 10734,
+   "loss_pax": 6434437,
+   "loss_airline": 40215230,
+   "loss_total": 46649667,
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -315,7 +315,7 @@
    "loss_pax": 1277091,
    "loss_airline": 7981820,
    "loss_total": 9258911,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -460,12 +460,12 @@
    "departed": 75,
    "cancelled": 0,
    "delayed": 70,
-   "delay_min": 5379,
-   "pax_hours": 14104,
-   "loss_pax": 8451467,
-   "loss_airline": 52821670,
-   "loss_total": 61273137,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "delay_min": 5381,
+   "pax_hours": 14109,
+   "loss_pax": 8454582,
+   "loss_airline": 52841140,
+   "loss_total": 61295722,
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -490,9 +490,9 @@
      "status": "Boarding",
      "scheduled": "2026-11-19T06:05:00Z",
      "actual": "2026-11-19T12:30:00Z",
-     "delay_min": 361,
+     "delay_min": 362,
      "final": false,
-     "loss": 3869342
+     "loss": 3880061
     },
     {
      "number": "DP 733",
@@ -615,7 +615,7 @@
    "loss_pax": 129941,
    "loss_airline": 812130,
    "loss_total": 942071,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -682,12 +682,12 @@
    "departed": 92,
    "cancelled": 2,
    "delayed": 16,
-   "delay_min": 1453,
-   "pax_hours": 3463,
-   "loss_pax": 2076694,
-   "loss_airline": 12979340,
-   "loss_total": 15056034,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "delay_min": 1454,
+   "pax_hours": 3464,
+   "loss_pax": 2077134,
+   "loss_airline": 12982090,
+   "loss_total": 15059224,
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -751,9 +751,9 @@
      "status": "CheckIn",
      "scheduled": "2026-11-19T10:05:00Z",
      "actual": "2026-11-19T13:00:00Z",
-     "delay_min": 121,
+     "delay_min": 122,
      "final": false,
-     "loss": 385990
+     "loss": 389180
     },
     {
      "number": "TK 406",
@@ -832,12 +832,12 @@
    "departed": 24,
    "cancelled": 0,
    "delayed": 7,
-   "delay_min": 552,
-   "pax_hours": 1336,
-   "loss_pax": 801082,
-   "loss_airline": 5006760,
-   "loss_total": 5807842,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "delay_min": 553,
+   "pax_hours": 1339,
+   "loss_pax": 802930,
+   "loss_airline": 5018310,
+   "loss_total": 5821240,
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -953,9 +953,9 @@
      "status": "Expected",
      "scheduled": "2026-11-19T11:55:00Z",
      "actual": "2026-11-19T12:40:00Z",
-     "delay_min": 11,
+     "delay_min": 12,
      "final": false,
-     "loss": 147378
+     "loss": 160776
     }
    ]
   },
@@ -974,7 +974,7 @@
    "loss_pax": 594862,
    "loss_airline": 3717890,
    "loss_total": 4312752,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -1124,7 +1124,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": []
   },
@@ -1138,12 +1138,12 @@
    "departed": 27,
    "cancelled": 0,
    "delayed": 18,
-   "delay_min": 2845,
-   "pax_hours": 7127,
-   "loss_pax": 4273298,
-   "loss_airline": 26708110,
-   "loss_total": 30981408,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "delay_min": 2849,
+   "pax_hours": 7137,
+   "loss_pax": 4279616,
+   "loss_airline": 26747600,
+   "loss_total": 31027216,
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -1181,9 +1181,9 @@
      "status": "Boarding",
      "scheduled": "2026-11-19T08:20:00Z",
      "actual": "2026-11-19T13:00:00Z",
-     "delay_min": 226,
+     "delay_min": 227,
      "final": false,
-     "loss": 2681897
+     "loss": 2693764
     },
     {
      "number": "SU 1279",
@@ -1233,9 +1233,9 @@
      "status": "CheckIn",
      "scheduled": "2026-11-19T08:50:00Z",
      "actual": "2026-11-19T13:00:00Z",
-     "delay_min": 196,
+     "delay_min": 197,
      "final": false,
-     "loss": 2325893
+     "loss": 2337760
     },
     {
      "number": "N4 709",
@@ -1246,9 +1246,9 @@
      "status": "CheckIn",
      "scheduled": "2026-11-19T08:55:00Z",
      "actual": "2026-11-19T13:00:00Z",
-     "delay_min": 191,
+     "delay_min": 192,
      "final": false,
-     "loss": 1949728
+     "loss": 1959936
     },
     {
      "number": "WZ 4677",
@@ -1272,9 +1272,9 @@
      "status": "CheckIn",
      "scheduled": "2026-11-19T09:40:00Z",
      "actual": "2026-11-19T12:10:00Z",
-     "delay_min": 146,
+     "delay_min": 147,
      "final": false,
-     "loss": 1732553
+     "loss": 1744420
     }
    ]
   },
@@ -1293,7 +1293,7 @@
    "loss_pax": 399907,
    "loss_airline": 2499420,
    "loss_total": 2899327,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -1443,7 +1443,7 @@
    "loss_pax": 238322,
    "loss_airline": 1489510,
    "loss_total": 1727832,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -1528,7 +1528,7 @@
    "loss_pax": 148086,
    "loss_airline": 925540,
    "loss_total": 1073626,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -1613,7 +1613,7 @@
    "loss_pax": 1522083,
    "loss_airline": 9513020,
    "loss_total": 11035103,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -1758,12 +1758,12 @@
    "departed": 32,
    "cancelled": 3,
    "delayed": 25,
-   "delay_min": 4763,
-   "pax_hours": 11410,
-   "loss_pax": 6835752,
-   "loss_airline": 42723450,
-   "loss_total": 49559202,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "delay_min": 4764,
+   "pax_hours": 11412,
+   "loss_pax": 6837160,
+   "loss_airline": 42732250,
+   "loss_total": 49569410,
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -1879,9 +1879,9 @@
      "status": "Delayed",
      "scheduled": "2026-11-19T07:50:00Z",
      "actual": "2026-11-19T13:00:00Z",
-     "delay_min": 256,
+     "delay_min": 257,
      "final": false,
-     "loss": 2613248
+     "loss": 2623456
     },
     {
      "number": "YC 438",
@@ -1913,7 +1913,7 @@
    "loss_pax": 2588643,
    "loss_airline": 16179020,
    "loss_total": 18767663,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -2063,7 +2063,7 @@
    "loss_pax": 755216,
    "loss_airline": 4720100,
    "loss_total": 5475316,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -2213,7 +2213,7 @@
    "loss_pax": 967560,
    "loss_airline": 6047250,
    "loss_total": 7014810,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -2363,7 +2363,7 @@
    "loss_pax": 2069514,
    "loss_airline": 12934460,
    "loss_total": 15003974,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -2513,7 +2513,7 @@
    "loss_pax": 901490,
    "loss_airline": 5634310,
    "loss_total": 6535800,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -2663,7 +2663,7 @@
    "loss_pax": 1854512,
    "loss_airline": 11590700,
    "loss_total": 13445212,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -2813,7 +2813,7 @@
    "loss_pax": 537944,
    "loss_airline": 3362150,
    "loss_total": 3900094,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -2885,7 +2885,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": []
   },
@@ -2904,7 +2904,7 @@
    "loss_pax": 2952805,
    "loss_airline": 18455030,
    "loss_total": 21407835,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3049,12 +3049,12 @@
    "departed": 30,
    "cancelled": 0,
    "delayed": 16,
-   "delay_min": 1138,
-   "pax_hours": 3747,
-   "loss_pax": 2247221,
-   "loss_airline": 14045130,
-   "loss_total": 16292351,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "delay_min": 1139,
+   "pax_hours": 3749,
+   "loss_pax": 2248629,
+   "loss_airline": 14053930,
+   "loss_total": 16302559,
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3079,9 +3079,9 @@
      "status": "Expected",
      "scheduled": "2026-11-19T09:05:00Z",
      "actual": "2026-11-19T12:30:00Z",
-     "delay_min": 181,
+     "delay_min": 182,
      "final": false,
-     "loss": 1847648
+     "loss": 1857856
     },
     {
      "number": "Y7 3208",
@@ -3204,7 +3204,7 @@
    "loss_pax": 166742,
    "loss_airline": 1042140,
    "loss_total": 1208882,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3276,7 +3276,7 @@
    "loss_pax": 48787,
    "loss_airline": 304920,
    "loss_total": 353707,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3309,7 +3309,7 @@
    "loss_pax": 545090,
    "loss_airline": 3406810,
    "loss_total": 3951900,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3407,7 +3407,7 @@
    "loss_pax": 25168,
    "loss_airline": 157300,
    "loss_total": 182468,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3453,7 +3453,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": []
   },
@@ -3472,7 +3472,7 @@
    "loss_pax": 44070,
    "loss_airline": 275440,
    "loss_total": 319510,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3544,7 +3544,7 @@
    "loss_pax": 275229,
    "loss_airline": 1720180,
    "loss_total": 1995409,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3590,7 +3590,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": []
   },
@@ -3609,7 +3609,7 @@
    "loss_pax": 334118,
    "loss_airline": 2088240,
    "loss_total": 2422358,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3642,7 +3642,7 @@
    "loss_pax": 326128,
    "loss_airline": 2038300,
    "loss_total": 2364428,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3701,7 +3701,7 @@
    "loss_pax": 13200,
    "loss_airline": 82500,
    "loss_total": 95700,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3734,7 +3734,7 @@
    "loss_pax": 1035179,
    "loss_airline": 6469870,
    "loss_total": 7505049,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3884,7 +3884,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": []
   },
@@ -3898,12 +3898,12 @@
    "departed": 11,
    "cancelled": 2,
    "delayed": 6,
-   "delay_min": 282,
-   "pax_hours": 553,
-   "loss_pax": 332006,
-   "loss_airline": 2075040,
-   "loss_total": 2407046,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "delay_min": 283,
+   "pax_hours": 556,
+   "loss_pax": 333485,
+   "loss_airline": 2084280,
+   "loss_total": 2417765,
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -3993,9 +3993,9 @@
      "status": "CheckIn",
      "scheduled": "2026-11-19T11:55:00Z",
      "actual": "2026-11-19T12:30:00Z",
-     "delay_min": 11,
+     "delay_min": 12,
      "final": false,
-     "loss": 117902
+     "loss": 128621
     },
     {
      "number": "UT 542",
@@ -4040,7 +4040,7 @@
    "loss_pax": 360870,
    "loss_airline": 2255440,
    "loss_total": 2616310,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -4151,7 +4151,7 @@
    "loss_pax": 849218,
    "loss_airline": 5307610,
    "loss_total": 6156828,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -4249,7 +4249,7 @@
    "loss_pax": 447462,
    "loss_airline": 2796640,
    "loss_total": 3244102,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -4360,7 +4360,7 @@
    "loss_pax": 35165,
    "loss_airline": 219780,
    "loss_total": 254945,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -4419,7 +4419,7 @@
    "loss_pax": 256080,
    "loss_airline": 1600500,
    "loss_total": 1856580,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -4517,7 +4517,7 @@
    "loss_pax": 519341,
    "loss_airline": 3245880,
    "loss_total": 3765221,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -4615,7 +4615,7 @@
    "loss_pax": 1186522,
    "loss_airline": 7415760,
    "loss_total": 8602282,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -4726,7 +4726,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": []
   },
@@ -4745,7 +4745,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": []
   },
@@ -4764,7 +4764,7 @@
    "loss_pax": 911662,
    "loss_airline": 5697890,
    "loss_total": 6609552,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
@@ -4888,7 +4888,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": []
   },
@@ -4907,7 +4907,7 @@
    "loss_pax": 926552,
    "loss_airline": 5790950,
    "loss_total": 6717502,
-   "last_fetch": "2026-11-19T12:06:15Z",
+   "last_fetch": "2026-11-19T12:06:56Z",
    "stale": false,
    "worst": [
     {
