@@ -2,15 +2,15 @@ name: Сбор задержек и публикация сайта
 
 on:
   schedule:
-    - cron: «7 * * * *»
+    - cron: "7 * * * *"   # каждый час, на 7-й минуте (GitHub может запускать с опозданием до ~15 мин)
   workflow_dispatch:
     inputs:
       source:
-        description: «Источник: aerodatabox или demo»
-        default: «»
+        description: "Источник: aerodatabox или demo"
+        default: ""
   push:
     branches: [main]
-    paths: [«docs/index.html», «config/**», «collector/**», «.github/workflows/**»]
+    paths: ["docs/index.html", "config/**", "collector/**", ".github/workflows/**"]
 
 permissions:
   contents: write
@@ -33,23 +33,24 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: «3.12»
+          python-version: "3.12"
 
       - name: Собрать табло вылетов
         env:
           AERODATABOX_KEY: ${{ secrets.AERODATABOX_KEY }}
           AERODATABOX_BASE: ${{ vars.AERODATABOX_BASE }}
-          FLIGHT_SOURCE: ${{ inputs.source  vars.FLIGHT_SOURCE  (secrets.AERODATABOX_KEY != ‘’ && ‘aerodatabox’ || ‘demo’) }}
+          # Без ключа сайт работает на демо-данных, чтобы его можно было проверить сразу
+          FLIGHT_SOURCE: ${{ inputs.source || vars.FLIGHT_SOURCE || (secrets.AERODATABOX_KEY != '' && 'aerodatabox' || 'demo') }}
           AIRPORTS: ${{ vars.AIRPORTS }}
         run: python collector/collect.py
 
       - name: Сохранить данные в репозитории
         run: |
-          git config user.name «delay-bot»
-          git config user.email «41898282+github-actions[bot]@users.noreply.github.com»
+          git config user.name "delay-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data
-          git diff —cached —quiet || git commit -m «data: $(date -u +’%Y-%m-%d %H:%M’) UTC»
-          for i in 1 2 3; do git pull —rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+          git diff --cached --quiet || git commit -m "data: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
