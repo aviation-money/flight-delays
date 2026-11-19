@@ -306,7 +306,7 @@ a { color: var(--focus); }
     $("rows").innerHTML = html || '<tr><td colspan="7" class="empty">Нет аэропортов в данных</td></tr>';
 
     renderMethod(m);
-    $("footer").innerHTML = `Источник табло: ${data.source === "demo" ? "синтетические демо-данные (для проверки сайта)" : "AeroDataBox"} · ${rows.length} ${plural(rows.length, "аэропорт", "аэропорта", "аэропортов")} · данные: <a href="data/latest.json">latest.json</a>`;
+    $("footer").innerHTML = "Взяты данные 50 крупнейших аэропортов России";
   }
 
   function detail(r) {
