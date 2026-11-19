@@ -788,9 +788,9 @@
    "to": "KRR",
    "to_name": "Krasnodar",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:45:00Z",
-   "actual": "2026-11-19T13:00:00Z"
+   "actual": "2026-11-19T13:11:00Z"
   },
   "FV 6024|2026-11-19T13:30:00Z": {
    "number": "FV 6024",
@@ -798,9 +798,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T13:30:00Z",
-   "actual": "2026-11-19T13:30:00Z"
+   "actual": "2026-11-19T13:47:00Z"
   },
   "7R 193|2026-11-19T14:05:00Z": {
    "number": "7R 193",
@@ -808,7 +808,7 @@
    "to": "TBW",
    "to_name": "Tambov",
    "model": "Bombardier CRJ100",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T14:05:00Z",
    "actual": "2026-11-19T14:05:00Z"
   },
@@ -818,7 +818,7 @@
    "to": "BUS",
    "to_name": "Batumi",
    "model": "Sukhoi Superjet 100-95",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T14:15:00Z",
    "actual": "2026-11-19T14:15:00Z"
   },
@@ -828,7 +828,7 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Airbus A321 NEO",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T14:25:00Z",
    "actual": "2026-11-19T14:25:00Z"
   },
@@ -838,7 +838,7 @@
    "to": "TBS",
    "to_name": "Tbilisi",
    "model": "Sukhoi Superjet 100-95",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T14:30:00Z",
    "actual": "2026-11-19T14:30:00Z"
   },
@@ -851,6 +851,16 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T14:30:00Z",
    "actual": "2026-11-19T14:30:00Z"
+  },
+  "DP 263|2026-11-19T15:00:00Z": {
+   "number": "DP 263",
+   "airline": "Pobeda",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T15:00:00Z",
+   "actual": "2026-11-19T15:00:00Z"
   }
  },
  "fetched": [
@@ -869,6 +879,7 @@
   "2026-11-19T13:11:13Z",
   "2026-11-19T13:12:06Z",
   "2026-11-19T13:30:22Z",
-  "2026-11-19T13:33:18Z"
+  "2026-11-19T13:33:18Z",
+  "2026-11-19T14:07:26Z"
  ]
 }

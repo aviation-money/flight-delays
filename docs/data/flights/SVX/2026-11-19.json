@@ -538,9 +538,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T13:20:00Z",
-   "actual": "2026-11-19T13:20:00Z"
+   "actual": "2026-11-19T13:41:00Z"
   },
   "U6 875|2026-11-19T13:45:00Z": {
    "number": "U6 875",
@@ -548,9 +548,9 @@
    "to": "PKX",
    "to_name": "Beijing",
    "model": "Airbus A319",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T13:45:00Z",
-   "actual": "2026-11-19T13:45:00Z"
+   "actual": "2026-11-19T13:52:00Z"
   },
   "U6 173|2026-11-19T13:55:00Z": {
    "number": "U6 173",
@@ -558,7 +558,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T13:55:00Z",
    "actual": "2026-11-19T13:55:00Z"
   },
@@ -568,7 +568,7 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T14:00:00Z",
    "actual": "2026-11-19T14:00:00Z"
   },
@@ -578,7 +578,7 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T14:00:00Z",
    "actual": "2026-11-19T14:00:00Z"
   },
@@ -588,7 +588,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T14:05:00Z",
    "actual": "2026-11-19T14:05:00Z"
   },
@@ -608,7 +608,7 @@
    "to": "MCX",
    "to_name": "Makhachkala",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T14:25:00Z",
    "actual": "2026-11-19T14:25:00Z"
   }
@@ -629,6 +629,7 @@
   "2026-11-19T13:11:13Z",
   "2026-11-19T13:12:06Z",
   "2026-11-19T13:30:22Z",
-  "2026-11-19T13:33:18Z"
+  "2026-11-19T13:33:18Z",
+  "2026-11-19T14:07:26Z"
  ]
 }

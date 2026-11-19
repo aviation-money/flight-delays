@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:33:18Z",
+ "generated_at": "2026-11-19T14:07:26Z",
  "source": "aerodatabox",
  "methodology": {
   "version": "2026-11-11",
@@ -156,16 +156,16 @@
    "city": "Москва",
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
-   "flights": 217,
-   "departed": 200,
+   "flights": 225,
+   "departed": 208,
    "cancelled": 1,
-   "delayed": 51,
-   "delay_min": 4735,
-   "pax_hours": 11828,
-   "loss_pax": 7090195,
-   "loss_airline": 44313720,
-   "loss_total": 51403915,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 55,
+   "delay_min": 5090,
+   "pax_hours": 12630,
+   "loss_pax": 7571045,
+   "loss_airline": 47319030,
+   "loss_total": 54890075,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -306,18 +306,44 @@
    "city": "Москва",
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
-   "flights": 48,
-   "departed": 43,
+   "flights": 49,
+   "departed": 44,
    "cancelled": 2,
-   "delayed": 29,
-   "delay_min": 774,
-   "pax_hours": 2130,
-   "loss_pax": 1277091,
-   "loss_airline": 7981820,
-   "loss_total": 9258911,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 32,
+   "delay_min": 956,
+   "pax_hours": 2563,
+   "loss_pax": 1536938,
+   "loss_airline": 9605860,
+   "loss_total": 11142798,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
+    {
+     "number": "S7 1165",
+     "airline": "S7",
+     "to": "IJK",
+     "to_name": "Izhevsk",
+     "model": "Airbus A319",
+     "status": "Departed",
+     "scheduled": "2026-11-19T12:10:00Z",
+     "actual": "2026-11-19T13:56:00Z",
+     "delay_min": 106,
+     "final": true,
+     "loss": 946792
+    },
+    {
+     "number": "MS 730",
+     "airline": "EgyptAir",
+     "to": "CAI",
+     "to_name": "Cairo",
+     "model": "Boeing 737-800",
+     "status": "Departed",
+     "scheduled": "2026-11-19T12:45:00Z",
+     "actual": "2026-11-19T13:38:00Z",
+     "delay_min": 53,
+     "final": true,
+     "loss": 628940
+    },
     {
      "number": "S7 2507",
      "airline": "S7",
@@ -421,32 +447,6 @@
      "delay_min": 30,
      "final": true,
      "loss": 765600
-    },
-    {
-     "number": "U6 299",
-     "airline": "Ural",
-     "to": "SVX",
-     "to_name": "Ekaterinburg",
-     "model": "Airbus A321-200 (Sharklets)",
-     "status": "Departed",
-     "scheduled": "2026-11-19T10:40:00Z",
-     "actual": "2026-11-19T11:10:00Z",
-     "delay_min": 30,
-     "final": true,
-     "loss": 401940
-    },
-    {
-     "number": "U6 427",
-     "airline": "Ural",
-     "to": "GRV",
-     "to_name": "Grozny",
-     "model": "Airbus A321",
-     "status": "Departed",
-     "scheduled": "2026-11-19T08:00:00Z",
-     "actual": "2026-11-19T08:29:00Z",
-     "delay_min": 29,
-     "final": true,
-     "loss": 388542
     }
    ]
   },
@@ -456,16 +456,16 @@
    "city": "Москва",
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
-   "flights": 85,
-   "departed": 80,
+   "flights": 86,
+   "departed": 81,
    "cancelled": 0,
-   "delayed": 76,
-   "delay_min": 5725,
-   "pax_hours": 14928,
-   "loss_pax": 8945605,
-   "loss_airline": 55910030,
-   "loss_total": 64855635,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 77,
+   "delay_min": 5787,
+   "pax_hours": 15075,
+   "loss_pax": 9033922,
+   "loss_airline": 56462010,
+   "loss_total": 65495932,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -578,12 +578,12 @@
      "to": "KRR",
      "to_name": "Krasnodar",
      "model": "Boeing 737-800",
-     "status": "GateClosed",
+     "status": "Departed",
      "scheduled": "2026-11-19T10:45:00Z",
-     "actual": "2026-11-19T13:00:00Z",
-     "delay_min": 135,
-     "final": false,
-     "loss": 1602018
+     "actual": "2026-11-19T13:11:00Z",
+     "delay_min": 146,
+     "final": true,
+     "loss": 1732553
     },
     {
      "number": "DP 403",
@@ -606,7 +606,7 @@
    "city": "Москва",
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
-   "flights": 5,
+   "flights": 6,
    "departed": 5,
    "cancelled": 0,
    "delayed": 3,
@@ -615,7 +615,7 @@
    "loss_pax": 134341,
    "loss_airline": 839630,
    "loss_total": 973971,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -691,16 +691,16 @@
    "city": "Санкт-Петербург",
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
-   "flights": 117,
-   "departed": 105,
+   "flights": 125,
+   "departed": 112,
    "cancelled": 2,
-   "delayed": 18,
-   "delay_min": 1653,
-   "pax_hours": 3894,
-   "loss_pax": 2334939,
-   "loss_airline": 14593370,
-   "loss_total": 16928309,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 20,
+   "delay_min": 1786,
+   "pax_hours": 4259,
+   "loss_pax": 2553056,
+   "loss_airline": 15956600,
+   "loss_total": 18509656,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -743,6 +743,19 @@
      "loss": 1179024
     },
     {
+     "number": "DP 623",
+     "airline": "Pobeda",
+     "to": "IJK",
+     "to_name": "Izhevsk",
+     "model": "Boeing 737-800(sv)",
+     "status": "CheckIn",
+     "scheduled": "2026-11-19T11:40:00Z",
+     "actual": "2026-11-19T13:50:00Z",
+     "delay_min": 130,
+     "final": false,
+     "loss": 1542684
+    },
+    {
      "number": "N4 243",
      "airline": "Nordwind",
      "to": "KZN",
@@ -767,19 +780,6 @@
      "delay_min": 126,
      "final": true,
      "loss": 787802
-    },
-    {
-     "number": "DP 623",
-     "airline": "Pobeda",
-     "to": "IJK",
-     "to_name": "Izhevsk",
-     "model": "Boeing 737-800(sv)",
-     "status": "CheckIn",
-     "scheduled": "2026-11-19T11:40:00Z",
-     "actual": "2026-11-19T13:50:00Z",
-     "delay_min": 113,
-     "final": false,
-     "loss": 1340948
     },
     {
      "number": "TK 406",
@@ -821,17 +821,17 @@
      "loss": 450173
     },
     {
-     "number": "C6 422",
-     "airline": "Centrum Air",
-     "to": "TAS",
-     "to_name": "Tashkent",
-     "model": "Airbus A320 NEO",
-     "status": "Departed",
-     "scheduled": "2026-11-19T08:00:00Z",
-     "actual": "2026-11-19T08:42:00Z",
-     "delay_min": 42,
-     "final": true,
-     "loss": 450173
+     "number": "5N 537",
+     "airline": "Smartavia",
+     "to": "KZN",
+     "to_name": "Kazan",
+     "model": "Boeing 737-800",
+     "status": "CheckIn",
+     "scheduled": "2026-11-19T13:10:00Z",
+     "actual": "2026-11-19T14:30:00Z",
+     "delay_min": 57,
+     "final": false,
+     "loss": 676408
     }
    ]
   },
@@ -841,16 +841,16 @@
    "city": "Сочи",
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
-   "flights": 29,
-   "departed": 27,
+   "flights": 32,
+   "departed": 30,
    "cancelled": 0,
    "delayed": 8,
-   "delay_min": 639,
-   "pax_hours": 1605,
-   "loss_pax": 961858,
-   "loss_airline": 6011610,
-   "loss_total": 6973468,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 673,
+   "pax_hours": 1709,
+   "loss_pax": 1024690,
+   "loss_airline": 6404310,
+   "loss_total": 7429000,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -867,6 +867,19 @@
      "loss": 2005489
     },
     {
+     "number": "N4 411",
+     "airline": "Nordwind",
+     "to": "KZN",
+     "to_name": "Kazan",
+     "model": "Airbus A321",
+     "status": "Boarding",
+     "scheduled": "2026-11-19T11:55:00Z",
+     "actual": "2026-11-19T14:25:00Z",
+     "delay_min": 132,
+     "final": false,
+     "loss": 1768536
+    },
+    {
      "number": "A4 5071",
      "airline": "Azimuth",
      "to": "IST",
@@ -878,19 +891,6 @@
      "delay_min": 110,
      "final": true,
      "loss": 687764
-    },
-    {
-     "number": "N4 411",
-     "airline": "Nordwind",
-     "to": "KZN",
-     "to_name": "Kazan",
-     "model": "Airbus A321",
-     "status": "GateClosed",
-     "scheduled": "2026-11-19T11:55:00Z",
-     "actual": "2026-11-19T14:25:00Z",
-     "delay_min": 98,
-     "final": false,
-     "loss": 1313004
     },
     {
      "number": "SU 1153",
@@ -978,16 +978,16 @@
    "city": "Минеральные Воды",
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
-   "flights": 28,
-   "departed": 25,
+   "flights": 29,
+   "departed": 28,
    "cancelled": 0,
    "delayed": 18,
-   "delay_min": 768,
-   "pax_hours": 1686,
-   "loss_pax": 1011032,
-   "loss_airline": 6318950,
-   "loss_total": 7329982,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 802,
+   "pax_hours": 1779,
+   "loss_pax": 1066683,
+   "loss_airline": 6666770,
+   "loss_total": 7733453,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -996,12 +996,12 @@
      "to": "VKO",
      "to_name": "Moscow",
      "model": "Boeing 737-800",
-     "status": "Boarding",
+     "status": "GateClosed",
      "scheduled": "2026-11-19T11:30:00Z",
-     "actual": "2026-11-19T13:50:00Z",
-     "delay_min": 123,
+     "actual": "2026-11-19T14:40:00Z",
+     "delay_min": 157,
      "final": false,
-     "loss": 1459616
+     "loss": 1863088
     },
     {
      "number": "DP 6914",
@@ -1129,7 +1129,7 @@
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
    "flights": 18,
-   "departed": 17,
+   "departed": 18,
    "cancelled": 0,
    "delayed": 0,
    "delay_min": 0,
@@ -1137,7 +1137,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   },
@@ -1147,16 +1147,16 @@
    "city": "Казань",
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
-   "flights": 29,
+   "flights": 30,
    "departed": 29,
    "cancelled": 0,
    "delayed": 22,
-   "delay_min": 3598,
-   "pax_hours": 8831,
-   "loss_pax": 5293640,
-   "loss_airline": 33085250,
-   "loss_total": 38378890,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 3869,
+   "pax_hours": 9450,
+   "loss_pax": 5664595,
+   "loss_airline": 35403720,
+   "loss_total": 41068315,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -1173,6 +1173,32 @@
      "loss": 9825200
     },
     {
+     "number": "N4 60",
+     "airline": "Nordwind",
+     "to": "SVO",
+     "to_name": "Moscow",
+     "model": "Boeing 737-800",
+     "status": "Boarding",
+     "scheduled": "2026-11-19T08:20:00Z",
+     "actual": "2026-11-19T14:50:00Z",
+     "delay_min": 347,
+     "final": false,
+     "loss": 4117780
+    },
+    {
+     "number": "N4 244",
+     "airline": "Nordwind",
+     "to": "LED",
+     "to_name": "Saint-Petersburg",
+     "model": "Boeing 737-800",
+     "status": "CheckIn",
+     "scheduled": "2026-11-19T08:50:00Z",
+     "actual": "2026-11-19T14:30:00Z",
+     "delay_min": 317,
+     "final": false,
+     "loss": 3761776
+    },
+    {
      "number": "RT 651",
      "airline": "UVT Aero",
      "to": "RMZ",
@@ -1186,43 +1212,17 @@
      "loss": 1008040
     },
     {
-     "number": "N4 244",
-     "airline": "Nordwind",
-     "to": "LED",
-     "to_name": "Saint-Petersburg",
-     "model": "Boeing 737-800",
-     "status": "CheckIn",
-     "scheduled": "2026-11-19T08:50:00Z",
-     "actual": "2026-11-19T14:00:00Z",
-     "delay_min": 283,
-     "final": false,
-     "loss": 3358304
-    },
-    {
-     "number": "N4 60",
-     "airline": "Nordwind",
-     "to": "SVO",
-     "to_name": "Moscow",
-     "model": "Boeing 737-800",
-     "status": "Boarding",
-     "scheduled": "2026-11-19T08:20:00Z",
-     "actual": "2026-11-19T13:00:00Z",
-     "delay_min": 280,
-     "final": false,
-     "loss": 3322704
-    },
-    {
      "number": "N4 709",
      "airline": "Nordwind",
      "to": "KRR",
      "to_name": "Krasnodar",
      "model": "Boeing 737",
-     "status": "CheckIn",
+     "status": "Boarding",
      "scheduled": "2026-11-19T08:55:00Z",
      "actual": "2026-11-19T14:20:00Z",
-     "delay_min": 278,
+     "delay_min": 312,
      "final": false,
-     "loss": 2837824
+     "loss": 3184896
     },
     {
      "number": "SZ 206",
@@ -1230,12 +1230,12 @@
      "to": "DYU",
      "to_name": "Dushanbe",
      "model": "Boeing 737-800",
-     "status": "CheckIn",
+     "status": "Boarding",
      "scheduled": "2026-11-19T09:40:00Z",
      "actual": "2026-11-19T14:00:00Z",
-     "delay_min": 233,
+     "delay_min": 260,
      "final": false,
-     "loss": 2764964
+     "loss": 3085368
     },
     {
      "number": "SU 1279",
@@ -1277,17 +1277,17 @@
      "loss": 1275490
     },
     {
-     "number": "WZ 4677",
-     "airline": "Red Wings",
-     "to": "EVN",
-     "to_name": "Yerevan",
-     "model": "Sukhoi Superjet 100-95",
+     "number": "S7 5036",
+     "airline": "S7",
+     "to": "OVB",
+     "to_name": "Novosibirsk",
+     "model": "Embraer 170",
      "status": "Departed",
-     "scheduled": "2026-11-19T05:10:00Z",
-     "actual": "2026-11-19T07:51:00Z",
-     "delay_min": 161,
+     "scheduled": "2026-11-19T11:05:00Z",
+     "actual": "2026-11-19T14:00:00Z",
+     "delay_min": 175,
      "final": true,
-     "loss": 1006636
+     "loss": 848540
     }
    ]
   },
@@ -1297,16 +1297,16 @@
    "city": "Калининград",
    "tz": "Europe/Kaliningrad",
    "date": "2026-11-19",
-   "flights": 20,
-   "departed": 19,
+   "flights": 23,
+   "departed": 20,
    "cancelled": 0,
    "delayed": 4,
-   "delay_min": 374,
-   "pax_hours": 895,
-   "loss_pax": 536290,
-   "loss_airline": 3351810,
-   "loss_total": 3888100,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 399,
+   "pax_hours": 952,
+   "loss_pax": 570786,
+   "loss_airline": 3567410,
+   "loss_total": 4138196,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -1362,6 +1362,19 @@
      "loss": 201736
     },
     {
+     "number": "FV 6334",
+     "airline": "Rossiya",
+     "to": "LED",
+     "to_name": "Saint-Petersburg",
+     "model": "Airbus A319",
+     "status": "Departed",
+     "scheduled": "2026-11-19T13:20:00Z",
+     "actual": "2026-11-19T13:33:00Z",
+     "delay_min": 13,
+     "final": true,
+     "loss": 116116
+    },
+    {
      "number": "SU 1001",
      "airline": "Aeroflot",
      "to": "SVO",
@@ -1414,30 +1427,17 @@
      "loss": 43767
     },
     {
-     "number": "U6 628",
-     "airline": "Ural",
-     "to": "DME",
-     "to_name": "Moscow",
-     "model": "Airbus A320",
-     "status": "Departed",
-     "scheduled": "2026-11-19T12:30:00Z",
-     "actual": "2026-11-19T12:36:00Z",
-     "delay_min": 6,
-     "final": true,
-     "loss": 64310
-    },
-    {
-     "number": "DP 6836",
-     "airline": "Pobeda",
-     "to": "SVO",
-     "to_name": "Moscow",
-     "model": "Boeing 737-800",
-     "status": "Departed",
-     "scheduled": "2026-11-19T07:15:00Z",
-     "actual": "2026-11-19T07:20:00Z",
-     "delay_min": 5,
-     "final": true,
-     "loss": 59334
+     "number": "D2 9739",
+     "airline": "Severstal Aircompany",
+     "to": "Saint Petersburg",
+     "to_name": "Saint Petersburg",
+     "model": null,
+     "status": "Delayed",
+     "scheduled": "2026-11-19T14:00:00Z",
+     "actual": "2026-11-19T14:30:00Z",
+     "delay_min": 7,
+     "final": false,
+     "loss": 66990
     }
    ]
   },
@@ -1456,7 +1456,7 @@
    "loss_pax": 245362,
    "loss_airline": 1533510,
    "loss_total": 1778872,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -1545,7 +1545,7 @@
    "city": "Мурманск",
    "tz": "Europe/Moscow",
    "date": "2026-11-19",
-   "flights": 10,
+   "flights": 11,
    "departed": 10,
    "cancelled": 0,
    "delayed": 3,
@@ -1554,7 +1554,7 @@
    "loss_pax": 155848,
    "loss_airline": 974050,
    "loss_total": 1129898,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -1643,18 +1643,31 @@
    "city": "Самара",
    "tz": "Europe/Samara",
    "date": "2026-11-19",
-   "flights": 14,
-   "departed": 14,
+   "flights": 15,
+   "departed": 15,
    "cancelled": 0,
-   "delayed": 10,
-   "delay_min": 1214,
-   "pax_hours": 2538,
-   "loss_pax": 1522083,
-   "loss_airline": 9513020,
-   "loss_total": 11035103,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 11,
+   "delay_min": 2011,
+   "pax_hours": 4291,
+   "loss_pax": 2574123,
+   "loss_airline": 16088270,
+   "loss_total": 18662393,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
+    {
+     "number": "UJ 648",
+     "airline": "AlMasria",
+     "to": "HRG",
+     "to_name": "Hurghada",
+     "model": null,
+     "status": "Delayed",
+     "scheduled": "2026-11-19T00:50:00Z",
+     "actual": "2026-11-19T14:40:00Z",
+     "delay_min": 797,
+     "final": false,
+     "loss": 7627290
+    },
     {
      "number": "SU 1603",
      "airline": "Aeroflot",
@@ -1771,19 +1784,6 @@
      "delay_min": 32,
      "final": true,
      "loss": 306240
-    },
-    {
-     "number": "SU 1605",
-     "airline": "Aeroflot",
-     "to": "SVO",
-     "to_name": "Moscow",
-     "model": "Airbus A320",
-     "status": "Departed",
-     "scheduled": "2026-11-19T09:55:00Z",
-     "actual": "2026-11-19T10:27:00Z",
-     "delay_min": 32,
-     "final": true,
-     "loss": 342989
     }
    ]
   },
@@ -1793,16 +1793,16 @@
    "city": "Уфа",
    "tz": "Asia/Yekaterinburg",
    "date": "2026-11-19",
-   "flights": 38,
-   "departed": 34,
+   "flights": 40,
+   "departed": 35,
    "cancelled": 3,
-   "delayed": 26,
-   "delay_min": 5036,
-   "pax_hours": 11840,
-   "loss_pax": 7092730,
-   "loss_airline": 44329560,
-   "loss_total": 51422290,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 28,
+   "delay_min": 5212,
+   "pax_hours": 12196,
+   "loss_pax": 7306270,
+   "loss_airline": 45664190,
+   "loss_total": 52970460,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -1811,12 +1811,12 @@
      "to": "SVX",
      "to_name": "Ekaterinburg",
      "model": "ATR 72",
-     "status": "GateClosed",
+     "status": "Departed",
      "scheduled": "2026-11-19T04:05:00Z",
-     "actual": "2026-11-19T14:00:00Z",
-     "delay_min": 568,
-     "final": false,
-     "loss": 2536688
+     "actual": "2026-11-19T13:52:00Z",
+     "delay_min": 587,
+     "final": true,
+     "loss": 2621542
     },
     {
      "number": "DP 436",
@@ -1871,6 +1871,19 @@
      "loss": 5211822
     },
     {
+     "number": "UT 9045",
+     "airline": "UTAir",
+     "to": "BTK",
+     "to_name": "Bratsk",
+     "model": "Boeing 737-500",
+     "status": "CheckIn",
+     "scheduled": "2026-11-19T07:50:00Z",
+     "actual": "2026-11-19T15:00:00Z",
+     "delay_min": 377,
+     "final": false,
+     "loss": 3848416
+    },
+    {
      "number": "Y7 4701",
      "airline": "NordStar",
      "to": "Bovanenkovo",
@@ -1882,19 +1895,6 @@
      "delay_min": 339,
      "final": true,
      "loss": 4022845
-    },
-    {
-     "number": "UT 9045",
-     "airline": "UTAir",
-     "to": "BTK",
-     "to_name": "Bratsk",
-     "model": "Boeing 737-500",
-     "status": "CheckIn",
-     "scheduled": "2026-11-19T07:50:00Z",
-     "actual": "2026-11-19T13:00:00Z",
-     "delay_min": 310,
-     "final": false,
-     "loss": 3164480
     },
     {
      "number": "UT 364",
@@ -1944,15 +1944,15 @@
    "tz": "Asia/Yekaterinburg",
    "date": "2026-11-19",
    "flights": 61,
-   "departed": 54,
+   "departed": 59,
    "cancelled": 0,
-   "delayed": 30,
-   "delay_min": 1915,
-   "pax_hours": 4368,
-   "loss_pax": 2618968,
-   "loss_airline": 16368550,
-   "loss_total": 18987518,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 31,
+   "delay_min": 1943,
+   "pax_hours": 4406,
+   "loss_pax": 2641637,
+   "loss_airline": 16510230,
+   "loss_total": 19151867,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -2097,12 +2097,12 @@
    "departed": 14,
    "cancelled": 0,
    "delayed": 6,
-   "delay_min": 527,
-   "pax_hours": 1266,
-   "loss_pax": 758560,
-   "loss_airline": 4741000,
-   "loss_total": 5499560,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 535,
+   "pax_hours": 1277,
+   "loss_pax": 765459,
+   "loss_airline": 4784120,
+   "loss_total": 5549579,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -2210,6 +2210,19 @@
      "loss": 132704
     },
     {
+     "number": "FV 6074",
+     "airline": "Rossiya",
+     "to": "SVO",
+     "to_name": "Moscow",
+     "model": "Sukhoi Superjet 100",
+     "status": "Departed",
+     "scheduled": "2026-11-19T13:25:00Z",
+     "actual": "2026-11-19T13:33:00Z",
+     "delay_min": 8,
+     "final": true,
+     "loss": 50019
+    },
+    {
      "number": "S7 5040",
      "airline": "S7",
      "to": "OVB",
@@ -2221,19 +2234,6 @@
      "delay_min": 5,
      "final": true,
      "loss": 24244
-    },
-    {
-     "number": "SU 1203",
-     "airline": "Aeroflot",
-     "to": "SVO",
-     "to_name": "Moscow",
-     "model": "Airbus",
-     "status": "Departed",
-     "scheduled": "2026-11-19T11:00:00Z",
-     "actual": "2026-11-19T11:03:00Z",
-     "delay_min": 3,
-     "final": true,
-     "loss": 28710
     }
    ]
   },
@@ -2243,7 +2243,7 @@
    "city": "Челябинск",
    "tz": "Asia/Yekaterinburg",
    "date": "2026-11-19",
-   "flights": 15,
+   "flights": 16,
    "departed": 13,
    "cancelled": 0,
    "delayed": 9,
@@ -2252,7 +2252,7 @@
    "loss_pax": 1015520,
    "loss_airline": 6347000,
    "loss_total": 7362520,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -2393,16 +2393,16 @@
    "city": "Тюмень",
    "tz": "Asia/Yekaterinburg",
    "date": "2026-11-19",
-   "flights": 25,
+   "flights": 27,
    "departed": 25,
-   "cancelled": 0,
-   "delayed": 19,
-   "delay_min": 1745,
-   "pax_hours": 3457,
-   "loss_pax": 2070851,
-   "loss_airline": 12942820,
-   "loss_total": 15013671,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "cancelled": 1,
+   "delayed": 20,
+   "delay_min": 1775,
+   "pax_hours": 3539,
+   "loss_pax": 2119955,
+   "loss_airline": 13249720,
+   "loss_total": 15369675,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -2546,13 +2546,13 @@
    "flights": 15,
    "departed": 15,
    "cancelled": 0,
-   "delayed": 6,
-   "delay_min": 623,
-   "pax_hours": 1504,
-   "loss_pax": 901490,
-   "loss_airline": 5634310,
-   "loss_total": 6535800,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 7,
+   "delay_min": 646,
+   "pax_hours": 1554,
+   "loss_pax": 931850,
+   "loss_airline": 5824060,
+   "loss_total": 6755910,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -2634,6 +2634,19 @@
      "loss": 375144
     },
     {
+     "number": "S7 5346",
+     "airline": "S7",
+     "to": "OVB",
+     "to_name": "Novosibirsk",
+     "model": "EMB170",
+     "status": "Departed",
+     "scheduled": "2026-11-19T13:05:00Z",
+     "actual": "2026-11-19T13:28:00Z",
+     "delay_min": 23,
+     "final": true,
+     "loss": 220110
+    },
+    {
      "number": "FV 6472",
      "airline": "Rossiya",
      "to": null,
@@ -2671,19 +2684,6 @@
      "delay_min": 9,
      "final": true,
      "loss": 106801
-    },
-    {
-     "number": "S7 5342",
-     "airline": "S7",
-     "to": "OVB",
-     "to_name": "Novosibirsk",
-     "model": "EMB170",
-     "status": "Departed",
-     "scheduled": "2026-11-19T09:10:00Z",
-     "actual": "2026-11-19T09:17:00Z",
-     "delay_min": 7,
-     "final": true,
-     "loss": 66990
     }
    ]
   },
@@ -2693,16 +2693,16 @@
    "city": "Новосибирск",
    "tz": "Asia/Novosibirsk",
    "date": "2026-11-19",
-   "flights": 93,
-   "departed": 90,
+   "flights": 99,
+   "departed": 91,
    "cancelled": 0,
-   "delayed": 29,
-   "delay_min": 1300,
-   "pax_hours": 3150,
-   "loss_pax": 1887653,
-   "loss_airline": 11797830,
-   "loss_total": 13685483,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 30,
+   "delay_min": 1421,
+   "pax_hours": 3260,
+   "loss_pax": 1953864,
+   "loss_airline": 12211650,
+   "loss_total": 14165514,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -2732,6 +2732,19 @@
      "loss": 1061122
     },
     {
+     "number": "RT 297",
+     "airline": "UVT Aero",
+     "to": "RMZ",
+     "to_name": "Tobolsk",
+     "model": "Bombardier CRJ200",
+     "status": "CheckIn",
+     "scheduled": "2026-11-19T12:45:00Z",
+     "actual": "2026-11-19T15:00:00Z",
+     "delay_min": 82,
+     "final": false,
+     "loss": 261580
+    },
+    {
      "number": "S7 7099",
      "airline": "S7",
      "to": "MCX",
@@ -2743,6 +2756,19 @@
      "delay_min": 65,
      "final": true,
      "loss": 696696
+    },
+    {
+     "number": "S7 5319",
+     "airline": "S7",
+     "to": "KJA",
+     "to_name": "Krasnoyarsk",
+     "model": "Embraer 170",
+     "status": "CheckIn",
+     "scheduled": "2026-11-19T13:05:00Z",
+     "actual": "2026-11-19T14:30:00Z",
+     "delay_min": 62,
+     "final": false,
+     "loss": 300626
     },
     {
      "number": "9Z 3515",
@@ -2808,32 +2834,6 @@
      "delay_min": 37,
      "final": true,
      "loss": 439072
-    },
-    {
-     "number": "S7 5555",
-     "airline": "S7",
-     "to": "LBD",
-     "to_name": "Khudzhand",
-     "model": "Airbus A321",
-     "status": "Departed",
-     "scheduled": "2026-11-19T05:50:00Z",
-     "actual": "2026-11-19T06:25:00Z",
-     "delay_min": 35,
-     "final": true,
-     "loss": 468930
-    },
-    {
-     "number": "S7 7079",
-     "airline": "S7",
-     "to": null,
-     "to_name": null,
-     "model": "Embraer 170",
-     "status": "Departed",
-     "scheduled": "2026-11-19T00:05:00Z",
-     "actual": "2026-11-19T00:35:00Z",
-     "delay_min": 30,
-     "final": true,
-     "loss": 145464
     }
    ]
   },
@@ -2843,8 +2843,8 @@
    "city": "Красноярск",
    "tz": "Asia/Krasnoyarsk",
    "date": "2026-11-19",
-   "flights": 41,
-   "departed": 35,
+   "flights": 44,
+   "departed": 37,
    "cancelled": 2,
    "delayed": 4,
    "delay_min": 365,
@@ -2852,7 +2852,7 @@
    "loss_pax": 537944,
    "loss_airline": 3362150,
    "loss_total": 3900094,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -2916,7 +2916,7 @@
    "tz": "Asia/Irkutsk",
    "date": "2026-11-19",
    "flights": 52,
-   "departed": 51,
+   "departed": 52,
    "cancelled": 0,
    "delayed": 0,
    "delay_min": 0,
@@ -2924,7 +2924,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   },
@@ -2933,300 +2933,38 @@
    "name": "Новый",
    "city": "Хабаровск",
    "tz": "Asia/Vladivostok",
-   "date": "2026-11-19",
-   "flights": 33,
-   "departed": 31,
-   "cancelled": 2,
-   "delayed": 23,
-   "delay_min": 2124,
-   "pax_hours": 5075,
-   "loss_pax": 3046437,
-   "loss_airline": 19040230,
-   "loss_total": 22086667,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "date": "2026-11-20",
+   "flights": 1,
+   "departed": 0,
+   "cancelled": 0,
+   "delayed": 0,
+   "delay_min": 0,
+   "pax_hours": 0,
+   "loss_pax": 0,
+   "loss_airline": 0,
+   "loss_total": 0,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
-   "worst": [
-    {
-     "number": "HZ 3100",
-     "airline": "Aurora",
-     "to": null,
-     "to_name": null,
-     "model": "De Havilland DHC-8-400 Dash 8",
-     "status": "Departed",
-     "scheduled": "2026-11-18T22:30:00Z",
-     "actual": "2026-11-19T01:57:00Z",
-     "delay_min": 207,
-     "final": true,
-     "loss": 1003702
-    },
-    {
-     "number": "HZ 5626",
-     "airline": "Aurora",
-     "to": null,
-     "to_name": null,
-     "model": "Airbus A319",
-     "status": "Departed",
-     "scheduled": "2026-11-18T22:10:00Z",
-     "actual": "2026-11-19T01:27:00Z",
-     "delay_min": 197,
-     "final": true,
-     "loss": 1759604
-    },
-    {
-     "number": "HZ 5684",
-     "airline": "Aurora",
-     "to": "PKC",
-     "to_name": "Petropavlovsk-Kamchatskiy",
-     "model": "Airbus A319",
-     "status": "Departed",
-     "scheduled": "2026-11-19T00:30:00Z",
-     "actual": "2026-11-19T03:39:00Z",
-     "delay_min": 189,
-     "final": true,
-     "loss": 1688148
-    },
-    {
-     "number": "HZ 5612",
-     "airline": "Aurora",
-     "to": "GDX",
-     "to_name": "Magadan",
-     "model": "Airbus A319",
-     "status": "Departed",
-     "scheduled": "2026-11-19T00:55:00Z",
-     "actual": "2026-11-19T03:50:00Z",
-     "delay_min": 175,
-     "final": true,
-     "loss": 1563100
-    },
-    {
-     "number": "S7 6515",
-     "airline": "S7",
-     "to": null,
-     "to_name": null,
-     "model": "Airbus Industrie А320",
-     "status": "Departed",
-     "scheduled": "2026-11-19T00:15:00Z",
-     "actual": "2026-11-19T03:09:00Z",
-     "delay_min": 174,
-     "final": true,
-     "loss": 1665180
-    },
-    {
-     "number": "U6 174",
-     "airline": "Ural",
-     "to": null,
-     "to_name": null,
-     "model": "Airbus A320 NEO",
-     "status": "Departed",
-     "scheduled": "2026-11-18T21:50:00Z",
-     "actual": "2026-11-18T23:58:00Z",
-     "delay_min": 128,
-     "final": true,
-     "loss": 1371955
-    },
-    {
-     "number": "HZ 4110",
-     "airline": "Aurora",
-     "to": null,
-     "to_name": null,
-     "model": "De Havilland DHC-8-400 Dash 8",
-     "status": "Departed",
-     "scheduled": "2026-11-18T23:05:00Z",
-     "actual": "2026-11-19T01:07:00Z",
-     "delay_min": 122,
-     "final": true,
-     "loss": 591554
-    },
-    {
-     "number": "S7 5238",
-     "airline": "S7",
-     "to": null,
-     "to_name": null,
-     "model": "Airbus A321",
-     "status": "Departed",
-     "scheduled": "2026-11-18T22:55:00Z",
-     "actual": "2026-11-19T00:43:00Z",
-     "delay_min": 108,
-     "final": true,
-     "loss": 1446984
-    },
-    {
-     "number": "SU 1711",
-     "airline": "Aeroflot",
-     "to": null,
-     "to_name": null,
-     "model": "Boeing 777-300ER",
-     "status": "Departed",
-     "scheduled": "2026-11-19T01:10:00Z",
-     "actual": "2026-11-19T02:53:00Z",
-     "delay_min": 103,
-     "final": true,
-     "loss": 2628560
-    },
-    {
-     "number": "HZ 5642",
-     "airline": "Aurora",
-     "to": "OVB",
-     "to_name": "Novosibirsk",
-     "model": "Airbus A319",
-     "status": "Departed",
-     "scheduled": "2026-11-19T09:25:00Z",
-     "actual": "2026-11-19T11:08:00Z",
-     "delay_min": 103,
-     "final": true,
-     "loss": 919996
-    }
-   ]
+   "worst": []
   },
   {
    "iata": "VVO",
    "name": "Кневичи",
    "city": "Владивосток",
    "tz": "Asia/Vladivostok",
-   "date": "2026-11-19",
-   "flights": 31,
-   "departed": 31,
+   "date": "2026-11-20",
+   "flights": 0,
+   "departed": 0,
    "cancelled": 0,
-   "delayed": 16,
-   "delay_min": 1195,
-   "pax_hours": 3881,
-   "loss_pax": 2327477,
-   "loss_airline": 14546730,
-   "loss_total": 16874207,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delayed": 0,
+   "delay_min": 0,
+   "pax_hours": 0,
+   "loss_pax": 0,
+   "loss_airline": 0,
+   "loss_total": 0,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
-   "worst": [
-    {
-     "number": "FV 6256",
-     "airline": "Rossiya",
-     "to": "SVO",
-     "to_name": "Moscow",
-     "model": "Boeing 747-400",
-     "status": "Expected",
-     "scheduled": "2026-11-19T02:05:00Z",
-     "actual": "2026-11-19T06:10:00Z",
-     "delay_min": 245,
-     "final": false,
-     "loss": 6252400
-    },
-    {
-     "number": "KN 878",
-     "airline": "China United",
-     "to": "PKX",
-     "to_name": "Beijing",
-     "model": "Boeing 737",
-     "status": "Expected",
-     "scheduled": "2026-11-19T09:05:00Z",
-     "actual": "2026-11-19T13:03:00Z",
-     "delay_min": 238,
-     "final": false,
-     "loss": 2429504
-    },
-    {
-     "number": "Y7 3208",
-     "airline": "NordStar",
-     "to": "KJA",
-     "to_name": "Krasnoyarsk",
-     "model": "Boeing 737-800",
-     "status": "Expected",
-     "scheduled": "2026-11-19T01:55:00Z",
-     "actual": "2026-11-19T03:24:00Z",
-     "delay_min": 89,
-     "final": false,
-     "loss": 1056145
-    },
-    {
-     "number": "HZ 5616",
-     "airline": "Aurora",
-     "to": null,
-     "to_name": null,
-     "model": "Airbus A319",
-     "status": "Departed",
-     "scheduled": "2026-11-18T16:55:00Z",
-     "actual": "2026-11-18T18:01:00Z",
-     "delay_min": 66,
-     "final": true,
-     "loss": 589512
-    },
-    {
-     "number": "S7 6203",
-     "airline": "S7",
-     "to": null,
-     "to_name": null,
-     "model": "Boeing 737-800",
-     "status": "Departed",
-     "scheduled": "2026-11-18T23:05:00Z",
-     "actual": "2026-11-19T00:06:00Z",
-     "delay_min": 61,
-     "final": true,
-     "loss": 723875
-    },
-    {
-     "number": "S7 6404",
-     "airline": "S7",
-     "to": null,
-     "to_name": null,
-     "model": "Airbus A319",
-     "status": "Expected",
-     "scheduled": "2026-11-18T21:45:00Z",
-     "actual": "2026-11-18T22:44:00Z",
-     "delay_min": 59,
-     "final": false,
-     "loss": 526988
-    },
-    {
-     "number": "U6 572",
-     "airline": "Ural",
-     "to": null,
-     "to_name": null,
-     "model": null,
-     "status": "Departed",
-     "scheduled": "2026-11-18T22:20:00Z",
-     "actual": "2026-11-18T23:19:00Z",
-     "delay_min": 59,
-     "final": true,
-     "loss": 564630
-    },
-    {
-     "number": "FV 6260",
-     "airline": "Rossiya",
-     "to": "SVO",
-     "to_name": "Moscow",
-     "model": "Boeing 777-300ER",
-     "status": "Expected",
-     "scheduled": "2026-11-19T03:50:00Z",
-     "actual": "2026-11-19T04:49:00Z",
-     "delay_min": 59,
-     "final": false,
-     "loss": 1505680
-    },
-    {
-     "number": "S7 5204",
-     "airline": "S7",
-     "to": null,
-     "to_name": null,
-     "model": "Boeing 737-800",
-     "status": "Departed",
-     "scheduled": "2026-11-18T22:50:00Z",
-     "actual": "2026-11-18T23:42:00Z",
-     "delay_min": 52,
-     "final": true,
-     "loss": 617074
-    },
-    {
-     "number": "HZ 5680",
-     "airline": "Aurora",
-     "to": null,
-     "to_name": null,
-     "model": "Airbus A319",
-     "status": "Departed",
-     "scheduled": "2026-11-19T00:40:00Z",
-     "actual": "2026-11-19T01:31:00Z",
-     "delay_min": 51,
-     "final": true,
-     "loss": 455532
-    }
-   ]
+   "worst": []
   },
   {
    "iata": "ASF",
@@ -3243,7 +2981,7 @@
    "loss_pax": 204389,
    "loss_airline": 1277430,
    "loss_total": 1481819,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3315,7 +3053,7 @@
    "loss_pax": 48787,
    "loss_airline": 304920,
    "loss_total": 353707,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3343,12 +3081,12 @@
    "departed": 6,
    "cancelled": 0,
    "delayed": 4,
-   "delay_min": 511,
-   "pax_hours": 1369,
-   "loss_pax": 820072,
-   "loss_airline": 5125450,
-   "loss_total": 5945522,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 542,
+   "pax_hours": 1454,
+   "loss_pax": 870813,
+   "loss_airline": 5442580,
+   "loss_total": 6313393,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3370,12 +3108,12 @@
      "to": "LED",
      "to_name": "Saint-Petersburg",
      "model": "Boeing 737-800",
-     "status": "Boarding",
+     "status": "Departed",
      "scheduled": "2026-11-19T11:20:00Z",
-     "actual": "2026-11-19T13:40:00Z",
-     "delay_min": 133,
-     "final": false,
-     "loss": 1578284
+     "actual": "2026-11-19T14:04:00Z",
+     "delay_min": 164,
+     "final": true,
+     "loss": 1946155
     },
     {
      "number": "SU 1183",
@@ -3446,7 +3184,7 @@
    "loss_pax": 25168,
    "loss_airline": 157300,
    "loss_total": 182468,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3492,7 +3230,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   },
@@ -3506,12 +3244,12 @@
    "departed": 6,
    "cancelled": 0,
    "delayed": 2,
-   "delay_min": 56,
-   "pax_hours": 99,
-   "loss_pax": 59558,
-   "loss_airline": 372240,
-   "loss_total": 431798,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 67,
+   "pax_hours": 115,
+   "loss_pax": 69045,
+   "loss_airline": 431530,
+   "loss_total": 500575,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3552,6 +3290,19 @@
      "delay_min": 11,
      "final": true,
      "loss": 112288
+    },
+    {
+     "number": "FV 6306",
+     "airline": "Rossiya",
+     "to": "LED",
+     "to_name": "Saint-Petersburg",
+     "model": "Sukhoi Superjet 100-95",
+     "status": "Departed",
+     "scheduled": "2026-11-19T13:20:00Z",
+     "actual": "2026-11-19T13:31:00Z",
+     "delay_min": 11,
+     "final": true,
+     "loss": 68776
     },
     {
      "number": "SU 1335",
@@ -3596,7 +3347,7 @@
    "loss_pax": 275229,
    "loss_airline": 1720180,
    "loss_total": 1995409,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3642,7 +3393,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   },
@@ -3652,7 +3403,7 @@
    "city": "Ижевск",
    "tz": "Europe/Samara",
    "date": "2026-11-19",
-   "flights": 6,
+   "flights": 7,
    "departed": 6,
    "cancelled": 0,
    "delayed": 1,
@@ -3661,7 +3412,7 @@
    "loss_pax": 334118,
    "loss_airline": 2088240,
    "loss_total": 2422358,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3694,7 +3445,7 @@
    "loss_pax": 326128,
    "loss_airline": 2038300,
    "loss_total": 2364428,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3753,7 +3504,7 @@
    "loss_pax": 13200,
    "loss_airline": 82500,
    "loss_total": 95700,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3777,16 +3528,16 @@
    "city": "Сургут",
    "tz": "Asia/Yekaterinburg",
    "date": "2026-11-19",
-   "flights": 23,
-   "departed": 22,
+   "flights": 24,
+   "departed": 23,
    "cancelled": 0,
    "delayed": 14,
-   "delay_min": 1490,
-   "pax_hours": 3428,
-   "loss_pax": 2053269,
-   "loss_airline": 12832930,
-   "loss_total": 14886199,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 1536,
+   "pax_hours": 3554,
+   "loss_pax": 2128562,
+   "loss_airline": 13303510,
+   "loss_total": 15432072,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3795,12 +3546,12 @@
      "to": "MRV",
      "to_name": "Mineralnyye Vody",
      "model": "Boeing 737-800",
-     "status": "Expected",
+     "status": "Departed",
      "scheduled": "2026-11-19T04:05:00Z",
-     "actual": "2026-11-19T13:10:00Z",
-     "delay_min": 545,
-     "final": false,
-     "loss": 6467406
+     "actual": "2026-11-19T13:39:00Z",
+     "delay_min": 574,
+     "final": true,
+     "loss": 6811543
     },
     {
      "number": "UT 103",
@@ -3868,6 +3619,19 @@
      "loss": 712008
     },
     {
+     "number": "UT 296",
+     "airline": "UTAir",
+     "to": "VKO",
+     "to_name": "Moscow",
+     "model": "Boeing 737-800",
+     "status": "Expected",
+     "scheduled": "2026-11-19T13:00:00Z",
+     "actual": "2026-11-19T13:50:00Z",
+     "delay_min": 50,
+     "final": false,
+     "loss": 593340
+    },
+    {
      "number": "SU 1511",
      "airline": "Aeroflot",
      "to": "SVO",
@@ -3905,19 +3669,6 @@
      "delay_min": 41,
      "final": true,
      "loss": 549318
-    },
-    {
-     "number": "UT 259",
-     "airline": "UTAir",
-     "to": "CEK",
-     "to_name": "Chelyabinsk",
-     "model": "ATR 72",
-     "status": "Departed",
-     "scheduled": "2026-11-19T04:45:00Z",
-     "actual": "2026-11-19T05:22:00Z",
-     "delay_min": 37,
-     "final": true,
-     "loss": 165242
     }
    ]
   },
@@ -3936,7 +3687,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   },
@@ -3950,12 +3701,12 @@
    "departed": 11,
    "cancelled": 2,
    "delayed": 8,
-   "delay_min": 369,
-   "pax_hours": 758,
-   "loss_pax": 454555,
-   "loss_airline": 2840970,
-   "loss_total": 3295525,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 443,
+   "pax_hours": 934,
+   "loss_pax": 560014,
+   "loss_airline": 3500090,
+   "loss_total": 4060104,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -3977,12 +3728,25 @@
      "to": "UFA",
      "to_name": "Ufa",
      "model": "Boeing 737-400",
-     "status": "GateClosed",
+     "status": "Departed",
      "scheduled": "2026-11-19T11:30:00Z",
-     "actual": "2026-11-19T12:30:00Z",
-     "delay_min": 60,
-     "final": false,
-     "loss": 612480
+     "actual": "2026-11-19T13:26:00Z",
+     "delay_min": 116,
+     "final": true,
+     "loss": 1184128
+    },
+    {
+     "number": "YC 89",
+     "airline": "Yamal",
+     "to": "DME",
+     "to_name": "Moscow",
+     "model": "Airbus A320",
+     "status": "Departed",
+     "scheduled": "2026-11-19T11:55:00Z",
+     "actual": "2026-11-19T12:48:00Z",
+     "delay_min": 53,
+     "final": true,
+     "loss": 568075
     },
     {
      "number": "YC 317",
@@ -3996,19 +3760,6 @@
      "delay_min": 40,
      "final": true,
      "loss": 250096
-    },
-    {
-     "number": "YC 89",
-     "airline": "Yamal",
-     "to": "DME",
-     "to_name": "Moscow",
-     "model": "Airbus A320",
-     "status": "Boarding",
-     "scheduled": "2026-11-19T11:55:00Z",
-     "actual": "2026-11-19T12:30:00Z",
-     "delay_min": 35,
-     "final": false,
-     "loss": 375144
     },
     {
      "number": "YC 189",
@@ -4105,7 +3856,7 @@
    "loss_pax": 379174,
    "loss_airline": 2369840,
    "loss_total": 2749014,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -4229,7 +3980,7 @@
    "loss_pax": 849218,
    "loss_airline": 5307610,
    "loss_total": 6156828,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -4327,7 +4078,7 @@
    "loss_pax": 447462,
    "loss_airline": 2796640,
    "loss_total": 3244102,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -4438,7 +4189,7 @@
    "loss_pax": 35165,
    "loss_airline": 219780,
    "loss_total": 254945,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -4497,7 +4248,7 @@
    "loss_pax": 256080,
    "loss_airline": 1600500,
    "loss_total": 1856580,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -4595,7 +4346,7 @@
    "loss_pax": 519341,
    "loss_airline": 3245880,
    "loss_total": 3765221,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -4688,12 +4439,12 @@
    "departed": 8,
    "cancelled": 0,
    "delayed": 5,
-   "delay_min": 707,
-   "pax_hours": 2013,
-   "loss_pax": 1206357,
-   "loss_airline": 7539730,
-   "loss_total": 8746087,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "delay_min": 714,
+   "pax_hours": 2023,
+   "loss_pax": 1212394,
+   "loss_airline": 7577460,
+   "loss_total": 8789854,
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": [
     {
@@ -4736,6 +4487,19 @@
      "loss": 568075
     },
     {
+     "number": "IO 312",
+     "airline": "IrAero",
+     "to": "IKT",
+     "to_name": "Irkutsk",
+     "model": "Sukhoi Superjet 100",
+     "status": "Departed",
+     "scheduled": "2026-11-19T13:10:00Z",
+     "actual": "2026-11-19T13:40:00Z",
+     "delay_min": 30,
+     "final": true,
+     "loss": 187572
+    },
+    {
      "number": "S7 3046",
      "airline": "S7",
      "to": "DME",
@@ -4747,19 +4511,6 @@
      "delay_min": 28,
      "final": true,
      "loss": 300115
-    },
-    {
-     "number": "IO 312",
-     "airline": "IrAero",
-     "to": "IKT",
-     "to_name": "Irkutsk",
-     "model": "Sukhoi Superjet 100",
-     "status": "GateClosed",
-     "scheduled": "2026-11-19T13:10:00Z",
-     "actual": "2026-11-19T13:42:00Z",
-     "delay_min": 23,
-     "final": false,
-     "loss": 143805
     },
     {
      "number": "АЯ 177",
@@ -4817,7 +4568,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   },
@@ -4836,7 +4587,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   },
@@ -4855,7 +4606,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   },
@@ -4874,7 +4625,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   },
@@ -4893,7 +4644,7 @@
    "loss_pax": 0,
    "loss_airline": 0,
    "loss_total": 0,
-   "last_fetch": "2026-11-19T13:33:18Z",
+   "last_fetch": "2026-11-19T14:07:26Z",
    "stale": false,
    "worst": []
   }

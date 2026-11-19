@@ -258,9 +258,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T11:30:00Z",
-   "actual": "2026-11-19T13:50:00Z"
+   "actual": "2026-11-19T14:40:00Z"
   },
   "WZ 1122|2026-11-19T14:00:00Z": {
    "number": "WZ 1122",
@@ -278,9 +278,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T14:05:00Z",
    "actual": "2026-11-19T14:05:00Z"
+  },
+  "U6 206|2026-11-19T15:05:00Z": {
+   "number": "U6 206",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T15:05:00Z",
+   "actual": "2026-11-19T15:05:00Z"
   }
  },
  "fetched": [
@@ -299,6 +309,7 @@
   "2026-11-19T13:11:13Z",
   "2026-11-19T13:12:06Z",
   "2026-11-19T13:30:22Z",
-  "2026-11-19T13:33:18Z"
+  "2026-11-19T13:33:18Z",
+  "2026-11-19T14:07:26Z"
  ]
 }

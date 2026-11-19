@@ -1,0 +1,19 @@
+{
+ "airport": "KHV",
+ "date": "2026-11-20",
+ "flights": {
+  "S7 6501|2026-11-19T14:30:00Z": {
+   "number": "S7 6501",
+   "airline": "S7",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "del2",
+   "status": "Expected",
+   "scheduled": "2026-11-19T14:30:00Z",
+   "actual": "2026-11-19T14:30:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T14:07:26Z"
+ ]
+}
