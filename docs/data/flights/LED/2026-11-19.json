@@ -908,9 +908,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Boeing 737 MAX 8",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T11:40:00Z",
-   "actual": "2026-11-19T11:40:00Z"
+   "actual": "2026-11-19T12:02:00Z"
   },
   "FV 6246|2026-11-19T12:00:00Z": {
    "number": "FV 6246",
@@ -928,9 +928,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T12:00:00Z",
-   "actual": "2026-11-19T12:00:00Z"
+   "actual": "2026-11-19T12:04:00Z"
   },
   "FV 6925|2026-11-19T12:15:00Z": {
    "number": "FV 6925",
@@ -938,7 +938,7 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T12:15:00Z",
    "actual": "2026-11-19T12:15:00Z"
   },
@@ -948,7 +948,7 @@
    "to": "MSQ",
    "to_name": "Minsk",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T12:30:00Z",
    "actual": "2026-11-19T12:30:00Z"
   },
@@ -1031,6 +1031,16 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T13:05:00Z",
    "actual": "2026-11-19T13:05:00Z"
+  },
+  "5N 537|2026-11-19T13:10:00Z": {
+   "number": "5N 537",
+   "airline": "Smartavia",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T13:10:00Z",
+   "actual": "2026-11-19T13:10:00Z"
   }
  },
  "fetched": [
@@ -1043,6 +1053,7 @@
   "2026-11-19T08:34:39Z",
   "2026-11-19T10:57:17Z",
   "2026-11-19T12:06:15Z",
-  "2026-11-19T12:06:56Z"
+  "2026-11-19T12:06:56Z",
+  "2026-11-19T12:14:50Z"
  ]
 }

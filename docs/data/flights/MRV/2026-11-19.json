@@ -168,9 +168,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T11:15:00Z",
-   "actual": "2026-11-19T12:00:00Z"
+   "actual": "2026-11-19T11:57:00Z"
   },
   "U6 1827|2026-11-19T11:15:00Z": {
    "number": "U6 1827",
@@ -178,9 +178,9 @@
    "to": "Hurghada",
    "to_name": "Hurghada",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T11:15:00Z",
-   "actual": "2026-11-19T11:15:00Z"
+   "actual": "2026-11-19T11:53:00Z"
   },
   "UT 6134|2026-11-19T11:20:00Z": {
    "number": "UT 6134",
@@ -188,9 +188,9 @@
    "to": "Moscow",
    "to_name": "Moscow",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T11:20:00Z",
-   "actual": "2026-11-19T11:20:00Z"
+   "actual": "2026-11-19T11:49:00Z"
   },
   "S7 5128|2026-11-19T10:35:00Z": {
    "number": "S7 5128",
@@ -228,7 +228,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-19T12:35:00Z",
    "actual": "2026-11-19T12:35:00Z"
   },
@@ -253,6 +253,7 @@
   "2026-11-19T08:34:39Z",
   "2026-11-19T10:57:17Z",
   "2026-11-19T12:06:15Z",
-  "2026-11-19T12:06:56Z"
+  "2026-11-19T12:06:56Z",
+  "2026-11-19T12:14:50Z"
  ]
 }

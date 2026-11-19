@@ -298,9 +298,9 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Airbus A319",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-19T10:40:00Z",
-   "actual": "2026-11-19T11:10:00Z"
+   "actual": "2026-11-19T11:57:00Z"
   },
   "HZ 5652|2026-11-19T11:55:00Z": {
    "number": "HZ 5652",
@@ -315,7 +315,7 @@
   "4G 9652|2026-11-19T11:15:00Z": {
    "number": "4G 9652",
    "airline": "Gazpromavia",
-   "to": "Tomsk",
+   "to": "TOF",
    "to_name": "Tomsk",
    "model": "Boeing 737-700",
    "status": "Departed",
@@ -333,6 +333,7 @@
   "2026-11-19T08:34:39Z",
   "2026-11-19T10:57:17Z",
   "2026-11-19T12:06:15Z",
-  "2026-11-19T12:06:56Z"
+  "2026-11-19T12:06:56Z",
+  "2026-11-19T12:14:50Z"
  ]
 }
