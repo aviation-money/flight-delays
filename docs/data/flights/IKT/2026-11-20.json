@@ -28,7 +28,7 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T17:15:00Z",
    "actual": null
   },
@@ -61,10 +61,61 @@
    "status": "Expected",
    "scheduled": "2026-11-19T17:40:00Z",
    "actual": null
+  },
+  "IO 105|2026-11-19T19:45:00Z": {
+   "number": "IO 105",
+   "airline": "IrAero",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-19T19:45:00Z",
+   "actual": null
+  },
+  "S7 5278|2026-11-19T20:05:00Z": {
+   "number": "S7 5278",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-19T20:05:00Z",
+   "actual": null
+  },
+  "S7 6429|2026-11-19T20:20:00Z": {
+   "number": "S7 6429",
+   "airline": "S7",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-19T20:20:00Z",
+   "actual": null
+  },
+  "S7 6313|2026-11-19T20:35:00Z": {
+   "number": "S7 6313",
+   "airline": "S7",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T20:35:00Z",
+   "actual": null
+  },
+  "S7 6307|2026-11-19T21:00:00Z": {
+   "number": "S7 6307",
+   "airline": "S7",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T21:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-19T16:07:30Z",
-  "2026-11-19T18:07:26Z"
+  "2026-11-19T18:07:26Z",
+  "2026-11-19T20:07:30Z"
  ]
 }

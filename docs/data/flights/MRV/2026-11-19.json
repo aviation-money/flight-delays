@@ -308,9 +308,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T15:10:00Z",
-   "actual": "2026-11-19T17:45:00Z"
+   "actual": "2026-11-19T18:18:00Z"
   },
   "SU 1317|2026-11-19T15:40:00Z": {
    "number": "SU 1317",
@@ -348,9 +348,19 @@
    "to": "DWC",
    "to_name": "Jebel Ali",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T19:00:00Z",
-   "actual": "2026-11-19T19:00:00Z"
+   "actual": "2026-11-19T19:23:00Z"
+  },
+  "UT 482|2026-11-19T09:40:00Z": {
+   "number": "UT 482",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T09:40:00Z",
+   "actual": "2026-11-19T19:21:00Z"
   }
  },
  "fetched": [
@@ -372,6 +382,7 @@
   "2026-11-19T13:33:18Z",
   "2026-11-19T14:07:26Z",
   "2026-11-19T16:07:30Z",
-  "2026-11-19T18:07:26Z"
+  "2026-11-19T18:07:26Z",
+  "2026-11-19T20:07:30Z"
  ]
 }

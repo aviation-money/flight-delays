@@ -1,0 +1,19 @@
+{
+ "airport": "UFA",
+ "date": "2026-11-20",
+ "flights": {
+  "UT 422|2026-11-19T19:25:00Z": {
+   "number": "UT 422",
+   "airline": "UTAir",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T19:25:00Z",
+   "actual": "2026-11-19T19:49:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T20:07:30Z"
+ ]
+}

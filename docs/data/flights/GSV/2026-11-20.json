@@ -1,0 +1,19 @@
+{
+ "airport": "GSV",
+ "date": "2026-11-20",
+ "flights": {
+  "UT 6424|2026-11-19T20:05:00Z": {
+   "number": "UT 6424",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T20:05:00Z",
+   "actual": "2026-11-19T20:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T20:07:30Z"
+ ]
+}

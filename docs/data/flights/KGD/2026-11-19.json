@@ -288,9 +288,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T18:15:00Z",
-   "actual": "2026-11-19T18:15:00Z"
+   "actual": "2026-11-19T18:25:00Z"
   },
   "5N 514|2026-11-19T18:20:00Z": {
    "number": "5N 514",
@@ -298,9 +298,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T18:20:00Z",
-   "actual": "2026-11-19T18:20:00Z"
+   "actual": "2026-11-19T18:13:00Z"
   }
  },
  "fetched": [
@@ -322,6 +322,7 @@
   "2026-11-19T13:33:18Z",
   "2026-11-19T14:07:26Z",
   "2026-11-19T16:07:30Z",
-  "2026-11-19T18:07:26Z"
+  "2026-11-19T18:07:26Z",
+  "2026-11-19T20:07:30Z"
  ]
 }

@@ -1,8 +1,30 @@
 {
  "airport": "NOZ",
  "date": "2026-11-20",
- "flights": {},
+ "flights": {
+  "WZ 5092|2026-11-19T20:05:00Z": {
+   "number": "WZ 5092",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T20:05:00Z",
+   "actual": "2026-11-19T20:29:00Z"
+  },
+  "VJ 6847|2026-11-19T19:15:00Z": {
+   "number": "VJ 6847",
+   "airline": "VietJetAir",
+   "to": "PQC",
+   "to_name": "Duong Dong",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-19T19:15:00Z",
+   "actual": "2026-11-19T20:37:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-19T18:07:26Z"
+  "2026-11-19T18:07:26Z",
+  "2026-11-19T20:07:30Z"
  ]
 }

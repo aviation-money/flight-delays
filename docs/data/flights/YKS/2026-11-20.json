@@ -8,13 +8,34 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T17:00:00Z",
+   "actual": null
+  },
+  "R3 295|2026-11-19T19:40:00Z": {
+   "number": "R3 295",
+   "airline": "Yakutia",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-19T19:40:00Z",
+   "actual": null
+  },
+  "R3 443|2026-11-19T20:20:00Z": {
+   "number": "R3 443",
+   "airline": "Yakutia",
+   "to": "CKH",
+   "to_name": "Chokurdah",
+   "model": null,
+   "status": "Unknown",
+   "scheduled": "2026-11-19T20:20:00Z",
    "actual": null
   }
  },
  "fetched": [
   "2026-11-19T16:07:30Z",
-  "2026-11-19T18:07:26Z"
+  "2026-11-19T18:07:26Z",
+  "2026-11-19T20:07:30Z"
  ]
 }

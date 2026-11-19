@@ -8,12 +8,13 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T18:20:00Z",
-   "actual": "2026-11-19T18:20:00Z"
+   "actual": "2026-11-19T18:30:00Z"
   }
  },
  "fetched": [
-  "2026-11-19T18:07:26Z"
+  "2026-11-19T18:07:26Z",
+  "2026-11-19T20:07:30Z"
  ]
 }

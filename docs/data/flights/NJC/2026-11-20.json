@@ -1,0 +1,19 @@
+{
+ "airport": "NJC",
+ "date": "2026-11-20",
+ "flights": {
+  "UT 152|2026-11-19T19:30:00Z": {
+   "number": "UT 152",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "Expected",
+   "scheduled": "2026-11-19T19:30:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-19T20:07:30Z"
+ ]
+}
