@@ -97,10 +97,40 @@
    "airline": "UTAir",
    "to": "VKO",
    "to_name": "Moscow",
-   "model": "Boeing 737-500",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-19T13:00:00Z",
    "actual": "2026-11-19T13:13:00Z"
+  },
+  "UT 320|2026-11-19T15:15:00Z": {
+   "number": "UT 320",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-19T15:15:00Z",
+   "actual": "2026-11-19T15:23:00Z"
+  },
+  "UT 116|2026-11-19T16:00:00Z": {
+   "number": "UT 116",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T16:00:00Z",
+   "actual": "2026-11-19T17:00:00Z"
+  },
+  "UT 315|2026-11-19T15:45:00Z": {
+   "number": "UT 315",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T15:45:00Z",
+   "actual": "2026-11-19T17:00:00Z"
   }
  },
  "fetched": [
@@ -117,6 +147,7 @@
   "2026-11-19T13:12:06Z",
   "2026-11-19T13:30:22Z",
   "2026-11-19T13:33:18Z",
-  "2026-11-19T14:07:26Z"
+  "2026-11-19T14:07:26Z",
+  "2026-11-19T16:07:30Z"
  ]
 }
