@@ -86,6 +86,14 @@ def head_tags(site, title, desc, url, extra_ld=None) -> str:
         tags.append(f'<meta name="google-site-verification" content="{e(site["google_verification"])}">')
     if site.get("yandex_verification"):
         tags.append(f'<meta name="yandex-verification" content="{e(site["yandex_verification"])}">')
+    mid = str(site.get("yandex_metrika_id") or "").strip()
+    if mid.isdigit():
+        tags.append(
+            '<script>(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};'
+            'm[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}'
+            'k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})'
+            "(window,document,'script','https://mc.yandex.ru/metrika/tag.js','ym');"
+            f"ym({mid},'init',{{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true}});</script>")
     if extra_ld:
         tags.append('<script type="application/ld+json">' + json.dumps(extra_ld, ensure_ascii=False) + "</script>")
     return "\n" + "\n".join(tags) + "\n"
@@ -130,7 +138,7 @@ def render_index(site, data):
             f'<a class="apname" href="airport/{e(r["iata"].lower())}.html">{e(r["name"])}</a>'
             f'<div class="apcity">{e(r["city"])}</div></td>'
             f'<td class="r num opt">{num(r["departed"])}</td>'
-            f'<td class="r num opt">{num(r["delayed"])}{f" <span class=apcity>{pct}%</span>" if pct else ""}</td>'
+            f'<td class="r num opt">{num(r["delayed"])}{f'<span class="badge{" red" if pct >= 30 else ""}">{pct}%</span>' if pct else ""}</td>'
             f'<td class="r num opt">{r["cancelled"] or "—"}</td>'
             f'<td class="barcell min"><div class="bar"><span class="val num">{num(r["delay_min"])}</span>'
             f'<span class="track"><i style="width:{r["delay_min"] / max_min * 100:.1f}%"></i></span></div></td>'
@@ -146,7 +154,47 @@ def render_index(site, data):
     return s
 
 
-def render_airport(site, data, r, style):
+def period_totals(daily, iata, match):
+    keys = ("departed", "delayed", "cancelled", "delay_min", "loss_total")
+    t = dict.fromkeys(keys, 0)
+    days = 0
+    for d, rows in daily.items():
+        if match(d) and iata in rows:
+            days += 1
+            for k in keys:
+                t[k] += rows[iata].get(k, 0)
+    return t, days
+
+
+def past_section(daily, r) -> str:
+    from datetime import date, timedelta
+    today = date.fromisoformat(r["date"])
+    yest = (today - timedelta(days=1)).isoformat()
+    month = r["date"][:7]
+    pm = (today.replace(day=1) - timedelta(days=1))
+    prev = pm.isoformat()[:7]
+    names = ["январь", "февраль", "март", "апрель", "май", "июнь", "июль", "август", "сентябрь",
+             "октябрь", "ноябрь", "декабрь"]
+    periods = [("Вчера", lambda d: d == yest),
+               (f"{names[today.month - 1].capitalize()} {today.year}", lambda d: d.startswith(month)),
+               (f"{names[pm.month - 1].capitalize()} {pm.year}", lambda d: d.startswith(prev))]
+    trs = []
+    for label, match in periods:
+        t, days = period_totals(daily, r["iata"], match)
+        if not days:
+            continue
+        trs.append(f'<tr><td>{e(label)}</td><td class="r num">{days}</td><td class="r num">{num(t["departed"])}</td>'
+                   f'<td class="r num">{num(t["delayed"])}</td><td class="r num" style="color:var(--amber);font-weight:700">{num(t["delay_min"])}</td>'
+                   f'<td class="r num">{rub(t["loss_total"])}</td></tr>')
+    if not trs:
+        return ""
+    return ('<section class="method"><h2>Задержки за прошлые периоды</h2><div class="board"><table class="flights">'
+            '<thead><tr><th>Период</th><th class="r">Дней</th><th class="r">Вылетов</th><th class="r">Задержано</th>'
+            '<th class="r">Минуты</th><th class="r">Потери</th></tr></thead><tbody>' + "".join(trs) +
+            '</tbody></table></div><p class="src">Сумма по суткам, за которые есть данные. Текущий месяц включает сегодняшний день.</p></section>')
+
+
+def render_airport(site, data, r, style, daily=None):
     when = human_time(data["generated_at"])
     slug = r["iata"].lower()
     url = f'{site["url"]}airport/{slug}.html'
@@ -182,6 +230,7 @@ def render_airport(site, data, r, style):
     <h2>Самые долгие задержки сегодня</h2>
     {f'<div class="board"><table class="flights"><thead><tr><th>Рейс</th><th>Куда</th><th>План</th><th>Факт</th><th class="r">Мин</th><th class="r">Потери</th></tr></thead><tbody>{worst}</tbody></table></div><p class="src">Время местное. * рейс ещё не вылетел, задержка растёт.</p>' if worst else '<p>Задержек сегодня пока нет.</p>'}
   </section>
+  {past_section(daily or {}, r)}
   <section class="method">
     <h2>Как считаются потери</h2>
     <p>Учитываются вылеты из аэропорта {e(r['name'])} за местные сутки. Минуты задержки = фактическое время отправления минус время по расписанию. Потери складываются из стоимости времени пассажиров и расходов авиакомпании на минуту простоя. Подробная методика и все коэффициенты — <a href="../#method">на главной странице</a>.</p>
@@ -218,9 +267,11 @@ def main():
     if not site["url"].endswith("/"):
         site["url"] += "/"
     data = json.loads((DOCS / "data" / "latest.json").read_text(encoding="utf-8"))
+    daily_path = DOCS / "data" / "daily.json"
+    daily = json.loads(daily_path.read_text(encoding="utf-8")) if daily_path.exists() else {}
     index = render_index(site, data)
     style = re.search(r"<style>.*?</style>", index, re.S).group(0)
-    urls = [site["url"]] + [render_airport(site, data, r, style) for r in data["airports"]]
+    urls = [site["url"]] + [render_airport(site, data, r, style, daily) for r in data["airports"]]
     lastmod = data["generated_at"]
     sm = ['<?xml version="1.0" encoding="UTF-8"?>',
           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']

@@ -304,6 +304,7 @@ def collect():
     }
     save_json(DATA / "latest.json", out)
     append_history(out)
+    update_daily(airports, now, m)
     print(f"OK: {len(summary_rows)} аэропортов, ошибок: {len(errors)}")
     if errors and len(errors) == len(summary_rows):
         sys.exit(1)
@@ -347,6 +348,31 @@ def summarize(ap, state, now, m, error=False):
         "stale": error,
         "worst": worst[:10],
     }
+
+
+DAILY_KEYS = ("flights", "departed", "cancelled", "delayed", "delay_min", "pax_hours",
+              "loss_pax", "loss_airline", "loss_total")
+
+
+def update_daily(airports, now, m):
+    """Архив итогов по суткам: docs/data/daily.json = {дата: {IATA: итоги}}. Хранится бессрочно.
+
+    Пересчитывается из всех файлов рейсов, которые ещё лежат на диске (последние 30 дней),
+    поэтому вчерашние сутки получают окончательные цифры. Более старые записи не трогаются.
+    """
+    path = DATA / "daily.json"
+    daily = load_json(path, {})
+    for ap in airports:
+        folder = DATA / "flights" / ap["iata"]
+        for f in sorted(folder.glob("*.json")) if folder.exists() else []:
+            state = load_json(f)
+            if not state or not state.get("flights"):
+                continue
+            row = summarize(ap, state, now, m)
+            daily.setdefault(state["date"], {})[ap["iata"]] = {k: row[k] for k in DAILY_KEYS}
+    daily = dict(sorted(daily.items()))
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(daily, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 
 def append_history(out):
