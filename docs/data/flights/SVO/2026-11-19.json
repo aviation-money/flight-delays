@@ -1770,7 +1770,7 @@
    "model": "Boeing 737",
    "status": "Boarding",
    "scheduled": "2026-11-19T11:45:00Z",
-   "actual": "2026-11-19T12:45:00Z"
+   "actual": "2026-11-19T14:30:00Z"
   },
   "CZ 8028|2026-11-19T11:50:00Z": {
    "number": "CZ 8028",
@@ -1860,7 +1860,7 @@
    "model": "Airbus A320",
    "status": "Boarding",
    "scheduled": "2026-11-19T12:30:00Z",
-   "actual": "2026-11-19T12:30:00Z"
+   "actual": "2026-11-19T14:30:00Z"
   },
   "FV 6495|2026-11-19T12:30:00Z": {
    "number": "FV 6495",
@@ -1957,7 +1957,7 @@
    "airline": "Etihad",
    "to": "AUH",
    "to_name": "Abu Dhabi",
-   "model": "Boeing 787",
+   "model": "Boeing 787-9",
    "status": "Departed",
    "scheduled": "2026-11-19T13:25:00Z",
    "actual": "2026-11-19T13:15:00Z"
@@ -1978,9 +1978,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T13:30:00Z",
-   "actual": "2026-11-19T13:30:00Z"
+   "actual": "2026-11-19T13:29:00Z"
   },
   "FV 6207|2026-11-19T12:35:00Z": {
    "number": "FV 6207",
@@ -2078,7 +2078,7 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T14:10:00Z",
    "actual": "2026-11-19T14:10:00Z"
   },
@@ -2088,7 +2088,7 @@
    "to": "ARH",
    "to_name": "Arkhangelsk",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T14:10:00Z",
    "actual": "2026-11-19T14:10:00Z"
   },
@@ -2118,7 +2118,7 @@
    "to": "PKX",
    "to_name": "Beijing",
    "model": "Airbus A330",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T14:15:00Z",
    "actual": "2026-11-19T14:15:00Z"
   },
@@ -2151,6 +2151,26 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T14:25:00Z",
    "actual": "2026-11-19T14:25:00Z"
+  },
+  "SU 1500|2026-11-19T14:30:00Z": {
+   "number": "SU 1500",
+   "airline": "Aeroflot",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T14:30:00Z",
+   "actual": "2026-11-19T14:30:00Z"
+  },
+  "SU 30|2026-11-19T14:30:00Z": {
+   "number": "SU 30",
+   "airline": "Aeroflot",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T14:30:00Z",
+   "actual": "2026-11-19T14:30:00Z"
   }
  },
  "fetched": [
@@ -2168,6 +2188,7 @@
   "2026-11-19T13:05:59Z",
   "2026-11-19T13:11:13Z",
   "2026-11-19T13:12:06Z",
-  "2026-11-19T13:30:22Z"
+  "2026-11-19T13:30:22Z",
+  "2026-11-19T13:33:18Z"
  ]
 }

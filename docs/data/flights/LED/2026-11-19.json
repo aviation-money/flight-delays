@@ -1141,6 +1141,36 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T14:15:00Z",
    "actual": "2026-11-19T14:15:00Z"
+  },
+  "FV 6107|2026-11-19T14:30:00Z": {
+   "number": "FV 6107",
+   "airline": "Rossiya",
+   "to": "GOJ",
+   "to_name": "Nizhniy Novgorod",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T14:30:00Z",
+   "actual": "2026-11-19T14:30:00Z"
+  },
+  "DP 535|2026-11-19T14:30:00Z": {
+   "number": "DP 535",
+   "airline": "Pobeda",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T14:30:00Z",
+   "actual": "2026-11-19T14:30:00Z"
+  },
+  "FV 6086|2026-11-19T14:30:00Z": {
+   "number": "FV 6086",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T14:30:00Z",
+   "actual": "2026-11-19T14:30:00Z"
   }
  },
  "fetched": [
@@ -1158,6 +1188,7 @@
   "2026-11-19T13:05:59Z",
   "2026-11-19T13:11:13Z",
   "2026-11-19T13:12:06Z",
-  "2026-11-19T13:30:22Z"
+  "2026-11-19T13:30:22Z",
+  "2026-11-19T13:33:18Z"
  ]
 }
