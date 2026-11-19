@@ -78,9 +78,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T03:50:00Z",
-   "actual": "2026-11-19T07:46:00Z"
+   "actual": "2026-11-19T07:35:00Z"
   },
   "WZ 4677|2026-11-19T05:10:00Z": {
    "number": "WZ 4677",
@@ -98,7 +98,7 @@
    "to": "MCX",
    "to_name": "Makhachkala",
    "model": "Boeing 737-900",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T07:00:00Z",
    "actual": "2026-11-19T08:00:00Z"
   },
@@ -110,7 +110,7 @@
    "model": "Boeing 777",
    "status": "Boarding",
    "scheduled": "2026-11-19T01:50:00Z",
-   "actual": "2026-11-19T08:00:00Z"
+   "actual": "2026-11-19T08:30:00Z"
   },
   "RT 535|2026-11-19T07:20:00Z": {
    "number": "RT 535",
@@ -138,6 +138,7 @@
   "2026-11-19T08:11:14Z",
   "2026-11-19T08:20:51Z",
   "2026-11-19T08:24:17Z",
-  "2026-11-19T08:26:09Z"
+  "2026-11-19T08:26:09Z",
+  "2026-11-19T08:29:32Z"
  ]
 }

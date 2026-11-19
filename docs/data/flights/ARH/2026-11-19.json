@@ -28,13 +28,14 @@
    "to": "NNM",
    "to_name": "Naryan Mar",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:15:00Z",
-   "actual": "2026-11-19T08:15:00Z"
+   "actual": "2026-11-19T08:19:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:24:17Z",
-  "2026-11-19T08:26:09Z"
+  "2026-11-19T08:26:09Z",
+  "2026-11-19T08:29:32Z"
  ]
 }

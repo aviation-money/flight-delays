@@ -8,13 +8,14 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:05:00Z",
-   "actual": "2026-11-19T08:05:00Z"
+   "actual": "2026-11-19T08:21:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:24:17Z",
-  "2026-11-19T08:26:09Z"
+  "2026-11-19T08:26:09Z",
+  "2026-11-19T08:29:32Z"
  ]
 }

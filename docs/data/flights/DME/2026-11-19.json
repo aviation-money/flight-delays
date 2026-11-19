@@ -238,9 +238,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Airbus A320-200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:00:00Z",
-   "actual": "2026-11-19T08:00:00Z"
+   "actual": "2026-11-19T08:20:00Z"
   },
   "S7 2143|2026-11-19T08:05:00Z": {
    "number": "S7 2143",
@@ -268,7 +268,7 @@
    "to": "MCX",
    "to_name": "Makhachkala",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T08:20:00Z",
    "actual": "2026-11-19T08:20:00Z"
   },
@@ -288,7 +288,7 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T09:05:00Z",
    "actual": "2026-11-19T09:05:00Z"
   },
@@ -318,6 +318,7 @@
   "2026-11-19T08:11:14Z",
   "2026-11-19T08:20:51Z",
   "2026-11-19T08:24:17Z",
-  "2026-11-19T08:26:09Z"
+  "2026-11-19T08:26:09Z",
+  "2026-11-19T08:29:32Z"
  ]
 }
