@@ -1,0 +1,19 @@
+{
+ "airport": "BAX",
+ "date": "2026-11-20",
+ "flights": {
+  "VJ 6849|2026-11-19T19:05:00Z": {
+   "number": "VJ 6849",
+   "airline": "VietJetAir",
+   "to": "Fukuok",
+   "to_name": "Fukuok",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T19:05:00Z",
+   "actual": "2026-11-19T19:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T18:07:26Z"
+ ]
+}

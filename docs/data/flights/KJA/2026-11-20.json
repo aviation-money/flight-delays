@@ -1,0 +1,19 @@
+{
+ "airport": "KJA",
+ "date": "2026-11-20",
+ "flights": {
+  "HZ 5641|2026-11-20T16:10:00Z": {
+   "number": "HZ 5641",
+   "airline": "Aurora",
+   "to": "Khabarovsk",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-20T16:10:00Z",
+   "actual": "2026-11-19T17:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T18:07:26Z"
+ ]
+}

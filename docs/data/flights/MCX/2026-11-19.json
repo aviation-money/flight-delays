@@ -191,6 +191,16 @@
    "status": "Expected",
    "scheduled": "2026-11-19T15:20:00Z",
    "actual": null
+  },
+  "DP 6922|2026-11-19T17:50:00Z": {
+   "number": "DP 6922",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T17:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -211,6 +221,7 @@
   "2026-11-19T13:30:22Z",
   "2026-11-19T13:33:18Z",
   "2026-11-19T14:07:26Z",
-  "2026-11-19T16:07:30Z"
+  "2026-11-19T16:07:30Z",
+  "2026-11-19T18:07:26Z"
  ]
 }

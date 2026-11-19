@@ -278,9 +278,9 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T16:30:00Z",
-   "actual": "2026-11-19T16:30:00Z"
+   "actual": "2026-11-19T16:31:00Z"
   },
   "4G 454|2026-11-19T14:50:00Z": {
    "number": "4G 454",
@@ -288,9 +288,39 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Sukhoi Superjet 100",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-19T14:50:00Z",
-   "actual": "2026-11-19T16:55:00Z"
+   "actual": "2026-11-19T17:12:00Z"
+  },
+  "UT 299|2026-11-19T17:35:00Z": {
+   "number": "UT 299",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-19T17:35:00Z",
+   "actual": "2026-11-19T17:37:00Z"
+  },
+  "S7 5354|2026-11-19T17:30:00Z": {
+   "number": "S7 5354",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T17:30:00Z",
+   "actual": "2026-11-19T17:45:00Z"
+  },
+  "SU 1501|2026-11-19T18:25:00Z": {
+   "number": "SU 1501",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T18:25:00Z",
+   "actual": "2026-11-19T18:25:00Z"
   }
  },
  "fetched": [
@@ -311,6 +341,7 @@
   "2026-11-19T13:30:22Z",
   "2026-11-19T13:33:18Z",
   "2026-11-19T14:07:26Z",
-  "2026-11-19T16:07:30Z"
+  "2026-11-19T16:07:30Z",
+  "2026-11-19T18:07:26Z"
  ]
 }

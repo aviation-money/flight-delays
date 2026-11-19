@@ -1,0 +1,19 @@
+{
+ "airport": "OMS",
+ "date": "2026-11-20",
+ "flights": {
+  "C6 464|2026-11-19T18:20:00Z": {
+   "number": "C6 464",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-19T18:20:00Z",
+   "actual": "2026-11-19T18:20:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T18:07:26Z"
+ ]
+}

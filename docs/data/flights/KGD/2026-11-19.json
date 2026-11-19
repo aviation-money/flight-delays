@@ -237,10 +237,10 @@
    "airline": "Nordwind",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Boeing 737-800",
-   "status": "Boarding",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-19T16:30:00Z",
-   "actual": "2026-11-19T16:30:00Z"
+   "actual": "2026-11-19T16:50:00Z"
   },
   "FV 6330|2026-11-19T16:55:00Z": {
    "number": "FV 6330",
@@ -248,9 +248,59 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T16:55:00Z",
-   "actual": "2026-11-19T16:55:00Z"
+   "actual": "2026-11-19T17:24:00Z"
+  },
+  "SU 1011|2026-11-19T17:15:00Z": {
+   "number": "SU 1011",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T17:15:00Z",
+   "actual": "2026-11-19T17:22:00Z"
+  },
+  "DP 536|2026-11-19T17:00:00Z": {
+   "number": "DP 536",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T17:00:00Z",
+   "actual": "2026-11-19T17:51:00Z"
+  },
+  "U6 168|2026-11-19T17:55:00Z": {
+   "number": "U6 168",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T17:55:00Z",
+   "actual": "2026-11-19T17:55:00Z"
+  },
+  "DP 264|2026-11-19T18:15:00Z": {
+   "number": "DP 264",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T18:15:00Z",
+   "actual": "2026-11-19T18:15:00Z"
+  },
+  "5N 514|2026-11-19T18:20:00Z": {
+   "number": "5N 514",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T18:20:00Z",
+   "actual": "2026-11-19T18:20:00Z"
   }
  },
  "fetched": [
@@ -271,6 +321,7 @@
   "2026-11-19T13:30:22Z",
   "2026-11-19T13:33:18Z",
   "2026-11-19T14:07:26Z",
-  "2026-11-19T16:07:30Z"
+  "2026-11-19T16:07:30Z",
+  "2026-11-19T18:07:26Z"
  ]
 }
