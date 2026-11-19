@@ -198,9 +198,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:25:00Z",
-   "actual": "2026-11-19T08:25:00Z"
+   "actual": "2026-11-19T08:39:00Z"
   },
   "UT 779|2026-11-19T02:20:00Z": {
    "number": "UT 779",
@@ -208,9 +208,29 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T02:20:00Z",
-   "actual": "2026-11-19T08:30:00Z"
+   "actual": "2026-11-19T08:52:00Z"
+  },
+  "YC 956|2026-11-19T10:10:00Z": {
+   "number": "YC 956",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:10:00Z",
+   "actual": "2026-11-19T10:12:00Z"
+  },
+  "UT 227|2026-11-19T10:15:00Z": {
+   "number": "UT 227",
+   "airline": "UTAir",
+   "to": "KGP",
+   "to_name": "Kogalym",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:15:00Z",
+   "actual": "2026-11-19T10:38:00Z"
   }
  },
  "fetched": [
@@ -220,6 +240,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

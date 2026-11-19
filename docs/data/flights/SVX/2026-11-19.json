@@ -347,7 +347,7 @@
    "airline": "Rossiya",
    "to": "KJA",
    "to_name": "Krasnoyarsk",
-   "model": "Boeing 737-800",
+   "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-19T07:10:00Z",
    "actual": "2026-11-19T07:29:00Z"
@@ -418,19 +418,19 @@
    "to": "NNM",
    "to_name": "Naryan Mar",
    "model": "Bombardier CRJ",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:30:00Z",
-   "actual": "2026-11-19T08:30:00Z"
+   "actual": "2026-11-19T08:39:00Z"
   },
   "SU 1401|2026-11-19T08:55:00Z": {
    "number": "SU 1401",
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-800",
-   "status": "Boarding",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:55:00Z",
-   "actual": "2026-11-19T08:55:00Z"
+   "actual": "2026-11-19T09:01:00Z"
   },
   "U6 209|2026-11-19T09:00:00Z": {
    "number": "U6 209",
@@ -438,9 +438,9 @@
    "to": "KRR",
    "to_name": "Krasnodar",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:00:00Z",
-   "actual": "2026-11-19T09:00:00Z"
+   "actual": "2026-11-19T09:14:00Z"
   },
   "YC 211|2026-11-19T08:15:00Z": {
    "number": "YC 211",
@@ -448,9 +448,69 @@
    "to": "NYM",
    "to_name": "Nadym",
    "model": "Sukhoi Superjet 100",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:15:00Z",
-   "actual": "2026-11-19T09:15:00Z"
+   "actual": "2026-11-19T09:17:00Z"
+  },
+  "SU 1413|2026-11-19T10:20:00Z": {
+   "number": "SU 1413",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:20:00Z",
+   "actual": "2026-11-19T10:23:00Z"
+  },
+  "S7 5014|2026-11-19T10:20:00Z": {
+   "number": "S7 5014",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:20:00Z",
+   "actual": "2026-11-19T10:30:00Z"
+  },
+  "U6 205|2026-11-19T10:30:00Z": {
+   "number": "U6 205",
+   "airline": "Ural",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T10:30:00Z",
+   "actual": "2026-11-19T10:30:00Z"
+  },
+  "S7 6416|2026-11-19T10:15:00Z": {
+   "number": "S7 6416",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:15:00Z",
+   "actual": "2026-11-19T10:41:00Z"
+  },
+  "WZ 1097|2026-11-19T11:00:00Z": {
+   "number": "WZ 1097",
+   "airline": "Red Wings",
+   "to": "NQZ",
+   "to_name": "Astana",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T11:00:00Z",
+   "actual": "2026-11-19T11:00:00Z"
+  },
+  "U6 268|2026-11-19T11:00:00Z": {
+   "number": "U6 268",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T11:00:00Z",
+   "actual": "2026-11-19T11:00:00Z"
   }
  },
  "fetched": [
@@ -460,6 +520,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

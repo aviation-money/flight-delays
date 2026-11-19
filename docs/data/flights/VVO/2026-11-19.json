@@ -258,7 +258,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T06:45:00Z",
    "actual": "2026-11-19T06:47:00Z"
   },
@@ -268,9 +268,29 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T06:35:00Z",
    "actual": "2026-11-19T07:02:00Z"
+  },
+  "HZ 4210|2026-11-19T10:20:00Z": {
+   "number": "HZ 4210",
+   "airline": "Aurora",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-19T10:20:00Z",
+   "actual": "2026-11-19T10:20:00Z"
+  },
+  "S7 6219|2026-11-19T11:05:00Z": {
+   "number": "S7 6219",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T11:05:00Z",
+   "actual": "2026-11-19T11:05:00Z"
   }
  },
  "fetched": [
@@ -280,6 +300,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

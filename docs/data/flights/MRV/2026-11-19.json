@@ -98,9 +98,9 @@
    "to": "SKX",
    "to_name": "Saransk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:30:00Z",
-   "actual": "2026-11-19T08:30:00Z"
+   "actual": "2026-11-19T09:02:00Z"
   },
   "SU 1311|2026-11-19T09:10:00Z": {
    "number": "SU 1311",
@@ -108,9 +108,89 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:10:00Z",
    "actual": "2026-11-19T09:10:00Z"
+  },
+  "FV 6356|2026-11-19T10:20:00Z": {
+   "number": "FV 6356",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:20:00Z",
+   "actual": "2026-11-19T10:24:00Z"
+  },
+  "DP 6914|2026-11-19T09:20:00Z": {
+   "number": "DP 6914",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T09:20:00Z",
+   "actual": "2026-11-19T10:25:00Z"
+  },
+  "A4 6071|2026-11-19T10:00:00Z": {
+   "number": "A4 6071",
+   "airline": "Azimuth",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:00:00Z",
+   "actual": "2026-11-19T10:35:00Z"
+  },
+  "A4 1128|2026-11-19T10:35:00Z": {
+   "number": "A4 1128",
+   "airline": "Azimuth",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:35:00Z",
+   "actual": "2026-11-19T10:40:00Z"
+  },
+  "SU 1345|2026-11-19T11:00:00Z": {
+   "number": "SU 1345",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T11:00:00Z",
+   "actual": "2026-11-19T11:00:00Z"
+  },
+  "DP 540|2026-11-19T11:15:00Z": {
+   "number": "DP 540",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T11:15:00Z",
+   "actual": "2026-11-19T11:15:00Z"
+  },
+  "U6 1827|2026-11-19T11:15:00Z": {
+   "number": "U6 1827",
+   "airline": "Ural",
+   "to": "Hurghada",
+   "to_name": "Hurghada",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-19T11:15:00Z",
+   "actual": "2026-11-19T11:15:00Z"
+  },
+  "UT 6134|2026-11-19T11:20:00Z": {
+   "number": "UT 6134",
+   "airline": "UTAir",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-19T11:20:00Z",
+   "actual": "2026-11-19T11:20:00Z"
   }
  },
  "fetched": [
@@ -120,6 +200,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

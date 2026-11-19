@@ -78,19 +78,59 @@
    "to": "Kaliningrad",
    "to_name": "Kaliningrad",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:00:00Z",
-   "actual": "2026-11-19T09:00:00Z"
+   "actual": "2026-11-19T09:04:00Z"
   },
   "5N 506|2026-11-19T09:00:00Z": {
    "number": "5N 506",
    "airline": "Smartavia",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Boeing 737-800",
-   "status": "Boarding",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:00:00Z",
-   "actual": "2026-11-19T09:00:00Z"
+   "actual": "2026-11-19T08:59:00Z"
+  },
+  "U6 372|2026-11-19T10:00:00Z": {
+   "number": "U6 372",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:00:00Z",
+   "actual": "2026-11-19T10:04:00Z"
+  },
+  "N4 282|2026-11-19T10:20:00Z": {
+   "number": "N4 282",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:20:00Z",
+   "actual": "2026-11-19T10:28:00Z"
+  },
+  "FV 6326|2026-11-19T10:50:00Z": {
+   "number": "FV 6326",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T10:50:00Z",
+   "actual": "2026-11-19T10:50:00Z"
+  },
+  "B2 950|2026-11-19T11:00:00Z": {
+   "number": "B2 950",
+   "airline": "Belavia",
+   "to": "MSQ",
+   "to_name": "Minsk",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T11:00:00Z",
+   "actual": "2026-11-19T11:00:00Z"
   }
  },
  "fetched": [
@@ -100,6 +140,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

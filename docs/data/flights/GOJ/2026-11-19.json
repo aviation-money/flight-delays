@@ -28,9 +28,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-19T07:55:00Z",
-   "actual": "2026-11-19T08:30:00Z"
+   "actual": "2026-11-19T09:49:00Z"
   },
   "FV 6230|2026-11-19T08:40:00Z": {
    "number": "FV 6230",
@@ -38,9 +38,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:40:00Z",
-   "actual": "2026-11-19T08:40:00Z"
+   "actual": "2026-11-19T08:46:00Z"
   },
   "FV 6106|2026-11-19T09:00:00Z": {
    "number": "FV 6106",
@@ -48,9 +48,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:00:00Z",
-   "actual": "2026-11-19T09:00:00Z"
+   "actual": "2026-11-19T09:03:00Z"
   }
  },
  "fetched": [
@@ -60,6 +60,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

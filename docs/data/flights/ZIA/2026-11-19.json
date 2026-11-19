@@ -27,10 +27,10 @@
    "airline": "Ural",
    "to": "DYU",
    "to_name": "Dushanbe",
-   "model": "Airbus A321",
+   "model": "Airbus A321-100/200",
    "status": "Departed",
    "scheduled": "2026-11-19T08:00:00Z",
-   "actual": "2026-11-19T08:25:00Z"
+   "actual": "2026-11-19T08:40:00Z"
   },
   "SZ 338|2026-11-19T09:00:00Z": {
    "number": "SZ 338",
@@ -38,9 +38,9 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-900",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:00:00Z",
-   "actual": "2026-11-19T09:00:00Z"
+   "actual": "2026-11-19T09:15:00Z"
   }
  },
  "fetched": [
@@ -50,6 +50,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

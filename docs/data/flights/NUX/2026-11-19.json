@@ -91,12 +91,43 @@
    "status": "Delayed",
    "scheduled": "2026-11-19T07:00:00Z",
    "actual": "2026-11-19T09:00:00Z"
+  },
+  "4G 205|2026-11-19T10:30:00Z": {
+   "number": "4G 205",
+   "airline": "Gazpromavia",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:30:00Z",
+   "actual": "2026-11-19T10:35:00Z"
+  },
+  "UT 186|2026-11-19T11:30:00Z": {
+   "number": "UT 186",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T11:30:00Z",
+   "actual": "2026-11-19T11:30:00Z"
+  },
+  "YC 146|2026-11-19T11:45:00Z": {
+   "number": "YC 146",
+   "airline": "Yamal",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T11:45:00Z",
+   "actual": "2026-11-19T11:45:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

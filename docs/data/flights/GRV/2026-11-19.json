@@ -21,12 +21,33 @@
    "status": "Expected",
    "scheduled": "2026-11-19T03:30:00Z",
    "actual": null
+  },
+  "SU 1499|2026-11-19T09:40:00Z": {
+   "number": "SU 1499",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-19T09:40:00Z",
+   "actual": null
+  },
+  "UT 400|2026-11-19T11:50:00Z": {
+   "number": "UT 400",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T11:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

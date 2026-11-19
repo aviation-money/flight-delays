@@ -91,6 +91,36 @@
    "status": "Departed",
    "scheduled": "2026-11-19T01:10:00Z",
    "actual": "2026-11-19T03:50:00Z"
+  },
+  "FV 6434|2026-11-19T08:00:00Z": {
+   "number": "FV 6434",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-19T08:00:00Z",
+   "actual": "2026-11-19T10:22:00Z"
+  },
+  "FV 6130|2026-11-19T10:45:00Z": {
+   "number": "FV 6130",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T10:45:00Z",
+   "actual": "2026-11-19T10:45:00Z"
+  },
+  "SU 1203|2026-11-19T11:00:00Z": {
+   "number": "SU 1203",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T11:00:00Z",
+   "actual": "2026-11-19T11:00:00Z"
   }
  },
  "fetched": [
@@ -100,6 +130,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

@@ -98,7 +98,7 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T05:40:00Z",
    "actual": "2026-11-19T08:29:00Z"
   },
@@ -118,9 +118,99 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T09:20:00Z",
-   "actual": "2026-11-19T09:20:00Z"
+   "actual": "2026-11-19T09:50:00Z"
+  },
+  "FV 6560|2026-11-19T08:55:00Z": {
+   "number": "FV 6560",
+   "airline": "Rossiya",
+   "to": "St-Petersburg",
+   "to_name": "St-Petersburg",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T08:55:00Z",
+   "actual": "2026-11-19T08:55:00Z"
+  },
+  "SU 1153|2026-11-19T08:05:00Z": {
+   "number": "SU 1153",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T08:05:00Z",
+   "actual": "2026-11-19T09:32:00Z"
+  },
+  "EY 858|2026-11-19T10:07:00Z": {
+   "number": "EY 858",
+   "airline": "Etihad",
+   "to": "AUH",
+   "to_name": "Abu Dhabi",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:07:00Z",
+   "actual": "2026-11-19T10:07:00Z"
+  },
+  "S7 5104|2026-11-19T10:08:00Z": {
+   "number": "S7 5104",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:08:00Z",
+   "actual": "2026-11-19T10:08:00Z"
+  },
+  "SU 1137|2026-11-19T10:18:00Z": {
+   "number": "SU 1137",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:18:00Z",
+   "actual": "2026-11-19T10:18:00Z"
+  },
+  "DP 343|2026-11-19T09:35:00Z": {
+   "number": "DP 343",
+   "airline": "Pobeda",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T09:35:00Z",
+   "actual": "2026-11-19T10:20:00Z"
+  },
+  "S7 2042|2026-11-19T11:05:00Z": {
+   "number": "S7 2042",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T11:05:00Z",
+   "actual": "2026-11-19T11:05:00Z"
+  },
+  "SU 1135|2026-11-19T11:10:00Z": {
+   "number": "SU 1135",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T11:10:00Z",
+   "actual": "2026-11-19T11:10:00Z"
+  },
+  "A4 5071|2026-11-19T10:00:00Z": {
+   "number": "A4 5071",
+   "airline": "Azimuth",
+   "to": "Istanbul",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T10:00:00Z",
+   "actual": "2026-11-19T11:10:00Z"
   }
  },
  "fetched": [
@@ -130,6 +220,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

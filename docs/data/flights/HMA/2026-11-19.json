@@ -68,9 +68,9 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Mil Mi",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T06:40:00Z",
-   "actual": "2026-11-19T06:40:00Z"
+   "actual": "2026-11-19T09:03:00Z"
   },
   "UT 303|2026-11-19T08:00:00Z": {
    "number": "UT 303",
@@ -78,9 +78,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:00:00Z",
-   "actual": "2026-11-19T08:00:00Z"
+   "actual": "2026-11-19T08:41:00Z"
   },
   "NF 973|2026-11-19T09:00:00Z": {
    "number": "NF 973",
@@ -97,6 +97,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

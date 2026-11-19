@@ -31,12 +31,23 @@
    "status": "Departed",
    "scheduled": "2026-11-19T08:15:00Z",
    "actual": "2026-11-19T08:19:00Z"
+  },
+  "FV 6338|2026-11-19T10:00:00Z": {
+   "number": "FV 6338",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-19T10:00:00Z",
+   "actual": "2026-11-19T10:17:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

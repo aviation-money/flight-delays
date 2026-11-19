@@ -45,7 +45,7 @@
   "DP 192|2026-11-19T07:40:00Z": {
    "number": "DP 192",
    "airline": "Pobeda",
-   "to": "VKO",
+   "to": "Moscow",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Unknown",
@@ -57,7 +57,7 @@
    "airline": "Uzbekistan",
    "to": "TAS",
    "to_name": "Tashkent",
-   "model": null,
+   "model": "Airbus A320 NEO",
    "status": "Expected",
    "scheduled": "2026-11-19T08:30:00Z",
    "actual": null
@@ -91,6 +91,66 @@
    "status": "Unknown",
    "scheduled": "2026-11-19T09:20:00Z",
    "actual": null
+  },
+  "DP 941|2026-11-19T10:20:00Z": {
+   "number": "DP 941",
+   "airline": "Pobeda",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T10:20:00Z",
+   "actual": null
+  },
+  "DP 505|2026-11-19T10:25:00Z": {
+   "number": "DP 505",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T10:25:00Z",
+   "actual": null
+  },
+  "N4 706|2026-11-19T11:00:00Z": {
+   "number": "N4 706",
+   "airline": "Nordwind",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-900",
+   "status": "Expected",
+   "scheduled": "2026-11-19T11:00:00Z",
+   "actual": null
+  },
+  "S7 7100|2026-11-19T11:15:00Z": {
+   "number": "S7 7100",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-19T11:15:00Z",
+   "actual": null
+  },
+  "N4 937|2026-11-19T11:20:00Z": {
+   "number": "N4 937",
+   "airline": "Nordwind",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T11:20:00Z",
+   "actual": null
+  },
+  "SU 1055|2026-11-19T11:40:00Z": {
+   "number": "SU 1055",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-19T11:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -100,6 +160,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

@@ -141,12 +141,23 @@
    "status": "Expected",
    "scheduled": "2026-11-19T07:45:00Z",
    "actual": null
+  },
+  "R3 493|2026-11-19T11:00:00Z": {
+   "number": "R3 493",
+   "airline": "Yakutia",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T11:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }

@@ -288,9 +288,39 @@
    "to": "Igarka",
    "to_name": "Igarka",
    "model": "An-26",
-   "status": "Delayed",
+   "status": "Canceled",
    "scheduled": "2026-11-19T08:00:00Z",
    "actual": "2026-11-19T09:00:00Z"
+  },
+  "FV 6875|2026-11-19T11:20:00Z": {
+   "number": "FV 6875",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T11:20:00Z",
+   "actual": "2026-11-19T11:20:00Z"
+  },
+  "IO 885|2026-11-19T10:45:00Z": {
+   "number": "IO 885",
+   "airline": "IrAero",
+   "to": "Manchzhuriya",
+   "to_name": "Manchzhuriya",
+   "model": "Bombardier CRJ200",
+   "status": "Delayed",
+   "scheduled": "2026-11-19T10:45:00Z",
+   "actual": "2026-11-19T11:40:00Z"
+  },
+  "FV 6476|2026-11-19T11:45:00Z": {
+   "number": "FV 6476",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T11:45:00Z",
+   "actual": "2026-11-19T11:45:00Z"
   }
  },
  "fetched": [
@@ -300,6 +330,7 @@
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
   "2026-11-19T08:29:32Z",
-  "2026-11-19T08:34:39Z"
+  "2026-11-19T08:34:39Z",
+  "2026-11-19T10:57:17Z"
  ]
 }
