@@ -601,10 +601,21 @@
    "status": "Boarding",
    "scheduled": "2026-11-19T08:25:00Z",
    "actual": "2026-11-19T08:55:00Z"
+  },
+  "A9 935|2026-11-19T08:15:00Z": {
+   "number": "A9 935",
+   "airline": "Georgian",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T08:15:00Z",
+   "actual": "2026-11-19T09:15:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:08:43Z",
-  "2026-11-19T08:11:14Z"
+  "2026-11-19T08:11:14Z",
+  "2026-11-19T08:20:51Z"
  ]
 }

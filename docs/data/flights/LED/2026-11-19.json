@@ -608,9 +608,9 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T07:35:00Z",
-   "actual": "2026-11-19T07:55:00Z"
+   "actual": "2026-11-19T08:08:00Z"
   },
   "VGV 613|2026-11-19T08:10:00Z": {
    "number": "VGV 613",
@@ -628,9 +628,9 @@
    "to": null,
    "to_name": null,
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:10:00Z",
-   "actual": "2026-11-19T08:10:00Z"
+   "actual": "2026-11-19T08:08:00Z"
   },
   "DP 517|2026-11-19T08:10:00Z": {
    "number": "DP 517",
@@ -698,7 +698,7 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 787-9",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T09:00:00Z",
    "actual": "2026-11-19T09:00:00Z"
   },
@@ -711,10 +711,21 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T09:10:00Z",
    "actual": "2026-11-19T09:10:00Z"
+  },
+  "FV 6341|2026-11-19T09:15:00Z": {
+   "number": "FV 6341",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:15:00Z",
+   "actual": "2026-11-19T09:15:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:08:43Z",
-  "2026-11-19T08:11:14Z"
+  "2026-11-19T08:11:14Z",
+  "2026-11-19T08:20:51Z"
  ]
 }

@@ -1188,9 +1188,9 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:05:00Z",
-   "actual": "2026-11-19T08:05:00Z"
+   "actual": "2026-11-19T08:11:00Z"
   },
   "YC 190|2026-11-19T07:35:00Z": {
    "number": "YC 190",
@@ -1208,9 +1208,9 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T05:05:00Z",
-   "actual": "2026-11-19T08:10:00Z"
+   "actual": "2026-11-19T08:18:00Z"
   },
   "SU 1312|2026-11-19T08:10:00Z": {
    "number": "SU 1312",
@@ -1218,9 +1218,9 @@
    "to": null,
    "to_name": null,
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:10:00Z",
-   "actual": "2026-11-19T08:10:00Z"
+   "actual": "2026-11-19T08:09:00Z"
   },
   "EY 842|2026-11-19T08:15:00Z": {
    "number": "EY 842",
@@ -1238,9 +1238,9 @@
    "to": null,
    "to_name": null,
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:15:00Z",
-   "actual": "2026-11-19T08:15:00Z"
+   "actual": "2026-11-19T08:11:00Z"
   },
   "SU 1572|2026-11-19T08:20:00Z": {
    "number": "SU 1572",
@@ -1338,7 +1338,7 @@
    "to": null,
    "to_name": null,
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T08:50:00Z",
    "actual": "2026-11-19T08:50:00Z"
   },
@@ -1401,10 +1401,41 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T09:10:00Z",
    "actual": "2026-11-19T09:10:00Z"
+  },
+  "DP 6923|2026-11-19T09:15:00Z": {
+   "number": "DP 6923",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:15:00Z",
+   "actual": "2026-11-19T09:15:00Z"
+  },
+  "SU 1418|2026-11-19T09:15:00Z": {
+   "number": "SU 1418",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:15:00Z",
+   "actual": "2026-11-19T09:15:00Z"
+  },
+  "DP 6901|2026-11-19T08:30:00Z": {
+   "number": "DP 6901",
+   "airline": "Pobeda",
+   "to": null,
+   "to_name": null,
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T08:30:00Z",
+   "actual": "2026-11-19T09:15:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:08:43Z",
-  "2026-11-19T08:11:14Z"
+  "2026-11-19T08:11:14Z",
+  "2026-11-19T08:20:51Z"
  ]
 }

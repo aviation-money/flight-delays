@@ -118,7 +118,7 @@
    "to": null,
    "to_name": null,
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T08:30:00Z",
    "actual": "2026-11-19T08:30:00Z"
   },
@@ -135,6 +135,7 @@
  },
  "fetched": [
   "2026-11-19T08:08:43Z",
-  "2026-11-19T08:11:14Z"
+  "2026-11-19T08:11:14Z",
+  "2026-11-19T08:20:51Z"
  ]
 }

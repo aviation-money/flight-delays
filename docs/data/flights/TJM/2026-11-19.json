@@ -198,7 +198,7 @@
    "to": null,
    "to_name": null,
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T08:25:00Z",
    "actual": "2026-11-19T08:25:00Z"
   },
@@ -208,13 +208,14 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-19T02:20:00Z",
    "actual": "2026-11-19T08:30:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:08:43Z",
-  "2026-11-19T08:11:14Z"
+  "2026-11-19T08:11:14Z",
+  "2026-11-19T08:20:51Z"
  ]
 }

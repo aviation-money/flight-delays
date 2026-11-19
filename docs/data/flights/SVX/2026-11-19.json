@@ -378,9 +378,9 @@
    "to": null,
    "to_name": null,
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T07:50:00Z",
-   "actual": "2026-11-19T07:50:00Z"
+   "actual": "2026-11-19T08:01:00Z"
   },
   "U6 174|2026-11-19T07:30:00Z": {
    "number": "U6 174",
@@ -398,9 +398,9 @@
    "to": null,
    "to_name": null,
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:00:00Z",
-   "actual": "2026-11-19T08:00:00Z"
+   "actual": "2026-11-19T08:04:00Z"
   },
   "U6 219|2026-11-19T08:00:00Z": {
    "number": "U6 219",
@@ -418,7 +418,7 @@
    "to": null,
    "to_name": null,
    "model": "Bombardier CRJ",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T08:30:00Z",
    "actual": "2026-11-19T08:30:00Z"
   },
@@ -441,10 +441,21 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T09:00:00Z",
    "actual": "2026-11-19T09:00:00Z"
+  },
+  "YC 211|2026-11-19T08:15:00Z": {
+   "number": "YC 211",
+   "airline": "Yamal",
+   "to": null,
+   "to_name": null,
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-19T08:15:00Z",
+   "actual": "2026-11-19T09:15:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:08:43Z",
-  "2026-11-19T08:11:14Z"
+  "2026-11-19T08:11:14Z",
+  "2026-11-19T08:20:51Z"
  ]
 }
