@@ -108,9 +108,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:20:00Z",
-   "actual": "2026-11-19T08:20:00Z"
+   "actual": "2026-11-19T08:22:00Z"
   },
   "YC 418|2026-11-19T08:30:00Z": {
    "number": "YC 418",
@@ -118,7 +118,7 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Expected",
    "scheduled": "2026-11-19T08:30:00Z",
    "actual": "2026-11-19T08:30:00Z"
   },
@@ -128,7 +128,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "EMB170",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T09:10:00Z",
    "actual": "2026-11-19T09:10:00Z"
   }
@@ -139,6 +139,7 @@
   "2026-11-19T08:20:51Z",
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
-  "2026-11-19T08:29:32Z"
+  "2026-11-19T08:29:32Z",
+  "2026-11-19T08:34:39Z"
  ]
 }

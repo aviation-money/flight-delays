@@ -87,7 +87,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-19T07:30:00Z",
    "actual": "2026-11-19T07:45:00Z"
@@ -98,7 +98,7 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T08:40:00Z",
    "actual": "2026-11-19T08:40:00Z"
   }
@@ -109,6 +109,7 @@
   "2026-11-19T08:20:51Z",
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
-  "2026-11-19T08:29:32Z"
+  "2026-11-19T08:29:32Z",
+  "2026-11-19T08:34:39Z"
  ]
 }

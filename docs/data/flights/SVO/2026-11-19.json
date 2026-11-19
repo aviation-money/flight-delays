@@ -1198,9 +1198,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T07:35:00Z",
-   "actual": "2026-11-19T08:05:00Z"
+   "actual": "2026-11-19T08:26:00Z"
   },
   "FV 6309|2026-11-19T05:05:00Z": {
    "number": "FV 6309",
@@ -1248,7 +1248,7 @@
    "to": "ESL",
    "to_name": "Elista",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:20:00Z",
    "actual": "2026-11-19T08:20:00Z"
   },
@@ -1258,9 +1258,9 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:20:00Z",
-   "actual": "2026-11-19T08:20:00Z"
+   "actual": "2026-11-19T08:27:00Z"
   },
   "SU 1236|2026-11-19T04:25:00Z": {
    "number": "SU 1236",
@@ -1268,9 +1268,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T04:25:00Z",
-   "actual": "2026-11-19T08:25:00Z"
+   "actual": "2026-11-19T08:21:00Z"
   },
   "FV 6215|2026-11-19T08:30:00Z": {
    "number": "FV 6215",
@@ -1278,9 +1278,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:30:00Z",
-   "actual": "2026-11-19T08:30:00Z"
+   "actual": "2026-11-19T08:25:00Z"
   },
   "SU 2132|2026-11-19T08:35:00Z": {
    "number": "SU 2132",
@@ -1308,9 +1308,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:35:00Z",
-   "actual": "2026-11-19T08:35:00Z"
+   "actual": "2026-11-19T08:31:00Z"
   },
   "SU 1420|2026-11-19T08:40:00Z": {
    "number": "SU 1420",
@@ -1358,7 +1358,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T09:00:00Z",
    "actual": "2026-11-19T09:00:00Z"
   },
@@ -1388,7 +1388,7 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T09:10:00Z",
    "actual": "2026-11-19T09:10:00Z"
   },
@@ -1398,7 +1398,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T09:10:00Z",
    "actual": "2026-11-19T09:10:00Z"
   },
@@ -1451,6 +1451,26 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T09:25:00Z",
    "actual": "2026-11-19T09:25:00Z"
+  },
+  "FV 6245|2026-11-19T09:30:00Z": {
+   "number": "FV 6245",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:30:00Z",
+   "actual": "2026-11-19T09:30:00Z"
+  },
+  "FV 6373|2026-11-19T09:30:00Z": {
+   "number": "FV 6373",
+   "airline": "Rossiya",
+   "to": "IJK",
+   "to_name": "Izhevsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:30:00Z",
+   "actual": "2026-11-19T09:30:00Z"
   }
  },
  "fetched": [
@@ -1459,6 +1479,7 @@
   "2026-11-19T08:20:51Z",
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
-  "2026-11-19T08:29:32Z"
+  "2026-11-19T08:29:32Z",
+  "2026-11-19T08:34:39Z"
  ]
 }

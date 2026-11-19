@@ -558,7 +558,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T08:30:00Z",
    "actual": "2026-11-19T08:30:00Z"
   },
@@ -588,7 +588,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T07:30:00Z",
    "actual": "2026-11-19T08:35:00Z"
   },
@@ -621,6 +621,36 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T08:30:00Z",
    "actual": "2026-11-19T09:20:00Z"
+  },
+  "RT 207|2026-11-19T06:30:00Z": {
+   "number": "RT 207",
+   "airline": "UVT Aero",
+   "to": "RMZ",
+   "to_name": "Tobolsk",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T06:30:00Z",
+   "actual": "2026-11-19T09:30:00Z"
+  },
+  "UT 373|2026-11-19T07:00:00Z": {
+   "number": "UT 373",
+   "airline": "UTAir",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T07:00:00Z",
+   "actual": "2026-11-19T09:30:00Z"
+  },
+  "FV 6008|2026-11-19T09:30:00Z": {
+   "number": "FV 6008",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:30:00Z",
+   "actual": "2026-11-19T09:30:00Z"
   }
  },
  "fetched": [
@@ -629,6 +659,7 @@
   "2026-11-19T08:20:51Z",
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
-  "2026-11-19T08:29:32Z"
+  "2026-11-19T08:29:32Z",
+  "2026-11-19T08:34:39Z"
  ]
 }

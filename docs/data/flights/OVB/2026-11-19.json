@@ -718,9 +718,9 @@
    "to": "Kyzyl",
    "to_name": "Kyzyl",
    "model": null,
-   "status": "GateClosed",
+   "status": "Boarding",
    "scheduled": "2026-11-19T07:50:00Z",
-   "actual": "2026-11-19T08:20:00Z"
+   "actual": "2026-11-19T08:30:00Z"
   },
   "S7 5565|2026-11-19T06:15:00Z": {
    "number": "S7 5565",
@@ -758,7 +758,7 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "Embraer 170",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T08:45:00Z",
    "actual": "2026-11-19T08:45:00Z"
   },
@@ -779,6 +779,7 @@
   "2026-11-19T08:20:51Z",
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
-  "2026-11-19T08:29:32Z"
+  "2026-11-19T08:29:32Z",
+  "2026-11-19T08:34:39Z"
  ]
 }

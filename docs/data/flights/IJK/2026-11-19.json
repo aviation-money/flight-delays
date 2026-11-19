@@ -21,11 +21,22 @@
    "status": "Unknown",
    "scheduled": "2026-11-19T06:40:00Z",
    "actual": null
+  },
+  "N4 352|2026-11-19T09:30:00Z": {
+   "number": "N4 352",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T09:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
-  "2026-11-19T08:29:32Z"
+  "2026-11-19T08:29:32Z",
+  "2026-11-19T08:34:39Z"
  ]
 }

@@ -98,9 +98,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Expected",
    "scheduled": "2026-11-19T05:40:00Z",
-   "actual": "2026-11-19T08:30:00Z"
+   "actual": "2026-11-19T08:29:00Z"
   },
   "FV 6560|2026-11-19T09:05:00Z": {
    "number": "FV 6560",
@@ -108,7 +108,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-19T09:05:00Z",
    "actual": "2026-11-19T09:05:00Z"
   },
@@ -129,6 +129,7 @@
   "2026-11-19T08:20:51Z",
   "2026-11-19T08:24:17Z",
   "2026-11-19T08:26:09Z",
-  "2026-11-19T08:29:32Z"
+  "2026-11-19T08:29:32Z",
+  "2026-11-19T08:34:39Z"
  ]
 }
