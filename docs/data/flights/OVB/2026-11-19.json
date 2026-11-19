@@ -868,9 +868,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T13:00:00Z",
-   "actual": "2026-11-19T13:00:00Z"
+   "actual": "2026-11-19T13:05:00Z"
   },
   "S7 5319|2026-11-19T13:05:00Z": {
    "number": "S7 5319",
@@ -880,7 +880,7 @@
    "model": "Embraer 170",
    "status": "Boarding",
    "scheduled": "2026-11-19T13:05:00Z",
-   "actual": "2026-11-19T13:35:00Z"
+   "actual": "2026-11-19T13:42:00Z"
   },
   "S7 5019|2026-11-19T13:15:00Z": {
    "number": "S7 5019",
@@ -898,7 +898,7 @@
    "to": "TFU",
    "to_name": "Chengdu",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T13:20:00Z",
    "actual": "2026-11-19T13:20:00Z"
   }
@@ -915,6 +915,7 @@
   "2026-11-19T12:06:15Z",
   "2026-11-19T12:06:56Z",
   "2026-11-19T12:14:50Z",
-  "2026-11-19T13:05:59Z"
+  "2026-11-19T13:05:59Z",
+  "2026-11-19T13:11:13Z"
  ]
 }

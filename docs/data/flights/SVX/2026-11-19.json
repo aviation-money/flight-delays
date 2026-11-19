@@ -581,6 +581,26 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T14:00:00Z",
    "actual": "2026-11-19T14:00:00Z"
+  },
+  "SU 1403|2026-11-19T14:05:00Z": {
+   "number": "SU 1403",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T14:05:00Z",
+   "actual": "2026-11-19T14:05:00Z"
+  },
+  "U6 571|2026-11-19T14:10:00Z": {
+   "number": "U6 571",
+   "airline": "Ural",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T14:10:00Z",
+   "actual": "2026-11-19T14:10:00Z"
   }
  },
  "fetched": [
@@ -595,6 +615,7 @@
   "2026-11-19T12:06:15Z",
   "2026-11-19T12:06:56Z",
   "2026-11-19T12:14:50Z",
-  "2026-11-19T13:05:59Z"
+  "2026-11-19T13:05:59Z",
+  "2026-11-19T13:11:13Z"
  ]
 }
