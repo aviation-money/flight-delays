@@ -148,9 +148,9 @@
    "to": "Kaliningrad",
    "to_name": "Kaliningrad",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T12:00:00Z",
-   "actual": "2026-11-19T12:00:00Z"
+   "actual": "2026-11-19T13:03:00Z"
   },
   "FV 6310|2026-11-19T08:55:00Z": {
    "number": "FV 6310",
@@ -188,7 +188,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T13:30:00Z",
    "actual": "2026-11-19T13:30:00Z"
   }
@@ -207,6 +207,7 @@
   "2026-11-19T12:14:50Z",
   "2026-11-19T13:05:59Z",
   "2026-11-19T13:11:13Z",
-  "2026-11-19T13:12:06Z"
+  "2026-11-19T13:12:06Z",
+  "2026-11-19T13:30:22Z"
  ]
 }
