@@ -1,0 +1,7 @@
+{
+  "_comment": "Адрес сайта и коды подтверждения для поисковиков. Коды вставляются только значением из content=\"...\", без тега.",
+  "url": "https://aviation-money.github.io/flight-delays/",
+  "name": "Цена задержки",
+  "google_verification": "",
+  "yandex_verification": ""
+}

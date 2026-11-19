@@ -3,11 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Цена задержки</title>
-<meta name="claude:viewport-fit-sides" content="cover">
+<title>Задержки рейсов в аэропортах России сегодня — Цена задержки</title>
+<!--SEO:head-->
+<!--/SEO:head-->
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<meta name="description" content="Задержки вылетов в аэропортах России за сегодня в минутах и рублях. Обновляется каждые 2 часа.">
+<meta name="description" content="Задержки вылетов в аэропортах России сегодня: Шереметьево, Внуково, Домодедово, Пулково и ещё 46 аэропортов. Минуты задержки и потери в рублях, обновление каждые 2 часа.">
+<meta name="robots" content="index, follow">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
@@ -95,7 +97,9 @@ tbody tr.row { cursor: pointer; }
 tbody tr.row:hover { background: color-mix(in srgb, var(--ink) 4%, transparent); }
 .rank { color: var(--muted); width: 36px; }
 .iata { font-size: 17px; }
-.apname { font-weight: 600; }
+.apname { font-weight: 600; color: inherit; text-decoration: none; }
+a.apname:hover { text-decoration: underline; }
+.summary { margin: 8px 0 0; max-width: 70ch; font-size: 14px; color: var(--muted); }
 .apcity { color: var(--muted); font-size: 13px; }
 .barcell { min-width: 170px; }
 .bar { display: grid; gap: 4px; }
@@ -118,6 +122,7 @@ tr.detail > td { background: color-mix(in srgb, var(--ink) 2.5%, var(--surface))
 .split div { display: flex; justify-content: space-between; gap: 12px; border-bottom: 1px dashed var(--line); padding-bottom: 4px; }
 .flights { width: 100%; min-width: 0; font-size: 13px; }
 .flights td, .flights th { padding: 5px 8px; }
+.flights .code { white-space: nowrap; }
 svg.spark { width: 100%; height: 90px; display: block; }
 svg.spark text { fill: var(--muted); font: 11px var(--font-ui); }
 
@@ -131,6 +136,7 @@ svg.spark text { fill: var(--muted); font: 11px var(--font-ui); }
 .params div { border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
 .params b { display: block; font-size: 20px; }
 .params span { color: var(--muted); font-size: 13px; }
+.method .airport-links { display: flex; flex-wrap: wrap; gap: 6px 14px; max-width: none; margin: 0; font-size: 14px; }
 .src { color: var(--muted); font-size: 13px; }
 .empty { padding: 40px 20px; text-align: center; color: var(--muted); }
 footer { color: var(--muted); font-size: 13px; }
@@ -156,6 +162,7 @@ a { color: var(--focus); }
     <div>
       <h1>Цена задержки<span class="tick">.</span></h1>
       <p class="lede">Сколько минут и рублей сегодня потеряно на задержках вылетов в аэропортах России. Данные обновляются каждые 2 часа.</p>
+      <!--SEO:summary--><!--/SEO:summary-->
     </div>
     <div class="meta">
       <span class="pill" id="status"><span class="dot"></span><span id="statusText">Загрузка…</span></span>
@@ -185,14 +192,14 @@ a { color: var(--focus); }
         <tr>
           <th class="rank">#</th>
           <th>Аэропорт</th>
-          <th class="r opt">Вылетело</th>
+          <th class="r opt">Вылетов</th>
           <th class="r opt">Задержано</th>
           <th class="r opt">Отмен</th>
           <th class="barcell" id="hMin">Минуты задержки</th>
           <th class="barcell" id="hRub">Потери, ₽</th>
         </tr>
       </thead>
-      <tbody id="rows"><tr><td colspan="7" class="empty">Загружаем табло…</td></tr></tbody>
+      <tbody id="rows"><!--SEO:rows--><tr><td colspan="7" class="empty">Загружаем табло…</td></tr><!--/SEO:rows--></tbody>
     </table>
   </div>
 
@@ -209,6 +216,11 @@ a { color: var(--focus); }
     <div class="params" id="params"></div>
     <p class="src" id="sources"></p>
   </section>
+
+  <nav class="method" aria-label="Аэропорты">
+    <h2>Задержки по аэропортам</h2>
+    <p class="airport-links"><!--SEO:links--><!--/SEO:links--></p>
+  </nav>
 
   <footer id="footer"></footer>
 </div>
@@ -280,7 +292,7 @@ a { color: var(--focus); }
     $("tRubS").textContent = "пассажиры " + rub(sum("loss_pax")) + " · авиакомпании " + rub(sum("loss_airline"));
     $("thr").textContent = m.delayed_flight_threshold_min;
     $("tDel").textContent = fmtInt.format(sum("delayed"));
-    $("tDelS").textContent = "из " + fmtInt.format(tDep) + " вылетевших" + (tDep ? " (" + Math.round(sum("delayed") / tDep * 100) + "%)" : "");
+    $("tDelS").textContent = "из " + fmtInt.format(tDep) + " вылетов по плану" + (tDep ? " (" + Math.round(sum("delayed") / tDep * 100) + "%)" : "");
     $("tCan").textContent = fmtInt.format(sum("cancelled"));
 
     // кнопки
@@ -295,7 +307,7 @@ a { color: var(--focus); }
       const pctDel = r.departed ? Math.round(r.delayed / r.departed * 100) : 0;
       html += `<tr class="row" tabindex="0" data-iata="${esc(r.iata)}" aria-expanded="${open.has(r.iata)}">
         <td class="rank num">${i + 1}</td>
-        <td><span class="iata code">${esc(r.iata)}</span> <span class="apname">${esc(r.name)}</span>${r.stale ? '<span class="badge">нет свежих данных</span>' : ""}<div class="apcity">${esc(r.city)}<span class="opt"> · сутки с 00:00 местного</span></div></td>
+        <td><span class="iata code">${esc(r.iata)}</span> <a class="apname" href="airport/${esc(r.iata.toLowerCase())}.html">${esc(r.name)}</a>${r.stale ? '<span class="badge">нет свежих данных</span>' : ""}<div class="apcity">${esc(r.city)}<span class="opt"> · сутки с 00:00 местного</span></div></td>
         <td class="r num opt">${fmtInt.format(r.departed)}</td>
         <td class="r num opt">${fmtInt.format(r.delayed)}${pctDel >= 30 ? `<span class="badge red">${pctDel}%</span>` : pctDel ? ` <span class="apcity">${pctDel}%</span>` : ""}</td>
         <td class="r num opt">${r.cancelled || "—"}</td>
@@ -324,7 +336,7 @@ a { color: var(--focus); }
           <div><span>Время пассажиров</span><b>${rub(r.loss_pax)}</b></div>
           <div><span>Расходы авиакомпаний</span><b>${rub(r.loss_airline)}</b></div>
           <div><span>Пассажиро-часов ожидания</span><b>${fmtInt.format(r.pax_hours)}</b></div>
-          <div><span>В среднем на вылетевший рейс</span><b>${rub(avg)}</b></div>
+          <div><span>В среднем на рейс</span><b>${rub(avg)}</b></div>
           <div><span>Рейсов в табло сегодня</span><b>${fmtInt.format(r.flights)}</b></div>
         </div>
         <h3 style="margin-top:18px">Накопление за день, минуты</h3>
@@ -390,7 +402,7 @@ a { color: var(--focus); }
     open.has(k) ? open.delete(k) : open.add(k);
     render();
   }
-  $("rows").addEventListener("click", (e) => { const tr = e.target.closest("tr.row"); if (tr) toggle(tr); });
+  $("rows").addEventListener("click", (e) => { if (e.target.closest("a")) return; const tr = e.target.closest("tr.row"); if (tr) toggle(tr); });
   $("rows").addEventListener("keydown", (e) => { if ((e.key === "Enter" || e.key === " ") && e.target.matches("tr.row")) { e.preventDefault(); toggle(e.target); } });
 
   load();

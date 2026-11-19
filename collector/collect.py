@@ -319,7 +319,9 @@ def summarize(ap, state, now, m, error=False):
         if r["cancelled"]:
             totals["cancelled"] += 1
             continue
-        if r["final"]:
+        # «вылеты по расписанию»: рейс улетел или его плановое время уже прошло
+        sched = parse_time(f.get("scheduled"))
+        if r["final"] or (sched and sched <= now):
             totals["departed"] += 1
         if r["delay_min"] >= m["delayed_flight_threshold_min"]:
             totals["delayed"] += 1
