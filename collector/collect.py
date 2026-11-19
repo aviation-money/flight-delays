@@ -83,12 +83,15 @@ class AeroDataBox:
         self.key = os.environ.get("AERODATABOX_KEY", "").strip()
         if not self.key:
             sys.exit("Нет AERODATABOX_KEY. Добавьте секрет в настройках репозитория или запустите с FLIGHT_SOURCE=demo")
-        self.base = os.environ.get("AERODATABOX_BASE", "https://aerodatabox.p.rapidapi.com").rstrip("/")
+        # По умолчанию — прямой тариф aerodatabox.com. Для RapidAPI или API.Market задайте AERODATABOX_BASE.
+        self.base = (os.environ.get("AERODATABOX_BASE") or "https://api.aerodatabox.com").rstrip("/")
         host = urllib.parse.urlparse(self.base).netloc
         if "rapidapi" in host:
             self.headers = {"X-RapidAPI-Key": self.key, "X-RapidAPI-Host": host}
-        else:  # API.market и прямые ключи
-            self.headers = {"x-magicapi-key": self.key, "x-api-key": self.key}
+        elif "api.market" in host:
+            self.headers = {"x-api-market-key": self.key}
+        else:  # https://api.aerodatabox.com
+            self.headers = {"X-Api-Key": self.key}
         self.headers["Accept"] = "application/json"
 
     def departures(self, iata: str, start: datetime, end: datetime, tz: ZoneInfo) -> list[dict]:
