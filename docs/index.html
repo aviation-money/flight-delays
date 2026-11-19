@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Цена задержки</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<meta name="description" content="Задержки вылетов в аэропортах России за сегодня в минутах и рублях. Обновляется каждый час.">
+<meta name="description" content="Задержки вылетов в аэропортах России за сегодня в минутах и рублях. Обновляется каждые 2 часа.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
@@ -108,7 +108,7 @@ tbody tr.row:hover { background: color-mix(in srgb, var(--ink) 4%, transparent);
 .badge { display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 4px; background: var(--amber-soft); color: var(--amber); margin-left: 6px; }
 .badge.red { background: var(--loss-soft); color: var(--loss); }
 
-tr.detail td { background: color-mix(in srgb, var(--ink) 2.5%, var(--surface)); padding: 16px 18px 20px; }
+tr.detail > td { background: color-mix(in srgb, var(--ink) 2.5%, var(--surface)); padding: 16px 18px 20px; }
 .detail-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); gap: 24px; align-items: start; }
 @media (max-width: 760px) { .detail-grid { grid-template-columns: minmax(0, 1fr); } }
 .detail h3 { margin: 0 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
@@ -153,7 +153,7 @@ a { color: var(--focus); }
   <header>
     <div>
       <h1>Цена задержки<span class="tick">.</span></h1>
-      <p class="lede">Сколько минут и рублей сегодня потеряно на задержках вылетов в аэропортах России. Данные обновляются каждый час.</p>
+      <p class="lede">Сколько минут и рублей сегодня потеряно на задержках вылетов в аэропортах России. Данные обновляются каждые 2 часа.</p>
     </div>
     <div class="meta">
       <span class="pill" id="status"><span class="dot"></span><span id="statusText">Загрузка…</span></span>
@@ -199,7 +199,7 @@ a { color: var(--focus); }
     <p>Учитываются только <b>вылеты</b>: задержка прилёта почти всегда продолжает задержку вылета в другом аэропорту, и если считать оба, одни и те же минуты попадут в сумму дважды. «Сегодня» значит местные сутки аэропорта, с 00:00 по его часовому поясу.</p>
     <ul>
       <li><b>Минуты задержки рейса</b> = фактическое время отправления − время по расписанию. Ранний вылет считается как 0.</li>
-      <li>Если рейс ещё не улетел, а время по расписанию прошло, учитываются минуты, накопленные к моменту обновления. В следующий час цифра уточнится.</li>
+      <li>Если рейс ещё не улетел, а время по расписанию прошло, учитываются минуты, накопленные к моменту обновления. При следующем обновлении цифра уточнится.</li>
       <li>Отменённые рейсы показаны отдельно и в рубли не переводятся: у отмены другая экономика (возвраты, перебронирование).</li>
       <li>Потери складываются из двух частей: время пассажиров и расходы авиакомпании.</li>
     </ul>
@@ -266,8 +266,8 @@ a { color: var(--focus); }
     const gen = new Date(data.generated_at);
     const ageMin = Math.round((Date.now() - gen) / 60000);
     const st = $("status");
-    st.className = "pill" + (data.source === "demo" ? " demo" : ageMin > 90 ? " stale" : "");
-    $("statusText").textContent = data.source === "demo" ? "Демо-данные" : ageMin > 90 ? "Данные устарели" : "Онлайн";
+    st.className = "pill" + (data.source === "demo" ? " demo" : ageMin > 180 ? " stale" : "");
+    $("statusText").textContent = data.source === "demo" ? "Демо-данные" : ageMin > 180 ? "Данные устарели" : "Онлайн";
     $("updated").textContent = "Обновлено " + gen.toLocaleString("ru-RU", { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit", timeZone: "Europe/Moscow" }) + " МСК";
 
     // итоги
@@ -306,7 +306,7 @@ a { color: var(--focus); }
     $("rows").innerHTML = html || '<tr><td colspan="7" class="empty">Нет аэропортов в данных</td></tr>';
 
     renderMethod(m);
-    $("footer").innerHTML = "Взяты данные 50 крупнейших аэропортов России";
+    $("footer").innerHTML = "";
   }
 
   function detail(r) {
@@ -338,7 +338,7 @@ a { color: var(--focus); }
 
   function spark(r) {
     const series = ((history[r.iata] || {})[r.date] || []).map((p) => [new Date(p[0]), p[1]]);
-    if (series.length < 2) return '<p class="apcity">График появится после второго часового обновления.</p>';
+    if (series.length < 2) return '<p class="apcity">График появится после второго обновления за день.</p>';
     const W = 320, H = 90, pl = 4, pr = 4, pt = 14, pb = 18;
     const t0 = series[0][0].getTime(), t1 = Math.max(series[series.length - 1][0].getTime(), t0 + 3600e3);
     const vmax = Math.max(1, ...series.map((p) => p[1]));

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Сборщик задержек вылетов по аэропортам.
 
-Запускается раз в час (GitHub Actions). Для каждого аэропорта:
-  1. берёт табло вылетов за окно [сейчас-4ч, сейчас+1ч] (в первый запуск дня — с 00:00),
+Запускается каждые 2 часа (GitHub Actions). Для каждого аэропорта:
+  1. берёт табло вылетов за окно [сейчас-5ч, сейчас+1ч] (в первый запуск дня — с 00:00),
   2. сливает рейсы в файл дня docs/data/flights/<IATA>/<дата>.json,
   3. пересчитывает минуты задержки и потери в рублях за сегодняшние местные сутки,
   4. пишет сводку docs/data/latest.json, которую показывает сайт.
@@ -136,7 +136,8 @@ class AeroDataBox:
         arr = f.get("arrival") or {}
         sched = parse_time(dep.get("scheduledTime") or dep.get("scheduledTimeUtc") or dep.get("scheduledTimeLocal"))
         actual = parse_time(dep.get("revisedTime") or dep.get("actualTimeUtc") or dep.get("actualTimeLocal"))
-        dest = (arr.get("airport") or {})
+        # в FIDS-ответе для вылетов аэропорт назначения лежит в movement.airport
+        dest = arr.get("airport") or dep.get("airport") or {}
         return {
             "number": (f.get("number") or "").strip(),
             "airline": (f.get("airline") or {}).get("name"),
@@ -266,7 +267,7 @@ def collect():
         path = DATA / "flights" / ap["iata"] / f"{day}.json"
         state = load_json(path) or {"airport": ap["iata"], "date": str(day), "flights": {}, "fetched": []}
 
-        start = day_start if not state["flights"] else max(day_start, now - timedelta(hours=4))
+        start = day_start if not state["flights"] else max(day_start, now - timedelta(hours=5))
         end = min(day_end, now + timedelta(hours=1))
         try:
             fetched = source.departures(ap["iata"], start, end, tz)
