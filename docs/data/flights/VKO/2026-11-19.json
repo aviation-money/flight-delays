@@ -550,7 +550,7 @@
    "model": "Boeing 787-8",
    "status": "Boarding",
    "scheduled": "2026-11-19T07:40:00Z",
-   "actual": "2026-11-19T08:20:00Z"
+   "actual": "2026-11-19T08:35:00Z"
   },
   "FV 6006|2026-11-19T08:30:00Z": {
    "number": "FV 6006",
@@ -588,7 +588,7 @@
    "to": null,
    "to_name": null,
    "model": "Sukhoi Superjet 100-95",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T07:30:00Z",
    "actual": "2026-11-19T08:35:00Z"
   },
@@ -598,12 +598,13 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T08:25:00Z",
    "actual": "2026-11-19T08:55:00Z"
   }
  },
  "fetched": [
-  "2026-11-19T08:08:43Z"
+  "2026-11-19T08:08:43Z",
+  "2026-11-19T08:11:14Z"
  ]
 }

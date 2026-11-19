@@ -1158,9 +1158,9 @@
    "to": null,
    "to_name": null,
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:00:00Z",
-   "actual": "2026-11-19T08:00:00Z"
+   "actual": "2026-11-19T07:57:00Z"
   },
   "SU 1182|2026-11-19T08:00:00Z": {
    "number": "SU 1182",
@@ -1168,9 +1168,9 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T08:00:00Z",
-   "actual": "2026-11-19T08:00:00Z"
+   "actual": "2026-11-19T07:59:00Z"
   },
   "DP 6965|2026-11-19T04:25:00Z": {
    "number": "DP 6965",
@@ -1178,9 +1178,9 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T04:25:00Z",
-   "actual": "2026-11-19T08:05:00Z"
+   "actual": "2026-11-19T08:06:00Z"
   },
   "SU 1150|2026-11-19T08:05:00Z": {
    "number": "SU 1150",
@@ -1318,7 +1318,7 @@
    "to": null,
    "to_name": null,
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T08:40:00Z",
    "actual": "2026-11-19T08:40:00Z"
   },
@@ -1348,7 +1348,7 @@
    "to": null,
    "to_name": null,
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T08:55:00Z",
    "actual": "2026-11-19T08:55:00Z"
   },
@@ -1368,7 +1368,7 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 777",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T09:00:00Z",
    "actual": "2026-11-19T09:00:00Z"
   },
@@ -1378,12 +1378,33 @@
    "to": null,
    "to_name": null,
    "model": "Boeing 777",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T09:05:00Z",
    "actual": "2026-11-19T09:05:00Z"
+  },
+  "SU 1124|2026-11-19T09:10:00Z": {
+   "number": "SU 1124",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:10:00Z",
+   "actual": "2026-11-19T09:10:00Z"
+  },
+  "SU 1076|2026-11-19T09:10:00Z": {
+   "number": "SU 1076",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:10:00Z",
+   "actual": "2026-11-19T09:10:00Z"
   }
  },
  "fetched": [
-  "2026-11-19T08:08:43Z"
+  "2026-11-19T08:08:43Z",
+  "2026-11-19T08:11:14Z"
  ]
 }

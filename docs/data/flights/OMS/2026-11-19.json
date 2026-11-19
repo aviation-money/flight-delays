@@ -108,7 +108,7 @@
    "to": null,
    "to_name": null,
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T08:20:00Z",
    "actual": "2026-11-19T08:20:00Z"
   },
@@ -121,9 +121,20 @@
    "status": "Expected",
    "scheduled": "2026-11-19T08:30:00Z",
    "actual": "2026-11-19T08:30:00Z"
+  },
+  "S7 5342|2026-11-19T09:10:00Z": {
+   "number": "S7 5342",
+   "airline": "S7",
+   "to": null,
+   "to_name": null,
+   "model": "EMB170",
+   "status": "Expected",
+   "scheduled": "2026-11-19T09:10:00Z",
+   "actual": "2026-11-19T09:10:00Z"
   }
  },
  "fetched": [
-  "2026-11-19T08:08:43Z"
+  "2026-11-19T08:08:43Z",
+  "2026-11-19T08:11:14Z"
  ]
 }

@@ -98,12 +98,13 @@
    "to": null,
    "to_name": null,
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-19T08:40:00Z",
    "actual": "2026-11-19T08:40:00Z"
   }
  },
  "fetched": [
-  "2026-11-19T08:08:43Z"
+  "2026-11-19T08:08:43Z",
+  "2026-11-19T08:11:14Z"
  ]
 }

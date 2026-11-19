@@ -701,9 +701,20 @@
    "status": "CheckIn",
    "scheduled": "2026-11-19T09:00:00Z",
    "actual": "2026-11-19T09:00:00Z"
+  },
+  "FV 6315|2026-11-19T09:10:00Z": {
+   "number": "FV 6315",
+   "airline": "Rossiya",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:10:00Z",
+   "actual": "2026-11-19T09:10:00Z"
   }
  },
  "fetched": [
-  "2026-11-19T08:08:43Z"
+  "2026-11-19T08:08:43Z",
+  "2026-11-19T08:11:14Z"
  ]
 }

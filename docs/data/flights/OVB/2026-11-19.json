@@ -720,7 +720,7 @@
    "model": null,
    "status": "GateClosed",
    "scheduled": "2026-11-19T07:50:00Z",
-   "actual": "2026-11-19T07:50:00Z"
+   "actual": "2026-11-19T08:20:00Z"
   },
   "S7 5565|2026-11-19T06:15:00Z": {
    "number": "S7 5565",
@@ -758,7 +758,7 @@
    "to": null,
    "to_name": null,
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T08:45:00Z",
    "actual": "2026-11-19T08:45:00Z"
   },
@@ -774,6 +774,7 @@
   }
  },
  "fetched": [
-  "2026-11-19T08:08:43Z"
+  "2026-11-19T08:08:43Z",
+  "2026-11-19T08:11:14Z"
  ]
 }

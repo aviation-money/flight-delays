@@ -38,7 +38,7 @@
    "to": null,
    "to_name": null,
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T08:40:00Z",
    "actual": "2026-11-19T08:40:00Z"
   },
@@ -54,6 +54,7 @@
   }
  },
  "fetched": [
-  "2026-11-19T08:08:43Z"
+  "2026-11-19T08:08:43Z",
+  "2026-11-19T08:11:14Z"
  ]
 }

@@ -101,9 +101,20 @@
    "status": "Boarding",
    "scheduled": "2026-11-19T08:30:00Z",
    "actual": "2026-11-19T08:30:00Z"
+  },
+  "SU 1311|2026-11-19T09:10:00Z": {
+   "number": "SU 1311",
+   "airline": "Aeroflot",
+   "to": null,
+   "to_name": null,
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T09:10:00Z",
+   "actual": "2026-11-19T09:10:00Z"
   }
  },
  "fetched": [
-  "2026-11-19T08:08:43Z"
+  "2026-11-19T08:08:43Z",
+  "2026-11-19T08:11:14Z"
  ]
 }
