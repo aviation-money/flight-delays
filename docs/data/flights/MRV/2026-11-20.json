@@ -1,0 +1,49 @@
+{
+ "airport": "MRV",
+ "date": "2026-11-20",
+ "flights": {
+  "A4 6021|2026-11-19T21:10:00Z": {
+   "number": "A4 6021",
+   "airline": "Azimuth",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T21:10:00Z",
+   "actual": "2026-11-19T21:42:00Z"
+  },
+  "A4 6023|2026-11-19T21:55:00Z": {
+   "number": "A4 6023",
+   "airline": "Azimuth",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T21:55:00Z",
+   "actual": "2026-11-19T21:55:00Z"
+  },
+  "ZF 4055|2026-11-19T22:10:00Z": {
+   "number": "ZF 4055",
+   "airline": "AZUR Air",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 767-300",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T22:10:00Z",
+   "actual": "2026-11-19T22:10:00Z"
+  },
+  "A4 6017|2026-11-19T22:20:00Z": {
+   "number": "A4 6017",
+   "airline": "Azimuth",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T22:20:00Z",
+   "actual": "2026-11-19T22:20:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T22:07:37Z"
+ ]
+}

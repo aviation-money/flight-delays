@@ -18,9 +18,9 @@
    "to": "HKT",
    "to_name": "Phuket",
    "model": "Boeing 777-300ER",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T20:15:00Z",
-   "actual": "2026-11-19T20:15:00Z"
+   "actual": "2026-11-19T21:25:00Z"
   },
   "S7 5240|2026-11-19T20:45:00Z": {
    "number": "S7 5240",
@@ -28,15 +28,86 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus Industrie А320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T20:45:00Z",
-   "actual": "2026-11-19T20:45:00Z"
+   "actual": "2026-11-19T22:20:00Z"
+  },
+  "U6 174|2026-11-19T21:50:00Z": {
+   "number": "U6 174",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320 NEO",
+   "status": "Expected",
+   "scheduled": "2026-11-19T21:50:00Z",
+   "actual": "2026-11-19T21:50:00Z"
+  },
+  "HZ 5456|2026-11-19T22:10:00Z": {
+   "number": "HZ 5456",
+   "airline": "Aurora",
+   "to": "Harbin",
+   "to_name": "Harbin",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-19T22:10:00Z",
+   "actual": "2026-11-19T22:10:00Z"
+  },
+  "HZ 5603|2026-11-19T22:15:00Z": {
+   "number": "HZ 5603",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Delayed",
+   "scheduled": "2026-11-19T22:15:00Z",
+   "actual": "2026-11-19T22:25:00Z"
+  },
+  "HZ 3100|2026-11-19T22:30:00Z": {
+   "number": "HZ 3100",
+   "airline": "Aurora",
+   "to": "Nikolayevsk-na-Amure Airport",
+   "to_name": "Nikolayevsk-na-Amure Airport",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Delayed",
+   "scheduled": "2026-11-19T22:30:00Z",
+   "actual": "2026-11-19T22:30:00Z"
+  },
+  "S7 5238|2026-11-19T22:55:00Z": {
+   "number": "S7 5238",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus Industrie А321 sharklets",
+   "status": "Expected",
+   "scheduled": "2026-11-19T22:55:00Z",
+   "actual": "2026-11-19T22:55:00Z"
+  },
+  "IO 2177|2026-11-19T22:05:00Z": {
+   "number": "IO 2177",
+   "airline": "IrAero",
+   "to": "Kalibo",
+   "to_name": "Kalibo",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-19T22:05:00Z",
+   "actual": "2026-11-19T23:00:00Z"
+  },
+  "4G 9652|2026-11-19T23:00:00Z": {
+   "number": "4G 9652",
+   "airline": "Gazpromavia",
+   "to": "Tomsk",
+   "to_name": "Tomsk",
+   "model": "Boeing 737-700",
+   "status": "Expected",
+   "scheduled": "2026-11-19T23:00:00Z",
+   "actual": "2026-11-19T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-19T14:07:26Z",
   "2026-11-19T16:07:30Z",
   "2026-11-19T18:07:26Z",
-  "2026-11-19T20:07:30Z"
+  "2026-11-19T20:07:30Z",
+  "2026-11-19T22:07:37Z"
  ]
 }

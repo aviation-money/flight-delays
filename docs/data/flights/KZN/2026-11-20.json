@@ -1,0 +1,39 @@
+{
+ "airport": "KZN",
+ "date": "2026-11-20",
+ "flights": {
+  "N4 1515|2026-11-19T21:45:00Z": {
+   "number": "N4 1515",
+   "airline": "Nordwind",
+   "to": "NQZ",
+   "to_name": "Astana",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T21:45:00Z",
+   "actual": "2026-11-19T21:34:00Z"
+  },
+  "FZ 974|2026-11-19T22:10:00Z": {
+   "number": "FZ 974",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T22:10:00Z",
+   "actual": "2026-11-19T22:10:00Z"
+  },
+  "RT 547|2026-11-19T22:20:00Z": {
+   "number": "RT 547",
+   "airline": "UVT Aero",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Canadair CRJ 200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T22:20:00Z",
+   "actual": "2026-11-19T22:20:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T22:07:37Z"
+ ]
+}

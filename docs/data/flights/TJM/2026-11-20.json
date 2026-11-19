@@ -1,8 +1,20 @@
 {
  "airport": "TJM",
  "date": "2026-11-20",
- "flights": {},
+ "flights": {
+  "UT 429|2026-11-19T22:05:00Z": {
+   "number": "UT 429",
+   "airline": "UTAir",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T22:05:00Z",
+   "actual": "2026-11-19T22:35:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-19T20:07:30Z"
+  "2026-11-19T20:07:30Z",
+  "2026-11-19T22:07:37Z"
  ]
 }
