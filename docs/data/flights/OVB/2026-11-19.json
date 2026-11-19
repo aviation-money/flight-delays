@@ -857,10 +857,10 @@
    "airline": "Aeroflot",
    "to": "SYX",
    "to_name": "Sanya",
-   "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "model": "Boeing 737-8LJ",
+   "status": "Departed",
    "scheduled": "2026-11-19T12:25:00Z",
-   "actual": "2026-11-19T12:25:00Z"
+   "actual": "2026-11-19T12:28:00Z"
   },
   "S7 5201|2026-11-19T13:00:00Z": {
    "number": "S7 5201",
@@ -868,7 +868,7 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-19T13:00:00Z",
    "actual": "2026-11-19T13:00:00Z"
   },
@@ -878,9 +878,29 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-19T13:05:00Z",
-   "actual": "2026-11-19T13:05:00Z"
+   "actual": "2026-11-19T13:35:00Z"
+  },
+  "S7 5019|2026-11-19T13:15:00Z": {
+   "number": "S7 5019",
+   "airline": "S7",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T13:15:00Z",
+   "actual": "2026-11-19T13:15:00Z"
+  },
+  "S7 5751|2026-11-19T13:20:00Z": {
+   "number": "S7 5751",
+   "airline": "S7",
+   "to": "TFU",
+   "to_name": "Chengdu",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T13:20:00Z",
+   "actual": "2026-11-19T13:20:00Z"
   }
  },
  "fetched": [
@@ -894,6 +914,7 @@
   "2026-11-19T10:57:17Z",
   "2026-11-19T12:06:15Z",
   "2026-11-19T12:06:56Z",
-  "2026-11-19T12:14:50Z"
+  "2026-11-19T12:14:50Z",
+  "2026-11-19T13:05:59Z"
  ]
 }

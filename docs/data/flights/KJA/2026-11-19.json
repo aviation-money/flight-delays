@@ -328,7 +328,7 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-900",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T12:15:00Z",
    "actual": "2026-11-19T12:15:00Z"
   },
@@ -338,7 +338,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T12:25:00Z",
    "actual": "2026-11-19T12:25:00Z"
   },
@@ -348,7 +348,7 @@
    "to": "Kharbin",
    "to_name": "Kharbin",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T12:25:00Z",
    "actual": "2026-11-19T12:25:00Z"
   },
@@ -358,9 +358,39 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-19T13:05:00Z",
    "actual": "2026-11-19T13:05:00Z"
+  },
+  "FV 6621|2026-11-19T13:15:00Z": {
+   "number": "FV 6621",
+   "airline": "Rossiya",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-19T13:15:00Z",
+   "actual": "2026-11-19T13:15:00Z"
+  },
+  "S7 6432|2026-11-19T13:40:00Z": {
+   "number": "S7 6432",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T13:40:00Z",
+   "actual": "2026-11-19T13:40:00Z"
+  },
+  "FV 6793|2026-11-19T13:55:00Z": {
+   "number": "FV 6793",
+   "airline": "Rossiya",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-19T13:55:00Z",
+   "actual": "2026-11-19T13:55:00Z"
   }
  },
  "fetched": [
@@ -374,6 +404,7 @@
   "2026-11-19T10:57:17Z",
   "2026-11-19T12:06:15Z",
   "2026-11-19T12:06:56Z",
-  "2026-11-19T12:14:50Z"
+  "2026-11-19T12:14:50Z",
+  "2026-11-19T13:05:59Z"
  ]
 }
