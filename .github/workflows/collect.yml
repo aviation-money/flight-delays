@@ -52,6 +52,9 @@ jobs:
           git diff --cached --quiet || git commit -m "data: $(date -u +'%Y-%m-%d %H:%M') UTC"
           for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
 
+      - name: Подготовить страницы для поисковиков
+        run: python collector/render.py
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
