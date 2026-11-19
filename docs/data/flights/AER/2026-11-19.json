@@ -35,8 +35,8 @@
   "A4 5029|2026-11-19T04:00:00Z": {
    "number": "A4 5029",
    "airline": "Azimuth",
-   "to": null,
-   "to_name": null,
+   "to": "EVN",
+   "to_name": "Yerevan",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T04:00:00Z",
@@ -45,8 +45,8 @@
   "WZ 567|2026-11-19T04:30:00Z": {
    "number": "WZ 567",
    "airline": "Red Wings",
-   "to": null,
-   "to_name": null,
+   "to": "BUS",
+   "to_name": "Batumi",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T04:30:00Z",
@@ -55,8 +55,8 @@
   "A4 5025|2026-11-19T05:30:00Z": {
    "number": "A4 5025",
    "airline": "Azimuth",
-   "to": null,
-   "to_name": null,
+   "to": "TLV",
+   "to_name": "Tel Aviv Yafo",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T05:30:00Z",
@@ -65,8 +65,8 @@
   "FV 6129|2026-11-19T06:02:00Z": {
    "number": "FV 6129",
    "airline": "Rossiya",
-   "to": null,
-   "to_name": null,
+   "to": "PEE",
+   "to_name": "Perm",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-19T06:02:00Z",
@@ -75,8 +75,8 @@
   "FV 6203|2026-11-19T05:35:00Z": {
    "number": "FV 6203",
    "airline": "Rossiya",
-   "to": null,
-   "to_name": null,
+   "to": "KUF",
+   "to_name": "Samara",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-19T05:35:00Z",
@@ -85,8 +85,8 @@
   "DP 331|2026-11-19T07:34:00Z": {
    "number": "DP 331",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "KUF",
+   "to_name": "Samara",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-19T07:34:00Z",
@@ -95,8 +95,8 @@
   "DP 112|2026-11-19T05:40:00Z": {
    "number": "DP 112",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "VKO",
+   "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Boarding",
    "scheduled": "2026-11-19T05:40:00Z",
@@ -105,17 +105,28 @@
   "FV 6560|2026-11-19T09:05:00Z": {
    "number": "FV 6560",
    "airline": "Rossiya",
-   "to": null,
-   "to_name": null,
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
    "model": "Airbus A320",
    "status": "Expected",
    "scheduled": "2026-11-19T09:05:00Z",
    "actual": "2026-11-19T09:05:00Z"
+  },
+  "SU 1123|2026-11-19T09:20:00Z": {
+   "number": "SU 1123",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T09:20:00Z",
+   "actual": "2026-11-19T09:20:00Z"
   }
  },
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

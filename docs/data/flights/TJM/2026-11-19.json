@@ -135,8 +135,8 @@
   "UT 541|2026-11-19T04:10:00Z": {
    "number": "UT 541",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
    "model": "Boeing 737-500",
    "status": "Departed",
    "scheduled": "2026-11-19T04:10:00Z",
@@ -145,8 +145,8 @@
   "UT 221|2026-11-19T04:30:00Z": {
    "number": "UT 221",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "Beloyarskiy",
+   "to_name": "Beloyarskiy",
    "model": "ATR 72",
    "status": "Departed",
    "scheduled": "2026-11-19T04:30:00Z",
@@ -155,8 +155,8 @@
   "4G 453|2026-11-19T04:35:00Z": {
    "number": "4G 453",
    "airline": "Gazpromavia",
-   "to": null,
-   "to_name": null,
+   "to": "UFA",
+   "to_name": "Ufa",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T04:35:00Z",
@@ -165,8 +165,8 @@
   "UT 125|2026-11-19T03:00:00Z": {
    "number": "UT 125",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "UFA",
+   "to_name": "Ufa",
    "model": "ATR 72",
    "status": "Departed",
    "scheduled": "2026-11-19T03:00:00Z",
@@ -175,8 +175,8 @@
   "UT 427|2026-11-19T03:30:00Z": {
    "number": "UT 427",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "UFA",
+   "to_name": "Ufa",
    "model": "Boeing 737-500",
    "status": "Departed",
    "scheduled": "2026-11-19T03:30:00Z",
@@ -185,8 +185,8 @@
   "UT 779|2026-11-19T08:00:00Z": {
    "number": "UT 779",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "Tashkent",
+   "to_name": "Tashkent",
    "model": "Boeing 737-800",
    "status": "Delayed",
    "scheduled": "2026-11-19T08:00:00Z",
@@ -195,8 +195,8 @@
   "SU 1505|2026-11-19T08:25:00Z": {
    "number": "SU 1505",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A320",
    "status": "GateClosed",
    "scheduled": "2026-11-19T08:25:00Z",
@@ -205,8 +205,8 @@
   "UT 779|2026-11-19T02:20:00Z": {
    "number": "UT 779",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "TAS",
+   "to_name": "Tashkent",
    "model": "Boeing 737-800",
    "status": "Boarding",
    "scheduled": "2026-11-19T02:20:00Z",
@@ -216,6 +216,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

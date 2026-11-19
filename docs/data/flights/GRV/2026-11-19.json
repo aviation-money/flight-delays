@@ -1,0 +1,29 @@
+{
+ "airport": "GRV",
+ "date": "2026-11-19",
+ "flights": {
+  "UT 356|2026-11-19T02:45:00Z": {
+   "number": "UT 356",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-19T02:45:00Z",
+   "actual": null
+  },
+  "UT 727|2026-11-19T03:30:00Z": {
+   "number": "UT 727",
+   "airline": "UTAir",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-19T03:30:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

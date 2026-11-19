@@ -15,8 +15,8 @@
   "U6 2617|2026-11-19T04:50:00Z": {
    "number": "U6 2617",
    "airline": "Ural",
-   "to": null,
-   "to_name": null,
+   "to": "UGC",
+   "to_name": "Urgench",
    "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-19T04:50:00Z",
@@ -25,18 +25,18 @@
   "U6 2427|2026-11-19T08:00:00Z": {
    "number": "U6 2427",
    "airline": "Ural",
-   "to": null,
-   "to_name": null,
+   "to": "DYU",
+   "to_name": "Dushanbe",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Delayed",
    "scheduled": "2026-11-19T08:00:00Z",
-   "actual": "2026-11-19T08:00:00Z"
+   "actual": "2026-11-19T08:30:00Z"
   },
   "SZ 338|2026-11-19T09:00:00Z": {
    "number": "SZ 338",
    "airline": "Somon Air",
-   "to": null,
-   "to_name": null,
+   "to": "DYU",
+   "to_name": "Dushanbe",
    "model": "Boeing 737-900",
    "status": "CheckIn",
    "scheduled": "2026-11-19T09:00:00Z",
@@ -46,6 +46,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

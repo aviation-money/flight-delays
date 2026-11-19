@@ -1,0 +1,29 @@
+{
+ "airport": "SCW",
+ "date": "2026-11-19",
+ "flights": {
+  "FV 6588|2026-11-19T07:35:00Z": {
+   "number": "FV 6588",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-19T07:35:00Z",
+   "actual": "2026-11-19T07:35:00Z"
+  },
+  "SU 1391|2026-11-19T06:15:00Z": {
+   "number": "SU 1391",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:15:00Z",
+   "actual": "2026-11-19T07:52:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

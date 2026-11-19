@@ -85,8 +85,8 @@
   "DP 366|2026-11-19T01:10:00Z": {
    "number": "DP 366",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "AER",
+   "to_name": "Sochi",
    "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-19T01:10:00Z",
@@ -96,6 +96,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

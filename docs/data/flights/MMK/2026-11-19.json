@@ -15,8 +15,8 @@
   "D2 54|2026-11-19T06:00:00Z": {
    "number": "D2 54",
    "airline": "Severstal Aircompany",
-   "to": null,
-   "to_name": null,
+   "to": "Cherepovets",
+   "to_name": "Cherepovets",
    "model": "Bombardier CRJ200",
    "status": "CheckIn",
    "scheduled": "2026-11-19T06:00:00Z",
@@ -25,8 +25,8 @@
   "D2 52|2026-11-19T08:00:00Z": {
    "number": "D2 52",
    "airline": "Severstal Aircompany",
-   "to": null,
-   "to_name": null,
+   "to": "Arkhangelsk",
+   "to_name": "Arkhangelsk",
    "model": "Bombardier CRJ200",
    "status": "Expected",
    "scheduled": "2026-11-19T08:00:00Z",
@@ -35,8 +35,8 @@
   "SU 1319|2026-11-19T08:40:00Z": {
    "number": "SU 1319",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-19T08:40:00Z",
@@ -45,8 +45,8 @@
   "5N 508|2026-11-19T08:50:00Z": {
    "number": "5N 508",
    "airline": "Smartavia",
-   "to": null,
-   "to_name": null,
+   "to": "Saint-Petersburg",
+   "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-19T08:50:00Z",
@@ -56,6 +56,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

@@ -1,0 +1,39 @@
+{
+ "airport": "ARH",
+ "date": "2026-11-19",
+ "flights": {
+  "SU 1335|2026-11-19T02:55:00Z": {
+   "number": "SU 1335",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:55:00Z",
+   "actual": "2026-11-19T03:00:00Z"
+  },
+  "FV 6304|2026-11-19T07:20:00Z": {
+   "number": "FV 6304",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:20:00Z",
+   "actual": "2026-11-19T07:39:00Z"
+  },
+  "5N 3307|2026-11-19T08:15:00Z": {
+   "number": "5N 3307",
+   "airline": "Smartavia",
+   "to": "NNM",
+   "to_name": "Naryan Mar",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-19T08:15:00Z",
+   "actual": "2026-11-19T08:15:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

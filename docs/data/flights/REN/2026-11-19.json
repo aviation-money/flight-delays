@@ -1,0 +1,49 @@
+{
+ "airport": "REN",
+ "date": "2026-11-19",
+ "flights": {
+  "A4 6150|2026-11-18T23:00:00Z": {
+   "number": "A4 6150",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:00:00Z",
+   "actual": "2026-11-18T23:14:00Z"
+  },
+  "FV 6454|2026-11-19T01:25:00Z": {
+   "number": "FV 6454",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:25:00Z",
+   "actual": "2026-11-19T01:25:00Z"
+  },
+  "FV 6172|2026-11-19T01:05:00Z": {
+   "number": "FV 6172",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:05:00Z",
+   "actual": "2026-11-19T04:47:00Z"
+  },
+  "SU 1247|2026-11-19T07:20:00Z": {
+   "number": "SU 1247",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:20:00Z",
+   "actual": "2026-11-19T07:21:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

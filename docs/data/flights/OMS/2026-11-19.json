@@ -85,8 +85,8 @@
   "S7 5344|2026-11-19T05:45:00Z": {
    "number": "S7 5344",
    "airline": "S7",
-   "to": null,
-   "to_name": null,
+   "to": "OVB",
+   "to_name": "Novosibirsk",
    "model": "EMB170",
    "status": "Departed",
    "scheduled": "2026-11-19T05:45:00Z",
@@ -95,8 +95,8 @@
   "RT 652|2026-11-19T06:05:00Z": {
    "number": "RT 652",
    "airline": "UVT Aero",
-   "to": null,
-   "to_name": null,
+   "to": "RMZ",
+   "to_name": "Tobolsk",
    "model": "TsR200",
    "status": "Expected",
    "scheduled": "2026-11-19T06:05:00Z",
@@ -105,8 +105,8 @@
   "YC 318|2026-11-19T08:20:00Z": {
    "number": "YC 318",
    "airline": "Yamal",
-   "to": null,
-   "to_name": null,
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
    "model": "Sukhoi Superjet 100",
    "status": "GateClosed",
    "scheduled": "2026-11-19T08:20:00Z",
@@ -115,8 +115,8 @@
   "YC 418|2026-11-19T08:30:00Z": {
    "number": "YC 418",
    "airline": "Yamal",
-   "to": null,
-   "to_name": null,
+   "to": "SLY",
+   "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
    "status": "GateClosed",
    "scheduled": "2026-11-19T08:30:00Z",
@@ -125,8 +125,8 @@
   "S7 5342|2026-11-19T09:10:00Z": {
    "number": "S7 5342",
    "airline": "S7",
-   "to": null,
-   "to_name": null,
+   "to": "OVB",
+   "to_name": "Novosibirsk",
    "model": "EMB170",
    "status": "Expected",
    "scheduled": "2026-11-19T09:10:00Z",
@@ -136,6 +136,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

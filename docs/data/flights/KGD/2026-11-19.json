@@ -15,8 +15,8 @@
   "SU 1009|2026-11-19T04:10:00Z": {
    "number": "SU 1009",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-19T04:10:00Z",
@@ -25,8 +25,8 @@
   "DP 530|2026-11-19T06:40:00Z": {
    "number": "DP 530",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-19T06:40:00Z",
@@ -35,8 +35,8 @@
   "DP 6836|2026-11-19T07:15:00Z": {
    "number": "DP 6836",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-19T07:15:00Z",
@@ -45,8 +45,8 @@
   "SU 1001|2026-11-19T07:15:00Z": {
    "number": "SU 1001",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A321-211",
    "status": "Departed",
    "scheduled": "2026-11-19T07:15:00Z",
@@ -55,8 +55,8 @@
   "FV 6324|2026-11-19T07:35:00Z": {
    "number": "FV 6324",
    "airline": "Rossiya",
-   "to": null,
-   "to_name": null,
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T07:35:00Z",
@@ -65,8 +65,8 @@
   "N4 884|2026-11-19T08:45:00Z": {
    "number": "N4 884",
    "airline": "Nordwind",
-   "to": null,
-   "to_name": null,
+   "to": "Perm",
+   "to_name": "Perm",
    "model": "Boeing 737-800",
    "status": "CheckIn",
    "scheduled": "2026-11-19T08:45:00Z",
@@ -75,8 +75,8 @@
   "LUK 9621|2026-11-19T09:00:00Z": {
    "number": "LUK 9621",
    "airline": "LUK",
-   "to": null,
-   "to_name": null,
+   "to": "Kaliningrad",
+   "to_name": "Kaliningrad",
    "model": null,
    "status": "CheckIn",
    "scheduled": "2026-11-19T09:00:00Z",
@@ -85,8 +85,8 @@
   "5N 506|2026-11-19T09:00:00Z": {
    "number": "5N 506",
    "airline": "Smartavia",
-   "to": null,
-   "to_name": null,
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
    "status": "CheckIn",
    "scheduled": "2026-11-19T09:00:00Z",
@@ -96,6 +96,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

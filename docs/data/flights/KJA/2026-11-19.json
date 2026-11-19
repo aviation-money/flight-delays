@@ -245,8 +245,8 @@
   "SU 1483|2026-11-19T04:05:00Z": {
    "number": "SU 1483",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-19T04:05:00Z",
@@ -255,8 +255,8 @@
   "UT 6101|2026-11-19T01:50:00Z": {
    "number": "UT 6101",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "Igarka",
+   "to_name": "Igarka",
    "model": "Boeing 737-400",
    "status": "Canceled",
    "scheduled": "2026-11-19T01:50:00Z",
@@ -265,8 +265,8 @@
   "KV 177|2026-11-19T06:20:00Z": {
    "number": "KV 177",
    "airline": "KrasAvia",
-   "to": null,
-   "to_name": null,
+   "to": "IAA",
+   "to_name": "Igarka",
    "model": "Yak 42",
    "status": "Departed",
    "scheduled": "2026-11-19T06:20:00Z",
@@ -275,8 +275,8 @@
   "S7 5308|2026-11-19T07:50:00Z": {
    "number": "S7 5308",
    "airline": "S7",
-   "to": null,
-   "to_name": null,
+   "to": "OVB",
+   "to_name": "Novosibirsk",
    "model": "Embraer 170",
    "status": "Expected",
    "scheduled": "2026-11-19T07:50:00Z",
@@ -285,8 +285,8 @@
   "KV 9283|2026-11-19T08:00:00Z": {
    "number": "KV 9283",
    "airline": "KrasAvia",
-   "to": null,
-   "to_name": null,
+   "to": "Igarka",
+   "to_name": "Igarka",
    "model": "An-26",
    "status": "Delayed",
    "scheduled": "2026-11-19T08:00:00Z",
@@ -296,6 +296,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

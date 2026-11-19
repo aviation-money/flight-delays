@@ -1,0 +1,69 @@
+{
+ "airport": "ASF",
+ "date": "2026-11-19",
+ "flights": {
+  "SU 1173|2026-11-19T03:00:00Z": {
+   "number": "SU 1173",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:00:00Z",
+   "actual": "2026-11-19T03:04:00Z"
+  },
+  "ЛЩ 9681|2026-11-19T05:30:00Z": {
+   "number": "ЛЩ 9681",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T05:30:00Z",
+   "actual": "2026-11-19T05:30:00Z"
+  },
+  "ЛЩ 9683|2026-11-19T06:30:00Z": {
+   "number": "ЛЩ 9683",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T06:30:00Z",
+   "actual": "2026-11-19T06:30:00Z"
+  },
+  "ЛЩ 9685|2026-11-19T07:00:00Z": {
+   "number": "ЛЩ 9685",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T07:00:00Z",
+   "actual": "2026-11-19T07:00:00Z"
+  },
+  "ЛЩ 9687|2026-11-19T08:00:00Z": {
+   "number": "ЛЩ 9687",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T08:00:00Z",
+   "actual": "2026-11-19T08:00:00Z"
+  },
+  "DP 6962|2026-11-19T07:40:00Z": {
+   "number": "DP 6962",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T07:40:00Z",
+   "actual": "2026-11-19T08:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

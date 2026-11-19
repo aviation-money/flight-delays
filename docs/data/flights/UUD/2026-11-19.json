@@ -1,0 +1,79 @@
+{
+ "airport": "UUD",
+ "date": "2026-11-19",
+ "flights": {
+  "S7 5256|2026-11-18T21:15:00Z": {
+   "number": "S7 5256",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:15:00Z",
+   "actual": "2026-11-18T21:34:00Z"
+  },
+  "S7 6430|2026-11-18T21:40:00Z": {
+   "number": "S7 6430",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:40:00Z",
+   "actual": "2026-11-18T21:54:00Z"
+  },
+  "S7 3032|2026-11-18T23:00:00Z": {
+   "number": "S7 3032",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:00:00Z",
+   "actual": "2026-11-19T02:10:00Z"
+  },
+  "S7 3034|2026-11-19T02:30:00Z": {
+   "number": "S7 3034",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:30:00Z",
+   "actual": "2026-11-19T03:01:00Z"
+  },
+  "SU 1455|2026-11-19T02:05:00Z": {
+   "number": "SU 1455",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:05:00Z",
+   "actual": "2026-11-19T03:27:00Z"
+  },
+  "FV 2442|2026-11-19T05:05:00Z": {
+   "number": "FV 2442",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T05:05:00Z",
+   "actual": "2026-11-19T05:22:00Z"
+  },
+  "MR 816|2026-11-19T06:10:00Z": {
+   "number": "MR 816",
+   "airline": "Hunnu Air",
+   "to": "Eren-Khoto",
+   "to_name": "Eren-Khoto",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:10:00Z",
+   "actual": "2026-11-19T06:10:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "airport": "UUS",
+ "date": "2026-11-19",
+ "flights": {
+  "S7 6512|2026-11-18T21:30:00Z": {
+   "number": "S7 6512",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:30:00Z",
+   "actual": "2026-11-18T21:26:00Z"
+  },
+  "HZ 3004|2026-11-18T22:00:00Z": {
+   "number": "HZ 3004",
+   "airline": "Aurora",
+   "to": "NGK",
+   "to_name": "Nogliki-Sakhalin Island",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-18T22:00:00Z",
+   "actual": "2026-11-18T23:00:00Z"
+  },
+  "TG 2651|2026-11-18T23:00:00Z": {
+   "number": "TG 2651",
+   "airline": "Thai  International",
+   "to": "GVN",
+   "to_name": "Sovetskaya Gavan",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-18T23:00:00Z",
+   "actual": "2026-11-18T23:00:00Z"
+  },
+  "S7 5258|2026-11-18T22:45:00Z": {
+   "number": "S7 5258",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:45:00Z",
+   "actual": "2026-11-18T23:05:00Z"
+  },
+  "HZ 4026|2026-11-19T00:20:00Z": {
+   "number": "HZ 4026",
+   "airline": "Aurora",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:20:00Z",
+   "actual": "2026-11-19T00:12:00Z"
+  },
+  "S7 6204|2026-11-19T01:40:00Z": {
+   "number": "S7 6204",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:40:00Z",
+   "actual": "2026-11-19T02:23:00Z"
+  },
+  "HZ 5627|2026-11-19T00:40:00Z": {
+   "number": "HZ 5627",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:40:00Z",
+   "actual": "2026-11-19T03:26:00Z"
+  },
+  "SU 1743|2026-11-19T03:50:00Z": {
+   "number": "SU 1743",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:50:00Z",
+   "actual": "2026-11-19T03:44:00Z"
+  },
+  "HZ 3032|2026-11-18T23:30:00Z": {
+   "number": "HZ 3032",
+   "airline": "Aurora",
+   "to": "DEE",
+   "to_name": "Kunashir Island",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:30:00Z",
+   "actual": "2026-11-19T03:50:00Z"
+  },
+  "HZ 5681|2026-11-19T03:30:00Z": {
+   "number": "HZ 5681",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:30:00Z",
+   "actual": "2026-11-19T04:07:00Z"
+  },
+  "HZ 3018|2026-11-19T04:15:00Z": {
+   "number": "HZ 3018",
+   "airline": "Aurora",
+   "to": "Kurilsk",
+   "to_name": "Kurilsk",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:15:00Z",
+   "actual": "2026-11-19T04:15:00Z"
+  },
+  "SU 5823|2026-11-19T06:00:00Z": {
+   "number": "SU 5823",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A330-300",
+   "status": "Departed",
+   "scheduled": "2026-11-19T06:00:00Z",
+   "actual": "2026-11-19T06:48:00Z"
+  },
+  "IO 312|2026-11-19T07:20:00Z": {
+   "number": "IO 312",
+   "airline": "IrAero",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:20:00Z",
+   "actual": "2026-11-19T07:16:00Z"
+  },
+  "HZ 5607|2026-11-19T07:25:00Z": {
+   "number": "HZ 5607",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:25:00Z",
+   "actual": "2026-11-19T07:25:00Z"
+  },
+  "S7 6202|2026-11-19T08:00:00Z": {
+   "number": "S7 6202",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T08:00:00Z",
+   "actual": "2026-11-19T07:45:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

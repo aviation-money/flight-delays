@@ -75,8 +75,8 @@
   "UT 6107|2026-11-18T23:40:00Z": {
    "number": "UT 6107",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "IAA",
+   "to_name": "Igarka",
    "model": "Boeing 737-400",
    "status": "Canceled",
    "scheduled": "2026-11-18T23:40:00Z",
@@ -85,8 +85,8 @@
   "KV 9455|2026-11-19T03:45:00Z": {
    "number": "KV 9455",
    "airline": "KrasAvia",
-   "to": null,
-   "to_name": null,
+   "to": "KGP",
+   "to_name": "Kogalym",
    "model": "Yak 42",
    "status": "Departed",
    "scheduled": "2026-11-19T03:45:00Z",
@@ -95,8 +95,8 @@
   "KV 9409|2026-11-19T04:00:00Z": {
    "number": "KV 9409",
    "airline": "KrasAvia",
-   "to": null,
-   "to_name": null,
+   "to": "KGP",
+   "to_name": "Kogalym",
    "model": "Yak 42",
    "status": "Departed",
    "scheduled": "2026-11-19T04:00:00Z",
@@ -105,8 +105,8 @@
   "0E 9159|2026-11-19T06:25:00Z": {
    "number": "0E 9159",
    "airline": "0E",
-   "to": null,
-   "to_name": null,
+   "to": "Sabetta",
+   "to_name": "Sabetta",
    "model": "Airbus A321 NEO",
    "status": "Departed",
    "scheduled": "2026-11-19T06:25:00Z",
@@ -115,8 +115,8 @@
   "YC 438|2026-11-19T03:55:00Z": {
    "number": "YC 438",
    "airline": "Yamal",
-   "to": null,
-   "to_name": null,
+   "to": "SLY",
+   "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T03:55:00Z",
@@ -125,8 +125,8 @@
   "SU 1261|2026-11-19T02:55:00Z": {
    "number": "SU 1261",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-19T02:55:00Z",
@@ -135,8 +135,8 @@
   "UT 402|2026-11-19T07:40:00Z": {
    "number": "UT 402",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "SGC",
+   "to_name": "Surgut",
    "model": "Boeing 737-400",
    "status": "Departed",
    "scheduled": "2026-11-19T07:40:00Z",
@@ -145,8 +145,8 @@
   "N4 256|2026-11-19T01:25:00Z": {
    "number": "N4 256",
    "airline": "Nordwind",
-   "to": null,
-   "to_name": null,
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
    "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-19T01:25:00Z",
@@ -155,18 +155,18 @@
   "UT 185|2026-11-19T07:55:00Z": {
    "number": "UT 185",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
    "model": "Boeing 737-400",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T07:55:00Z",
-   "actual": "2026-11-19T07:55:00Z"
+   "actual": "2026-11-19T08:13:00Z"
   },
   "Y7 4701|2026-11-19T02:20:00Z": {
    "number": "Y7 4701",
    "airline": "NordStar",
-   "to": null,
-   "to_name": null,
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-19T02:20:00Z",
@@ -175,8 +175,8 @@
   "UT 364|2026-11-19T03:00:00Z": {
    "number": "UT 364",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "VKO",
+   "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-19T03:00:00Z",
@@ -185,28 +185,28 @@
   "DP 977|2026-11-19T01:30:00Z": {
    "number": "DP 977",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "IST",
+   "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T01:30:00Z",
-   "actual": "2026-11-19T08:00:00Z"
+   "actual": "2026-11-19T08:18:00Z"
   },
   "UT 133|2026-11-19T08:55:00Z": {
    "number": "UT 133",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "KZN",
+   "to_name": "Kazan",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-19T08:55:00Z",
    "actual": "2026-11-19T08:55:00Z"
   },
   "4G 453|2026-11-19T02:25:00Z": {
    "number": "4G 453",
    "airline": "Gazpromavia",
-   "to": null,
-   "to_name": null,
+   "to": "TJM",
+   "to_name": "Tyumen",
    "model": "Boeing 737-700",
    "status": "Canceled",
    "scheduled": "2026-11-19T02:25:00Z",
@@ -216,6 +216,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

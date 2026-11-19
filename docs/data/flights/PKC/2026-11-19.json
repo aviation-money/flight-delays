@@ -1,0 +1,109 @@
+{
+ "airport": "PKC",
+ "date": "2026-11-19",
+ "flights": {
+  "S7 6216|2026-11-18T21:35:00Z": {
+   "number": "S7 6216",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:35:00Z",
+   "actual": "2026-11-18T21:50:00Z"
+  },
+  "PTK 173|2026-11-18T22:00:00Z": {
+   "number": "PTK 173",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Yak 40",
+   "status": "Canceled",
+   "scheduled": "2026-11-18T22:00:00Z",
+   "actual": "2026-11-18T22:00:00Z"
+  },
+  "TGA 2653|2026-11-18T22:20:00Z": {
+   "number": "TGA 2653",
+   "airline": "Taiga",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:20:00Z",
+   "actual": "2026-11-18T22:31:00Z"
+  },
+  "PTK 9441|2026-11-18T22:25:00Z": {
+   "number": "PTK 9441",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:25:00Z",
+   "actual": "2026-11-18T22:34:00Z"
+  },
+  "HZ 5617|2026-11-18T21:30:00Z": {
+   "number": "HZ 5617",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:30:00Z",
+   "actual": "2026-11-18T22:44:00Z"
+  },
+  "PTK 9471|2026-11-18T22:50:00Z": {
+   "number": "PTK 9471",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:50:00Z",
+   "actual": "2026-11-18T22:52:00Z"
+  },
+  "PTK 123|2026-11-18T22:30:00Z": {
+   "number": "PTK 123",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "Ossora",
+   "to_name": "Ossora",
+   "model": "Yak 40",
+   "status": "Departed",
+   "scheduled": "2026-11-18T22:30:00Z",
+   "actual": "2026-11-18T23:16:00Z"
+  },
+  "SU 1731|2026-11-19T01:25:00Z": {
+   "number": "SU 1731",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:25:00Z",
+   "actual": "2026-11-19T01:50:00Z"
+  },
+  "HZ 4027|2026-11-19T04:00:00Z": {
+   "number": "HZ 4027",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:00:00Z",
+   "actual": "2026-11-19T04:05:00Z"
+  },
+  "HZ 5685|2026-11-19T04:45:00Z": {
+   "number": "HZ 5685",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:45:00Z",
+   "actual": "2026-11-19T07:29:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "airport": "KEJ",
+ "date": "2026-11-19",
+ "flights": {
+  "SU 1451|2026-11-18T23:50:00Z": {
+   "number": "SU 1451",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:50:00Z",
+   "actual": "2026-11-18T23:53:00Z"
+  },
+  "SU 1457|2026-11-19T03:00:00Z": {
+   "number": "SU 1457",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:00:00Z",
+   "actual": "2026-11-19T03:14:00Z"
+  },
+  "S7 7006|2026-11-19T07:15:00Z": {
+   "number": "S7 7006",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:15:00Z",
+   "actual": "2026-11-19T07:30:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

@@ -45,8 +45,8 @@
   "RT 651|2026-11-19T01:30:00Z": {
    "number": "RT 651",
    "airline": "UVT Aero",
-   "to": null,
-   "to_name": null,
+   "to": "RMZ",
+   "to_name": "Tobolsk",
    "model": "Bombardier CRJ200",
    "status": "Departed",
    "scheduled": "2026-11-19T01:30:00Z",
@@ -55,8 +55,8 @@
   "EO 733|2026-11-19T06:50:00Z": {
    "number": "EO 733",
    "airline": "Pegas Fly",
-   "to": null,
-   "to_name": null,
+   "to": "MMK",
+   "to_name": "Murmansk",
    "model": "Embraer 190",
    "status": "Departed",
    "scheduled": "2026-11-19T06:50:00Z",
@@ -65,8 +65,8 @@
   "N4 412|2026-11-19T07:15:00Z": {
    "number": "N4 412",
    "airline": "Nordwind",
-   "to": null,
-   "to_name": null,
+   "to": "AER",
+   "to_name": "Sochi",
    "model": "Airbus A321",
    "status": "Boarding",
    "scheduled": "2026-11-19T07:15:00Z",
@@ -75,8 +75,8 @@
   "SU 1279|2026-11-19T03:50:00Z": {
    "number": "SU 1279",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A320",
    "status": "Boarding",
    "scheduled": "2026-11-19T03:50:00Z",
@@ -85,8 +85,8 @@
   "WZ 4677|2026-11-19T05:10:00Z": {
    "number": "WZ 4677",
    "airline": "Red Wings",
-   "to": null,
-   "to_name": null,
+   "to": "EVN",
+   "to_name": "Yerevan",
    "model": "Sukhoi Superjet 100-95",
    "status": "Boarding",
    "scheduled": "2026-11-19T05:10:00Z",
@@ -95,8 +95,8 @@
   "N4 705|2026-11-19T07:00:00Z": {
    "number": "N4 705",
    "airline": "Nordwind",
-   "to": null,
-   "to_name": null,
+   "to": "MCX",
+   "to_name": "Makhachkala",
    "model": "Boeing 737-900",
    "status": "Boarding",
    "scheduled": "2026-11-19T07:00:00Z",
@@ -105,8 +105,8 @@
   "N4 3529|2026-11-19T01:50:00Z": {
    "number": "N4 3529",
    "airline": "Nordwind",
-   "to": null,
-   "to_name": null,
+   "to": "Cam Ranh",
+   "to_name": "Cam Ranh",
    "model": "Boeing 777",
    "status": "Boarding",
    "scheduled": "2026-11-19T01:50:00Z",
@@ -115,8 +115,8 @@
   "RT 535|2026-11-19T07:20:00Z": {
    "number": "RT 535",
    "airline": "UVT Aero",
-   "to": null,
-   "to_name": null,
+   "to": "NAL",
+   "to_name": "Nalchik",
    "model": "Canadair CRJ 200",
    "status": "CheckIn",
    "scheduled": "2026-11-19T07:20:00Z",
@@ -126,6 +126,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

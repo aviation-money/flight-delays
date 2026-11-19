@@ -25,8 +25,8 @@
   "WZ 5046|2026-11-19T04:20:00Z": {
    "number": "WZ 5046",
    "airline": "Red Wings",
-   "to": null,
-   "to_name": null,
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-19T04:20:00Z",
@@ -35,8 +35,8 @@
   "DP 6926|2026-11-19T05:00:00Z": {
    "number": "DP 6926",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-19T05:00:00Z",
@@ -45,8 +45,8 @@
   "DP 192|2026-11-19T07:40:00Z": {
    "number": "DP 192",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "VKO",
+   "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Unknown",
    "scheduled": "2026-11-19T07:40:00Z",
@@ -55,8 +55,8 @@
   "HY 9732|2026-11-19T08:30:00Z": {
    "number": "HY 9732",
    "airline": "Uzbekistan",
-   "to": null,
-   "to_name": null,
+   "to": "TAS",
+   "to_name": "Tashkent",
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-19T08:30:00Z",
@@ -65,17 +65,38 @@
   "DP 761|2026-11-19T08:50:00Z": {
    "number": "DP 761",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "DWC",
+   "to_name": "Jebel Ali",
    "model": "Boeing 737-800",
    "status": "Unknown",
    "scheduled": "2026-11-19T08:50:00Z",
+   "actual": null
+  },
+  "SU 1053|2026-11-19T09:20:00Z": {
+   "number": "SU 1053",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-19T09:20:00Z",
+   "actual": null
+  },
+  "A4 6112|2026-11-19T09:20:00Z": {
+   "number": "A4 6112",
+   "airline": "Azimuth",
+   "to": "Mineralnyye Vody",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T09:20:00Z",
    "actual": null
   }
  },
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

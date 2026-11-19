@@ -145,8 +145,8 @@
   "HZ 5684|2026-11-19T00:30:00Z": {
    "number": "HZ 5684",
    "airline": "Aurora",
-   "to": null,
-   "to_name": null,
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Airbus A319",
    "status": "Departed",
    "scheduled": "2026-11-19T00:30:00Z",
@@ -155,8 +155,8 @@
   "HZ 5612|2026-11-19T00:55:00Z": {
    "number": "HZ 5612",
    "airline": "Aurora",
-   "to": null,
-   "to_name": null,
+   "to": "GDX",
+   "to_name": "Magadan",
    "model": "Airbus A319",
    "status": "Departed",
    "scheduled": "2026-11-19T00:55:00Z",
@@ -165,8 +165,8 @@
   "EU 2926|2026-11-19T03:55:00Z": {
    "number": "EU 2926",
    "airline": "Chengdu",
-   "to": null,
-   "to_name": null,
+   "to": "Harbin",
+   "to_name": "Harbin",
    "model": "Comac C909/ARJ21-700",
    "status": "Delayed",
    "scheduled": "2026-11-19T03:55:00Z",
@@ -175,8 +175,8 @@
   "HZ 5628|2026-11-19T04:00:00Z": {
    "number": "HZ 5628",
    "airline": "Aurora",
-   "to": null,
-   "to_name": null,
+   "to": "Yuzhno-Sakhalinsk",
+   "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
    "status": "Canceled",
    "scheduled": "2026-11-19T04:00:00Z",
@@ -185,8 +185,8 @@
   "FV 5712|2026-11-19T03:05:00Z": {
    "number": "FV 5712",
    "airline": "Rossiya",
-   "to": null,
-   "to_name": null,
+   "to": "VVO",
+   "to_name": "Vladivostok",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T03:05:00Z",
@@ -195,8 +195,8 @@
   "FV 5707|2026-11-19T04:00:00Z": {
    "number": "FV 5707",
    "airline": "Rossiya",
-   "to": null,
-   "to_name": null,
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T04:00:00Z",
@@ -205,8 +205,8 @@
   "IO 311|2026-11-19T04:45:00Z": {
    "number": "IO 311",
    "airline": "IrAero",
-   "to": null,
-   "to_name": null,
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T04:45:00Z",
@@ -215,8 +215,8 @@
   "4G 9652|2026-11-19T07:00:00Z": {
    "number": "4G 9652",
    "airline": "Gazpromavia",
-   "to": null,
-   "to_name": null,
+   "to": "TOF",
+   "to_name": "Tomsk",
    "model": "Boeing 737-700",
    "status": "Expected",
    "scheduled": "2026-11-19T07:00:00Z",
@@ -225,8 +225,8 @@
   "S7 6513|2026-11-19T08:30:00Z": {
    "number": "S7 6513",
    "airline": "S7",
-   "to": null,
-   "to_name": null,
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus Industrie А320",
    "status": "Expected",
    "scheduled": "2026-11-19T08:30:00Z",
@@ -235,8 +235,8 @@
   "HZ 5624|2026-11-19T09:15:00Z": {
    "number": "HZ 5624",
    "airline": "Aurora",
-   "to": null,
-   "to_name": null,
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-19T09:15:00Z",
@@ -246,6 +246,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

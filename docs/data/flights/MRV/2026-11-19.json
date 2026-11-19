@@ -35,8 +35,8 @@
   "A4 6029|2026-11-19T04:00:00Z": {
    "number": "A4 6029",
    "airline": "Azimuth",
-   "to": null,
-   "to_name": null,
+   "to": "EVN",
+   "to_name": "Yerevan",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T04:00:00Z",
@@ -45,8 +45,8 @@
   "SU 612|2026-11-19T04:40:00Z": {
    "number": "SU 612",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "EVN",
+   "to_name": "Yerevan",
    "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-19T04:40:00Z",
@@ -55,8 +55,8 @@
   "SU 1315|2026-11-19T06:45:00Z": {
    "number": "SU 1315",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-19T06:45:00Z",
@@ -65,8 +65,8 @@
   "A4 6215|2026-11-19T07:00:00Z": {
    "number": "A4 6215",
    "airline": "Azimuth",
-   "to": null,
-   "to_name": null,
+   "to": "AYT",
+   "to_name": "Antalya",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T07:00:00Z",
@@ -75,8 +75,8 @@
   "A4 6025|2026-11-19T06:30:00Z": {
    "number": "A4 6025",
    "airline": "Azimuth",
-   "to": null,
-   "to_name": null,
+   "to": "TLV",
+   "to_name": "Tel Aviv Yafo",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T06:30:00Z",
@@ -85,8 +85,8 @@
   "A4 6075|2026-11-19T07:35:00Z": {
    "number": "A4 6075",
    "airline": "Azimuth",
-   "to": null,
-   "to_name": null,
+   "to": "Istanbul",
+   "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T07:35:00Z",
@@ -95,8 +95,8 @@
   "A4 6039|2026-11-19T08:30:00Z": {
    "number": "A4 6039",
    "airline": "Azimuth",
-   "to": null,
-   "to_name": null,
+   "to": "SKX",
+   "to_name": "Saransk",
    "model": "Sukhoi Superjet 100",
    "status": "GateClosed",
    "scheduled": "2026-11-19T08:30:00Z",
@@ -105,8 +105,8 @@
   "SU 1311|2026-11-19T09:10:00Z": {
    "number": "SU 1311",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A320",
    "status": "CheckIn",
    "scheduled": "2026-11-19T09:10:00Z",
@@ -116,6 +116,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

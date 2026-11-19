@@ -1,0 +1,19 @@
+{
+ "airport": "CSY",
+ "date": "2026-11-19",
+ "flights": {
+  "DP 6808|2026-11-19T07:10:00Z": {
+   "number": "DP 6808",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:10:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

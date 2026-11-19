@@ -1,0 +1,19 @@
+{
+ "airport": "STW",
+ "date": "2026-11-19",
+ "flights": {
+  "DP 6920|2026-11-19T08:05:00Z": {
+   "number": "DP 6920",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-19T08:05:00Z",
+   "actual": "2026-11-19T08:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}

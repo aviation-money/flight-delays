@@ -25,8 +25,8 @@
   "WZ 1034|2026-11-19T04:00:00Z": {
    "number": "WZ 1034",
    "airline": "Red Wings",
-   "to": null,
-   "to_name": null,
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T04:00:00Z",
@@ -35,8 +35,8 @@
   "WZ 1369|2026-11-19T04:00:00Z": {
    "number": "WZ 1369",
    "airline": "Red Wings",
-   "to": null,
-   "to_name": null,
+   "to": "TBS",
+   "to_name": "Tbilisi",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-19T04:00:00Z",
@@ -45,8 +45,8 @@
   "RT 9447|2026-11-19T07:00:00Z": {
    "number": "RT 9447",
    "airline": "UVT Aero",
-   "to": null,
-   "to_name": null,
+   "to": "KRR",
+   "to_name": "Krasnodar",
    "model": null,
    "status": "Departed",
    "scheduled": "2026-11-19T07:00:00Z",
@@ -56,6 +56,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

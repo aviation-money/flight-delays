@@ -55,8 +55,8 @@
   "DP 6568|2026-11-19T00:30:00Z": {
    "number": "DP 6568",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-19T00:30:00Z",
@@ -65,8 +65,8 @@
   "DP 6570|2026-11-19T01:00:00Z": {
    "number": "DP 6570",
    "airline": "Pobeda",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-19T01:00:00Z",
@@ -75,8 +75,8 @@
   "U6 2811|2026-11-19T06:05:00Z": {
    "number": "U6 2811",
    "airline": "Ural",
-   "to": null,
-   "to_name": null,
+   "to": "DYU",
+   "to_name": "Dushanbe",
    "model": "Airbus",
    "status": "Departed",
    "scheduled": "2026-11-19T06:05:00Z",
@@ -85,8 +85,8 @@
   "SU 1535|2026-11-19T07:30:00Z": {
    "number": "SU 1535",
    "airline": "Aeroflot",
-   "to": null,
-   "to_name": null,
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus",
    "status": "Departed",
    "scheduled": "2026-11-19T07:30:00Z",
@@ -95,10 +95,10 @@
   "UT 260|2026-11-19T08:40:00Z": {
    "number": "UT 260",
    "airline": "UTAir",
-   "to": null,
-   "to_name": null,
+   "to": "SGC",
+   "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-19T08:40:00Z",
    "actual": "2026-11-19T08:40:00Z"
   }
@@ -106,6 +106,7 @@
  "fetched": [
   "2026-11-19T08:08:43Z",
   "2026-11-19T08:11:14Z",
-  "2026-11-19T08:20:51Z"
+  "2026-11-19T08:20:51Z",
+  "2026-11-19T08:24:17Z"
  ]
 }

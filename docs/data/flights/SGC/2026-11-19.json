@@ -1,0 +1,189 @@
+{
+ "airport": "SGC",
+ "date": "2026-11-19",
+ "flights": {
+  "UT 6419|2026-11-18T20:00:00Z": {
+   "number": "UT 6419",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-18T20:00:00Z",
+   "actual": "2026-11-18T20:15:00Z"
+  },
+  "UT 431|2026-11-18T21:00:00Z": {
+   "number": "UT 431",
+   "airline": "UTAir",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-18T21:00:00Z",
+   "actual": "2026-11-18T22:50:00Z"
+  },
+  "SU 1511|2026-11-18T23:30:00Z": {
+   "number": "SU 1511",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-18T23:30:00Z",
+   "actual": "2026-11-19T00:14:00Z"
+  },
+  "FV 6442|2026-11-19T00:10:00Z": {
+   "number": "FV 6442",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:10:00Z",
+   "actual": "2026-11-19T00:31:00Z"
+  },
+  "UT 427|2026-11-19T00:45:00Z": {
+   "number": "UT 427",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:45:00Z",
+   "actual": "2026-11-19T00:55:00Z"
+  },
+  "DP 502|2026-11-19T00:05:00Z": {
+   "number": "DP 502",
+   "airline": "Pobeda",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T00:05:00Z",
+   "actual": "2026-11-19T01:05:00Z"
+  },
+  "UT 137|2026-11-19T01:20:00Z": {
+   "number": "UT 137",
+   "airline": "UTAir",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:20:00Z",
+   "actual": "2026-11-19T01:25:00Z"
+  },
+  "UT 115|2026-11-19T01:35:00Z": {
+   "number": "UT 115",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:35:00Z",
+   "actual": "2026-11-19T01:41:00Z"
+  },
+  "UT 101|2026-11-19T01:45:00Z": {
+   "number": "UT 101",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-19T01:45:00Z",
+   "actual": "2026-11-19T01:53:00Z"
+  },
+  "UT 248|2026-11-19T02:00:00Z": {
+   "number": "UT 248",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800 (winglets)",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:00:00Z",
+   "actual": "2026-11-19T02:00:00Z"
+  },
+  "UT 111|2026-11-19T02:15:00Z": {
+   "number": "UT 111",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:15:00Z",
+   "actual": "2026-11-19T02:19:00Z"
+  },
+  "UT 469|2026-11-19T02:40:00Z": {
+   "number": "UT 469",
+   "airline": "UTAir",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T02:40:00Z",
+   "actual": "2026-11-19T03:00:00Z"
+  },
+  "S7 5348|2026-11-19T03:55:00Z": {
+   "number": "S7 5348",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:55:00Z",
+   "actual": "2026-11-19T04:00:00Z"
+  },
+  "SU 1513|2026-11-19T03:00:00Z": {
+   "number": "SU 1513",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-19T03:00:00Z",
+   "actual": "2026-11-19T04:04:00Z"
+  },
+  "UT 259|2026-11-19T04:45:00Z": {
+   "number": "UT 259",
+   "airline": "UTAir",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:45:00Z",
+   "actual": "2026-11-19T05:22:00Z"
+  },
+  "U6 9072|2026-11-19T07:25:00Z": {
+   "number": "U6 9072",
+   "airline": "Ural",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T07:25:00Z",
+   "actual": "2026-11-19T08:06:00Z"
+  },
+  "UT 103|2026-11-19T04:20:00Z": {
+   "number": "UT 103",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "Departed",
+   "scheduled": "2026-11-19T04:20:00Z",
+   "actual": "2026-11-19T08:16:00Z"
+  },
+  "UT 139|2026-11-19T08:25:00Z": {
+   "number": "UT 139",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T08:25:00Z",
+   "actual": "2026-11-19T08:25:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-19T08:24:17Z"
+ ]
+}
