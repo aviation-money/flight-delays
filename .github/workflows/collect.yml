@@ -1,8 +1,6 @@
 name: Сбор задержек и публикация сайта
 
 on:
-  schedule:
-    - cron: "7 */2 * * *"   # каждые 2 часа, на 7-й минуте (GitHub может запускать с опозданием до ~15 мин)
   workflow_dispatch:
     inputs:
       source:
