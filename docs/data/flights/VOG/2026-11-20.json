@@ -8,9 +8,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T06:50:00Z",
-   "actual": "2026-11-20T06:50:00Z"
+   "actual": "2026-11-20T07:36:00Z"
+  },
+  "SU 1759|2026-11-20T07:30:00Z": {
+   "number": "SU 1759",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T07:30:00Z",
+   "actual": "2026-11-20T08:02:00Z"
   }
  },
  "fetched": [
@@ -19,6 +29,7 @@
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
-  "2026-11-20T06:21:08Z"
+  "2026-11-20T06:21:08Z",
+  "2026-11-20T08:07:28Z"
  ]
 }

@@ -178,7 +178,7 @@
    "to": "Baykit",
    "to_name": "Baykit",
    "model": "ATR 42-500",
-   "status": "Delayed",
+   "status": "Canceled",
    "scheduled": "2026-11-20T02:50:00Z",
    "actual": "2026-11-20T05:20:00Z"
   },
@@ -268,9 +268,49 @@
    "to": "Norilsk",
    "to_name": "Norilsk",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T07:20:00Z",
    "actual": "2026-11-20T07:20:00Z"
+  },
+  "S7 5308|2026-11-20T07:50:00Z": {
+   "number": "S7 5308",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-20T07:50:00Z",
+   "actual": "2026-11-20T07:50:00Z"
+  },
+  "KV 9283|2026-11-20T08:00:00Z": {
+   "number": "KV 9283",
+   "airline": "KrasAvia",
+   "to": "Igarka",
+   "to_name": "Igarka",
+   "model": "An-26",
+   "status": "Canceled",
+   "scheduled": "2026-11-20T08:00:00Z",
+   "actual": "2026-11-20T08:00:00Z"
+  },
+  "FV 6841|2026-11-20T08:05:00Z": {
+   "number": "FV 6841",
+   "airline": "Rossiya",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-20T08:05:00Z",
+   "actual": "2026-11-20T08:05:00Z"
+  },
+  "KV 155|2026-11-20T09:00:00Z": {
+   "number": "KV 155",
+   "airline": "KrasAvia",
+   "to": "Tura",
+   "to_name": "Tura",
+   "model": "ATR 42-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T09:00:00Z",
+   "actual": "2026-11-20T09:00:00Z"
   }
  },
  "fetched": [
@@ -281,6 +321,7 @@
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
-  "2026-11-20T06:21:08Z"
+  "2026-11-20T06:21:08Z",
+  "2026-11-20T08:07:28Z"
  ]
 }

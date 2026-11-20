@@ -35,7 +35,7 @@
   "A4 5069|2026-11-20T03:54:00Z": {
    "number": "A4 5069",
    "airline": "Azimuth",
-   "to": "Istanbul",
+   "to": "IST",
    "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
@@ -71,6 +71,26 @@
    "status": "Departed",
    "scheduled": "2026-11-20T05:10:00Z",
    "actual": "2026-11-20T05:57:00Z"
+  },
+  "SU 1153|2026-11-20T08:05:00Z": {
+   "number": "SU 1153",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T08:05:00Z",
+   "actual": "2026-11-20T08:05:00Z"
+  },
+  "U6 220|2026-11-20T08:55:00Z": {
+   "number": "U6 220",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-20T08:55:00Z",
+   "actual": "2026-11-20T08:55:00Z"
   }
  },
  "fetched": [
@@ -79,6 +99,7 @@
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
-  "2026-11-20T06:21:08Z"
+  "2026-11-20T06:21:08Z",
+  "2026-11-20T08:07:28Z"
  ]
 }

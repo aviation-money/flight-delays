@@ -160,7 +160,7 @@
    "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-20T03:00:00Z",
-   "actual": "2026-11-20T03:00:00Z"
+   "actual": "2026-11-20T03:12:00Z"
   },
   "UT 435|2026-11-20T03:40:00Z": {
    "number": "UT 435",
@@ -198,9 +198,19 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T07:15:00Z",
-   "actual": "2026-11-20T07:15:00Z"
+   "actual": "2026-11-20T07:37:00Z"
+  },
+  "UT 139|2026-11-20T08:25:00Z": {
+   "number": "UT 139",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T08:25:00Z",
+   "actual": "2026-11-20T08:25:00Z"
   }
  },
  "fetched": [
@@ -210,6 +220,7 @@
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
-  "2026-11-20T06:21:08Z"
+  "2026-11-20T06:21:08Z",
+  "2026-11-20T08:07:28Z"
  ]
 }

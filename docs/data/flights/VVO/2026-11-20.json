@@ -178,7 +178,7 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T03:55:00Z",
    "actual": "2026-11-20T04:58:00Z"
   },
@@ -208,7 +208,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:20:00Z",
    "actual": "2026-11-20T05:27:00Z"
   },
@@ -220,7 +220,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-20T06:35:00Z",
-   "actual": "2026-11-20T06:55:00Z"
+   "actual": "2026-11-20T07:26:00Z"
   },
   "CA 810|2026-11-20T06:45:00Z": {
    "number": "CA 810",
@@ -230,7 +230,7 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-20T06:45:00Z",
-   "actual": "2026-11-20T06:45:00Z"
+   "actual": "2026-11-20T06:56:00Z"
   },
   "HZ 4216|2026-11-20T06:20:00Z": {
    "number": "HZ 4216",
@@ -240,7 +240,47 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-20T06:20:00Z",
-   "actual": "2026-11-20T06:50:00Z"
+   "actual": "2026-11-20T07:00:00Z"
+  },
+  "CA 812|2026-11-20T08:20:00Z": {
+   "number": "CA 812",
+   "airline": "Air China",
+   "to": "PEK",
+   "to_name": "Beijing",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-20T08:20:00Z",
+   "actual": "2026-11-20T08:20:00Z"
+  },
+  "HZ 5606|2026-11-20T06:15:00Z": {
+   "number": "HZ 5606",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-20T06:15:00Z",
+   "actual": "2026-11-20T08:50:00Z"
+  },
+  "SU 1701|2026-11-20T09:00:00Z": {
+   "number": "SU 1701",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-20T09:00:00Z",
+   "actual": "2026-11-20T09:00:00Z"
+  },
+  "KN 878|2026-11-20T09:05:00Z": {
+   "number": "KN 878",
+   "airline": "China United",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-20T09:05:00Z",
+   "actual": "2026-11-20T09:05:00Z"
   }
  },
  "fetched": [
@@ -253,6 +293,7 @@
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
-  "2026-11-20T06:21:08Z"
+  "2026-11-20T06:21:08Z",
+  "2026-11-20T08:07:28Z"
  ]
 }

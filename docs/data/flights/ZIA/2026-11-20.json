@@ -50,7 +50,7 @@
    "model": "Tu-204",
    "status": "Departed",
    "scheduled": "2026-11-20T06:05:00Z",
-   "actual": "2026-11-20T06:05:00Z"
+   "actual": "2026-11-20T06:20:00Z"
   },
   "U6 8445|2026-11-20T06:50:00Z": {
    "number": "U6 8445",
@@ -61,6 +61,26 @@
    "status": "Unknown",
    "scheduled": "2026-11-20T06:50:00Z",
    "actual": null
+  },
+  "U6 2427|2026-11-20T08:00:00Z": {
+   "number": "U6 2427",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T08:00:00Z",
+   "actual": "2026-11-20T08:00:00Z"
+  },
+  "SZ 338|2026-11-20T09:00:00Z": {
+   "number": "SZ 338",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-900",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T09:00:00Z",
+   "actual": "2026-11-20T09:00:00Z"
   }
  },
  "fetched": [
@@ -69,6 +89,7 @@
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
-  "2026-11-20T06:21:08Z"
+  "2026-11-20T06:21:08Z",
+  "2026-11-20T08:07:28Z"
  ]
 }

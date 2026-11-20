@@ -101,6 +101,26 @@
    "status": "Departed",
    "scheduled": "2026-11-20T05:45:00Z",
    "actual": "2026-11-20T05:50:00Z"
+  },
+  "S7 6452|2026-11-20T07:25:00Z": {
+   "number": "S7 6452",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "EMB170",
+   "status": "Departed",
+   "scheduled": "2026-11-20T07:25:00Z",
+   "actual": "2026-11-20T07:25:00Z"
+  },
+  "UT 187|2026-11-20T08:40:00Z": {
+   "number": "UT 187",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-20T08:40:00Z",
+   "actual": "2026-11-20T08:40:00Z"
   }
  },
  "fetched": [
@@ -111,6 +131,7 @@
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
-  "2026-11-20T06:21:08Z"
+  "2026-11-20T06:21:08Z",
+  "2026-11-20T08:07:28Z"
  ]
 }

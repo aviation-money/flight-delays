@@ -41,6 +41,26 @@
    "status": "Unknown",
    "scheduled": "2026-11-20T06:20:00Z",
    "actual": null
+  },
+  "RA 22217|2026-11-20T04:00:00Z": {
+   "number": "RA 22217",
+   "airline": "Nepal",
+   "to": "Orenburg",
+   "to_name": "Orenburg",
+   "model": "Mil Mi-8",
+   "status": "Departed",
+   "scheduled": "2026-11-20T04:00:00Z",
+   "actual": "2026-11-20T04:05:00Z"
+  },
+  "SU 1435|2026-11-20T08:10:00Z": {
+   "number": "SU 1435",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Expected",
+   "scheduled": "2026-11-20T08:10:00Z",
+   "actual": "2026-11-20T08:10:00Z"
   }
  },
  "fetched": [
@@ -50,6 +70,7 @@
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
-  "2026-11-20T06:21:08Z"
+  "2026-11-20T06:21:08Z",
+  "2026-11-20T08:07:28Z"
  ]
 }

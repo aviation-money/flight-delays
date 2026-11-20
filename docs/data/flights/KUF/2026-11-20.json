@@ -108,9 +108,39 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T06:25:00Z",
-   "actual": "2026-11-20T06:25:00Z"
+   "actual": "2026-11-20T06:26:00Z"
+  },
+  "FV 5967|2026-11-20T08:00:00Z": {
+   "number": "FV 5967",
+   "airline": "Rossiya",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T08:00:00Z",
+   "actual": "2026-11-20T08:00:00Z"
+  },
+  "FV 6232|2026-11-20T08:10:00Z": {
+   "number": "FV 6232",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T08:10:00Z",
+   "actual": "2026-11-20T08:10:00Z"
+  },
+  "WZ 5305|2026-11-20T08:50:00Z": {
+   "number": "WZ 5305",
+   "airline": "Red Wings",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T08:50:00Z",
+   "actual": "2026-11-20T08:50:00Z"
   }
  },
  "fetched": [
@@ -120,6 +150,7 @@
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
-  "2026-11-20T06:21:08Z"
+  "2026-11-20T06:21:08Z",
+  "2026-11-20T08:07:28Z"
  ]
 }
