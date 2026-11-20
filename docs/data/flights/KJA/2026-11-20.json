@@ -368,7 +368,7 @@
    "to": "PVG",
    "to_name": "Shanghai",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-20T12:50:00Z",
    "actual": "2026-11-20T13:50:00Z"
   },
@@ -407,8 +407,8 @@
    "airline": "IrAero",
    "to": "GYD",
    "to_name": "Baku",
-   "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:00:00Z",
    "actual": "2026-11-20T14:00:00Z"
   },
@@ -418,7 +418,7 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:25:00Z",
    "actual": "2026-11-20T14:25:00Z"
   },
@@ -431,6 +431,36 @@
    "status": "Departed",
    "scheduled": "2026-11-20T15:00:00Z",
    "actual": "2026-11-20T15:00:00Z"
+  },
+  "FV 6845|2026-11-20T16:05:00Z": {
+   "number": "FV 6845",
+   "airline": "Rossiya",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-20T16:05:00Z",
+   "actual": "2026-11-20T16:05:00Z"
+  },
+  "FV 6795|2026-11-20T16:10:00Z": {
+   "number": "FV 6795",
+   "airline": "Rossiya",
+   "to": "BSZ",
+   "to_name": "Bishkek",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-20T16:10:00Z",
+   "actual": "2026-11-20T16:10:00Z"
+  },
+  "SU 1489|2026-11-20T16:25:00Z": {
+   "number": "SU 1489",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-20T16:25:00Z",
+   "actual": "2026-11-20T16:25:00Z"
   }
  },
  "fetched": [
@@ -445,6 +475,7 @@
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
-  "2026-11-20T14:07:26Z"
+  "2026-11-20T14:07:26Z",
+  "2026-11-20T16:07:27Z"
  ]
 }

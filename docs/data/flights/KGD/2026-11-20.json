@@ -187,7 +187,7 @@
    "airline": "Nordwind",
    "to": "GOJ",
    "to_name": "Nizhniy Novgorod",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-20T14:00:00Z",
    "actual": "2026-11-20T13:59:00Z"
@@ -198,9 +198,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:10:00Z",
-   "actual": "2026-11-20T14:10:00Z"
+   "actual": "2026-11-20T14:18:00Z"
   },
   "FV 6662|2026-11-20T14:40:00Z": {
    "number": "FV 6662",
@@ -208,9 +208,39 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:40:00Z",
-   "actual": "2026-11-20T14:40:00Z"
+   "actual": "2026-11-20T14:48:00Z"
+  },
+  "S7 1212|2026-11-20T14:55:00Z": {
+   "number": "S7 1212",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T14:55:00Z",
+   "actual": "2026-11-20T15:36:00Z"
+  },
+  "N4 286|2026-11-20T16:30:00Z": {
+   "number": "N4 286",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T16:30:00Z",
+   "actual": "2026-11-20T16:30:00Z"
+  },
+  "FV 6330|2026-11-20T16:55:00Z": {
+   "number": "FV 6330",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T16:55:00Z",
+   "actual": "2026-11-20T16:55:00Z"
   }
  },
  "fetched": [
@@ -223,6 +253,7 @@
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
-  "2026-11-20T14:07:26Z"
+  "2026-11-20T14:07:26Z",
+  "2026-11-20T16:07:27Z"
  ]
 }

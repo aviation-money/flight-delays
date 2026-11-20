@@ -238,9 +238,49 @@
    "to": "GOJ",
    "to_name": "Nizhniy Novgorod",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:20:00Z",
-   "actual": "2026-11-20T14:20:00Z"
+   "actual": "2026-11-20T15:03:00Z"
+  },
+  "SU 1213|2026-11-20T15:55:00Z": {
+   "number": "SU 1213",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T15:55:00Z",
+   "actual": "2026-11-20T15:57:00Z"
+  },
+  "5N 582|2026-11-20T16:10:00Z": {
+   "number": "5N 582",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T16:10:00Z",
+   "actual": "2026-11-20T16:10:00Z"
+  },
+  "S7 1074|2026-11-20T16:50:00Z": {
+   "number": "S7 1074",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T16:50:00Z",
+   "actual": "2026-11-20T16:50:00Z"
+  },
+  "SU 1215|2026-11-20T16:55:00Z": {
+   "number": "SU 1215",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T16:55:00Z",
+   "actual": "2026-11-20T16:55:00Z"
   }
  },
  "fetched": [
@@ -254,6 +294,7 @@
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
-  "2026-11-20T14:07:26Z"
+  "2026-11-20T14:07:26Z",
+  "2026-11-20T16:07:27Z"
  ]
 }

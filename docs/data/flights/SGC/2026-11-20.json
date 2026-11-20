@@ -247,7 +247,7 @@
    "airline": "UTAir",
    "to": "LBD",
    "to_name": "Khudzhand",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-500 (winglets)",
    "status": "Departed",
    "scheduled": "2026-11-20T12:50:00Z",
    "actual": "2026-11-20T13:40:00Z"
@@ -268,9 +268,19 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T13:45:00Z",
-   "actual": "2026-11-20T13:45:00Z"
+   "actual": "2026-11-20T13:51:00Z"
+  },
+  "UT 477|2026-11-20T16:55:00Z": {
+   "number": "UT 477",
+   "airline": "UTAir",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T16:55:00Z",
+   "actual": "2026-11-20T16:55:00Z"
   }
  },
  "fetched": [
@@ -284,6 +294,7 @@
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
-  "2026-11-20T14:07:26Z"
+  "2026-11-20T14:07:26Z",
+  "2026-11-20T16:07:27Z"
  ]
 }

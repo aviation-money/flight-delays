@@ -97,10 +97,10 @@
    "airline": "Smartavia",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Boeing 737",
-   "status": "GateClosed",
+   "model": "Boeing 737-700",
+   "status": "Departed",
    "scheduled": "2026-11-20T13:35:00Z",
-   "actual": "2026-11-20T14:15:00Z"
+   "actual": "2026-11-20T14:32:00Z"
   },
   "S7 8706|2026-11-20T15:00:00Z": {
    "number": "S7 8706",
@@ -111,6 +111,36 @@
    "status": "Expected",
    "scheduled": "2026-11-20T15:00:00Z",
    "actual": "2026-11-20T15:00:00Z"
+  },
+  "D2 52|2026-11-20T15:15:00Z": {
+   "number": "D2 52",
+   "airline": "Severstal Aircompany",
+   "to": "Arkhangelsk",
+   "to_name": "Arkhangelsk",
+   "model": "Bombardier CRJ200",
+   "status": "Departed",
+   "scheduled": "2026-11-20T15:15:00Z",
+   "actual": "2026-11-20T15:17:00Z"
+  },
+  "SU 1329|2026-11-20T15:55:00Z": {
+   "number": "SU 1329",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T15:55:00Z",
+   "actual": "2026-11-20T15:51:00Z"
+  },
+  "DP 6856|2026-11-20T17:00:00Z": {
+   "number": "DP 6856",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T17:00:00Z",
+   "actual": "2026-11-20T17:00:00Z"
   }
  },
  "fetched": [
@@ -123,6 +153,7 @@
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
-  "2026-11-20T14:07:26Z"
+  "2026-11-20T14:07:26Z",
+  "2026-11-20T16:07:27Z"
  ]
 }

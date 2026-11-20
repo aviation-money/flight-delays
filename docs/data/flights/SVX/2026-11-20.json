@@ -558,9 +558,9 @@
    "to": "MSQ",
    "to_name": "Minsk",
    "model": "Boeing 737-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T13:45:00Z",
-   "actual": "2026-11-20T13:55:00Z"
+   "actual": "2026-11-20T14:14:00Z"
   },
   "UT 112|2026-11-20T14:00:00Z": {
    "number": "UT 112",
@@ -568,9 +568,9 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:00:00Z",
-   "actual": "2026-11-20T14:00:00Z"
+   "actual": "2026-11-20T14:22:00Z"
   },
   "U6 266|2026-11-20T14:00:00Z": {
    "number": "U6 266",
@@ -578,9 +578,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:00:00Z",
-   "actual": "2026-11-20T14:00:00Z"
+   "actual": "2026-11-20T14:20:00Z"
   },
   "SU 1403|2026-11-20T14:05:00Z": {
    "number": "SU 1403",
@@ -588,9 +588,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:05:00Z",
-   "actual": "2026-11-20T14:05:00Z"
+   "actual": "2026-11-20T14:33:00Z"
   },
   "U6 173|2026-11-20T13:55:00Z": {
    "number": "U6 173",
@@ -598,9 +598,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T13:55:00Z",
-   "actual": "2026-11-20T14:10:00Z"
+   "actual": "2026-11-20T14:28:00Z"
   },
   "U6 2961|2026-11-20T14:30:00Z": {
    "number": "U6 2961",
@@ -608,9 +608,89 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:30:00Z",
-   "actual": "2026-11-20T14:30:00Z"
+   "actual": "2026-11-20T15:59:00Z"
+  },
+  "UT 177|2026-11-20T15:10:00Z": {
+   "number": "UT 177",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-20T15:10:00Z",
+   "actual": "2026-11-20T15:12:00Z"
+  },
+  "U6 299|2026-11-20T15:40:00Z": {
+   "number": "U6 299",
+   "airline": "Ural",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T15:40:00Z",
+   "actual": "2026-11-20T15:40:00Z"
+  },
+  "U6 270|2026-11-20T15:30:00Z": {
+   "number": "U6 270",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T15:30:00Z",
+   "actual": "2026-11-20T15:41:00Z"
+  },
+  "U6 2861|2026-11-20T16:00:00Z": {
+   "number": "U6 2861",
+   "airline": "Ural",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T16:00:00Z",
+   "actual": "2026-11-20T16:00:00Z"
+  },
+  "S7 5020|2026-11-20T16:15:00Z": {
+   "number": "S7 5020",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T16:15:00Z",
+   "actual": "2026-11-20T16:15:00Z"
+  },
+  "FV 6208|2026-11-20T16:20:00Z": {
+   "number": "FV 6208",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T16:20:00Z",
+   "actual": "2026-11-20T16:20:00Z"
+  },
+  "WZ 5071|2026-11-20T16:20:00Z": {
+   "number": "WZ 5071",
+   "airline": "Red Wings",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T16:20:00Z",
+   "actual": "2026-11-20T16:20:00Z"
+  },
+  "N4 3801|2026-11-20T16:40:00Z": {
+   "number": "N4 3801",
+   "airline": "Nordwind",
+   "to": "UTP",
+   "to_name": "Rayong",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-20T16:40:00Z",
+   "actual": "2026-11-20T16:40:00Z"
   }
  },
  "fetched": [
@@ -624,6 +704,7 @@
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
-  "2026-11-20T14:07:26Z"
+  "2026-11-20T14:07:26Z",
+  "2026-11-20T16:07:27Z"
  ]
 }

@@ -51,6 +51,26 @@
    "status": "Departed",
    "scheduled": "2026-11-20T11:20:00Z",
    "actual": "2026-11-20T13:11:00Z"
+  },
+  "DP 6970|2026-11-20T15:20:00Z": {
+   "number": "DP 6970",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T15:20:00Z",
+   "actual": "2026-11-20T15:42:00Z"
+  },
+  "SU 1187|2026-11-20T16:40:00Z": {
+   "number": "SU 1187",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T16:40:00Z",
+   "actual": "2026-11-20T16:40:00Z"
   }
  },
  "fetched": [
@@ -63,6 +83,7 @@
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
-  "2026-11-20T14:07:26Z"
+  "2026-11-20T14:07:26Z",
+  "2026-11-20T16:07:27Z"
  ]
 }

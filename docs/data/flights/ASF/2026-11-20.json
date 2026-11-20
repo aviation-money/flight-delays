@@ -148,9 +148,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T14:35:00Z",
-   "actual": "2026-11-20T14:35:00Z"
+   "actual": "2026-11-20T14:38:00Z"
+  },
+  "SU 1175|2026-11-20T16:20:00Z": {
+   "number": "SU 1175",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T16:20:00Z",
+   "actual": "2026-11-20T16:20:00Z"
   }
  },
  "fetched": [
@@ -164,6 +174,7 @@
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
-  "2026-11-20T14:07:26Z"
+  "2026-11-20T14:07:26Z",
+  "2026-11-20T16:07:27Z"
  ]
 }
