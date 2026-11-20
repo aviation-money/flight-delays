@@ -21,10 +21,51 @@
    "status": "Departed",
    "scheduled": "2026-11-19T20:40:00Z",
    "actual": "2026-11-19T21:31:00Z"
+  },
+  "WZ 5303|2026-11-19T23:30:00Z": {
+   "number": "WZ 5303",
+   "airline": "Red Wings",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-19T23:30:00Z",
+   "actual": "2026-11-19T23:38:00Z"
+  },
+  "RT 9992|2026-11-19T23:50:00Z": {
+   "number": "RT 9992",
+   "airline": "UVT Aero",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T23:50:00Z",
+   "actual": "2026-11-19T23:50:00Z"
+  },
+  "UT 6563|2026-11-20T00:20:00Z": {
+   "number": "UT 6563",
+   "airline": "UTAir",
+   "to": "KGP",
+   "to_name": "Kogalym",
+   "model": "Boeing 737-500",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T00:20:00Z",
+   "actual": "2026-11-20T00:20:00Z"
+  },
+  "U6 1869|2026-11-20T01:00:00Z": {
+   "number": "U6 1869",
+   "airline": "Ural",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T01:00:00Z",
+   "actual": "2026-11-20T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

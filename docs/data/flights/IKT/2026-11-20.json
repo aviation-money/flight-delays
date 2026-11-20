@@ -68,7 +68,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T19:45:00Z",
    "actual": null
   },
@@ -78,7 +78,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T20:05:00Z",
    "actual": null
   },
@@ -88,7 +88,7 @@
    "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T20:20:00Z",
    "actual": null
   },
@@ -171,12 +171,53 @@
    "status": "Expected",
    "scheduled": "2026-11-19T23:00:00Z",
    "actual": null
+  },
+  "S7 6443|2026-11-19T23:30:00Z": {
+   "number": "S7 6443",
+   "airline": "S7",
+   "to": "BTK",
+   "to_name": "Bratsk",
+   "model": "Embraer 170",
+   "status": "Unknown",
+   "scheduled": "2026-11-19T23:30:00Z",
+   "actual": null
+  },
+  "IO 153|2026-11-20T00:10:00Z": {
+   "number": "IO 153",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-20T00:10:00Z",
+   "actual": null
+  },
+  "S7 5232|2026-11-20T00:30:00Z": {
+   "number": "S7 5232",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-20T00:30:00Z",
+   "actual": null
+  },
+  "IO 9151|2026-11-20T00:40:00Z": {
+   "number": "IO 9151",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-26",
+   "status": "Unknown",
+   "scheduled": "2026-11-20T00:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-19T16:07:30Z",
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

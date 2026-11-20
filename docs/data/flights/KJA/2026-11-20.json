@@ -28,14 +28,95 @@
    "to": "TOF",
    "to_name": "Tomsk",
    "model": "ATR 42-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T22:25:00Z",
    "actual": "2026-11-19T22:25:00Z"
+  },
+  "SU 814|2026-11-19T23:10:00Z": {
+   "number": "SU 814",
+   "airline": "Aeroflot",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-19T23:10:00Z",
+   "actual": "2026-11-19T23:10:00Z"
+  },
+  "UT 6105|2026-11-19T23:30:00Z": {
+   "number": "UT 6105",
+   "airline": "UTAir",
+   "to": "Igarka",
+   "to_name": "Igarka",
+   "model": "Boeing 737-400",
+   "status": "Expected",
+   "scheduled": "2026-11-19T23:30:00Z",
+   "actual": "2026-11-19T23:30:00Z"
+  },
+  "SU 2859|2026-11-19T23:45:00Z": {
+   "number": "SU 2859",
+   "airline": "Aeroflot",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-19T23:45:00Z",
+   "actual": "2026-11-19T23:45:00Z"
+  },
+  "FV 6574|2026-11-20T00:35:00Z": {
+   "number": "FV 6574",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T00:35:00Z",
+   "actual": "2026-11-20T00:35:00Z"
+  },
+  "UT 572|2026-11-20T00:10:00Z": {
+   "number": "UT 572",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T00:10:00Z",
+   "actual": "2026-11-20T00:40:00Z"
+  },
+  "SU 1495|2026-11-20T00:45:00Z": {
+   "number": "SU 1495",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T00:45:00Z",
+   "actual": "2026-11-20T00:45:00Z"
+  },
+  "N4 740|2026-11-20T01:00:00Z": {
+   "number": "N4 740",
+   "airline": "Nordwind",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T01:00:00Z",
+   "actual": "2026-11-20T01:00:00Z"
+  },
+  "FV 6905|2026-11-20T01:05:00Z": {
+   "number": "FV 6905",
+   "airline": "Rossiya",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T01:05:00Z",
+   "actual": "2026-11-20T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

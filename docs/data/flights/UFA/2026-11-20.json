@@ -18,9 +18,9 @@
    "to": "NSK",
    "to_name": "Norilsk",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T22:15:00Z",
-   "actual": "2026-11-19T22:15:00Z"
+   "actual": "2026-11-19T22:27:00Z"
   },
   "FV 5973|2026-11-19T22:45:00Z": {
    "number": "FV 5973",
@@ -28,13 +28,44 @@
    "to": "HRG",
    "to_name": "Hurghada",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T22:45:00Z",
-   "actual": "2026-11-19T22:45:00Z"
+   "actual": "2026-11-19T23:00:00Z"
+  },
+  "UT 6109|2026-11-19T23:40:00Z": {
+   "number": "UT 6109",
+   "airline": "UTAir",
+   "to": "IAA",
+   "to_name": "Igarka",
+   "model": "Boeing 737-400",
+   "status": "Departed",
+   "scheduled": "2026-11-19T23:40:00Z",
+   "actual": "2026-11-19T23:55:00Z"
+  },
+  "FV 6412|2026-11-20T00:30:00Z": {
+   "number": "FV 6412",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T00:30:00Z",
+   "actual": "2026-11-20T00:30:00Z"
+  },
+  "DP 775|2026-11-20T00:35:00Z": {
+   "number": "DP 775",
+   "airline": "Pobeda",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T00:35:00Z",
+   "actual": "2026-11-20T00:35:00Z"
   }
  },
  "fetched": [
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

@@ -21,11 +21,22 @@
    "status": "Departed",
    "scheduled": "2026-11-19T19:15:00Z",
    "actual": "2026-11-19T20:37:00Z"
+  },
+  "SU 1459|2026-11-20T01:05:00Z": {
+   "number": "SU 1459",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T01:05:00Z",
+   "actual": "2026-11-20T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

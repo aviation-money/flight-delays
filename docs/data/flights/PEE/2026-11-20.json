@@ -1,9 +1,41 @@
 {
  "airport": "PEE",
  "date": "2026-11-20",
- "flights": {},
+ "flights": {
+  "DP 570|2026-11-20T00:20:00Z": {
+   "number": "DP 570",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T00:20:00Z",
+   "actual": "2026-11-20T00:55:00Z"
+  },
+  "DP 6512|2026-11-20T01:00:00Z": {
+   "number": "DP 6512",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T01:00:00Z",
+   "actual": "2026-11-20T01:00:00Z"
+  },
+  "DP 434|2026-11-20T00:50:00Z": {
+   "number": "DP 434",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T00:50:00Z",
+   "actual": "2026-11-20T01:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

@@ -11,10 +11,21 @@
    "status": "Departed",
    "scheduled": "2026-11-19T20:10:00Z",
    "actual": "2026-11-19T21:04:00Z"
+  },
+  "RA 22217|2026-11-20T00:00:00Z": {
+   "number": "RA 22217",
+   "airline": "Nepal",
+   "to": "Orenburg",
+   "to_name": "Orenburg",
+   "model": "Mil Mi-8",
+   "status": "Expected",
+   "scheduled": "2026-11-20T00:00:00Z",
+   "actual": "2026-11-20T00:00:00Z"
   }
  },
  "fetched": [
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

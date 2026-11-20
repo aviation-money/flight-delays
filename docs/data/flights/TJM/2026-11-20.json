@@ -8,13 +8,64 @@
    "to": "TLK",
    "to_name": "Talakan",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T22:05:00Z",
-   "actual": "2026-11-19T22:35:00Z"
+   "actual": "2026-11-19T23:47:00Z"
+  },
+  "N4 1449|2026-11-19T23:00:00Z": {
+   "number": "N4 1449",
+   "airline": "Nordwind",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Boeing 737-800",
+   "status": "Delayed",
+   "scheduled": "2026-11-19T23:00:00Z",
+   "actual": "2026-11-19T23:40:00Z"
+  },
+  "4G 485|2026-11-19T23:50:00Z": {
+   "number": "4G 485",
+   "airline": "Gazpromavia",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-19T23:50:00Z",
+   "actual": "2026-11-19T23:50:00Z"
+  },
+  "YC 177|2026-11-20T00:15:00Z": {
+   "number": "YC 177",
+   "airline": "Yamal",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T00:15:00Z",
+   "actual": "2026-11-20T00:15:00Z"
+  },
+  "FV 6452|2026-11-20T00:45:00Z": {
+   "number": "FV 6452",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T00:45:00Z",
+   "actual": "2026-11-20T00:45:00Z"
+  },
+  "UT 541|2026-11-20T00:50:00Z": {
+   "number": "UT 541",
+   "airline": "UTAir",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T00:50:00Z",
+   "actual": "2026-11-20T00:50:00Z"
   }
  },
  "fetched": [
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

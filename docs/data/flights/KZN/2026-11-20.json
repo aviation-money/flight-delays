@@ -18,9 +18,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737 MAX 8",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-19T22:10:00Z",
-   "actual": "2026-11-19T22:10:00Z"
+   "actual": "2026-11-19T22:26:00Z"
   },
   "RT 547|2026-11-19T22:20:00Z": {
    "number": "RT 547",
@@ -28,12 +28,43 @@
    "to": "TOF",
    "to_name": "Tomsk",
    "model": "Canadair CRJ 200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T22:20:00Z",
-   "actual": "2026-11-19T22:20:00Z"
+   "actual": "2026-11-19T23:11:00Z"
+  },
+  "N4 1405|2026-11-19T22:00:00Z": {
+   "number": "N4 1405",
+   "airline": "Nordwind",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-900",
+   "status": "Departed",
+   "scheduled": "2026-11-19T22:00:00Z",
+   "actual": "2026-11-19T23:32:00Z"
+  },
+  "JU 189|2026-11-20T00:15:00Z": {
+   "number": "JU 189",
+   "airline": "Air Serbia",
+   "to": "BEG",
+   "to_name": "Belgrade",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T00:15:00Z",
+   "actual": "2026-11-20T00:15:00Z"
+  },
+  "RT 585|2026-11-20T00:45:00Z": {
+   "number": "RT 585",
+   "airline": "UVT Aero",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T00:45:00Z",
+   "actual": "2026-11-20T00:45:00Z"
   }
  },
  "fetched": [
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

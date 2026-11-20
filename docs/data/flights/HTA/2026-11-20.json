@@ -18,9 +18,9 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T22:00:00Z",
-   "actual": "2026-11-19T22:00:00Z"
+   "actual": "2026-11-19T22:41:00Z"
   },
   "U6 623|2026-11-19T23:00:00Z": {
    "number": "U6 623",
@@ -28,15 +28,66 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T23:00:00Z",
-   "actual": "2026-11-19T23:00:00Z"
+   "actual": "2026-11-19T23:04:00Z"
+  },
+  "S7 5224|2026-11-19T23:30:00Z": {
+   "number": "S7 5224",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-19T23:30:00Z",
+   "actual": "2026-11-19T23:45:00Z"
+  },
+  "U6 94|2026-11-20T00:20:00Z": {
+   "number": "U6 94",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T00:20:00Z",
+   "actual": "2026-11-20T00:35:00Z"
+  },
+  "АЯ 9185|2026-11-20T01:00:00Z": {
+   "number": "АЯ 9185",
+   "airline": "Aeroservis",
+   "to": "Gazimurskiy Zavod",
+   "to_name": "Gazimurskiy Zavod",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T01:00:00Z",
+   "actual": "2026-11-20T01:00:00Z"
+  },
+  "АЯ 187|2026-11-20T01:00:00Z": {
+   "number": "АЯ 187",
+   "airline": "Aeroservis",
+   "to": "Krasnyy Chikoy",
+   "to_name": "Krasnyy Chikoy",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-20T01:00:00Z",
+   "actual": "2026-11-20T01:00:00Z"
+  },
+  "S7 3046|2026-11-20T01:05:00Z": {
+   "number": "S7 3046",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320 NEO",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T01:05:00Z",
+   "actual": "2026-11-20T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-19T16:07:30Z",
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }

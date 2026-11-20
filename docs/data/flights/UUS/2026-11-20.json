@@ -8,9 +8,39 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-19T22:45:00Z",
-   "actual": "2026-11-19T22:45:00Z"
+   "actual": "2026-11-19T22:44:00Z"
+  },
+  "HZ 3032|2026-11-19T23:30:00Z": {
+   "number": "HZ 3032",
+   "airline": "Aurora",
+   "to": "DEE",
+   "to_name": "Kunashir Island",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "Departed",
+   "scheduled": "2026-11-19T23:30:00Z",
+   "actual": "2026-11-19T23:15:00Z"
+  },
+  "ATI 6501|2026-11-20T00:00:00Z": {
+   "number": "ATI 6501",
+   "airline": "ATI",
+   "to": "NGK",
+   "to_name": "Nogliki-Sakhalin Island",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-20T00:00:00Z",
+   "actual": "2026-11-20T00:00:00Z"
+  },
+  "HZ 5627|2026-11-20T00:40:00Z": {
+   "number": "HZ 5627",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T00:40:00Z",
+   "actual": "2026-11-20T00:40:00Z"
   }
  },
  "fetched": [
@@ -23,6 +53,7 @@
   "2026-11-19T16:07:30Z",
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
-  "2026-11-19T22:07:37Z"
+  "2026-11-19T22:07:37Z",
+  "2026-11-20T00:07:26Z"
  ]
 }
