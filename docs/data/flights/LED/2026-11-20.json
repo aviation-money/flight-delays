@@ -298,9 +298,9 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Canadair CRJ 200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:05:00Z",
-   "actual": "2026-11-20T04:05:00Z"
+   "actual": "2026-11-20T04:04:00Z"
   },
   "DP 529|2026-11-20T04:10:00Z": {
    "number": "DP 529",
@@ -308,9 +308,9 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:10:00Z",
-   "actual": "2026-11-20T04:10:00Z"
+   "actual": "2026-11-20T04:15:00Z"
   },
   "DP 507|2026-11-20T04:00:00Z": {
    "number": "DP 507",
@@ -318,9 +318,9 @@
    "to": "OGZ",
    "to_name": "Vladikavkaz",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:00:00Z",
-   "actual": "2026-11-20T04:15:00Z"
+   "actual": "2026-11-20T04:23:00Z"
   },
   "7R 241|2026-11-20T04:20:00Z": {
    "number": "7R 241",
@@ -328,9 +328,9 @@
    "to": "NNM",
    "to_name": "Naryan Mar",
    "model": "Canadair CRJ 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:20:00Z",
-   "actual": "2026-11-20T04:20:00Z"
+   "actual": "2026-11-20T04:29:00Z"
   },
   "FV 6808|2026-11-20T04:25:00Z": {
    "number": "FV 6808",
@@ -338,9 +338,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:25:00Z",
-   "actual": "2026-11-20T04:25:00Z"
+   "actual": "2026-11-20T04:21:00Z"
   },
   "FV 6587|2026-11-20T04:25:00Z": {
    "number": "FV 6587",
@@ -348,9 +348,9 @@
    "to": "SCW",
    "to_name": "Syktyvkar",
    "model": "Airbus A319",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:25:00Z",
-   "actual": "2026-11-20T04:25:00Z"
+   "actual": "2026-11-20T04:24:00Z"
   },
   "DP 509|2026-11-20T04:05:00Z": {
    "number": "DP 509",
@@ -358,9 +358,9 @@
    "to": "KRR",
    "to_name": "Krasnodar",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:05:00Z",
-   "actual": "2026-11-20T04:25:00Z"
+   "actual": "2026-11-20T04:28:00Z"
   },
   "SM 902|2026-11-20T04:30:00Z": {
    "number": "SM 902",
@@ -368,9 +368,9 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Airbus A320 NEO",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:30:00Z",
-   "actual": "2026-11-20T04:30:00Z"
+   "actual": "2026-11-20T04:25:00Z"
   },
   "FV 6231|2026-11-20T04:35:00Z": {
    "number": "FV 6231",
@@ -378,9 +378,9 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:35:00Z",
-   "actual": "2026-11-20T04:35:00Z"
+   "actual": "2026-11-20T04:46:00Z"
   },
   "FV 6303|2026-11-20T04:45:00Z": {
    "number": "FV 6303",
@@ -388,9 +388,9 @@
    "to": "ARH",
    "to_name": "Arkhangelsk",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:45:00Z",
-   "actual": "2026-11-20T04:45:00Z"
+   "actual": "2026-11-20T04:40:00Z"
   },
   "FV 6323|2026-11-20T04:45:00Z": {
    "number": "FV 6323",
@@ -398,9 +398,9 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:45:00Z",
-   "actual": "2026-11-20T04:45:00Z"
+   "actual": "2026-11-20T04:42:00Z"
   },
   "FV 6475|2026-11-20T04:50:00Z": {
    "number": "FV 6475",
@@ -408,9 +408,9 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:50:00Z",
-   "actual": "2026-11-20T04:50:00Z"
+   "actual": "2026-11-20T04:47:00Z"
   },
   "FV 6317|2026-11-20T04:55:00Z": {
    "number": "FV 6317",
@@ -418,9 +418,9 @@
    "to": "KRR",
    "to_name": "Krasnodar",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:55:00Z",
-   "actual": "2026-11-20T04:55:00Z"
+   "actual": "2026-11-20T05:01:00Z"
   },
   "FV 6593|2026-11-20T04:55:00Z": {
    "number": "FV 6593",
@@ -428,9 +428,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:55:00Z",
-   "actual": "2026-11-20T04:55:00Z"
+   "actual": "2026-11-20T04:50:00Z"
   },
   "DP 537|2026-11-20T04:35:00Z": {
    "number": "DP 537",
@@ -438,9 +438,9 @@
    "to": "STW",
    "to_name": "Stavropol",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:35:00Z",
-   "actual": "2026-11-20T04:55:00Z"
+   "actual": "2026-11-20T05:04:00Z"
   },
   "FV 6003|2026-11-20T05:00:00Z": {
    "number": "FV 6003",
@@ -448,9 +448,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:00:00Z",
-   "actual": "2026-11-20T05:00:00Z"
+   "actual": "2026-11-20T04:58:00Z"
   },
   "FV 6952|2026-11-20T05:00:00Z": {
    "number": "FV 6952",
@@ -458,7 +458,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:00:00Z",
    "actual": "2026-11-20T05:00:00Z"
   },
@@ -468,9 +468,9 @@
    "to": "GRV",
    "to_name": "Grozny",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:00:00Z",
-   "actual": "2026-11-20T05:00:00Z"
+   "actual": "2026-11-20T04:59:00Z"
   },
   "D2 323|2026-11-20T05:00:00Z": {
    "number": "D2 323",
@@ -478,9 +478,9 @@
    "to": "UCT",
    "to_name": "Ukhta",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:00:00Z",
-   "actual": "2026-11-20T05:00:00Z"
+   "actual": "2026-11-20T04:54:00Z"
   },
   "AT 241|2026-11-20T05:05:00Z": {
    "number": "AT 241",
@@ -488,15 +488,176 @@
    "to": "CMN",
    "to_name": "Casablanca",
    "model": "Boeing 737-800 (winglets)",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:05:00Z",
-   "actual": "2026-11-20T05:05:00Z"
+   "actual": "2026-11-20T04:54:00Z"
+  },
+  "FV 6355|2026-11-20T05:15:00Z": {
+   "number": "FV 6355",
+   "airline": "Rossiya",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T05:15:00Z",
+   "actual": "2026-11-20T05:11:00Z"
+  },
+  "FV 6700|2026-11-20T05:30:00Z": {
+   "number": "FV 6700",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-20T05:30:00Z",
+   "actual": "2026-11-20T05:25:00Z"
+  },
+  "N4 243|2026-11-20T05:35:00Z": {
+   "number": "N4 243",
+   "airline": "Nordwind",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T05:35:00Z",
+   "actual": "2026-11-20T05:30:00Z"
+  },
+  "5N 146|2026-11-20T05:55:00Z": {
+   "number": "5N 146",
+   "airline": "Smartavia",
+   "to": "ARH",
+   "to_name": "Arkhangelsk",
+   "model": "Boeing 737-700",
+   "status": "Departed",
+   "scheduled": "2026-11-20T05:55:00Z",
+   "actual": "2026-11-20T05:47:00Z"
+  },
+  "FV 6005|2026-11-20T06:00:00Z": {
+   "number": "FV 6005",
+   "airline": "Rossiya",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-20T06:00:00Z",
+   "actual": "2026-11-20T05:52:00Z"
+  },
+  "5N 505|2026-11-20T06:10:00Z": {
+   "number": "5N 505",
+   "airline": "Smartavia",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T06:10:00Z",
+   "actual": "2026-11-20T05:54:00Z"
+  },
+  "FV 6105|2026-11-20T06:05:00Z": {
+   "number": "FV 6105",
+   "airline": "Rossiya",
+   "to": "GOJ",
+   "to_name": "Nizhniy Novgorod",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T06:05:00Z",
+   "actual": "2026-11-20T06:05:00Z"
+  },
+  "DP 506|2026-11-20T06:05:00Z": {
+   "number": "DP 506",
+   "airline": "Pobeda",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T06:05:00Z",
+   "actual": "2026-11-20T06:05:00Z"
+  },
+  "5N 507|2026-11-20T06:05:00Z": {
+   "number": "5N 507",
+   "airline": "Smartavia",
+   "to": "MMK",
+   "to_name": "Murmansk",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T06:05:00Z",
+   "actual": "2026-11-20T06:05:00Z"
+  },
+  "FV 6343|2026-11-20T06:10:00Z": {
+   "number": "FV 6343",
+   "airline": "Rossiya",
+   "to": "MMK",
+   "to_name": "Murmansk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T06:10:00Z",
+   "actual": "2026-11-20T06:10:00Z"
+  },
+  "HY 9640|2026-11-20T06:20:00Z": {
+   "number": "HY 9640",
+   "airline": "Uzbekistan",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A320 NEO",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T06:20:00Z",
+   "actual": "2026-11-20T06:20:00Z"
+  },
+  "FV 6128|2026-11-20T06:30:00Z": {
+   "number": "FV 6128",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T06:30:00Z",
+   "actual": "2026-11-20T06:30:00Z"
+  },
+  "5N 531|2026-11-20T06:45:00Z": {
+   "number": "5N 531",
+   "airline": "Smartavia",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T06:45:00Z",
+   "actual": "2026-11-20T06:45:00Z"
+  },
+  "FV 6233|2026-11-20T06:55:00Z": {
+   "number": "FV 6233",
+   "airline": "Rossiya",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T06:55:00Z",
+   "actual": "2026-11-20T06:55:00Z"
+  },
+  "FV 6007|2026-11-20T07:00:00Z": {
+   "number": "FV 6007",
+   "airline": "Rossiya",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T07:00:00Z",
+   "actual": "2026-11-20T07:00:00Z"
+  },
+  "SU 7|2026-11-20T07:00:00Z": {
+   "number": "SU 7",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T07:00:00Z",
+   "actual": "2026-11-20T07:00:00Z"
   }
  },
  "fetched": [
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
-  "2026-11-20T04:07:29Z"
+  "2026-11-20T04:07:29Z",
+  "2026-11-20T06:07:28Z"
  ]
 }

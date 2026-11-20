@@ -48,9 +48,19 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:25:00Z",
-   "actual": "2026-11-20T04:30:00Z"
+   "actual": "2026-11-20T04:57:00Z"
+  },
+  "NF 979|2026-11-20T06:00:00Z": {
+   "number": "NF 979",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T06:00:00Z",
+   "actual": "2026-11-20T06:00:00Z"
   }
  },
  "fetched": [
@@ -58,6 +68,7 @@
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
-  "2026-11-20T04:07:29Z"
+  "2026-11-20T04:07:29Z",
+  "2026-11-20T06:07:28Z"
  ]
 }

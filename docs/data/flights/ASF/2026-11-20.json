@@ -21,6 +21,36 @@
    "status": "Boarding",
    "scheduled": "2026-11-20T04:30:00Z",
    "actual": "2026-11-20T04:30:00Z"
+  },
+  "ЛЩ 9683|2026-11-20T05:30:00Z": {
+   "number": "ЛЩ 9683",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T05:30:00Z",
+   "actual": "2026-11-20T05:30:00Z"
+  },
+  "ЛЩ 9681|2026-11-20T06:30:00Z": {
+   "number": "ЛЩ 9681",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T06:30:00Z",
+   "actual": "2026-11-20T06:30:00Z"
+  },
+  "J2 8236|2026-11-20T06:30:00Z": {
+   "number": "J2 8236",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Embraer 190",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T06:30:00Z",
+   "actual": "2026-11-20T06:30:00Z"
   }
  },
  "fetched": [
@@ -28,6 +58,7 @@
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
-  "2026-11-20T04:07:29Z"
+  "2026-11-20T04:07:29Z",
+  "2026-11-20T06:07:28Z"
  ]
 }

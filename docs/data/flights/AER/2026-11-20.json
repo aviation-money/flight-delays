@@ -31,12 +31,53 @@
    "status": "GateClosed",
    "scheduled": "2026-11-20T04:00:00Z",
    "actual": "2026-11-20T04:00:00Z"
+  },
+  "A4 5069|2026-11-20T03:54:00Z": {
+   "number": "A4 5069",
+   "airline": "Azimuth",
+   "to": "Istanbul",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-20T03:54:00Z",
+   "actual": "2026-11-20T03:54:00Z"
+  },
+  "DP 112|2026-11-20T05:10:00Z": {
+   "number": "DP 112",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T05:10:00Z",
+   "actual": "2026-11-20T05:10:00Z"
+  },
+  "FV 6201|2026-11-20T05:25:00Z": {
+   "number": "FV 6201",
+   "airline": "Rossiya",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T05:25:00Z",
+   "actual": "2026-11-20T05:39:00Z"
+  },
+  "FV 6605|2026-11-20T05:10:00Z": {
+   "number": "FV 6605",
+   "airline": "Rossiya",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T05:10:00Z",
+   "actual": "2026-11-20T06:00:00Z"
   }
  },
  "fetched": [
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
-  "2026-11-20T04:07:29Z"
+  "2026-11-20T04:07:29Z",
+  "2026-11-20T06:07:28Z"
  ]
 }

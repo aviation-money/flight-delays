@@ -131,6 +131,26 @@
    "status": "Unknown",
    "scheduled": "2026-11-20T04:00:00Z",
    "actual": null
+  },
+  "R3 415|2026-11-20T05:30:00Z": {
+   "number": "R3 415",
+   "airline": "Yakutia",
+   "to": "Deputatskiy",
+   "to_name": "Deputatskiy",
+   "model": null,
+   "status": "Unknown",
+   "scheduled": "2026-11-20T05:30:00Z",
+   "actual": null
+  },
+  "FV 2456|2026-11-20T07:05:00Z": {
+   "number": "FV 2456",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-20T07:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -140,6 +160,7 @@
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
-  "2026-11-20T04:07:29Z"
+  "2026-11-20T04:07:29Z",
+  "2026-11-20T06:07:28Z"
  ]
 }

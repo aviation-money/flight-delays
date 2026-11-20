@@ -178,9 +178,9 @@
    "to": "Baykit",
    "to_name": "Baykit",
    "model": "ATR 42-500",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-20T02:50:00Z",
-   "actual": "2026-11-20T02:50:00Z"
+   "actual": "2026-11-20T05:20:00Z"
   },
   "UT 6101|2026-11-20T01:50:00Z": {
    "number": "UT 6101",
@@ -188,9 +188,9 @@
    "to": "Igarka",
    "to_name": "Igarka",
    "model": "Boeing 737-400",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-20T01:50:00Z",
-   "actual": "2026-11-20T04:50:00Z"
+   "actual": "2026-11-20T05:20:00Z"
   },
   "S7 5306|2026-11-20T03:00:00Z": {
    "number": "S7 5306",
@@ -208,7 +208,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-20T03:05:00Z",
    "actual": "2026-11-20T04:30:00Z"
   },
@@ -238,7 +238,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:05:00Z",
    "actual": "2026-11-20T04:05:00Z"
   },
@@ -248,9 +248,19 @@
    "to": "HTG",
    "to_name": "Khatanga",
    "model": "Yak 42",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:40:00Z",
    "actual": "2026-11-20T04:40:00Z"
+  },
+  "FV 5755НВ|2026-11-20T03:05:00Z": {
+   "number": "FV 5755НВ",
+   "airline": "Rossiya",
+   "to": "Khabarovsk",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Canceled",
+   "scheduled": "2026-11-20T03:05:00Z",
+   "actual": "2026-11-20T03:25:00Z"
   }
  },
  "fetched": [
@@ -259,6 +269,7 @@
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
-  "2026-11-20T04:07:29Z"
+  "2026-11-20T04:07:29Z",
+  "2026-11-20T06:07:28Z"
  ]
 }

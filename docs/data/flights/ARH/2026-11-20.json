@@ -18,15 +18,26 @@
    "to": "Varandey",
    "to_name": "Varandey",
    "model": "An-24",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:30:00Z",
-   "actual": "2026-11-20T04:30:00Z"
+   "actual": "2026-11-20T04:46:00Z"
+  },
+  "D2 53|2026-11-20T06:00:00Z": {
+   "number": "D2 53",
+   "airline": "Severstal Aircompany",
+   "to": "MMK",
+   "to_name": "Murmansk",
+   "model": "CRJ200LR",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T06:00:00Z",
+   "actual": "2026-11-20T06:00:00Z"
   }
  },
  "fetched": [
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
-  "2026-11-20T04:07:29Z"
+  "2026-11-20T04:07:29Z",
+  "2026-11-20T06:07:28Z"
  ]
 }

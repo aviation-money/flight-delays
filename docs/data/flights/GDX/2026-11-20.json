@@ -125,12 +125,12 @@
   "S7 5249|2026-11-20T01:10:00Z": {
    "number": "S7 5249",
    "airline": "S7",
-   "to": "P.-Kamchatskiy",
-   "to_name": "P.-Kamchatskiy",
-   "model": null,
-   "status": "GateClosed",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-20T01:10:00Z",
-   "actual": "2026-11-20T04:10:00Z"
+   "actual": "2026-11-20T04:47:00Z"
   },
   "HZ 5613|2026-11-20T04:50:00Z": {
    "number": "HZ 5613",
@@ -138,9 +138,19 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:50:00Z",
-   "actual": "2026-11-20T04:50:00Z"
+   "actual": "2026-11-20T05:29:00Z"
+  },
+  "IO 9707|2026-11-20T05:30:00Z": {
+   "number": "IO 9707",
+   "airline": "IrAero",
+   "to": "Baimskaya",
+   "to_name": "Baimskaya",
+   "model": null,
+   "status": "Canceled",
+   "scheduled": "2026-11-20T05:30:00Z",
+   "actual": "2026-11-20T05:30:00Z"
   }
  },
  "fetched": [
@@ -156,6 +166,7 @@
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
-  "2026-11-20T04:07:29Z"
+  "2026-11-20T04:07:29Z",
+  "2026-11-20T06:07:28Z"
  ]
 }

@@ -58,9 +58,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T01:05:00Z",
-   "actual": "2026-11-20T01:05:00Z"
+   "actual": "2026-11-20T04:05:00Z"
   },
   "SU 1639|2026-11-20T02:05:00Z": {
    "number": "SU 1639",
@@ -77,20 +77,30 @@
    "airline": "Nordwind",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-20T02:25:00Z",
-   "actual": "2026-11-20T02:25:00Z"
+   "actual": "2026-11-20T04:17:00Z"
   },
   "IQ 522|2026-11-20T04:00:00Z": {
    "number": "IQ 522",
    "airline": "Qazaq Air",
    "to": "NQZ",
    "to_name": "Astana",
-   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
-   "status": "GateClosed",
+   "model": "De Havilland Canada DHC-8-400 Dash 8Q",
+   "status": "Departed",
    "scheduled": "2026-11-20T04:00:00Z",
-   "actual": "2026-11-20T04:00:00Z"
+   "actual": "2026-11-20T04:02:00Z"
+  },
+  "S7 5344|2026-11-20T05:45:00Z": {
+   "number": "S7 5344",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "EMB170",
+   "status": "Departed",
+   "scheduled": "2026-11-20T05:45:00Z",
+   "actual": "2026-11-20T05:50:00Z"
   }
  },
  "fetched": [
@@ -99,6 +109,7 @@
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
-  "2026-11-20T04:07:29Z"
+  "2026-11-20T04:07:29Z",
+  "2026-11-20T06:07:28Z"
  ]
 }
