@@ -1,9 +1,21 @@
 {
  "airport": "YKS",
  "date": "2026-11-21",
- "flights": {},
+ "flights": {
+  "R3 401|2026-11-20T20:00:00Z": {
+   "number": "R3 401",
+   "airline": "Yakutia",
+   "to": "CYX",
+   "to_name": "Cherskiy",
+   "model": null,
+   "status": "Unknown",
+   "scheduled": "2026-11-20T20:00:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
   "2026-11-20T16:07:27Z",
-  "2026-11-20T18:07:30Z"
+  "2026-11-20T18:07:30Z",
+  "2026-11-20T20:07:34Z"
  ]
 }

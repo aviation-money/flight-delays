@@ -1,0 +1,19 @@
+{
+ "airport": "KUF",
+ "date": "2026-11-21",
+ "flights": {
+  "RT 246|2026-11-20T20:20:00Z": {
+   "number": "RT 246",
+   "airline": "UVT Aero",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T20:20:00Z",
+   "actual": "2026-11-20T20:20:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-20T20:07:34Z"
+ ]
+}

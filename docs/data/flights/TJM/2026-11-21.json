@@ -1,0 +1,19 @@
+{
+ "airport": "TJM",
+ "date": "2026-11-21",
+ "flights": {
+  "UJ 748|2026-11-20T20:15:00Z": {
+   "number": "UJ 748",
+   "airline": "Almastria Airlines",
+   "to": "Sharm el Sheikh",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T20:15:00Z",
+   "actual": "2026-11-20T20:15:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-20T20:07:34Z"
+ ]
+}

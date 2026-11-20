@@ -8,13 +8,14 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Embraer 170",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T18:20:00Z",
-   "actual": "2026-11-20T18:20:00Z"
+   "actual": "2026-11-20T18:23:00Z"
   }
  },
  "fetched": [
   "2026-11-20T16:07:27Z",
-  "2026-11-20T18:07:30Z"
+  "2026-11-20T18:07:30Z",
+  "2026-11-20T20:07:34Z"
  ]
 }

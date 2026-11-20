@@ -448,9 +448,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T17:35:00Z",
-   "actual": "2026-11-20T17:55:00Z"
+   "actual": "2026-11-20T18:07:00Z"
   },
   "WZ 4311|2026-11-20T10:50:00Z": {
    "number": "WZ 4311",
@@ -458,9 +458,9 @@
    "to": "TLV",
    "to_name": "Tel Aviv Yafo",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:50:00Z",
-   "actual": "2026-11-20T18:35:00Z"
+   "actual": "2026-11-20T19:05:00Z"
   },
   "FV 6876|2026-11-20T18:40:00Z": {
    "number": "FV 6876",
@@ -471,6 +471,26 @@
    "status": "Expected",
    "scheduled": "2026-11-20T18:40:00Z",
    "actual": "2026-11-20T18:40:00Z"
+  },
+  "FV 6876|2026-11-20T18:28:00Z": {
+   "number": "FV 6876",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-20T18:28:00Z",
+   "actual": "2026-11-20T18:28:00Z"
+  },
+  "DP 365|2026-11-20T20:15:00Z": {
+   "number": "DP 365",
+   "airline": "Pobeda",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T20:15:00Z",
+   "actual": "2026-11-20T20:15:00Z"
   }
  },
  "fetched": [
@@ -485,6 +505,7 @@
   "2026-11-20T12:07:37Z",
   "2026-11-20T14:07:26Z",
   "2026-11-20T16:07:27Z",
-  "2026-11-20T18:07:30Z"
+  "2026-11-20T18:07:30Z",
+  "2026-11-20T20:07:34Z"
  ]
 }

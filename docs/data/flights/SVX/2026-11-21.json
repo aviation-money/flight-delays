@@ -1,0 +1,39 @@
+{
+ "airport": "SVX",
+ "date": "2026-11-21",
+ "flights": {
+  "SU 1021|2026-11-20T19:50:00Z": {
+   "number": "SU 1021",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T19:50:00Z",
+   "actual": "2026-11-20T19:52:00Z"
+  },
+  "U6 775|2026-11-20T19:50:00Z": {
+   "number": "U6 775",
+   "airline": "Ural",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T19:50:00Z",
+   "actual": "2026-11-20T19:55:00Z"
+  },
+  "WZ 5003|2026-11-20T19:50:00Z": {
+   "number": "WZ 5003",
+   "airline": "Red Wings",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-20T19:50:00Z",
+   "actual": "2026-11-20T21:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-20T20:07:34Z"
+ ]
+}

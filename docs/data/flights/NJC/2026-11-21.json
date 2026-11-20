@@ -1,0 +1,29 @@
+{
+ "airport": "NJC",
+ "date": "2026-11-21",
+ "flights": {
+  "UT 152|2026-11-20T19:30:00Z": {
+   "number": "UT 152",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "Expected",
+   "scheduled": "2026-11-20T19:30:00Z",
+   "actual": null
+  },
+  "WZ 5918|2026-11-20T21:00:00Z": {
+   "number": "WZ 5918",
+   "airline": "Red Wings",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-20T21:00:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-20T20:07:34Z"
+ ]
+}
