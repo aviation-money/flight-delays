@@ -98,9 +98,9 @@
    "to": "MSQ",
    "to_name": "Minsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:30:00Z",
-   "actual": "2026-11-20T10:30:00Z"
+   "actual": "2026-11-20T10:40:00Z"
   },
   "SU 1203|2026-11-20T11:00:00Z": {
    "number": "SU 1203",
@@ -108,9 +108,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T11:00:00Z",
-   "actual": "2026-11-20T11:00:00Z"
+   "actual": "2026-11-20T11:05:00Z"
+  },
+  "S7 5040|2026-11-20T12:10:00Z": {
+   "number": "S7 5040",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T12:10:00Z",
+   "actual": "2026-11-20T12:10:00Z"
+  },
+  "A4 6018|2026-11-20T10:50:00Z": {
+   "number": "A4 6018",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-20T10:50:00Z",
+   "actual": "2026-11-20T12:30:00Z"
   }
  },
  "fetched": [
@@ -122,6 +142,7 @@
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
-  "2026-11-20T10:07:26Z"
+  "2026-11-20T10:07:26Z",
+  "2026-11-20T12:07:37Z"
  ]
 }

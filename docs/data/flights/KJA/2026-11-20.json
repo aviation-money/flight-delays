@@ -321,6 +321,66 @@
    "status": "Canceled",
    "scheduled": "2026-11-20T10:30:00Z",
    "actual": "2026-11-20T10:30:00Z"
+  },
+  "FV 6875|2026-11-20T11:20:00Z": {
+   "number": "FV 6875",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-20T11:20:00Z",
+   "actual": "2026-11-20T11:20:00Z"
+  },
+  "FV 5751|2026-11-20T11:30:00Z": {
+   "number": "FV 5751",
+   "airline": "Rossiya",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-20T11:30:00Z",
+   "actual": "2026-11-20T11:30:00Z"
+  },
+  "FV 6476|2026-11-20T11:45:00Z": {
+   "number": "FV 6476",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-20T11:45:00Z",
+   "actual": "2026-11-20T11:45:00Z"
+  },
+  "S7 5312|2026-11-20T12:25:00Z": {
+   "number": "S7 5312",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-20T12:25:00Z",
+   "actual": "2026-11-20T12:25:00Z"
+  },
+  "FV 6649|2026-11-20T12:50:00Z": {
+   "number": "FV 6649",
+   "airline": "Rossiya",
+   "to": "PVG",
+   "to_name": "Shanghai",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T12:50:00Z",
+   "actual": "2026-11-20T12:50:00Z"
+  },
+  "SU 1487|2026-11-20T13:05:00Z": {
+   "number": "SU 1487",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T13:05:00Z",
+   "actual": "2026-11-20T13:05:00Z"
   }
  },
  "fetched": [
@@ -333,6 +393,7 @@
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
-  "2026-11-20T10:07:26Z"
+  "2026-11-20T10:07:26Z",
+  "2026-11-20T12:07:37Z"
  ]
 }

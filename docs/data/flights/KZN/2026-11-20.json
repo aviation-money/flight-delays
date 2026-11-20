@@ -165,8 +165,8 @@
   "DP 973|2026-11-20T07:10:00Z": {
    "number": "DP 973",
    "airline": "Pobeda",
-   "to": "IST",
-   "to_name": "Istanbul",
+   "to": "Istanbul (Havalimani New)",
+   "to_name": "Istanbul (Havalimani New)",
    "model": "Boeing 737-800 (winglets)",
    "status": "Departed",
    "scheduled": "2026-11-20T07:10:00Z",
@@ -195,8 +195,8 @@
   "N4 1015|2026-11-20T08:15:00Z": {
    "number": "N4 1015",
    "airline": "Nordwind",
-   "to": "IST",
-   "to_name": "Istanbul",
+   "to": "Istanbul (Havalimani New)",
+   "to_name": "Istanbul (Havalimani New)",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-20T08:15:00Z",
@@ -238,9 +238,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Embraer 190",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T09:50:00Z",
-   "actual": "2026-11-20T09:50:00Z"
+   "actual": "2026-11-20T09:36:00Z"
   },
   "FV 6202|2026-11-20T09:55:00Z": {
    "number": "FV 6202",
@@ -248,9 +248,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T09:55:00Z",
-   "actual": "2026-11-20T09:55:00Z"
+   "actual": "2026-11-20T09:52:00Z"
   },
   "SU 1191|2026-11-20T10:20:00Z": {
    "number": "SU 1191",
@@ -258,9 +258,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:20:00Z",
-   "actual": "2026-11-20T10:20:00Z"
+   "actual": "2026-11-20T10:22:00Z"
   },
   "7R 691|2026-11-20T10:30:00Z": {
    "number": "7R 691",
@@ -268,9 +268,9 @@
    "to": "NNM",
    "to_name": "Naryan Mar",
    "model": "Canadair CRJ 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:30:00Z",
-   "actual": "2026-11-20T10:45:00Z"
+   "actual": "2026-11-20T10:46:00Z"
   },
   "S7 5036|2026-11-20T11:05:00Z": {
    "number": "S7 5036",
@@ -278,9 +278,59 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T11:05:00Z",
-   "actual": "2026-11-20T11:05:00Z"
+   "actual": "2026-11-20T11:04:00Z"
+  },
+  "N4 62|2026-11-20T06:20:00Z": {
+   "number": "N4 62",
+   "airline": "Nordwind",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T06:20:00Z",
+   "actual": "2026-11-20T12:00:00Z"
+  },
+  "TK 430|2026-11-20T12:05:00Z": {
+   "number": "TK 430",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T12:05:00Z",
+   "actual": "2026-11-20T12:05:00Z"
+  },
+  "NE 659|2026-11-20T12:10:00Z": {
+   "number": "NE 659",
+   "airline": "Nesma",
+   "to": "Sharm El Sheikh",
+   "to_name": "Sharm El Sheikh",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T12:10:00Z",
+   "actual": "2026-11-20T12:10:00Z"
+  },
+  "SU 1197|2026-11-20T12:35:00Z": {
+   "number": "SU 1197",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T12:35:00Z",
+   "actual": "2026-11-20T12:35:00Z"
+  },
+  "UT 134|2026-11-20T11:20:00Z": {
+   "number": "UT 134",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T11:20:00Z",
+   "actual": "2026-11-20T13:00:00Z"
   }
  },
  "fetched": [
@@ -291,6 +341,7 @@
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
-  "2026-11-20T10:07:26Z"
+  "2026-11-20T10:07:26Z",
+  "2026-11-20T12:07:37Z"
  ]
 }

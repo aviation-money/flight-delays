@@ -248,7 +248,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T08:20:00Z",
    "actual": "2026-11-20T08:30:00Z"
   },
@@ -258,7 +258,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T06:15:00Z",
    "actual": "2026-11-20T09:21:00Z"
   },
@@ -290,7 +290,27 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-20T09:40:00Z",
-   "actual": "2026-11-20T10:15:00Z"
+   "actual": "2026-11-20T10:30:00Z"
+  },
+  "SU 856|2026-11-20T11:45:00Z": {
+   "number": "SU 856",
+   "airline": "Aeroflot",
+   "to": "SYX",
+   "to_name": "Sanya",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-20T11:45:00Z",
+   "actual": "2026-11-20T11:45:00Z"
+  },
+  "FV 6647|2026-11-20T12:25:00Z": {
+   "number": "FV 6647",
+   "airline": "Rossiya",
+   "to": "PVG",
+   "to_name": "Shanghai",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-20T12:25:00Z",
+   "actual": "2026-11-20T12:25:00Z"
   }
  },
  "fetched": [
@@ -305,6 +325,7 @@
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
-  "2026-11-20T10:07:26Z"
+  "2026-11-20T10:07:26Z",
+  "2026-11-20T12:07:37Z"
  ]
 }

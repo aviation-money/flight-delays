@@ -217,7 +217,7 @@
    "airline": "EgyptAir",
    "to": "Sharm El Sheikh",
    "to_name": "Sharm El Sheikh",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-800 (winglets)",
    "status": "Departed",
    "scheduled": "2026-11-20T08:00:00Z",
    "actual": "2026-11-20T08:42:00Z"
@@ -325,12 +325,12 @@
   "R8 484|2026-11-20T09:30:00Z": {
    "number": "R8 484",
    "airline": "Sky FRU",
-   "to": "BSZ",
+   "to": "Bishkek",
    "to_name": "Bishkek",
    "model": "Boeing 737-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T09:30:00Z",
-   "actual": "2026-11-20T09:30:00Z"
+   "actual": "2026-11-20T10:02:00Z"
   },
   "S7 2501|2026-11-20T09:35:00Z": {
    "number": "S7 2501",
@@ -338,9 +338,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A320-200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T09:35:00Z",
-   "actual": "2026-11-20T09:35:00Z"
+   "actual": "2026-11-20T10:16:00Z"
   },
   "Y7 402|2026-11-20T09:15:00Z": {
    "number": "Y7 402",
@@ -358,14 +358,14 @@
    "to": "Sukhum",
    "to_name": "Sukhum",
    "model": "Airbus A320-200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:00:00Z",
-   "actual": "2026-11-20T10:00:00Z"
+   "actual": "2026-11-20T10:20:00Z"
   },
   "J2 182|2026-11-20T10:05:00Z": {
    "number": "J2 182",
    "airline": "AZAL Azerbaijan",
-   "to": "GYD",
+   "to": "Baku",
    "to_name": "Baku",
    "model": "Airbus A319",
    "status": "Canceled",
@@ -378,9 +378,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:40:00Z",
-   "actual": "2026-11-20T10:40:00Z"
+   "actual": "2026-11-20T11:11:00Z"
   },
   "S7 2507|2026-11-20T10:40:00Z": {
    "number": "S7 2507",
@@ -388,9 +388,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:40:00Z",
-   "actual": "2026-11-20T10:40:00Z"
+   "actual": "2026-11-20T11:07:00Z"
   },
   "S7 2167|2026-11-20T10:50:00Z": {
    "number": "S7 2167",
@@ -398,9 +398,49 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:50:00Z",
-   "actual": "2026-11-20T10:50:00Z"
+   "actual": "2026-11-20T11:00:00Z"
+  },
+  "S7 1211|2026-11-20T11:10:00Z": {
+   "number": "S7 1211",
+   "airline": "S7",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Airbus A320-200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T11:10:00Z",
+   "actual": "2026-11-20T11:10:00Z"
+  },
+  "S7 1165|2026-11-20T12:10:00Z": {
+   "number": "S7 1165",
+   "airline": "S7",
+   "to": "IJK",
+   "to_name": "Izhevsk",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T12:10:00Z",
+   "actual": "2026-11-20T12:10:00Z"
+  },
+  "MS 730|2026-11-20T12:45:00Z": {
+   "number": "MS 730",
+   "airline": "EgyptAir",
+   "to": "CAI",
+   "to_name": "Cairo",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T12:45:00Z",
+   "actual": "2026-11-20T12:45:00Z"
+  },
+  "S7 1015|2026-11-20T13:00:00Z": {
+   "number": "S7 1015",
+   "airline": "S7",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T13:00:00Z",
+   "actual": "2026-11-20T13:00:00Z"
   }
  },
  "fetched": [
@@ -411,6 +451,7 @@
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
-  "2026-11-20T10:07:26Z"
+  "2026-11-20T10:07:26Z",
+  "2026-11-20T12:07:37Z"
  ]
 }

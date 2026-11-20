@@ -148,9 +148,39 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:55:00Z",
    "actual": "2026-11-20T10:55:00Z"
+  },
+  "SU 1689|2026-11-20T11:15:00Z": {
+   "number": "SU 1689",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T11:15:00Z",
+   "actual": "2026-11-20T11:45:00Z"
+  },
+  "UT 306|2026-11-20T12:00:00Z": {
+   "number": "UT 306",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T12:00:00Z",
+   "actual": "2026-11-20T12:00:00Z"
+  },
+  "S7 5346|2026-11-20T13:05:00Z": {
+   "number": "S7 5346",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "EMB170",
+   "status": "Expected",
+   "scheduled": "2026-11-20T13:05:00Z",
+   "actual": "2026-11-20T13:05:00Z"
   }
  },
  "fetched": [
@@ -163,6 +193,7 @@
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
-  "2026-11-20T10:07:26Z"
+  "2026-11-20T10:07:26Z",
+  "2026-11-20T12:07:37Z"
  ]
 }

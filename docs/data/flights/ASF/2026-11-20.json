@@ -101,6 +101,46 @@
    "status": "Expected",
    "scheduled": "2026-11-20T10:00:00Z",
    "actual": "2026-11-20T10:00:00Z"
+  },
+  "ЛЩ 9681|2026-11-20T09:00:00Z": {
+   "number": "ЛЩ 9681",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-20T09:00:00Z",
+   "actual": "2026-11-20T09:01:00Z"
+  },
+  "ЛЩ 9683|2026-11-20T11:45:00Z": {
+   "number": "ЛЩ 9683",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-20T11:45:00Z",
+   "actual": "2026-11-20T11:48:00Z"
+  },
+  "ЛЩ 9685|2026-11-20T12:00:00Z": {
+   "number": "ЛЩ 9685",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T12:00:00Z",
+   "actual": "2026-11-20T12:00:00Z"
+  },
+  "ЛЩ 9687|2026-11-20T13:00:00Z": {
+   "number": "ЛЩ 9687",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-20T13:00:00Z",
+   "actual": "2026-11-20T13:00:00Z"
   }
  },
  "fetched": [
@@ -112,6 +152,7 @@
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
-  "2026-11-20T10:07:26Z"
+  "2026-11-20T10:07:26Z",
+  "2026-11-20T12:07:37Z"
  ]
 }
