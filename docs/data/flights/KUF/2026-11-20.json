@@ -258,7 +258,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T16:10:00Z",
    "actual": "2026-11-20T16:10:00Z"
   },
@@ -268,9 +268,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T16:50:00Z",
-   "actual": "2026-11-20T16:50:00Z"
+   "actual": "2026-11-20T16:52:00Z"
   },
   "SU 1215|2026-11-20T16:55:00Z": {
    "number": "SU 1215",
@@ -278,9 +278,59 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T16:55:00Z",
-   "actual": "2026-11-20T16:55:00Z"
+   "actual": "2026-11-20T17:02:00Z"
+  },
+  "DP 572|2026-11-20T17:40:00Z": {
+   "number": "DP 572",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T17:40:00Z",
+   "actual": "2026-11-20T17:50:00Z"
+  },
+  "ZF 4025|2026-11-20T17:55:00Z": {
+   "number": "ZF 4025",
+   "airline": "AZUR Air",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 767-300",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T17:55:00Z",
+   "actual": "2026-11-20T17:55:00Z"
+  },
+  "DP 6584|2026-11-20T18:20:00Z": {
+   "number": "DP 6584",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T18:20:00Z",
+   "actual": "2026-11-20T18:20:00Z"
+  },
+  "FV 6234|2026-11-20T18:25:00Z": {
+   "number": "FV 6234",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T18:25:00Z",
+   "actual": "2026-11-20T18:25:00Z"
+  },
+  "SU 1217|2026-11-20T18:55:00Z": {
+   "number": "SU 1217",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T18:55:00Z",
+   "actual": "2026-11-20T18:55:00Z"
   }
  },
  "fetched": [
@@ -295,6 +345,7 @@
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
   "2026-11-20T14:07:26Z",
-  "2026-11-20T16:07:27Z"
+  "2026-11-20T16:07:27Z",
+  "2026-11-20T18:07:30Z"
  ]
 }

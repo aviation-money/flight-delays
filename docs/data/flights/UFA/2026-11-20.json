@@ -417,10 +417,10 @@
    "airline": "UTAir",
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
-   "model": "Boeing 737-400",
-   "status": "GateClosed",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-20T16:00:00Z",
-   "actual": "2026-11-20T16:00:00Z"
+   "actual": "2026-11-20T16:16:00Z"
   },
   "UT 104|2026-11-20T15:45:00Z": {
    "number": "UT 104",
@@ -428,9 +428,19 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T15:45:00Z",
-   "actual": "2026-11-20T16:15:00Z"
+   "actual": "2026-11-20T16:54:00Z"
+  },
+  "UT 404|2026-11-20T17:45:00Z": {
+   "number": "UT 404",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-20T17:45:00Z",
+   "actual": "2026-11-20T17:49:00Z"
   }
  },
  "fetched": [
@@ -445,6 +455,7 @@
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
   "2026-11-20T14:07:26Z",
-  "2026-11-20T16:07:27Z"
+  "2026-11-20T16:07:27Z",
+  "2026-11-20T18:07:30Z"
  ]
 }

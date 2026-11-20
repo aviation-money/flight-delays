@@ -131,6 +131,26 @@
    "status": "Departed",
    "scheduled": "2026-11-20T14:30:00Z",
    "actual": "2026-11-20T14:30:00Z"
+  },
+  "S7 7046|2026-11-20T17:55:00Z": {
+   "number": "S7 7046",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T17:55:00Z",
+   "actual": "2026-11-20T17:55:00Z"
+  },
+  "SU 1427|2026-11-20T18:30:00Z": {
+   "number": "SU 1427",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T18:30:00Z",
+   "actual": "2026-11-20T18:30:00Z"
   }
  },
  "fetched": [
@@ -145,6 +165,7 @@
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
   "2026-11-20T14:07:26Z",
-  "2026-11-20T16:07:27Z"
+  "2026-11-20T16:07:27Z",
+  "2026-11-20T18:07:30Z"
  ]
 }

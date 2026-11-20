@@ -1,8 +1,30 @@
 {
  "airport": "UUD",
  "date": "2026-11-21",
- "flights": {},
+ "flights": {
+  "S7 5254|2026-11-20T18:20:00Z": {
+   "number": "S7 5254",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T18:20:00Z",
+   "actual": "2026-11-20T18:20:00Z"
+  },
+  "IO 113|2026-11-20T18:40:00Z": {
+   "number": "IO 113",
+   "airline": "IrAero",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T18:40:00Z",
+   "actual": "2026-11-20T18:40:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-20T16:07:27Z"
+  "2026-11-20T16:07:27Z",
+  "2026-11-20T18:07:30Z"
  ]
 }

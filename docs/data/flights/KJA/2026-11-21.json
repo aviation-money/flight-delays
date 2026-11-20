@@ -1,0 +1,29 @@
+{
+ "airport": "KJA",
+ "date": "2026-11-21",
+ "flights": {
+  "Y7 4410|2026-11-20T17:45:00Z": {
+   "number": "Y7 4410",
+   "airline": "NordStar",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-20T17:45:00Z",
+   "actual": "2026-11-20T17:45:00Z"
+  },
+  "C6 456|2026-11-20T18:50:00Z": {
+   "number": "C6 456",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T18:50:00Z",
+   "actual": "2026-11-20T18:50:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-20T18:07:30Z"
+ ]
+}

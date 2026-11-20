@@ -30,11 +30,32 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-20T16:55:00Z",
-   "actual": "2026-11-20T16:55:00Z"
+   "actual": "2026-11-20T17:10:00Z"
+  },
+  "S7 6215|2026-11-20T17:10:00Z": {
+   "number": "S7 6215",
+   "airline": "S7",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-20T17:10:00Z",
+   "actual": "2026-11-20T17:17:00Z"
+  },
+  "FV 5752|2026-11-20T17:30:00Z": {
+   "number": "FV 5752",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-20T17:30:00Z",
+   "actual": "2026-11-20T17:30:00Z"
   }
  },
  "fetched": [
   "2026-11-20T14:07:26Z",
-  "2026-11-20T16:07:27Z"
+  "2026-11-20T16:07:27Z",
+  "2026-11-20T18:07:30Z"
  ]
 }

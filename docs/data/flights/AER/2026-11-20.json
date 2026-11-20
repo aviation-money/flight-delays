@@ -398,9 +398,79 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T16:35:00Z",
-   "actual": "2026-11-20T16:35:00Z"
+   "actual": "2026-11-20T16:46:00Z"
+  },
+  "SU 1127|2026-11-20T16:25:00Z": {
+   "number": "SU 1127",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-20T16:25:00Z",
+   "actual": "2026-11-20T16:25:00Z"
+  },
+  "DP 6946|2026-11-20T16:32:00Z": {
+   "number": "DP 6946",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T16:32:00Z",
+   "actual": "2026-11-20T16:32:00Z"
+  },
+  "A4 6120|2026-11-20T17:10:00Z": {
+   "number": "A4 6120",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-20T17:10:00Z",
+   "actual": "2026-11-20T17:10:00Z"
+  },
+  "FV 6568|2026-11-20T17:15:00Z": {
+   "number": "FV 6568",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T17:15:00Z",
+   "actual": "2026-11-20T17:15:00Z"
+  },
+  "DP 5942|2026-11-20T17:35:00Z": {
+   "number": "DP 5942",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T17:35:00Z",
+   "actual": "2026-11-20T17:55:00Z"
+  },
+  "WZ 4311|2026-11-20T10:50:00Z": {
+   "number": "WZ 4311",
+   "airline": "Red Wings",
+   "to": "TLV",
+   "to_name": "Tel Aviv Yafo",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T10:50:00Z",
+   "actual": "2026-11-20T18:35:00Z"
+  },
+  "FV 6876|2026-11-20T18:40:00Z": {
+   "number": "FV 6876",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-20T18:40:00Z",
+   "actual": "2026-11-20T18:40:00Z"
   }
  },
  "fetched": [
@@ -414,6 +484,7 @@
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
   "2026-11-20T14:07:26Z",
-  "2026-11-20T16:07:27Z"
+  "2026-11-20T16:07:27Z",
+  "2026-11-20T18:07:30Z"
  ]
 }

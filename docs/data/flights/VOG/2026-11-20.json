@@ -68,9 +68,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T16:40:00Z",
-   "actual": "2026-11-20T16:40:00Z"
+   "actual": "2026-11-20T16:44:00Z"
+  },
+  "FV 6116|2026-11-20T17:20:00Z": {
+   "number": "FV 6116",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-20T17:20:00Z",
+   "actual": "2026-11-20T17:25:00Z"
+  },
+  "SU 1185|2026-11-20T18:45:00Z": {
+   "number": "SU 1185",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T18:45:00Z",
+   "actual": "2026-11-20T18:45:00Z"
   }
  },
  "fetched": [
@@ -84,6 +104,7 @@
   "2026-11-20T10:07:26Z",
   "2026-11-20T12:07:37Z",
   "2026-11-20T14:07:26Z",
-  "2026-11-20T16:07:27Z"
+  "2026-11-20T16:07:27Z",
+  "2026-11-20T18:07:30Z"
  ]
 }
