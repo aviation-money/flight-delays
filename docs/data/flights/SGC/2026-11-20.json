@@ -197,7 +197,7 @@
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737-500",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-20T07:15:00Z",
    "actual": "2026-11-20T07:37:00Z"
@@ -208,9 +208,19 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T08:25:00Z",
-   "actual": "2026-11-20T08:25:00Z"
+   "actual": "2026-11-20T08:27:00Z"
+  },
+  "U6 9072|2026-11-20T09:50:00Z": {
+   "number": "U6 9072",
+   "airline": "Ural",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-20T09:50:00Z",
+   "actual": "2026-11-20T09:50:00Z"
   }
  },
  "fetched": [
@@ -221,6 +231,7 @@
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
-  "2026-11-20T08:07:28Z"
+  "2026-11-20T08:07:28Z",
+  "2026-11-20T10:07:26Z"
  ]
 }

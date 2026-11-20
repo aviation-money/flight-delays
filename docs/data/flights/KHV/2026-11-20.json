@@ -288,9 +288,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 777-300",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T07:50:00Z",
-   "actual": "2026-11-20T07:50:00Z"
+   "actual": "2026-11-20T08:04:00Z"
   },
   "HZ 5601|2026-11-20T09:00:00Z": {
    "number": "HZ 5601",
@@ -298,9 +298,49 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-20T09:00:00Z",
-   "actual": "2026-11-20T09:00:00Z"
+   "actual": "2026-11-20T09:30:00Z"
+  },
+  "HZ 5642|2026-11-20T09:25:00Z": {
+   "number": "HZ 5642",
+   "airline": "Aurora",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-20T09:25:00Z",
+   "actual": "2026-11-20T09:25:00Z"
+  },
+  "FV 5756|2026-11-20T08:40:00Z": {
+   "number": "FV 5756",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Delayed",
+   "scheduled": "2026-11-20T08:40:00Z",
+   "actual": "2026-11-20T09:45:00Z"
+  },
+  "R3 296|2026-11-20T10:10:00Z": {
+   "number": "R3 296",
+   "airline": "Yakutia",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-20T10:10:00Z",
+   "actual": "2026-11-20T10:10:00Z"
+  },
+  "FV 5702|2026-11-20T10:30:00Z": {
+   "number": "FV 5702",
+   "airline": "Rossiya",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-20T10:30:00Z",
+   "actual": "2026-11-20T10:30:00Z"
   }
  },
  "fetched": [
@@ -314,6 +354,7 @@
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
-  "2026-11-20T08:07:28Z"
+  "2026-11-20T08:07:28Z",
+  "2026-11-20T10:07:26Z"
  ]
 }

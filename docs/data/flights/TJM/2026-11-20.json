@@ -188,7 +188,7 @@
    "to": "Beloyarskiy",
    "to_name": "Beloyarskiy",
    "model": null,
-   "status": "GateClosed",
+   "status": "Canceled",
    "scheduled": "2026-11-20T02:40:00Z",
    "actual": "2026-11-20T07:40:00Z"
   },
@@ -218,9 +218,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T08:25:00Z",
-   "actual": "2026-11-20T08:25:00Z"
+   "actual": "2026-11-20T08:30:00Z"
   },
   "N4 334|2026-11-20T08:50:00Z": {
    "number": "N4 334",
@@ -228,9 +228,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T08:50:00Z",
-   "actual": "2026-11-20T08:50:00Z"
+   "actual": "2026-11-20T09:17:00Z"
   },
   "UT 6321|2026-11-20T09:00:00Z": {
    "number": "UT 6321",
@@ -238,9 +238,29 @@
    "to": "Bovanenkovo",
    "to_name": "Bovanenkovo",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T09:00:00Z",
-   "actual": "2026-11-20T09:00:00Z"
+   "actual": "2026-11-20T09:12:00Z"
+  },
+  "YC 956|2026-11-20T10:10:00Z": {
+   "number": "YC 956",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T10:10:00Z",
+   "actual": "2026-11-20T10:10:00Z"
+  },
+  "S7 5356|2026-11-20T10:15:00Z": {
+   "number": "S7 5356",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T10:15:00Z",
+   "actual": "2026-11-20T10:15:00Z"
   }
  },
  "fetched": [
@@ -251,6 +271,7 @@
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
-  "2026-11-20T08:07:28Z"
+  "2026-11-20T08:07:28Z",
+  "2026-11-20T10:07:26Z"
  ]
 }

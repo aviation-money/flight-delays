@@ -88,9 +88,99 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T08:55:00Z",
    "actual": "2026-11-20T08:55:00Z"
+  },
+  "SU 1153|2026-11-20T08:01:00Z": {
+   "number": "SU 1153",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-20T08:01:00Z",
+   "actual": "2026-11-20T08:01:00Z"
+  },
+  "U6 220|2026-11-20T09:00:00Z": {
+   "number": "U6 220",
+   "airline": "Ural",
+   "to": "Ekaterinburg",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T09:00:00Z",
+   "actual": "2026-11-20T09:00:00Z"
+  },
+  "SU 1123|2026-11-20T09:20:00Z": {
+   "number": "SU 1123",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T09:20:00Z",
+   "actual": "2026-11-20T09:20:00Z"
+  },
+  "FV 6729|2026-11-20T10:00:00Z": {
+   "number": "FV 6729",
+   "airline": "Rossiya",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T10:00:00Z",
+   "actual": "2026-11-20T10:00:00Z"
+  },
+  "S7 5104|2026-11-20T10:10:00Z": {
+   "number": "S7 5104",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T10:10:00Z",
+   "actual": "2026-11-20T10:10:00Z"
+  },
+  "SU 1137|2026-11-20T10:20:00Z": {
+   "number": "SU 1137",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T10:20:00Z",
+   "actual": "2026-11-20T10:20:00Z"
+  },
+  "DP 347|2026-11-20T09:35:00Z": {
+   "number": "DP 347",
+   "airline": "Pobeda",
+   "to": "KVX",
+   "to_name": "Kirov",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T09:35:00Z",
+   "actual": "2026-11-20T10:25:00Z"
+  },
+  "DP 315|2026-11-20T10:05:00Z": {
+   "number": "DP 315",
+   "airline": "Pobeda",
+   "to": "ULV",
+   "to_name": "Ulyanovsk",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T10:05:00Z",
+   "actual": "2026-11-20T10:35:00Z"
+  },
+  "A4 5005|2026-11-20T11:00:00Z": {
+   "number": "A4 5005",
+   "airline": "Azimuth",
+   "to": "Yaroslavl",
+   "to_name": "Yaroslavl",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-20T11:00:00Z",
+   "actual": "2026-11-20T11:00:00Z"
   }
  },
  "fetched": [
@@ -100,6 +190,7 @@
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
-  "2026-11-20T08:07:28Z"
+  "2026-11-20T08:07:28Z",
+  "2026-11-20T10:07:26Z"
  ]
 }

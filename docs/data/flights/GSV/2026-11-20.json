@@ -28,9 +28,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T06:35:00Z",
-   "actual": "2026-11-20T07:55:00Z"
+   "actual": "2026-11-20T08:15:00Z"
   },
   "SU 1357|2026-11-20T07:55:00Z": {
    "number": "SU 1357",
@@ -38,9 +38,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T07:55:00Z",
-   "actual": "2026-11-20T07:55:00Z"
+   "actual": "2026-11-20T08:23:00Z"
   }
  },
  "fetched": [
@@ -51,6 +51,7 @@
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
-  "2026-11-20T08:07:28Z"
+  "2026-11-20T08:07:28Z",
+  "2026-11-20T10:07:26Z"
  ]
 }

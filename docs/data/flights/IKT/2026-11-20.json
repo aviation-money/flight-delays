@@ -378,7 +378,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:10:00Z",
    "actual": null
   },
@@ -390,6 +390,36 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-20T07:20:00Z",
+   "actual": null
+  },
+  "CA 870|2026-11-20T10:00:00Z": {
+   "number": "CA 870",
+   "airline": "Air China",
+   "to": "PEK",
+   "to_name": "Beijing",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-20T10:00:00Z",
+   "actual": null
+  },
+  "IO 169|2026-11-20T10:35:00Z": {
+   "number": "IO 169",
+   "airline": "IrAero",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Bombardier CRJ",
+   "status": "Expected",
+   "scheduled": "2026-11-20T10:35:00Z",
+   "actual": null
+  },
+  "HY 9674|2026-11-20T11:05:00Z": {
+   "number": "HY 9674",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-20T11:05:00Z",
    "actual": null
   }
  },
@@ -403,6 +433,7 @@
   "2026-11-20T04:07:29Z",
   "2026-11-20T06:07:28Z",
   "2026-11-20T06:21:08Z",
-  "2026-11-20T08:07:28Z"
+  "2026-11-20T08:07:28Z",
+  "2026-11-20T10:07:26Z"
  ]
 }
