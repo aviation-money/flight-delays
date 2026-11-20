@@ -48,9 +48,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:20:00Z",
-   "actual": "2026-11-20T00:35:00Z"
+   "actual": "2026-11-20T00:49:00Z"
   },
   "АЯ 9185|2026-11-20T01:00:00Z": {
    "number": "АЯ 9185",
@@ -58,9 +58,9 @@
    "to": "Gazimurskiy Zavod",
    "to_name": "Gazimurskiy Zavod",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T01:00:00Z",
-   "actual": "2026-11-20T01:00:00Z"
+   "actual": "2026-11-20T01:03:00Z"
   },
   "АЯ 187|2026-11-20T01:00:00Z": {
    "number": "АЯ 187",
@@ -78,9 +78,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320 NEO",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T01:05:00Z",
-   "actual": "2026-11-20T01:05:00Z"
+   "actual": "2026-11-20T01:08:00Z"
   }
  },
  "fetched": [
@@ -88,6 +88,7 @@
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
   "2026-11-19T22:07:37Z",
-  "2026-11-20T00:07:26Z"
+  "2026-11-20T00:07:26Z",
+  "2026-11-20T02:07:27Z"
  ]
 }

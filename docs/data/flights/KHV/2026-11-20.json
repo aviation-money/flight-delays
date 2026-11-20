@@ -30,7 +30,7 @@
    "model": "Airbus Industrie А320",
    "status": "Departed",
    "scheduled": "2026-11-19T20:45:00Z",
-   "actual": "2026-11-19T23:40:00Z"
+   "actual": "2026-11-20T00:33:00Z"
   },
   "U6 174|2026-11-19T21:50:00Z": {
    "number": "U6 174",
@@ -80,7 +80,7 @@
    "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-19T22:55:00Z",
-   "actual": "2026-11-19T23:25:00Z"
+   "actual": "2026-11-20T00:11:00Z"
   },
   "IO 2177|2026-11-19T22:05:00Z": {
    "number": "IO 2177",
@@ -88,9 +88,9 @@
    "to": "Kalibo",
    "to_name": "Kalibo",
    "model": "Sukhoi Superjet 100",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-19T22:05:00Z",
-   "actual": "2026-11-20T00:10:00Z"
+   "actual": "2026-11-20T00:57:00Z"
   },
   "4G 9652|2026-11-19T23:00:00Z": {
    "number": "4G 9652",
@@ -107,10 +107,10 @@
    "airline": "S7",
    "to": "VVO",
    "to_name": "Vladivostok",
-   "model": "del2",
-   "status": "Expected",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:05:00Z",
-   "actual": "2026-11-20T00:05:00Z"
+   "actual": "2026-11-20T01:18:00Z"
   },
   "SU 1715|2026-11-20T00:10:00Z": {
    "number": "SU 1715",
@@ -118,9 +118,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 777-300ER",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:10:00Z",
-   "actual": "2026-11-20T00:10:00Z"
+   "actual": "2026-11-20T01:50:00Z"
   },
   "SU 5807|2026-11-20T00:10:00Z": {
    "number": "SU 5807",
@@ -140,7 +140,7 @@
    "model": "De Havilland DHC-8-400 Dash 8",
    "status": "Delayed",
    "scheduled": "2026-11-19T23:20:00Z",
-   "actual": "2026-11-20T00:10:00Z"
+   "actual": "2026-11-19T23:20:00Z"
   },
   "НИ 415|2026-11-19T23:50:00Z": {
    "number": "НИ 415",
@@ -170,7 +170,7 @@
    "model": "An-24",
    "status": "Delayed",
    "scheduled": "2026-11-19T23:20:00Z",
-   "actual": "2026-11-20T00:30:00Z"
+   "actual": "2026-11-20T00:10:00Z"
   },
   "HZ 5612|2026-11-20T00:55:00Z": {
    "number": "HZ 5612",
@@ -181,6 +181,46 @@
    "status": "Expected",
    "scheduled": "2026-11-20T00:55:00Z",
    "actual": "2026-11-20T00:55:00Z"
+  },
+  "R3 2114|2026-11-20T01:10:00Z": {
+   "number": "R3 2114",
+   "airline": "Yakutia",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-20T01:10:00Z",
+   "actual": "2026-11-20T01:10:00Z"
+  },
+  "VJ 6843|2026-11-20T01:20:00Z": {
+   "number": "VJ 6843",
+   "airline": "VietJetAir",
+   "to": "Fukuok",
+   "to_name": "Fukuok",
+   "model": "Airbus A321 NEO",
+   "status": "Expected",
+   "scheduled": "2026-11-20T01:20:00Z",
+   "actual": "2026-11-20T01:20:00Z"
+  },
+  "НИ 411|2026-11-20T02:50:00Z": {
+   "number": "НИ 411",
+   "airline": "Khabavia",
+   "to": "Chegdomyn",
+   "to_name": "Chegdomyn",
+   "model": "Mil Mi-8",
+   "status": "Expected",
+   "scheduled": "2026-11-20T02:50:00Z",
+   "actual": "2026-11-20T02:50:00Z"
+  },
+  "FV 2467|2026-11-20T02:55:00Z": {
+   "number": "FV 2467",
+   "airline": "Rossiya",
+   "to": "Neryungri",
+   "to_name": "Neryungri",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-20T02:55:00Z",
+   "actual": "2026-11-20T02:55:00Z"
   }
  },
  "fetched": [
@@ -189,6 +229,7 @@
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
   "2026-11-19T22:07:37Z",
-  "2026-11-20T00:07:26Z"
+  "2026-11-20T00:07:26Z",
+  "2026-11-20T02:07:27Z"
  ]
 }

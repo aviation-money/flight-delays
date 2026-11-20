@@ -8,13 +8,14 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T23:55:00Z",
-   "actual": "2026-11-19T23:55:00Z"
+   "actual": "2026-11-20T00:04:00Z"
   }
  },
  "fetched": [
   "2026-11-19T22:07:37Z",
-  "2026-11-20T00:07:26Z"
+  "2026-11-20T00:07:26Z",
+  "2026-11-20T02:07:27Z"
  ]
 }

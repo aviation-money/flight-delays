@@ -11,11 +11,32 @@
    "status": "Canceled",
    "scheduled": "2026-11-19T23:00:00Z",
    "actual": "2026-11-19T23:00:00Z"
+  },
+  "FV 6454|2026-11-20T01:25:00Z": {
+   "number": "FV 6454",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-20T01:25:00Z",
+   "actual": "2026-11-20T01:56:00Z"
+  },
+  "FV 6172|2026-11-20T01:05:00Z": {
+   "number": "FV 6172",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T01:05:00Z",
+   "actual": "2026-11-20T02:10:00Z"
   }
  },
  "fetched": [
   "2026-11-19T20:07:30Z",
   "2026-11-19T22:07:37Z",
-  "2026-11-20T00:07:26Z"
+  "2026-11-20T00:07:26Z",
+  "2026-11-20T02:07:27Z"
  ]
 }

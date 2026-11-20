@@ -57,7 +57,7 @@
    "airline": "S7",
    "to": "OVB",
    "to_name": "Novosibirsk",
-   "model": "Airbus A321",
+   "model": "Airbus A320",
    "status": "Expected",
    "scheduled": "2026-11-19T22:10:00Z",
    "actual": null
@@ -111,6 +111,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-20T01:00:00Z",
    "actual": null
+  },
+  "6R 520|2026-11-20T02:40:00Z": {
+   "number": "6R 520",
+   "airline": "Alrosa",
+   "to": "MJZ",
+   "to_name": "Mirny",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-20T02:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -118,6 +128,7 @@
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
   "2026-11-19T22:07:37Z",
-  "2026-11-20T00:07:26Z"
+  "2026-11-20T00:07:26Z",
+  "2026-11-20T02:07:27Z"
  ]
 }

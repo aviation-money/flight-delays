@@ -48,17 +48,17 @@
    "to": "Igarka",
    "to_name": "Igarka",
    "model": "Boeing 737-400",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-19T23:30:00Z",
-   "actual": "2026-11-19T23:30:00Z"
+   "actual": "2026-11-20T01:00:00Z"
   },
   "SU 2859|2026-11-19T23:45:00Z": {
    "number": "SU 2859",
    "airline": "Aeroflot",
    "to": "KRR",
    "to_name": "Krasnodar",
-   "model": "Boeing 737-800",
-   "status": "Expected",
+   "model": "Boeing 737-8LJ",
+   "status": "Departed",
    "scheduled": "2026-11-19T23:45:00Z",
    "actual": "2026-11-19T23:45:00Z"
   },
@@ -68,7 +68,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:35:00Z",
    "actual": "2026-11-20T00:35:00Z"
   },
@@ -78,7 +78,7 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:10:00Z",
    "actual": "2026-11-20T00:40:00Z"
   },
@@ -88,7 +88,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:45:00Z",
    "actual": "2026-11-20T00:45:00Z"
   },
@@ -98,7 +98,7 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T01:00:00Z",
    "actual": "2026-11-20T01:00:00Z"
   },
@@ -107,16 +107,117 @@
    "airline": "Rossiya",
    "to": "TJM",
    "to_name": "Tyumen",
-   "model": "Airbus A319",
-   "status": "CheckIn",
+   "model": "Airbus",
+   "status": "Departed",
    "scheduled": "2026-11-20T01:05:00Z",
    "actual": "2026-11-20T01:05:00Z"
+  },
+  "DP 6548|2026-11-20T00:05:00Z": {
+   "number": "DP 6548",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T00:05:00Z",
+   "actual": "2026-11-20T01:10:00Z"
+  },
+  "FV 6881|2026-11-20T01:20:00Z": {
+   "number": "FV 6881",
+   "airline": "Rossiya",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-20T01:20:00Z",
+   "actual": "2026-11-20T01:20:00Z"
+  },
+  "UT 6161|2026-11-20T01:25:00Z": {
+   "number": "UT 6161",
+   "airline": "UTAir",
+   "to": "Norilsk",
+   "to_name": "Norilsk",
+   "model": "Boeing 737-400",
+   "status": "Canceled",
+   "scheduled": "2026-11-20T01:25:00Z",
+   "actual": "2026-11-20T01:25:00Z"
+  },
+  "FV 6879|2026-11-20T01:35:00Z": {
+   "number": "FV 6879",
+   "airline": "Rossiya",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T01:35:00Z",
+   "actual": "2026-11-20T01:35:00Z"
+  },
+  "FV 6791|2026-11-20T02:30:00Z": {
+   "number": "FV 6791",
+   "airline": "Rossiya",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-20T02:30:00Z",
+   "actual": "2026-11-20T02:30:00Z"
+  },
+  "FV 2455|2026-11-20T02:45:00Z": {
+   "number": "FV 2455",
+   "airline": "Rossiya",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T02:45:00Z",
+   "actual": "2026-11-20T02:45:00Z"
+  },
+  "KV 9265|2026-11-20T02:50:00Z": {
+   "number": "KV 9265",
+   "airline": "KrasAvia",
+   "to": "Baykit",
+   "to_name": "Baykit",
+   "model": "ATR 42-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T02:50:00Z",
+   "actual": "2026-11-20T02:50:00Z"
+  },
+  "UT 6101|2026-11-20T01:50:00Z": {
+   "number": "UT 6101",
+   "airline": "UTAir",
+   "to": "Igarka",
+   "to_name": "Igarka",
+   "model": "Boeing 737-400",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T01:50:00Z",
+   "actual": "2026-11-20T03:00:00Z"
+  },
+  "S7 5306|2026-11-20T03:00:00Z": {
+   "number": "S7 5306",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T03:00:00Z",
+   "actual": "2026-11-20T03:00:00Z"
+  },
+  "FV 5755|2026-11-20T03:05:00Z": {
+   "number": "FV 5755",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T03:05:00Z",
+   "actual": "2026-11-20T03:05:00Z"
   }
  },
  "fetched": [
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
   "2026-11-19T22:07:37Z",
-  "2026-11-20T00:07:26Z"
+  "2026-11-20T00:07:26Z",
+  "2026-11-20T02:07:27Z"
  ]
 }

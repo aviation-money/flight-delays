@@ -58,9 +58,9 @@
    "to": "Kupol",
    "to_name": "Kupol",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-19T23:30:00Z",
-   "actual": "2026-11-20T00:01:00Z"
+   "actual": "2026-11-20T00:13:00Z"
   },
   "IO 9701|2026-11-20T00:05:00Z": {
    "number": "IO 9701",
@@ -68,9 +68,9 @@
    "to": "Baimskaya",
    "to_name": "Baimskaya",
    "model": null,
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:05:00Z",
-   "actual": "2026-11-20T00:05:00Z"
+   "actual": "2026-11-20T00:32:00Z"
   },
   "IO 9703|2026-11-20T00:30:00Z": {
    "number": "IO 9703",
@@ -78,9 +78,9 @@
    "to": "Baimskaya",
    "to_name": "Baimskaya",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:30:00Z",
-   "actual": "2026-11-20T00:30:00Z"
+   "actual": "2026-11-20T01:00:00Z"
   },
   "IO 9705|2026-11-20T01:00:00Z": {
    "number": "IO 9705",
@@ -88,9 +88,39 @@
    "to": "Keperveem",
    "to_name": "Keperveem",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T01:00:00Z",
-   "actual": "2026-11-20T01:00:00Z"
+   "actual": "2026-11-20T01:14:00Z"
+  },
+  "ДЕ 9449|2026-11-19T22:30:00Z": {
+   "number": "ДЕ 9449",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "KPW",
+   "to_name": "Keperveem",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-19T22:30:00Z",
+   "actual": "2026-11-19T22:59:00Z"
+  },
+  "IO 9803|2026-11-20T01:30:00Z": {
+   "number": "IO 9803",
+   "airline": "IrAero",
+   "to": "Kupol",
+   "to_name": "Kupol",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-20T01:30:00Z",
+   "actual": "2026-11-20T01:36:00Z"
+  },
+  "IO 9659|2026-11-20T01:30:00Z": {
+   "number": "IO 9659",
+   "airline": "IrAero",
+   "to": "Kupol",
+   "to_name": "Kupol",
+   "model": "An-24",
+   "status": "Departed",
+   "scheduled": "2026-11-20T01:30:00Z",
+   "actual": "2026-11-20T01:42:00Z"
   }
  },
  "fetched": [
@@ -104,6 +134,7 @@
   "2026-11-19T18:07:26Z",
   "2026-11-19T20:07:30Z",
   "2026-11-19T22:07:37Z",
-  "2026-11-20T00:07:26Z"
+  "2026-11-20T00:07:26Z",
+  "2026-11-20T02:07:27Z"
  ]
 }

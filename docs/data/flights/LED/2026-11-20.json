@@ -207,10 +207,10 @@
    "airline": "Yamal",
    "to": "NUX",
    "to_name": "Novyy Urengoy",
-   "model": "Sukhoi Superjet 100-95",
-   "status": "GateClosed",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:20:00Z",
-   "actual": "2026-11-20T00:20:00Z"
+   "actual": "2026-11-20T00:09:00Z"
   },
   "VF 292|2026-11-20T00:35:00Z": {
    "number": "VF 292",
@@ -218,13 +218,34 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T00:35:00Z",
-   "actual": "2026-11-20T00:35:00Z"
+   "actual": "2026-11-20T00:39:00Z"
+  },
+  "JU 125|2026-11-20T01:10:00Z": {
+   "number": "JU 125",
+   "airline": "Air Serbia",
+   "to": "BEG",
+   "to_name": "Belgrade",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-20T01:10:00Z",
+   "actual": "2026-11-20T01:05:00Z"
+  },
+  "FV 6810|2026-11-20T03:00:00Z": {
+   "number": "FV 6810",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T03:00:00Z",
+   "actual": "2026-11-20T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-19T22:07:37Z",
-  "2026-11-20T00:07:26Z"
+  "2026-11-20T00:07:26Z",
+  "2026-11-20T02:07:27Z"
  ]
 }

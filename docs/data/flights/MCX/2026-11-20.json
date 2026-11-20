@@ -21,10 +21,21 @@
    "status": "Expected",
    "scheduled": "2026-11-20T00:20:00Z",
    "actual": null
+  },
+  "UT 560|2026-11-20T03:00:00Z": {
+   "number": "UT 560",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-20T03:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-19T22:07:37Z",
-  "2026-11-20T00:07:26Z"
+  "2026-11-20T00:07:26Z",
+  "2026-11-20T02:07:27Z"
  ]
 }
