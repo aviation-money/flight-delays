@@ -8,12 +8,63 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:20:00Z",
    "actual": "2026-11-20T20:20:00Z"
+  },
+  "FZ 996|2026-11-20T20:40:00Z": {
+   "number": "FZ 996",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T20:40:00Z",
+   "actual": "2026-11-20T21:27:00Z"
+  },
+  "UT 478|2026-11-20T21:35:00Z": {
+   "number": "UT 478",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T21:35:00Z",
+   "actual": "2026-11-20T21:44:00Z"
+  },
+  "NE 447|2026-11-20T21:30:00Z": {
+   "number": "NE 447",
+   "airline": "Nesma",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T21:30:00Z",
+   "actual": "2026-11-20T21:45:00Z"
+  },
+  "WZ 1353|2026-11-20T20:50:00Z": {
+   "number": "WZ 1353",
+   "airline": "Red Wings",
+   "to": "UGC",
+   "to_name": "Urgench",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T20:50:00Z",
+   "actual": "2026-11-20T22:10:00Z"
+  },
+  "UJ 642|2026-11-20T22:10:00Z": {
+   "number": "UJ 642",
+   "airline": "AlMasria",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T22:10:00Z",
+   "actual": "2026-11-20T22:10:00Z"
   }
  },
  "fetched": [
-  "2026-11-20T20:07:34Z"
+  "2026-11-20T20:07:34Z",
+  "2026-11-20T22:07:26Z"
  ]
 }

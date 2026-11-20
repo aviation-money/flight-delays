@@ -7,13 +7,14 @@
    "airline": "Almastria Airlines",
    "to": "Sharm el Sheikh",
    "to_name": "Sharm el Sheikh",
-   "model": null,
-   "status": "GateClosed",
+   "model": "Airbus A321",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:15:00Z",
-   "actual": "2026-11-20T20:15:00Z"
+   "actual": "2026-11-20T20:33:00Z"
   }
  },
  "fetched": [
-  "2026-11-20T20:07:34Z"
+  "2026-11-20T20:07:34Z",
+  "2026-11-20T22:07:26Z"
  ]
 }

@@ -1,0 +1,19 @@
+{
+ "airport": "GOJ",
+ "date": "2026-11-21",
+ "flights": {
+  "U6 9448|2026-11-20T21:45:00Z": {
+   "number": "U6 9448",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T21:45:00Z",
+   "actual": "2026-11-20T22:25:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-20T22:07:26Z"
+ ]
+}

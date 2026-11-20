@@ -8,9 +8,9 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:10:00Z",
-   "actual": "2026-11-20T20:10:00Z"
+   "actual": "2026-11-20T20:16:00Z"
   },
   "UT 431|2026-11-20T21:00:00Z": {
    "number": "UT 431",
@@ -18,12 +18,13 @@
    "to": "TLK",
    "to_name": "Talakan",
    "model": "Boeing 737-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T21:00:00Z",
    "actual": "2026-11-20T21:00:00Z"
   }
  },
  "fetched": [
-  "2026-11-20T20:07:34Z"
+  "2026-11-20T20:07:34Z",
+  "2026-11-20T22:07:26Z"
  ]
 }

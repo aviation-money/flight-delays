@@ -1,0 +1,49 @@
+{
+ "airport": "KZN",
+ "date": "2026-11-21",
+ "flights": {
+  "N4 1325|2026-11-20T21:50:00Z": {
+   "number": "N4 1325",
+   "airline": "Nordwind",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T21:50:00Z",
+   "actual": "2026-11-20T21:50:00Z"
+  },
+  "FZ 974|2026-11-20T22:10:00Z": {
+   "number": "FZ 974",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T22:10:00Z",
+   "actual": "2026-11-20T22:10:00Z"
+  },
+  "N4 1487|2026-11-20T22:20:00Z": {
+   "number": "N4 1487",
+   "airline": "Nordwind",
+   "to": "BSZ",
+   "to_name": "Bishkek",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T22:20:00Z",
+   "actual": "2026-11-20T22:20:00Z"
+  },
+  "N4 753|2026-11-20T22:45:00Z": {
+   "number": "N4 753",
+   "airline": "Nordwind",
+   "to": "NOZ",
+   "to_name": "Novokuznetsk",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T22:45:00Z",
+   "actual": "2026-11-20T22:45:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-20T22:07:26Z"
+ ]
+}

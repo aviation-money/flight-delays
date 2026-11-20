@@ -127,10 +127,10 @@
    "airline": "Uzbekistan",
    "to": "TAS",
    "to_name": "Tashkent",
-   "model": null,
-   "status": "GateClosed",
+   "model": "Airbus A320 NEO",
+   "status": "Departed",
    "scheduled": "2026-11-20T19:45:00Z",
-   "actual": "2026-11-20T19:45:00Z"
+   "actual": "2026-11-20T20:09:00Z"
   },
   "9Z 3515|2026-11-20T20:10:00Z": {
    "number": "9Z 3515",
@@ -138,9 +138,9 @@
    "to": "HKT",
    "to_name": "Phuket",
    "model": "Airbus A330-200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:10:00Z",
-   "actual": "2026-11-20T20:10:00Z"
+   "actual": "2026-11-20T20:26:00Z"
   },
   "S7 5357|2026-11-20T20:45:00Z": {
    "number": "S7 5357",
@@ -148,9 +148,9 @@
    "to": "TLK",
    "to_name": "Talakan",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:45:00Z",
-   "actual": "2026-11-20T20:45:00Z"
+   "actual": "2026-11-20T20:51:00Z"
   },
   "S7 5327|2026-11-20T20:55:00Z": {
    "number": "S7 5327",
@@ -158,13 +158,114 @@
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:55:00Z",
-   "actual": "2026-11-20T20:55:00Z"
+   "actual": "2026-11-20T21:07:00Z"
+  },
+  "SHE 3515|2026-11-20T20:27:00Z": {
+   "number": "SHE 3515",
+   "airline": "Shell Aircraft",
+   "to": "Unknown",
+   "to_name": "Unknown",
+   "model": "Airbus A330-200",
+   "status": "Departed",
+   "scheduled": "2026-11-20T20:27:00Z",
+   "actual": "2026-11-20T20:27:00Z"
+  },
+  "FZ 964|2026-11-20T21:20:00Z": {
+   "number": "FZ 964",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T21:20:00Z",
+   "actual": "2026-11-20T21:20:00Z"
+  },
+  "S7 5229|2026-11-20T21:30:00Z": {
+   "number": "S7 5229",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T21:30:00Z",
+   "actual": "2026-11-20T21:30:00Z"
+  },
+  "S7 5303|2026-11-20T21:35:00Z": {
+   "number": "S7 5303",
+   "airline": "S7",
+   "to": "NSK",
+   "to_name": "Norilsk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T21:35:00Z",
+   "actual": "2026-11-20T21:40:00Z"
+  },
+  "S7 5215|2026-11-20T21:50:00Z": {
+   "number": "S7 5215",
+   "airline": "S7",
+   "to": "BTK",
+   "to_name": "Bratsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T21:50:00Z",
+   "actual": "2026-11-20T21:59:00Z"
+  },
+  "SZ 222|2026-11-20T22:25:00Z": {
+   "number": "SZ 222",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T22:25:00Z",
+   "actual": "2026-11-20T22:25:00Z"
+  },
+  "S7 5017|2026-11-20T22:50:00Z": {
+   "number": "S7 5017",
+   "airline": "S7",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T22:50:00Z",
+   "actual": "2026-11-20T22:50:00Z"
+  },
+  "S7 5241|2026-11-20T22:35:00Z": {
+   "number": "S7 5241",
+   "airline": "S7",
+   "to": "MJZ",
+   "to_name": "Mirny",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T22:35:00Z",
+   "actual": "2026-11-20T22:59:00Z"
+  },
+  "FV 6642|2026-11-20T23:00:00Z": {
+   "number": "FV 6642",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T23:00:00Z",
+   "actual": "2026-11-20T23:00:00Z"
+  },
+  "S7 5387|2026-11-20T23:00:00Z": {
+   "number": "S7 5387",
+   "airline": "S7",
+   "to": "KYZ",
+   "to_name": "Kyzyl",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T23:00:00Z",
+   "actual": "2026-11-20T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-20T18:07:30Z",
-  "2026-11-20T20:07:34Z"
+  "2026-11-20T20:07:34Z",
+  "2026-11-20T22:07:26Z"
  ]
 }

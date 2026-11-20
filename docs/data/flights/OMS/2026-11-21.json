@@ -28,13 +28,14 @@
    "to": "TLK",
    "to_name": "Talakan",
    "model": "Boeing 737-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:40:00Z",
-   "actual": "2026-11-20T20:40:00Z"
+   "actual": "2026-11-20T20:53:00Z"
   }
  },
  "fetched": [
   "2026-11-20T18:07:30Z",
-  "2026-11-20T20:07:34Z"
+  "2026-11-20T20:07:34Z",
+  "2026-11-20T22:07:26Z"
  ]
 }

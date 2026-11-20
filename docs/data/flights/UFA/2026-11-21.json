@@ -8,9 +8,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:05:00Z",
-   "actual": "2026-11-20T20:05:00Z"
+   "actual": "2026-11-20T20:33:00Z"
   },
   "4G 481|2026-11-20T20:25:00Z": {
    "number": "4G 481",
@@ -18,9 +18,9 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "Boeing 737-700",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:25:00Z",
-   "actual": "2026-11-20T20:25:00Z"
+   "actual": "2026-11-20T20:39:00Z"
   },
   "NE 457|2026-11-20T20:50:00Z": {
    "number": "NE 457",
@@ -28,12 +28,23 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T20:50:00Z",
-   "actual": "2026-11-20T20:50:00Z"
+   "actual": "2026-11-20T21:19:00Z"
+  },
+  "UT 6127|2026-11-20T22:10:00Z": {
+   "number": "UT 6127",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T22:10:00Z",
+   "actual": "2026-11-20T22:10:00Z"
   }
  },
  "fetched": [
-  "2026-11-20T20:07:34Z"
+  "2026-11-20T20:07:34Z",
+  "2026-11-20T22:07:26Z"
  ]
 }

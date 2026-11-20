@@ -1,0 +1,19 @@
+{
+ "airport": "ZIA",
+ "date": "2026-11-21",
+ "flights": {
+  "SZ 232|2026-11-20T21:50:00Z": {
+   "number": "SZ 232",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T21:50:00Z",
+   "actual": "2026-11-20T21:46:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-20T22:07:26Z"
+ ]
+}

@@ -1,11 +1,53 @@
 {
  "airport": "KHV",
  "date": "2026-11-21",
- "flights": {},
+ "flights": {
+  "U6 174|2026-11-20T21:50:00Z": {
+   "number": "U6 174",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320 NEO",
+   "status": "Expected",
+   "scheduled": "2026-11-20T21:50:00Z",
+   "actual": "2026-11-20T21:50:00Z"
+  },
+  "HZ 5626|2026-11-20T22:10:00Z": {
+   "number": "HZ 5626",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-20T22:10:00Z",
+   "actual": "2026-11-20T22:10:00Z"
+  },
+  "HZ 5603|2026-11-20T22:15:00Z": {
+   "number": "HZ 5603",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-20T22:15:00Z",
+   "actual": "2026-11-20T22:15:00Z"
+  },
+  "HZ 4004|2026-11-20T23:05:00Z": {
+   "number": "HZ 4004",
+   "airline": "Aurora",
+   "to": "NGK",
+   "to_name": "Nogliki-Sakhalin Island",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Expected",
+   "scheduled": "2026-11-20T23:05:00Z",
+   "actual": "2026-11-20T23:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-20T14:07:26Z",
   "2026-11-20T16:07:27Z",
   "2026-11-20T18:07:30Z",
-  "2026-11-20T20:07:34Z"
+  "2026-11-20T20:07:34Z",
+  "2026-11-20T22:07:26Z"
  ]
 }

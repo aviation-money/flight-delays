@@ -1,0 +1,49 @@
+{
+ "airport": "DME",
+ "date": "2026-11-21",
+ "flights": {
+  "J2 186|2026-11-20T21:45:00Z": {
+   "number": "J2 186",
+   "airline": "AZAL Azerbaijan",
+   "to": "Baku",
+   "to_name": "Baku",
+   "model": "Airbus A319",
+   "status": "Canceled",
+   "scheduled": "2026-11-20T21:45:00Z",
+   "actual": "2026-11-20T21:45:00Z"
+  },
+  "U6 8253|2026-11-20T21:55:00Z": {
+   "number": "U6 8253",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T21:55:00Z",
+   "actual": "2026-11-20T21:55:00Z"
+  },
+  "YC 90|2026-11-20T22:30:00Z": {
+   "number": "YC 90",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Airbus A320-200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T22:30:00Z",
+   "actual": "2026-11-20T22:30:00Z"
+  },
+  "S7 2571|2026-11-20T22:40:00Z": {
+   "number": "S7 2571",
+   "airline": "S7",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T22:40:00Z",
+   "actual": "2026-11-20T22:40:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-20T22:07:26Z"
+ ]
+}

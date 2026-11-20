@@ -1,9 +1,21 @@
 {
  "airport": "NOZ",
  "date": "2026-11-21",
- "flights": {},
+ "flights": {
+  "WZ 5089|2026-11-20T22:20:00Z": {
+   "number": "WZ 5089",
+   "airline": "Red Wings",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T22:20:00Z",
+   "actual": "2026-11-20T22:20:00Z"
+  }
+ },
  "fetched": [
   "2026-11-20T18:07:30Z",
-  "2026-11-20T20:07:34Z"
+  "2026-11-20T20:07:34Z",
+  "2026-11-20T22:07:26Z"
  ]
 }

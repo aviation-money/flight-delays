@@ -1,8 +1,30 @@
 {
  "airport": "IJK",
  "date": "2026-11-21",
- "flights": {},
+ "flights": {
+  "SU 1781|2026-11-20T21:01:00Z": {
+   "number": "SU 1781",
+   "airline": "Aeroflot",
+   "to": "Unknown",
+   "to_name": "Unknown",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-20T21:01:00Z",
+   "actual": "2026-11-20T21:01:00Z"
+  },
+  "I8 503|2026-11-20T21:40:00Z": {
+   "number": "I8 503",
+   "airline": "Izhavia",
+   "to": "Sochi",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-20T21:40:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
-  "2026-11-20T20:07:34Z"
+  "2026-11-20T20:07:34Z",
+  "2026-11-20T22:07:26Z"
  ]
 }

@@ -1,0 +1,59 @@
+{
+ "airport": "MRV",
+ "date": "2026-11-21",
+ "flights": {
+  "A4 6121|2026-11-20T21:10:00Z": {
+   "number": "A4 6121",
+   "airline": "Azimuth",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-20T21:10:00Z",
+   "actual": "2026-11-20T21:23:00Z"
+  },
+  "A4 6287|2026-11-20T21:45:00Z": {
+   "number": "A4 6287",
+   "airline": "Azimuth",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T21:45:00Z",
+   "actual": "2026-11-20T21:45:00Z"
+  },
+  "ZF 4355|2026-11-20T22:10:00Z": {
+   "number": "ZF 4355",
+   "airline": "AZUR Air",
+   "to": "Mattala",
+   "to_name": "Mattala",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T22:10:00Z",
+   "actual": "2026-11-20T22:10:00Z"
+  },
+  "N4 806|2026-11-20T22:45:00Z": {
+   "number": "N4 806",
+   "airline": "Nordwind",
+   "to": "GOJ",
+   "to_name": "Nizhniy Novgorod",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T22:45:00Z",
+   "actual": "2026-11-20T22:45:00Z"
+  },
+  "A4 6307|2026-11-20T22:55:00Z": {
+   "number": "A4 6307",
+   "airline": "Azimuth",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T22:55:00Z",
+   "actual": "2026-11-20T22:55:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-20T22:07:26Z"
+ ]
+}
