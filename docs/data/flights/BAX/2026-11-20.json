@@ -38,9 +38,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T02:55:00Z",
-   "actual": "2026-11-20T02:55:00Z"
+   "actual": "2026-11-20T03:19:00Z"
+  },
+  "N4 314|2026-11-20T03:40:00Z": {
+   "number": "N4 314",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-20T03:40:00Z",
+   "actual": "2026-11-20T03:40:00Z"
+  },
+  "S7 7002|2026-11-20T04:30:00Z": {
+   "number": "S7 7002",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T04:30:00Z",
+   "actual": "2026-11-20T04:30:00Z"
   }
  },
  "fetched": [
@@ -48,6 +68,7 @@
   "2026-11-19T20:07:30Z",
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
-  "2026-11-20T02:07:27Z"
+  "2026-11-20T02:07:27Z",
+  "2026-11-20T04:07:29Z"
  ]
 }

@@ -68,14 +68,45 @@
    "to": "BUS",
    "to_name": "Batumi",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T03:00:00Z",
-   "actual": "2026-11-20T03:00:00Z"
+   "actual": "2026-11-20T05:00:00Z"
+  },
+  "SU 812|2026-11-20T04:30:00Z": {
+   "number": "SU 812",
+   "airline": "Aeroflot",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T04:30:00Z",
+   "actual": "2026-11-20T04:30:00Z"
+  },
+  "A4 6073|2026-11-20T04:50:00Z": {
+   "number": "A4 6073",
+   "airline": "Azimuth",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T04:50:00Z",
+   "actual": "2026-11-20T04:50:00Z"
+  },
+  "YC 378|2026-11-20T05:00:00Z": {
+   "number": "YC 378",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T05:00:00Z",
+   "actual": "2026-11-20T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
-  "2026-11-20T02:07:27Z"
+  "2026-11-20T02:07:27Z",
+  "2026-11-20T04:07:29Z"
  ]
 }

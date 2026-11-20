@@ -71,11 +71,42 @@
    "status": "Departed",
    "scheduled": "2026-11-20T01:20:00Z",
    "actual": "2026-11-20T01:16:00Z"
+  },
+  "SU 1279|2026-11-20T03:50:00Z": {
+   "number": "SU 1279",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T03:50:00Z",
+   "actual": "2026-11-20T03:44:00Z"
+  },
+  "WZ 1068|2026-11-20T04:25:00Z": {
+   "number": "WZ 1068",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T04:25:00Z",
+   "actual": "2026-11-20T04:25:00Z"
+  },
+  "UJ 632|2026-11-20T03:50:00Z": {
+   "number": "UJ 632",
+   "airline": "AlMasria",
+   "to": "Sharm El Sheikh",
+   "to_name": "Sharm El Sheikh",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T03:50:00Z",
+   "actual": "2026-11-20T04:30:00Z"
   }
  },
  "fetched": [
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
-  "2026-11-20T02:07:27Z"
+  "2026-11-20T02:07:27Z",
+  "2026-11-20T04:07:29Z"
  ]
 }

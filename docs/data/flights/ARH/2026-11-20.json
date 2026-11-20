@@ -8,14 +8,25 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T02:55:00Z",
-   "actual": "2026-11-20T02:55:00Z"
+   "actual": "2026-11-20T03:17:00Z"
+  },
+  "А2 9713|2026-11-20T04:30:00Z": {
+   "number": "А2 9713",
+   "airline": "A247",
+   "to": "Varandey",
+   "to_name": "Varandey",
+   "model": "An-24",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T04:30:00Z",
+   "actual": "2026-11-20T04:30:00Z"
   }
  },
  "fetched": [
   "2026-11-19T22:07:37Z",
   "2026-11-20T00:07:26Z",
-  "2026-11-20T02:07:27Z"
+  "2026-11-20T02:07:27Z",
+  "2026-11-20T04:07:29Z"
  ]
 }
