@@ -228,9 +228,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T11:30:00Z",
-   "actual": "2026-11-20T11:30:00Z"
+   "actual": "2026-11-20T12:10:00Z"
   },
   "FV 6842|2026-11-20T11:15:00Z": {
    "number": "FV 6842",
@@ -248,9 +248,9 @@
    "to": "LBD",
    "to_name": "Khudzhand",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T12:50:00Z",
-   "actual": "2026-11-20T12:50:00Z"
+   "actual": "2026-11-20T13:40:00Z"
   },
   "UT 296|2026-11-20T13:00:00Z": {
    "number": "UT 296",
@@ -258,9 +258,19 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T13:00:00Z",
-   "actual": "2026-11-20T13:00:00Z"
+   "actual": "2026-11-20T13:08:00Z"
+  },
+  "UT 119|2026-11-20T13:45:00Z": {
+   "number": "UT 119",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-20T13:45:00Z",
+   "actual": "2026-11-20T13:45:00Z"
   }
  },
  "fetched": [
@@ -273,6 +283,7 @@
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
-  "2026-11-20T12:07:37Z"
+  "2026-11-20T12:07:37Z",
+  "2026-11-20T14:07:26Z"
  ]
 }

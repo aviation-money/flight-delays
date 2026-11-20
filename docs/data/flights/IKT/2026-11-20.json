@@ -395,10 +395,10 @@
   "CA 870|2026-11-20T10:00:00Z": {
    "number": "CA 870",
    "airline": "Air China",
-   "to": "Beijing",
+   "to": "PEK",
    "to_name": "Beijing",
    "model": "Boeing 737-800",
-   "status": "Unknown",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:00:00Z",
    "actual": null
   },
@@ -408,7 +408,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Bombardier CRJ",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:35:00Z",
    "actual": null
   },
@@ -475,6 +475,7 @@
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
-  "2026-11-20T12:07:37Z"
+  "2026-11-20T12:07:37Z",
+  "2026-11-20T14:07:26Z"
  ]
 }

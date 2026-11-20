@@ -938,9 +938,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T11:55:00Z",
-   "actual": "2026-11-20T11:55:00Z"
+   "actual": "2026-11-20T12:03:00Z"
   },
   "S7 5201|2026-11-20T13:00:00Z": {
    "number": "S7 5201",
@@ -948,9 +948,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T13:00:00Z",
-   "actual": "2026-11-20T13:00:00Z"
+   "actual": "2026-11-20T13:56:00Z"
   },
   "S7 5319|2026-11-20T13:05:00Z": {
    "number": "S7 5319",
@@ -958,9 +958,129 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T13:05:00Z",
-   "actual": "2026-11-20T13:05:00Z"
+   "actual": "2026-11-20T13:08:00Z"
+  },
+  "S7 5019|2026-11-20T13:15:00Z": {
+   "number": "S7 5019",
+   "airline": "S7",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-20T13:15:00Z",
+   "actual": "2026-11-20T13:20:00Z"
+  },
+  "S7 2514|2026-11-20T13:35:00Z": {
+   "number": "S7 2514",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-20T13:35:00Z",
+   "actual": "2026-11-20T13:38:00Z"
+  },
+  "S7 5731|2026-11-20T13:45:00Z": {
+   "number": "S7 5731",
+   "airline": "S7",
+   "to": "PVG",
+   "to_name": "Shanghai",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T13:45:00Z",
+   "actual": "2026-11-20T14:21:00Z"
+  },
+  "S7 7037|2026-11-20T14:30:00Z": {
+   "number": "S7 7037",
+   "airline": "S7",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T14:30:00Z",
+   "actual": "2026-11-20T14:30:00Z"
+  },
+  "S7 7045|2026-11-20T14:35:00Z": {
+   "number": "S7 7045",
+   "airline": "S7",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T14:35:00Z",
+   "actual": "2026-11-20T14:35:00Z"
+  },
+  "S7 5235|2026-11-20T14:40:00Z": {
+   "number": "S7 5235",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T14:40:00Z",
+   "actual": "2026-11-20T14:40:00Z"
+  },
+  "S7 5073|2026-11-20T14:45:00Z": {
+   "number": "S7 5073",
+   "airline": "S7",
+   "to": "REN",
+   "to_name": "Orenburg",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T14:45:00Z",
+   "actual": "2026-11-20T14:45:00Z"
+  },
+  "S7 7057|2026-11-20T14:50:00Z": {
+   "number": "S7 7057",
+   "airline": "S7",
+   "to": "GSV",
+   "to_name": "Saratov",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T14:50:00Z",
+   "actual": "2026-11-20T14:50:00Z"
+  },
+  "S7 5353|2026-11-20T14:50:00Z": {
+   "number": "S7 5353",
+   "airline": "S7",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T14:50:00Z",
+   "actual": "2026-11-20T14:50:00Z"
+  },
+  "VJ 5562|2026-11-20T14:00:00Z": {
+   "number": "VJ 5562",
+   "airline": "VietJetAir",
+   "to": "Fukuok",
+   "to_name": "Fukuok",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T14:00:00Z",
+   "actual": "2026-11-20T15:00:00Z"
+  },
+  "S7 7033|2026-11-20T15:05:00Z": {
+   "number": "S7 7033",
+   "airline": "S7",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T15:05:00Z",
+   "actual": "2026-11-20T15:05:00Z"
+  },
+  "S7 7095|2026-11-20T15:05:00Z": {
+   "number": "S7 7095",
+   "airline": "S7",
+   "to": "Nizhnevartovsk",
+   "to_name": "Nizhnevartovsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T15:05:00Z",
+   "actual": "2026-11-20T15:05:00Z"
   }
  },
  "fetched": [
@@ -974,6 +1094,7 @@
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
-  "2026-11-20T12:07:37Z"
+  "2026-11-20T12:07:37Z",
+  "2026-11-20T14:07:26Z"
  ]
 }

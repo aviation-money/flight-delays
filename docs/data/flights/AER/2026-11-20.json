@@ -228,7 +228,7 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T11:39:00Z",
    "actual": "2026-11-20T11:39:00Z"
   },
@@ -248,7 +248,7 @@
    "to": "BEG",
    "to_name": "Belgrade",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T12:25:00Z",
    "actual": "2026-11-20T12:25:00Z"
   },
@@ -258,9 +258,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T10:40:00Z",
-   "actual": "2026-11-20T12:35:00Z"
+   "actual": "2026-11-20T12:40:00Z"
   },
   "SU 1151|2026-11-20T13:05:00Z": {
    "number": "SU 1151",
@@ -271,6 +271,56 @@
    "status": "Expected",
    "scheduled": "2026-11-20T13:05:00Z",
    "actual": "2026-11-20T13:05:00Z"
+  },
+  "UT 268|2026-11-20T12:25:00Z": {
+   "number": "UT 268",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T12:25:00Z",
+   "actual": "2026-11-20T12:25:00Z"
+  },
+  "SU 1151|2026-11-20T13:01:00Z": {
+   "number": "SU 1151",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T13:01:00Z",
+   "actual": "2026-11-20T13:01:00Z"
+  },
+  "SU 1125|2026-11-20T14:05:00Z": {
+   "number": "SU 1125",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T14:05:00Z",
+   "actual": "2026-11-20T14:05:00Z"
+  },
+  "Y7 401|2026-11-20T14:10:00Z": {
+   "number": "Y7 401",
+   "airline": "NordStar",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T14:10:00Z",
+   "actual": "2026-11-20T14:10:00Z"
+  },
+  "WZ 557|2026-11-20T03:30:00Z": {
+   "number": "WZ 557",
+   "airline": "Red Wings",
+   "to": "TBS",
+   "to_name": "Tbilisi",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T03:30:00Z",
+   "actual": "2026-11-20T14:20:00Z"
   }
  },
  "fetched": [
@@ -282,6 +332,7 @@
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
-  "2026-11-20T12:07:37Z"
+  "2026-11-20T12:07:37Z",
+  "2026-11-20T14:07:26Z"
  ]
 }

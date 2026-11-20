@@ -88,9 +88,29 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T12:10:00Z",
-   "actual": "2026-11-20T12:10:00Z"
+   "actual": "2026-11-20T12:12:00Z"
+  },
+  "5N 518|2026-11-20T13:35:00Z": {
+   "number": "5N 518",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T13:35:00Z",
+   "actual": "2026-11-20T14:15:00Z"
+  },
+  "S7 8706|2026-11-20T15:00:00Z": {
+   "number": "S7 8706",
+   "airline": "S7",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-20T15:00:00Z",
+   "actual": "2026-11-20T15:00:00Z"
   }
  },
  "fetched": [
@@ -102,6 +122,7 @@
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
-  "2026-11-20T12:07:37Z"
+  "2026-11-20T12:07:37Z",
+  "2026-11-20T14:07:26Z"
  ]
 }

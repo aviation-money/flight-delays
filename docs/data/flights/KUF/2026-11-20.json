@@ -208,9 +208,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T11:05:00Z",
-   "actual": "2026-11-20T11:50:00Z"
+   "actual": "2026-11-20T12:06:00Z"
   },
   "RT 586|2026-11-20T12:40:00Z": {
    "number": "RT 586",
@@ -218,9 +218,29 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T12:40:00Z",
-   "actual": "2026-11-20T12:40:00Z"
+   "actual": "2026-11-20T12:44:00Z"
+  },
+  "SU 1293|2026-11-20T13:50:00Z": {
+   "number": "SU 1293",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T13:50:00Z",
+   "actual": "2026-11-20T13:50:00Z"
+  },
+  "WZ 5343|2026-11-20T14:20:00Z": {
+   "number": "WZ 5343",
+   "airline": "Red Wings",
+   "to": "GOJ",
+   "to_name": "Nizhniy Novgorod",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T14:20:00Z",
+   "actual": "2026-11-20T14:20:00Z"
   }
  },
  "fetched": [
@@ -233,6 +253,7 @@
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
-  "2026-11-20T12:07:37Z"
+  "2026-11-20T12:07:37Z",
+  "2026-11-20T14:07:26Z"
  ]
 }

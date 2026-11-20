@@ -138,9 +138,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T11:50:00Z",
-   "actual": "2026-11-20T11:50:00Z"
+   "actual": "2026-11-20T12:01:00Z"
   },
   "SU 1019|2026-11-20T12:00:00Z": {
    "number": "SU 1019",
@@ -148,9 +148,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T12:00:00Z",
-   "actual": "2026-11-20T12:30:00Z"
+   "actual": "2026-11-20T12:38:00Z"
   },
   "U6 628|2026-11-20T12:30:00Z": {
    "number": "U6 628",
@@ -158,9 +158,59 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-20T12:30:00Z",
-   "actual": "2026-11-20T12:30:00Z"
+   "actual": "2026-11-20T12:44:00Z"
+  },
+  "FV 6334|2026-11-20T13:10:00Z": {
+   "number": "FV 6334",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-20T13:10:00Z",
+   "actual": "2026-11-20T13:16:00Z"
+  },
+  "SU 1005|2026-11-20T13:30:00Z": {
+   "number": "SU 1005",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-20T13:30:00Z",
+   "actual": "2026-11-20T13:41:00Z"
+  },
+  "N4 859|2026-11-20T14:00:00Z": {
+   "number": "N4 859",
+   "airline": "Nordwind",
+   "to": "GOJ",
+   "to_name": "Nizhniy Novgorod",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T14:00:00Z",
+   "actual": "2026-11-20T13:59:00Z"
+  },
+  "DP 6832|2026-11-20T14:10:00Z": {
+   "number": "DP 6832",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T14:10:00Z",
+   "actual": "2026-11-20T14:10:00Z"
+  },
+  "FV 6662|2026-11-20T14:40:00Z": {
+   "number": "FV 6662",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T14:40:00Z",
+   "actual": "2026-11-20T14:40:00Z"
   }
  },
  "fetched": [
@@ -172,6 +222,7 @@
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
-  "2026-11-20T12:07:37Z"
+  "2026-11-20T12:07:37Z",
+  "2026-11-20T14:07:26Z"
  ]
 }

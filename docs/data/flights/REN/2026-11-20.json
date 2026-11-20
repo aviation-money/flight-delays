@@ -48,9 +48,29 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-900",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T12:00:00Z",
-   "actual": "2026-11-20T12:00:00Z"
+   "actual": "2026-11-20T12:05:00Z"
+  },
+  "N4 78|2026-11-20T13:10:00Z": {
+   "number": "N4 78",
+   "airline": "Nordwind",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-20T13:10:00Z",
+   "actual": "2026-11-20T13:22:00Z"
+  },
+  "WZ 5050|2026-11-20T14:10:00Z": {
+   "number": "WZ 5050",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-20T14:10:00Z",
+   "actual": "2026-11-20T14:10:00Z"
   }
  },
  "fetched": [
@@ -63,6 +83,7 @@
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
-  "2026-11-20T12:07:37Z"
+  "2026-11-20T12:07:37Z",
+  "2026-11-20T14:07:26Z"
  ]
 }

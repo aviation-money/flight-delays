@@ -118,9 +118,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Bombardier CRJ200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T12:00:00Z",
-   "actual": "2026-11-20T12:00:00Z"
+   "actual": "2026-11-20T12:14:00Z"
   },
   "UT 352|2026-11-20T13:00:00Z": {
    "number": "UT 352",
@@ -128,9 +128,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T13:00:00Z",
-   "actual": "2026-11-20T13:00:00Z"
+   "actual": "2026-11-20T13:21:00Z"
   }
  },
  "fetched": [
@@ -143,6 +143,7 @@
   "2026-11-20T06:21:08Z",
   "2026-11-20T08:07:28Z",
   "2026-11-20T10:07:26Z",
-  "2026-11-20T12:07:37Z"
+  "2026-11-20T12:07:37Z",
+  "2026-11-20T14:07:26Z"
  ]
 }
