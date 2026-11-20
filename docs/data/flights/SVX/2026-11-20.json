@@ -268,7 +268,7 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T06:30:00Z",
    "actual": "2026-11-20T06:30:00Z"
   },
@@ -278,7 +278,7 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T06:35:00Z",
    "actual": "2026-11-20T06:35:00Z"
   },
@@ -341,6 +341,16 @@
    "status": "CheckIn",
    "scheduled": "2026-11-20T07:00:00Z",
    "actual": "2026-11-20T07:00:00Z"
+  },
+  "SU 1419|2026-11-20T07:10:00Z": {
+   "number": "SU 1419",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T07:10:00Z",
+   "actual": "2026-11-20T07:10:00Z"
   }
  },
  "fetched": [
@@ -349,6 +359,7 @@
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
-  "2026-11-20T06:07:28Z"
+  "2026-11-20T06:07:28Z",
+  "2026-11-20T06:21:08Z"
  ]
 }

@@ -68,9 +68,9 @@
    "to": "Novyy Port",
    "to_name": "Novyy Port",
    "model": null,
-   "status": "Delayed",
+   "status": "Canceled",
    "scheduled": "2026-11-20T03:40:00Z",
-   "actual": "2026-11-20T06:00:00Z"
+   "actual": "2026-11-20T03:40:00Z"
   },
   "4G 9816|2026-11-20T03:30:00Z": {
    "number": "4G 9816",
@@ -111,6 +111,16 @@
    "status": "Delayed",
    "scheduled": "2026-11-20T05:30:00Z",
    "actual": "2026-11-20T06:30:00Z"
+  },
+  "4G 9816|2026-11-20T06:00:00Z": {
+   "number": "4G 9816",
+   "airline": "Gazpromavia",
+   "to": "Novyy Port",
+   "to_name": "Novyy Port",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T06:00:00Z",
+   "actual": "2026-11-20T06:00:00Z"
   }
  },
  "fetched": [
@@ -119,6 +129,7 @@
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
-  "2026-11-20T06:07:28Z"
+  "2026-11-20T06:07:28Z",
+  "2026-11-20T06:21:08Z"
  ]
 }

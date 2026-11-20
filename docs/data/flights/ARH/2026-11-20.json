@@ -28,9 +28,19 @@
    "to": "MMK",
    "to_name": "Murmansk",
    "model": "CRJ200LR",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-20T06:00:00Z",
    "actual": "2026-11-20T06:00:00Z"
+  },
+  "FV 6304|2026-11-20T07:20:00Z": {
+   "number": "FV 6304",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T07:20:00Z",
+   "actual": "2026-11-20T07:20:00Z"
   }
  },
  "fetched": [
@@ -38,6 +48,7 @@
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
-  "2026-11-20T06:07:28Z"
+  "2026-11-20T06:07:28Z",
+  "2026-11-20T06:21:08Z"
  ]
 }

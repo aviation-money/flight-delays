@@ -558,7 +558,7 @@
    "to": "GOJ",
    "to_name": "Nizhniy Novgorod",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T06:05:00Z",
    "actual": "2026-11-20T06:05:00Z"
   },
@@ -570,7 +570,7 @@
    "model": "Boeing 737",
    "status": "GateClosed",
    "scheduled": "2026-11-20T06:05:00Z",
-   "actual": "2026-11-20T06:05:00Z"
+   "actual": "2026-11-20T06:20:00Z"
   },
   "5N 507|2026-11-20T06:05:00Z": {
    "number": "5N 507",
@@ -578,9 +578,9 @@
    "to": "MMK",
    "to_name": "Murmansk",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T06:05:00Z",
-   "actual": "2026-11-20T06:05:00Z"
+   "actual": "2026-11-20T06:00:00Z"
   },
   "FV 6343|2026-11-20T06:10:00Z": {
    "number": "FV 6343",
@@ -588,9 +588,9 @@
    "to": "MMK",
    "to_name": "Murmansk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T06:10:00Z",
-   "actual": "2026-11-20T06:10:00Z"
+   "actual": "2026-11-20T06:02:00Z"
   },
   "HY 9640|2026-11-20T06:20:00Z": {
    "number": "HY 9640",
@@ -598,7 +598,7 @@
    "to": "SKD",
    "to_name": "Samarkand",
    "model": "Airbus A320 NEO",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T06:20:00Z",
    "actual": "2026-11-20T06:20:00Z"
   },
@@ -608,7 +608,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T06:30:00Z",
    "actual": "2026-11-20T06:30:00Z"
   },
@@ -618,7 +618,7 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-20T06:45:00Z",
    "actual": "2026-11-20T06:45:00Z"
   },
@@ -658,6 +658,7 @@
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
-  "2026-11-20T06:07:28Z"
+  "2026-11-20T06:07:28Z",
+  "2026-11-20T06:21:08Z"
  ]
 }

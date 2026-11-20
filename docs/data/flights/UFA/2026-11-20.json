@@ -198,7 +198,7 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "Boeing 737-400",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T06:35:00Z",
    "actual": "2026-11-20T06:35:00Z"
   },
@@ -208,7 +208,7 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-20T06:55:00Z",
    "actual": "2026-11-20T06:55:00Z"
   },
@@ -229,6 +229,7 @@
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
-  "2026-11-20T06:07:28Z"
+  "2026-11-20T06:07:28Z",
+  "2026-11-20T06:21:08Z"
  ]
 }

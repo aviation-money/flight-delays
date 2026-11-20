@@ -118,7 +118,7 @@
    "to": "Sharm el Sheikh",
    "to_name": "Sharm el Sheikh",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T06:30:00Z",
    "actual": "2026-11-20T06:30:00Z"
   },
@@ -128,7 +128,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-20T06:45:00Z",
    "actual": "2026-11-20T06:45:00Z"
   }
@@ -138,6 +138,7 @@
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
-  "2026-11-20T06:07:28Z"
+  "2026-11-20T06:07:28Z",
+  "2026-11-20T06:21:08Z"
  ]
 }

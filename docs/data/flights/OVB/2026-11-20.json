@@ -628,9 +628,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:30:00Z",
-   "actual": "2026-11-20T05:32:00Z"
+   "actual": "2026-11-20T05:58:00Z"
   },
   "S7 5307|2026-11-20T05:55:00Z": {
    "number": "S7 5307",
@@ -638,9 +638,9 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:55:00Z",
-   "actual": "2026-11-20T05:55:00Z"
+   "actual": "2026-11-20T06:01:00Z"
   },
   "S7 7005|2026-11-20T05:55:00Z": {
    "number": "S7 7005",
@@ -648,9 +648,9 @@
    "to": "KEJ",
    "to_name": "Kemerovo",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T05:55:00Z",
-   "actual": "2026-11-20T05:55:00Z"
+   "actual": "2026-11-20T06:03:00Z"
   },
   "S7 5551|2026-11-20T06:10:00Z": {
    "number": "S7 5551",
@@ -698,7 +698,7 @@
    "to": "LBD",
    "to_name": "Khudzhand",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T06:30:00Z",
    "actual": "2026-11-20T06:30:00Z"
   },
@@ -708,7 +708,7 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-20T04:05:00Z",
    "actual": "2026-11-20T06:31:00Z"
   },
@@ -718,7 +718,7 @@
    "to": "ABA",
    "to_name": "Abakan",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-20T06:45:00Z",
    "actual": "2026-11-20T06:45:00Z"
   },
@@ -731,6 +731,56 @@
    "status": "CheckIn",
    "scheduled": "2026-11-20T07:05:00Z",
    "actual": "2026-11-20T07:05:00Z"
+  },
+  "U6 9383|2026-11-20T06:06:00Z": {
+   "number": "U6 9383",
+   "airline": "Ural Airlines",
+   "to": "Unknown",
+   "to_name": "Unknown",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T06:06:00Z",
+   "actual": "2026-11-20T06:06:00Z"
+  },
+  "S7 5545|2026-11-20T07:10:00Z": {
+   "number": "S7 5545",
+   "airline": "S7",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T07:10:00Z",
+   "actual": "2026-11-20T07:10:00Z"
+  },
+  "S7 5341|2026-11-20T07:15:00Z": {
+   "number": "S7 5341",
+   "airline": "S7",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T07:15:00Z",
+   "actual": "2026-11-20T07:15:00Z"
+  },
+  "S7 5031|2026-11-20T07:20:00Z": {
+   "number": "S7 5031",
+   "airline": "S7",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T07:20:00Z",
+   "actual": "2026-11-20T07:20:00Z"
+  },
+  "S7 5013|2026-11-20T07:20:00Z": {
+   "number": "S7 5013",
+   "airline": "S7",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-20T07:20:00Z",
+   "actual": "2026-11-20T07:20:00Z"
   }
  },
  "fetched": [
@@ -740,6 +790,7 @@
   "2026-11-20T00:07:26Z",
   "2026-11-20T02:07:27Z",
   "2026-11-20T04:07:29Z",
-  "2026-11-20T06:07:28Z"
+  "2026-11-20T06:07:28Z",
+  "2026-11-20T06:21:08Z"
  ]
 }
