@@ -368,7 +368,12 @@ def update_daily(airports, now, m):
             state = load_json(f)
             if not state or not state.get("flights"):
                 continue
-            row = summarize(ap, state, now, m)
+            # прошедшие сутки замораживаются в одну минуту для всех аэропортов — в полночь
+            # по Калининграду (самый западный пояс). Восточные аэропорты к этому моменту
+            # уже давно в следующих сутках, поэтому итог за вчера больше не меняется.
+            d = datetime.strptime(state["date"], "%Y-%m-%d")
+            cutoff = datetime(d.year, d.month, d.day, tzinfo=ZoneInfo("Europe/Kaliningrad")) + timedelta(days=1)
+            row = summarize(ap, state, min(now, cutoff.astimezone(timezone.utc)), m)
             daily.setdefault(state["date"], {})[ap["iata"]] = {k: row[k] for k in DAILY_KEYS}
     daily = dict(sorted(daily.items()))
     path.parent.mkdir(parents=True, exist_ok=True)

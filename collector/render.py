@@ -168,16 +168,26 @@ def period_totals(daily, iata, match):
 
 def past_section(daily, r) -> str:
     from datetime import date, timedelta
-    today = date.fromisoformat(r["date"])
+    today = date.fromisoformat(r.get("msk_date") or r["date"])
     yest = (today - timedelta(days=1)).isoformat()
-    month = r["date"][:7]
+    month = today.isoformat()[:7]
     pm = (today.replace(day=1) - timedelta(days=1))
     prev = pm.isoformat()[:7]
     names = ["январь", "февраль", "март", "апрель", "май", "июнь", "июль", "август", "сентябрь",
              "октябрь", "ноябрь", "декабрь"]
+    gen = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября",
+           "октября", "ноября", "декабря"]
+    first = min(daily) if daily else None
+
+    def mlabel(m):
+        lab = f"{names[m.month - 1].capitalize()} {m.year}"
+        if first and first > m.isoformat()[:7] + "-01" and first.startswith(m.isoformat()[:7]):
+            f = date.fromisoformat(first)
+            lab += f" (с {f.day} {gen[f.month - 1]})"
+        return lab
     periods = [("Вчера", lambda d: d == yest),
-               (f"{names[today.month - 1].capitalize()} {today.year}", lambda d: d.startswith(month)),
-               (f"{names[pm.month - 1].capitalize()} {pm.year}", lambda d: d.startswith(prev))]
+               (mlabel(today), lambda d: d.startswith(month)),
+               (mlabel(pm), lambda d: d.startswith(prev))]
     trs = []
     for label, match in periods:
         t, days = period_totals(daily, r["iata"], match)
@@ -188,10 +198,15 @@ def past_section(daily, r) -> str:
                    f'<td class="r num">{rub(t["loss_total"])}</td></tr>')
     if not trs:
         return ""
+    note = ""
+    if first and first[8:] != "01":
+        f = date.fromisoformat(first)
+        note = (f" Архив ведётся с {f.day} {gen[f.month - 1]} {f.year}, поэтому этот месяц неполный; "
+                "следующие месяцы считаются целиком, с 1-го числа.")
     return ('<section class="method"><h2>Задержки за прошлые периоды</h2><div class="board"><table class="flights">'
             '<thead><tr><th>Период</th><th class="r">Дней</th><th class="r">Вылетов</th><th class="r">Задержано</th>'
             '<th class="r">Минуты</th><th class="r">Потери</th></tr></thead><tbody>' + "".join(trs) +
-            '</tbody></table></div><p class="src">Сумма по суткам, за которые есть данные. Текущий месяц включает сегодняшний день.</p></section>')
+            '</tbody></table></div><p class="src">Сумма по суткам, за которые есть данные. Текущий месяц включает сегодняшний день.' + note + '</p></section>')
 
 
 def render_airport(site, data, r, style, daily=None):
@@ -230,7 +245,7 @@ def render_airport(site, data, r, style, daily=None):
     <h2>Самые долгие задержки сегодня</h2>
     {f'<div class="board"><table class="flights"><thead><tr><th>Рейс</th><th>Куда</th><th>План</th><th>Факт</th><th class="r">Мин</th><th class="r">Потери</th></tr></thead><tbody>{worst}</tbody></table></div><p class="src">Время местное. * рейс ещё не вылетел, задержка растёт.</p>' if worst else '<p>Задержек сегодня пока нет.</p>'}
   </section>
-  {past_section(daily or {}, r)}
+  {past_section(daily or {}, {**r, "msk_date": datetime.fromisoformat(data["generated_at"].replace("Z", "+00:00")).astimezone(MSK).date().isoformat()})}
   <section class="method">
     <h2>Как считаются потери</h2>
     <p>Учитываются вылеты из аэропорта {e(r['name'])} за местные сутки. Минуты задержки = фактическое время отправления минус время по расписанию. Потери складываются из стоимости времени пассажиров и расходов авиакомпании на минуту простоя. Подробная методика и все коэффициенты — <a href="../#method">на главной странице</a>.</p>

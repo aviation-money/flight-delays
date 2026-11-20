@@ -339,9 +339,13 @@ a { color: var(--focus); }
   const MONTHS = ["январь", "февраль", "март", "апрель", "май", "июнь", "июль", "август", "сентябрь", "октябрь", "ноябрь", "декабрь"];
   function shiftDay(d, n) { const t = new Date(d + "T12:00:00Z"); t.setUTCDate(t.getUTCDate() + n); return t.toISOString().slice(0, 10); }
   function prevMonth(d) { let y = +d.slice(0, 4), m = +d.slice(5, 7) - 1; if (m === 0) { m = 12; y--; } return y + "-" + String(m).padStart(2, "0"); }
+  // «Вчера» и месяцы — календарные даты по Москве, одинаковые для всех аэропортов,
+  // поэтому цифра за вчера не меняется в течение дня
+  function mskToday() { return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/Moscow" }); }
   function periodMatch(a) {
-    if (period === "yesterday") { const y = shiftDay(a.date, -1); return (d) => d === y; }
-    const pref = period === "month" ? a.date.slice(0, 7) : prevMonth(a.date);
+    const ref = mskToday();
+    if (period === "yesterday") { const y = shiftDay(ref, -1); return (d) => d === y; }
+    const pref = period === "month" ? ref.slice(0, 7) : prevMonth(ref);
     return (d) => d.startsWith(pref);
   }
   function periodRows() {
@@ -357,16 +361,26 @@ a { color: var(--focus); }
       return row;
     });
   }
+  function dayMonth(d) { return new Date(d + "T12:00:00Z").toLocaleDateString("ru-RU", { day: "numeric", month: "long", timeZone: "UTC" }); }
+  function monthEnd(pm) { const y = +pm.slice(0, 4), m = +pm.slice(5, 7); return pm + "-" + String(new Date(Date.UTC(y, m, 0)).getUTCDate()).padStart(2, "0"); }
   function periodNote() {
     if (period === "today") return "Нажмите на аэропорт, чтобы увидеть самые долгие задержки и динамику за день";
-    const ref = (data.airports.find((a) => a.iata === "SVO") || data.airports[0]).date;
+    const ref = mskToday();
     const first = Object.keys(daily || {}).sort()[0];
-    let label, start;
-    if (period === "yesterday") { label = "Вчера, " + new Date(shiftDay(ref, -1) + "T12:00:00Z").toLocaleDateString("ru-RU", { day: "numeric", month: "long" }); start = shiftDay(ref, -1); }
-    else { const pm = period === "month" ? ref.slice(0, 7) : prevMonth(ref); label = MONTHS[+pm.slice(5, 7) - 1] + " " + pm.slice(0, 4); label = label[0].toUpperCase() + label.slice(1); start = pm + "-01"; }
-    let note = label + ", по местным суткам каждого аэропорта.";
-    if (!first || first > start) note += first ? " Архив ведётся с " + new Date(first + "T12:00:00Z").toLocaleDateString("ru-RU", { day: "numeric", month: "long", year: "numeric" }) + ", поэтому данные неполные." : " Архива за этот период пока нет.";
-    return note + " Нажмите на аэропорт, чтобы увидеть разбивку по дням.";
+    const tail = " Сутки по Москве, у каждого аэропорта с 00:00 до 24:00 его местного времени. Нажмите на аэропорт, чтобы увидеть разбивку по дням.";
+    if (period === "yesterday") {
+      const y = shiftDay(ref, -1);
+      if (!first || first > y) return "Вчера, " + dayMonth(y) + ": данных нет, архив ведётся с " + dayMonth(first || ref) + ".";
+      return "Вчера, " + dayMonth(y) + "." + tail;
+    }
+    const pm = period === "month" ? ref.slice(0, 7) : prevMonth(ref);
+    let label = MONTHS[+pm.slice(5, 7) - 1] + " " + pm.slice(0, 4); label = label[0].toUpperCase() + label.slice(1);
+    const start = pm + "-01", end = period === "month" ? ref : monthEnd(pm);
+    if (!first || first > end) return label + ": данных нет, архив ведётся с " + dayMonth(first || ref) + ".";
+    const from = first > start ? first : start;
+    let note = label + (from === end ? ", пока только " + dayMonth(from) + "." : ", с " + dayMonth(from) + " по " + dayMonth(end) + ".");
+    if (from > start) note += " Месяц неполный: считается с " + dayMonth(from) + ", когда начат архив. Следующие месяцы будут считаться целиком, с 1-го числа.";
+    return note + tail;
   }
   async function loadDaily() {
     try { const r = await fetch("data/daily.json", { cache: "no-store" }); daily = r.ok ? await r.json() : {}; }
