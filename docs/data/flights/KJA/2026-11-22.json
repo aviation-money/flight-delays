@@ -1,0 +1,29 @@
+{
+ "airport": "KJA",
+ "date": "2026-11-22",
+ "flights": {
+  "HZ 4041|2026-11-21T17:10:00Z": {
+   "number": "HZ 4041",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-21T17:10:00Z",
+   "actual": "2026-11-21T17:10:00Z"
+  },
+  "9Z 3519|2026-11-21T18:15:00Z": {
+   "number": "9Z 3519",
+   "airline": "Siam Wings",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Airbus A330-200",
+   "status": "Expected",
+   "scheduled": "2026-11-21T18:15:00Z",
+   "actual": "2026-11-21T18:15:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-21T18:07:23Z"
+ ]
+}

@@ -121,6 +121,46 @@
    "status": "Departed",
    "scheduled": "2026-11-21T14:30:00Z",
    "actual": "2026-11-21T15:00:00Z"
+  },
+  "S7 7046|2026-11-21T17:55:00Z": {
+   "number": "S7 7046",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T17:55:00Z",
+   "actual": "2026-11-21T17:55:00Z"
+  },
+  "U6 2811|2026-11-21T18:20:00Z": {
+   "number": "U6 2811",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus",
+   "status": "Expected",
+   "scheduled": "2026-11-21T18:20:00Z",
+   "actual": "2026-11-21T18:20:00Z"
+  },
+  "SU 1427|2026-11-21T18:30:00Z": {
+   "number": "SU 1427",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Expected",
+   "scheduled": "2026-11-21T18:30:00Z",
+   "actual": "2026-11-21T18:30:00Z"
+  },
+  "5N 3104|2026-11-21T14:10:00Z": {
+   "number": "5N 3104",
+   "airline": "Smartavia",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737",
+   "status": "Delayed",
+   "scheduled": "2026-11-21T14:10:00Z",
+   "actual": "2026-11-21T18:45:00Z"
   }
  },
  "fetched": [
@@ -134,6 +174,7 @@
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
   "2026-11-21T14:07:26Z",
-  "2026-11-21T16:07:27Z"
+  "2026-11-21T16:07:27Z",
+  "2026-11-21T18:07:23Z"
  ]
 }

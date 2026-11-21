@@ -117,10 +117,10 @@
    "airline": "Rossiya",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-900",
-   "status": "Expected",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-21T15:55:00Z",
-   "actual": null
+   "actual": "2026-11-21T16:07:00Z"
   },
   "I8 307|2026-11-21T16:30:00Z": {
    "number": "I8 307",
@@ -130,6 +130,26 @@
    "model": "Boeing 737-800",
    "status": "Unknown",
    "scheduled": "2026-11-21T16:30:00Z",
+   "actual": null
+  },
+  "FV 6886|2026-11-21T18:30:00Z": {
+   "number": "FV 6886",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T18:30:00Z",
+   "actual": null
+  },
+  "S7 7076|2026-11-21T18:50:00Z": {
+   "number": "S7 7076",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-21T18:50:00Z",
    "actual": null
   }
  },
@@ -144,6 +164,7 @@
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
   "2026-11-21T14:07:26Z",
-  "2026-11-21T16:07:27Z"
+  "2026-11-21T16:07:27Z",
+  "2026-11-21T18:07:23Z"
  ]
 }

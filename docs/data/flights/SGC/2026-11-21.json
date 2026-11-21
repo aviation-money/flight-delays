@@ -248,9 +248,9 @@
    "to": "Tyumen Roshchino",
    "to_name": "Tyumen Roshchino",
    "model": "Boeing 737-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T11:15:00Z",
-   "actual": "2026-11-21T13:45:00Z"
+   "actual": "2026-11-21T17:24:00Z"
   },
   "UT 6128|2026-11-21T15:35:00Z": {
    "number": "UT 6128",
@@ -258,17 +258,17 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-400",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T15:35:00Z",
-   "actual": "2026-11-21T15:35:00Z"
+   "actual": "2026-11-21T15:49:00Z"
   },
   "UT 6132|2026-11-21T16:00:00Z": {
    "number": "UT 6132",
    "airline": "UTAir",
    "to": "Moskva Vnk",
    "to_name": "Moskva Vnk",
-   "model": null,
-   "status": "CheckIn",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-21T16:00:00Z",
    "actual": "2026-11-21T16:00:00Z"
   },
@@ -277,10 +277,20 @@
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737-500",
-   "status": "Expected",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-21T14:20:00Z",
-   "actual": "2026-11-21T16:30:00Z"
+   "actual": "2026-11-21T16:31:00Z"
+  },
+  "S7 5350|2026-11-21T17:40:00Z": {
+   "number": "S7 5350",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-21T17:40:00Z",
+   "actual": "2026-11-21T17:39:00Z"
   }
  },
  "fetched": [
@@ -294,6 +304,7 @@
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
   "2026-11-21T14:07:26Z",
-  "2026-11-21T16:07:27Z"
+  "2026-11-21T16:07:27Z",
+  "2026-11-21T18:07:23Z"
  ]
 }

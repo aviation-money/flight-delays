@@ -295,7 +295,7 @@
   "A4 6069|2026-11-21T14:10:00Z": {
    "number": "A4 6069",
    "airline": "Azimuth",
-   "to": "IST",
+   "to": "Istanbul",
    "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
@@ -305,7 +305,7 @@
   "U6 154|2026-11-21T14:25:00Z": {
    "number": "U6 154",
    "airline": "Ural",
-   "to": "Moscow",
+   "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A321",
    "status": "Departed",
@@ -358,9 +358,9 @@
    "to": "Makhachkala",
    "to_name": "Makhachkala",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T15:45:00Z",
-   "actual": "2026-11-21T15:45:00Z"
+   "actual": "2026-11-21T15:57:00Z"
   },
   "SU 1351|2026-11-21T12:00:00Z": {
    "number": "SU 1351",
@@ -368,9 +368,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T12:00:00Z",
-   "actual": "2026-11-21T17:00:00Z"
+   "actual": "2026-11-21T17:09:00Z"
   },
   "DP 6912|2026-11-21T16:35:00Z": {
    "number": "DP 6912",
@@ -378,9 +378,39 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T16:35:00Z",
-   "actual": "2026-11-21T17:00:00Z"
+   "actual": "2026-11-21T17:23:00Z"
+  },
+  "A4 6131|2026-11-21T18:35:00Z": {
+   "number": "A4 6131",
+   "airline": "Azimuth",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T18:35:00Z",
+   "actual": "2026-11-21T18:35:00Z"
+  },
+  "A4 6067|2026-11-21T18:40:00Z": {
+   "number": "A4 6067",
+   "airline": "Azimuth",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T18:40:00Z",
+   "actual": "2026-11-21T18:40:00Z"
+  },
+  "C6 450|2026-11-21T19:00:00Z": {
+   "number": "C6 450",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T19:00:00Z",
+   "actual": "2026-11-21T19:00:00Z"
   }
  },
  "fetched": [
@@ -393,6 +423,7 @@
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
   "2026-11-21T14:07:26Z",
-  "2026-11-21T16:07:27Z"
+  "2026-11-21T16:07:27Z",
+  "2026-11-21T18:07:23Z"
  ]
 }
