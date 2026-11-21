@@ -58,9 +58,9 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Mil Mi",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T06:40:00Z",
-   "actual": "2026-11-21T06:40:00Z"
+   "actual": "2026-11-21T08:01:00Z"
   },
   "NF 977|2026-11-21T04:00:00Z": {
    "number": "NF 977",
@@ -78,9 +78,19 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T08:00:00Z",
-   "actual": "2026-11-21T07:54:00Z"
+   "actual": "2026-11-21T08:00:00Z"
+  },
+  "UT 305|2026-11-21T09:50:00Z": {
+   "number": "UT 305",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-21T09:50:00Z",
+   "actual": "2026-11-21T09:50:00Z"
   }
  },
  "fetched": [
@@ -90,6 +100,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }

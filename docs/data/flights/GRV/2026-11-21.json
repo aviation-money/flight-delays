@@ -21,6 +21,26 @@
    "status": "Departed",
    "scheduled": "2026-11-21T03:30:00Z",
    "actual": null
+  },
+  "RT 530|2026-11-21T09:25:00Z": {
+   "number": "RT 530",
+   "airline": "UVT Aero",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Bombardier CRJ200",
+   "status": "Expected",
+   "scheduled": "2026-11-21T09:25:00Z",
+   "actual": null
+  },
+  "SU 1499|2026-11-21T09:40:00Z": {
+   "number": "SU 1499",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-21T09:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -29,6 +49,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }

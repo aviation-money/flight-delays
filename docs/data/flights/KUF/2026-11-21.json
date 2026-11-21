@@ -108,9 +108,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-21T06:25:00Z",
-   "actual": "2026-11-21T08:25:00Z"
+   "actual": "2026-11-21T08:56:00Z"
   },
   "FV 6232|2026-11-21T08:00:00Z": {
    "number": "FV 6232",
@@ -118,9 +118,59 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-21T08:00:00Z",
-   "actual": "2026-11-21T09:00:00Z"
+   "actual": "2026-11-21T10:00:00Z"
+  },
+  "SZ 212|2026-11-21T09:30:00Z": {
+   "number": "SZ 212",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-21T09:30:00Z",
+   "actual": "2026-11-21T09:46:00Z"
+  },
+  "5N 532|2026-11-21T09:50:00Z": {
+   "number": "5N 532",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T09:50:00Z",
+   "actual": "2026-11-21T09:50:00Z"
+  },
+  "SU 1605|2026-11-21T09:55:00Z": {
+   "number": "SU 1605",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T09:55:00Z",
+   "actual": "2026-11-21T09:55:00Z"
+  },
+  "UT 282|2026-11-21T10:05:00Z": {
+   "number": "UT 282",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T10:05:00Z",
+   "actual": "2026-11-21T10:05:00Z"
+  },
+  "A4 6308|2026-11-21T10:40:00Z": {
+   "number": "A4 6308",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T10:40:00Z",
+   "actual": "2026-11-21T10:40:00Z"
   }
  },
  "fetched": [
@@ -130,6 +180,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }

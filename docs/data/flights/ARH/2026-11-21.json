@@ -38,19 +38,29 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-21T07:20:00Z",
    "actual": "2026-11-21T07:20:00Z"
   },
   "5N 175|2026-11-21T08:15:00Z": {
    "number": "5N 175",
    "airline": "Smartavia",
-   "to": "KGD",
+   "to": "Kaliningrad",
    "to_name": "Kaliningrad",
    "model": "Boeing 737",
    "status": "CheckIn",
    "scheduled": "2026-11-21T08:15:00Z",
    "actual": "2026-11-21T08:15:00Z"
+  },
+  "FV 6338|2026-11-21T10:00:00Z": {
+   "number": "FV 6338",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T10:00:00Z",
+   "actual": "2026-11-21T10:00:00Z"
   }
  },
  "fetched": [
@@ -59,6 +69,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }

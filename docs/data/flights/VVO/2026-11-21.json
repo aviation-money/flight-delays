@@ -218,7 +218,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T06:45:00Z",
    "actual": "2026-11-21T06:55:00Z"
   },
@@ -228,9 +228,9 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T07:55:00Z",
-   "actual": "2026-11-21T07:55:00Z"
+   "actual": "2026-11-21T07:59:00Z"
   },
   "CA 812|2026-11-21T08:20:00Z": {
    "number": "CA 812",
@@ -240,7 +240,7 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-21T08:20:00Z",
-   "actual": "2026-11-21T08:30:00Z"
+   "actual": "2026-11-21T08:46:00Z"
   },
   "S7 6207|2026-11-21T08:30:00Z": {
    "number": "S7 6207",
@@ -250,7 +250,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-21T08:30:00Z",
-   "actual": "2026-11-21T08:30:00Z"
+   "actual": "2026-11-21T08:36:00Z"
   },
   "KN 878|2026-11-21T09:05:00Z": {
    "number": "KN 878",
@@ -261,6 +261,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-21T09:05:00Z",
    "actual": null
+  },
+  "S7 6219|2026-11-21T11:05:00Z": {
+   "number": "S7 6219",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T11:05:00Z",
+   "actual": "2026-11-21T11:05:00Z"
   }
  },
  "fetched": [
@@ -273,6 +283,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }

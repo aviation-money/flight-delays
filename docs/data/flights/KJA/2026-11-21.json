@@ -328,9 +328,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T07:50:00Z",
    "actual": "2026-11-21T07:50:00Z"
+  },
+  "KV 215|2026-11-21T09:30:00Z": {
+   "number": "KV 215",
+   "airline": "KrasAvia",
+   "to": "Talakan",
+   "to_name": "Talakan",
+   "model": "Yak 42",
+   "status": "Delayed",
+   "scheduled": "2026-11-21T09:30:00Z",
+   "actual": "2026-11-21T10:30:00Z"
   }
  },
  "fetched": [
@@ -341,6 +351,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }

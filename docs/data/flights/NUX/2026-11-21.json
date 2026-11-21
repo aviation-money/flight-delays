@@ -161,6 +161,36 @@
    "status": "Departed",
    "scheduled": "2026-11-21T07:30:00Z",
    "actual": "2026-11-21T07:59:00Z"
+  },
+  "UTH 8925|2026-11-21T09:40:00Z": {
+   "number": "UTH 8925",
+   "airline": "AO YuTeyr-Vertoletnye uslugi",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T09:40:00Z",
+   "actual": "2026-11-21T09:40:00Z"
+  },
+  "VI 4238|2026-11-21T08:00:00Z": {
+   "number": "VI 4238",
+   "airline": "Volga-Dnepr",
+   "to": "Sabetta",
+   "to_name": "Sabetta",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-21T08:00:00Z",
+   "actual": "2026-11-21T10:00:00Z"
+  },
+  "YC 385|2026-11-21T11:00:00Z": {
+   "number": "YC 385",
+   "airline": "Yamal",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T11:00:00Z",
+   "actual": "2026-11-21T11:00:00Z"
   }
  },
  "fetched": [
@@ -170,6 +200,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }

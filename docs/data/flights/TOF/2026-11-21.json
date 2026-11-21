@@ -57,10 +57,10 @@
    "airline": "Red Wings",
    "to": "SVX",
    "to_name": "Ekaterinburg",
-   "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
    "scheduled": "2026-11-21T06:40:00Z",
-   "actual": "2026-11-21T08:05:00Z"
+   "actual": "2026-11-21T08:23:00Z"
   },
   "UT 157|2026-11-21T09:05:00Z": {
    "number": "UT 157",
@@ -68,9 +68,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T09:05:00Z",
-   "actual": "2026-11-21T09:05:00Z"
+   "actual": "2026-11-21T09:13:00Z"
   }
  },
  "fetched": [
@@ -81,6 +81,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }

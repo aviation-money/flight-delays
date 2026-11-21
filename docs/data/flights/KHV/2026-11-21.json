@@ -38,9 +38,9 @@
    "to": "NGK",
    "to_name": "Nogliki-Sakhalin Island",
    "model": "De Havilland DHC-8-400 Dash 8",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-20T23:05:00Z",
-   "actual": "2026-11-21T07:40:00Z"
+   "actual": "2026-11-21T08:05:00Z"
   },
   "НИ 401|2026-11-20T23:20:00Z": {
    "number": "НИ 401",
@@ -178,9 +178,49 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T09:00:00Z",
-   "actual": "2026-11-21T09:00:00Z"
+   "actual": "2026-11-21T09:10:00Z"
+  },
+  "HZ 5624|2026-11-21T09:15:00Z": {
+   "number": "HZ 5624",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-21T09:15:00Z",
+   "actual": "2026-11-21T09:22:00Z"
+  },
+  "HZ 5642|2026-11-21T09:25:00Z": {
+   "number": "HZ 5642",
+   "airline": "Aurora",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-21T09:25:00Z",
+   "actual": "2026-11-21T09:35:00Z"
+  },
+  "EU 2922|2026-11-21T03:55:00Z": {
+   "number": "EU 2922",
+   "airline": "Chengdu",
+   "to": "JMU",
+   "to_name": "Jiamusi",
+   "model": "Comac C909/ARJ21-700",
+   "status": "Delayed",
+   "scheduled": "2026-11-21T03:55:00Z",
+   "actual": "2026-11-21T09:50:00Z"
+  },
+  "FV 5702|2026-11-21T10:10:00Z": {
+   "number": "FV 5702",
+   "airline": "Rossiya",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-21T10:10:00Z",
+   "actual": "2026-11-21T10:10:00Z"
   }
  },
  "fetched": [
@@ -193,6 +233,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }

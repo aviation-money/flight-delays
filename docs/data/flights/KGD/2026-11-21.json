@@ -8,9 +8,49 @@
    "to": "Kaliningrad",
    "to_name": "Kaliningrad",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T09:00:00Z",
-   "actual": "2026-11-21T09:00:00Z"
+   "actual": "2026-11-21T09:01:00Z"
+  },
+  "5N 506|2026-11-21T09:00:00Z": {
+   "number": "5N 506",
+   "airline": "Smartavia",
+   "to": "Saint Petersburg",
+   "to_name": "Saint Petersburg",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T09:00:00Z",
+   "actual": "2026-11-21T09:30:00Z"
+  },
+  "N4 284|2026-11-21T10:20:00Z": {
+   "number": "N4 284",
+   "airline": "Nordwind",
+   "to": "Saint Petersburg",
+   "to_name": "Saint Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T10:20:00Z",
+   "actual": "2026-11-21T10:20:00Z"
+  },
+  "FV 6326|2026-11-21T10:50:00Z": {
+   "number": "FV 6326",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T10:50:00Z",
+   "actual": "2026-11-21T10:50:00Z"
+  },
+  "B2 950|2026-11-21T11:00:00Z": {
+   "number": "B2 950",
+   "airline": "Belavia",
+   "to": "Minsk",
+   "to_name": "Minsk",
+   "model": "Embraer 195",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T11:00:00Z",
+   "actual": "2026-11-21T11:00:00Z"
   }
  },
  "fetched": [
@@ -19,6 +59,7 @@
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
-  "2026-11-21T08:07:31Z"
+  "2026-11-21T08:07:31Z",
+  "2026-11-21T10:07:25Z"
  ]
 }
