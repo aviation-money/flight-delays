@@ -55,11 +55,21 @@
   "SU 1295|2026-11-21T06:40:00Z": {
    "number": "SU 1295",
    "airline": "Aeroflot",
-   "to": "Moscow",
+   "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Unknown",
+   "status": "Expected",
    "scheduled": "2026-11-21T06:40:00Z",
+   "actual": null
+  },
+  "N4 352|2026-11-21T08:55:00Z": {
+   "number": "N4 352",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T08:55:00Z",
    "actual": null
   }
  },
@@ -69,6 +79,7 @@
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
-  "2026-11-21T06:07:25Z"
+  "2026-11-21T06:07:25Z",
+  "2026-11-21T08:07:31Z"
  ]
 }

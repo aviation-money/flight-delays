@@ -1,12 +1,24 @@
 {
  "airport": "KGD",
  "date": "2026-11-21",
- "flights": {},
+ "flights": {
+  "LUK 9621|2026-11-21T09:00:00Z": {
+   "number": "LUK 9621",
+   "airline": "LUK",
+   "to": "Kaliningrad",
+   "to_name": "Kaliningrad",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-21T09:00:00Z",
+   "actual": "2026-11-21T09:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
-  "2026-11-21T06:07:25Z"
+  "2026-11-21T06:07:25Z",
+  "2026-11-21T08:07:31Z"
  ]
 }

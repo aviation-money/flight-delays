@@ -68,9 +68,19 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Mil Mi",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T04:00:00Z",
-   "actual": "2026-11-21T07:00:00Z"
+   "actual": "2026-11-21T07:38:00Z"
+  },
+  "UT 303|2026-11-21T08:00:00Z": {
+   "number": "UT 303",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-21T08:00:00Z",
+   "actual": "2026-11-21T07:54:00Z"
   }
  },
  "fetched": [
@@ -79,6 +89,7 @@
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
-  "2026-11-21T06:07:25Z"
+  "2026-11-21T06:07:25Z",
+  "2026-11-21T08:07:31Z"
  ]
 }

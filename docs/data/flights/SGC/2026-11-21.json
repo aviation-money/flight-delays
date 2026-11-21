@@ -181,6 +181,26 @@
    "status": "Departed",
    "scheduled": "2026-11-21T04:20:00Z",
    "actual": "2026-11-21T04:20:00Z"
+  },
+  "UT 153|2026-11-21T07:10:00Z": {
+   "number": "UT 153",
+   "airline": "UTAir",
+   "to": "Beloyarskiy",
+   "to_name": "Beloyarskiy",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-21T07:10:00Z",
+   "actual": "2026-11-21T07:18:00Z"
+  },
+  "UT 139|2026-11-21T08:25:00Z": {
+   "number": "UT 139",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T08:25:00Z",
+   "actual": "2026-11-21T08:25:00Z"
   }
  },
  "fetched": [
@@ -189,6 +209,7 @@
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
-  "2026-11-21T06:07:25Z"
+  "2026-11-21T06:07:25Z",
+  "2026-11-21T08:07:31Z"
  ]
 }

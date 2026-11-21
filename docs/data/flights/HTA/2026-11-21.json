@@ -78,9 +78,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Bombardier CRJ",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T01:30:00Z",
-   "actual": "2026-11-21T01:30:00Z"
+   "actual": "2026-11-21T07:45:00Z"
   },
   "WZ 5090|2026-11-21T02:05:00Z": {
    "number": "WZ 5090",
@@ -118,9 +118,9 @@
    "to": "HLD",
    "to_name": "Hailar",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T05:30:00Z",
-   "actual": "2026-11-21T06:30:00Z"
+   "actual": "2026-11-21T06:49:00Z"
   }
  },
  "fetched": [
@@ -131,6 +131,7 @@
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
-  "2026-11-21T06:07:25Z"
+  "2026-11-21T06:07:25Z",
+  "2026-11-21T08:07:31Z"
  ]
 }

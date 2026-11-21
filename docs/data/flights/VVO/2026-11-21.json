@@ -198,7 +198,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T05:20:00Z",
    "actual": "2026-11-21T05:24:00Z"
   },
@@ -208,9 +208,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T06:35:00Z",
-   "actual": "2026-11-21T06:35:00Z"
+   "actual": "2026-11-21T06:42:00Z"
   },
   "CA 810|2026-11-21T06:45:00Z": {
    "number": "CA 810",
@@ -220,7 +220,47 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-21T06:45:00Z",
-   "actual": "2026-11-21T06:45:00Z"
+   "actual": "2026-11-21T06:55:00Z"
+  },
+  "HZ 5608|2026-11-21T07:55:00Z": {
+   "number": "HZ 5608",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-21T07:55:00Z",
+   "actual": "2026-11-21T07:55:00Z"
+  },
+  "CA 812|2026-11-21T08:20:00Z": {
+   "number": "CA 812",
+   "airline": "Air China",
+   "to": "PEK",
+   "to_name": "Beijing",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-21T08:20:00Z",
+   "actual": "2026-11-21T08:30:00Z"
+  },
+  "S7 6207|2026-11-21T08:30:00Z": {
+   "number": "S7 6207",
+   "airline": "S7",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T08:30:00Z",
+   "actual": "2026-11-21T08:30:00Z"
+  },
+  "KN 878|2026-11-21T09:05:00Z": {
+   "number": "KN 878",
+   "airline": "China United",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Boeing 737",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T09:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -232,6 +272,7 @@
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
-  "2026-11-21T06:07:25Z"
+  "2026-11-21T06:07:25Z",
+  "2026-11-21T08:07:31Z"
  ]
 }

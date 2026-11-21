@@ -28,9 +28,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T06:15:00Z",
-   "actual": "2026-11-21T06:15:00Z"
+   "actual": "2026-11-21T07:46:00Z"
+  },
+  "FV 6588|2026-11-21T07:35:00Z": {
+   "number": "FV 6588",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "SSJ 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-21T07:35:00Z",
+   "actual": "2026-11-21T07:35:00Z"
   }
  },
  "fetched": [
@@ -38,6 +48,7 @@
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
   "2026-11-21T04:07:24Z",
-  "2026-11-21T06:07:25Z"
+  "2026-11-21T06:07:25Z",
+  "2026-11-21T08:07:31Z"
  ]
 }
