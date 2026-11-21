@@ -81,10 +81,61 @@
    "status": "Expected",
    "scheduled": "2026-11-21T17:40:00Z",
    "actual": null
+  },
+  "EO 3659|2026-11-21T19:30:00Z": {
+   "number": "EO 3659",
+   "airline": "Pegas Fly",
+   "to": "CXR",
+   "to_name": "Nha Trang",
+   "model": "Boeing 777-200",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T19:30:00Z",
+   "actual": null
+  },
+  "S7 5278|2026-11-21T20:05:00Z": {
+   "number": "S7 5278",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-21T20:05:00Z",
+   "actual": null
+  },
+  "S7 6429|2026-11-21T20:20:00Z": {
+   "number": "S7 6429",
+   "airline": "S7",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-21T20:20:00Z",
+   "actual": null
+  },
+  "S7 6307|2026-11-21T21:00:00Z": {
+   "number": "S7 6307",
+   "airline": "S7",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T21:00:00Z",
+   "actual": null
+  },
+  "S7 6449|2026-11-21T21:00:00Z": {
+   "number": "S7 6449",
+   "airline": "S7",
+   "to": "NER",
+   "to_name": "Neryungri",
+   "model": "Embraer 170",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T21:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-21T16:07:27Z",
-  "2026-11-21T18:07:23Z"
+  "2026-11-21T18:07:23Z",
+  "2026-11-21T20:07:26Z"
  ]
 }

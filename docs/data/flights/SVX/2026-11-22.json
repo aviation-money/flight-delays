@@ -1,0 +1,39 @@
+{
+ "airport": "SVX",
+ "date": "2026-11-22",
+ "flights": {
+  "SU 632|2026-11-21T19:50:00Z": {
+   "number": "SU 632",
+   "airline": "Aeroflot",
+   "to": "GOI",
+   "to_name": "Vasco da Gama",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T19:50:00Z",
+   "actual": "2026-11-21T19:50:00Z"
+  },
+  "UJ 662|2026-11-21T19:55:00Z": {
+   "number": "UJ 662",
+   "airline": "AlMasria",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-21T19:55:00Z",
+   "actual": "2026-11-21T20:10:00Z"
+  },
+  "N4 3433|2026-11-21T20:30:00Z": {
+   "number": "N4 3433",
+   "airline": "Nordwind",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Airbus A330-300",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T20:30:00Z",
+   "actual": "2026-11-21T20:30:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-21T20:07:26Z"
+ ]
+}

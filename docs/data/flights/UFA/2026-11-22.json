@@ -1,0 +1,49 @@
+{
+ "airport": "UFA",
+ "date": "2026-11-22",
+ "flights": {
+  "ZF 4027|2026-11-21T19:35:00Z": {
+   "number": "ZF 4027",
+   "airline": "AZUR Air",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 767-300",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T19:35:00Z",
+   "actual": "2026-11-21T19:35:00Z"
+  },
+  "UT 406|2026-11-21T19:25:00Z": {
+   "number": "UT 406",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-500 (winglets)",
+   "status": "Departed",
+   "scheduled": "2026-11-21T19:25:00Z",
+   "actual": "2026-11-21T19:46:00Z"
+  },
+  "U6 9354|2026-11-21T19:50:00Z": {
+   "number": "U6 9354",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-21T19:50:00Z",
+   "actual": "2026-11-21T19:55:00Z"
+  },
+  "FZ 986|2026-11-21T20:05:00Z": {
+   "number": "FZ 986",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T20:05:00Z",
+   "actual": "2026-11-21T20:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-21T20:07:26Z"
+ ]
+}

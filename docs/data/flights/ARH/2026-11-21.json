@@ -78,7 +78,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T15:25:00Z",
    "actual": "2026-11-21T15:25:00Z"
   },
@@ -98,9 +98,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T18:00:00Z",
-   "actual": "2026-11-21T18:00:00Z"
+   "actual": "2026-11-21T18:04:00Z"
   }
  },
  "fetched": [
@@ -114,6 +114,7 @@
   "2026-11-21T12:07:25Z",
   "2026-11-21T14:07:26Z",
   "2026-11-21T16:07:27Z",
-  "2026-11-21T18:07:23Z"
+  "2026-11-21T18:07:23Z",
+  "2026-11-21T20:07:26Z"
  ]
 }

@@ -88,9 +88,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T17:40:00Z",
-   "actual": "2026-11-21T18:05:00Z"
+   "actual": "2026-11-21T18:16:00Z"
   },
   "SU 1185|2026-11-21T18:45:00Z": {
    "number": "SU 1185",
@@ -98,9 +98,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T18:45:00Z",
-   "actual": "2026-11-21T18:45:00Z"
+   "actual": "2026-11-21T18:49:00Z"
+  },
+  "FZ 962|2026-11-21T20:10:00Z": {
+   "number": "FZ 962",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T20:10:00Z",
+   "actual": "2026-11-21T20:10:00Z"
+  },
+  "DP 6970|2026-11-21T18:30:00Z": {
+   "number": "DP 6970",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T18:30:00Z",
+   "actual": "2026-11-21T20:20:00Z"
   }
  },
  "fetched": [
@@ -114,6 +134,7 @@
   "2026-11-21T12:07:25Z",
   "2026-11-21T14:07:26Z",
   "2026-11-21T16:07:27Z",
-  "2026-11-21T18:07:23Z"
+  "2026-11-21T18:07:23Z",
+  "2026-11-21T20:07:26Z"
  ]
 }

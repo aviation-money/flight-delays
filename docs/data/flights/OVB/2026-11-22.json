@@ -45,15 +45,76 @@
   "IQ 512|2026-11-21T18:35:00Z": {
    "number": "IQ 512",
    "airline": "Qazaq Air",
-   "to": "NQZ",
+   "to": "Astana",
    "to_name": "Astana",
    "model": "Bombardier Dash 8 Q400 / DHC-8-400",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T18:35:00Z",
-   "actual": "2026-11-21T18:35:00Z"
+   "actual": "2026-11-21T18:39:00Z"
+  },
+  "S7 5225|2026-11-21T19:15:00Z": {
+   "number": "S7 5225",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-21T19:15:00Z",
+   "actual": "2026-11-21T19:22:00Z"
+  },
+  "S7 5213|2026-11-21T19:25:00Z": {
+   "number": "S7 5213",
+   "airline": "S7",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-21T19:25:00Z",
+   "actual": "2026-11-21T19:32:00Z"
+  },
+  "S7 5309|2026-11-21T19:20:00Z": {
+   "number": "S7 5309",
+   "airline": "S7",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-21T19:20:00Z",
+   "actual": "2026-11-21T19:37:00Z"
+  },
+  "S7 5223|2026-11-21T19:15:00Z": {
+   "number": "S7 5223",
+   "airline": "S7",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-21T19:15:00Z",
+   "actual": "2026-11-21T19:42:00Z"
+  },
+  "S7 5357|2026-11-21T20:45:00Z": {
+   "number": "S7 5357",
+   "airline": "S7",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T20:45:00Z",
+   "actual": "2026-11-21T20:45:00Z"
+  },
+  "S7 5327|2026-11-21T20:55:00Z": {
+   "number": "S7 5327",
+   "airline": "S7",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T20:55:00Z",
+   "actual": "2026-11-21T20:55:00Z"
   }
  },
  "fetched": [
-  "2026-11-21T18:07:23Z"
+  "2026-11-21T18:07:23Z",
+  "2026-11-21T20:07:26Z"
  ]
 }
