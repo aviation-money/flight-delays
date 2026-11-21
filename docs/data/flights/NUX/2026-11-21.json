@@ -1,10 +1,32 @@
 {
  "airport": "NUX",
  "date": "2026-11-21",
- "flights": {},
+ "flights": {
+  "RT 556|2026-11-21T02:50:00Z": {
+   "number": "RT 556",
+   "airline": "UVT Aero",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T02:50:00Z",
+   "actual": "2026-11-21T02:50:00Z"
+  },
+  "YC 189|2026-11-21T03:05:00Z": {
+   "number": "YC 189",
+   "airline": "Yamal",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T03:05:00Z",
+   "actual": "2026-11-21T03:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-20T20:07:34Z",
   "2026-11-20T22:07:26Z",
-  "2026-11-21T00:07:26Z"
+  "2026-11-21T00:07:26Z",
+  "2026-11-21T02:07:23Z"
  ]
 }

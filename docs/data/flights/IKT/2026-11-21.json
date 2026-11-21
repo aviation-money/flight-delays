@@ -168,7 +168,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T22:15:00Z",
    "actual": null
   },
@@ -188,7 +188,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Bombardier CRJ",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T23:15:00Z",
    "actual": null
   },
@@ -241,6 +241,66 @@
    "status": "Unknown",
    "scheduled": "2026-11-21T01:00:00Z",
    "actual": null
+  },
+  "S7 3018|2026-11-21T01:25:00Z": {
+   "number": "S7 3018",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T01:25:00Z",
+   "actual": null
+  },
+  "S7 6409|2026-11-21T01:50:00Z": {
+   "number": "S7 6409",
+   "airline": "S7",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T01:50:00Z",
+   "actual": null
+  },
+  "SU 1443|2026-11-21T01:50:00Z": {
+   "number": "SU 1443",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T01:50:00Z",
+   "actual": null
+  },
+  "UT 284|2026-11-21T02:00:00Z": {
+   "number": "UT 284",
+   "airline": "UTAir",
+   "to": "UKX",
+   "to_name": "Ust-Kut",
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T02:00:00Z",
+   "actual": null
+  },
+  "S7 6309|2026-11-21T02:05:00Z": {
+   "number": "S7 6309",
+   "airline": "S7",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T02:05:00Z",
+   "actual": null
+  },
+  "FV 6732|2026-11-21T03:05:00Z": {
+   "number": "FV 6732",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T03:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -248,6 +308,7 @@
   "2026-11-20T18:07:30Z",
   "2026-11-20T20:07:34Z",
   "2026-11-20T22:07:26Z",
-  "2026-11-21T00:07:26Z"
+  "2026-11-21T00:07:26Z",
+  "2026-11-21T02:07:23Z"
  ]
 }

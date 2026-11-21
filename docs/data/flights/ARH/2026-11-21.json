@@ -1,9 +1,21 @@
 {
  "airport": "ARH",
  "date": "2026-11-21",
- "flights": {},
+ "flights": {
+  "SU 1335|2026-11-21T02:55:00Z": {
+   "number": "SU 1335",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "A320A",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T02:55:00Z",
+   "actual": "2026-11-21T02:55:00Z"
+  }
+ },
  "fetched": [
   "2026-11-20T22:07:26Z",
-  "2026-11-21T00:07:26Z"
+  "2026-11-21T00:07:26Z",
+  "2026-11-21T02:07:23Z"
  ]
 }

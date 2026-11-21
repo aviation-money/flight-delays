@@ -11,10 +11,21 @@
    "status": "Expected",
    "scheduled": "2026-11-21T00:20:00Z",
    "actual": null
+  },
+  "DP 596|2026-11-21T01:20:00Z": {
+   "number": "DP 596",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T01:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-20T22:07:26Z",
-  "2026-11-21T00:07:26Z"
+  "2026-11-21T00:07:26Z",
+  "2026-11-21T02:07:23Z"
  ]
 }

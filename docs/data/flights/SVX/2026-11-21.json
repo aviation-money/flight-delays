@@ -68,9 +68,9 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T23:50:00Z",
-   "actual": "2026-11-20T23:50:00Z"
+   "actual": "2026-11-21T00:10:00Z"
   },
   "FV 6122|2026-11-21T00:05:00Z": {
    "number": "FV 6122",
@@ -78,9 +78,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:05:00Z",
-   "actual": "2026-11-21T00:05:00Z"
+   "actual": "2026-11-21T00:17:00Z"
   },
   "DP 783|2026-11-21T00:40:00Z": {
    "number": "DP 783",
@@ -88,9 +88,9 @@
    "to": "DWC",
    "to_name": "Jebel Ali",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:40:00Z",
-   "actual": "2026-11-21T00:40:00Z"
+   "actual": "2026-11-21T00:44:00Z"
   },
   "DP 516|2026-11-21T00:30:00Z": {
    "number": "DP 516",
@@ -98,19 +98,19 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:30:00Z",
-   "actual": "2026-11-21T00:40:00Z"
+   "actual": "2026-11-21T01:06:00Z"
   },
   "SU 674|2026-11-21T00:45:00Z": {
    "number": "SU 674",
    "airline": "Aeroflot",
    "to": "GOI",
    "to_name": "Vasco da Gama",
-   "model": null,
-   "status": "CheckIn",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:45:00Z",
-   "actual": "2026-11-21T00:45:00Z"
+   "actual": "2026-11-21T00:57:00Z"
   },
   "DP 406|2026-11-21T00:50:00Z": {
    "number": "DP 406",
@@ -118,9 +118,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:50:00Z",
-   "actual": "2026-11-21T00:50:00Z"
+   "actual": "2026-11-21T01:04:00Z"
   },
   "DP 563|2026-11-21T00:50:00Z": {
    "number": "DP 563",
@@ -128,14 +128,85 @@
    "to": "KRR",
    "to_name": "Krasnodar",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:50:00Z",
-   "actual": "2026-11-21T01:05:00Z"
+   "actual": "2026-11-21T01:17:00Z"
+  },
+  "FV 6402|2026-11-21T01:10:00Z": {
+   "number": "FV 6402",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-21T01:10:00Z",
+   "actual": "2026-11-21T01:37:00Z"
+  },
+  "U6 737|2026-11-21T01:35:00Z": {
+   "number": "U6 737",
+   "airline": "Ural",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-21T01:35:00Z",
+   "actual": "2026-11-21T01:39:00Z"
+  },
+  "U6 264|2026-11-21T01:50:00Z": {
+   "number": "U6 264",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T01:50:00Z",
+   "actual": "2026-11-21T01:50:00Z"
+  },
+  "S7 5018|2026-11-21T01:50:00Z": {
+   "number": "S7 5018",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Delayed",
+   "scheduled": "2026-11-21T01:50:00Z",
+   "actual": "2026-11-21T02:00:00Z"
+  },
+  "SU 2817|2026-11-21T02:00:00Z": {
+   "number": "SU 2817",
+   "airline": "Aeroflot",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T02:00:00Z",
+   "actual": "2026-11-21T02:00:00Z"
+  },
+  "5N 502|2026-11-21T02:10:00Z": {
+   "number": "5N 502",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T02:10:00Z",
+   "actual": "2026-11-21T02:10:00Z"
+  },
+  "U6 2949|2026-11-21T03:00:00Z": {
+   "number": "U6 2949",
+   "airline": "Ural",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T03:00:00Z",
+   "actual": "2026-11-21T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-20T20:07:34Z",
   "2026-11-20T22:07:26Z",
-  "2026-11-21T00:07:26Z"
+  "2026-11-21T00:07:26Z",
+  "2026-11-21T02:07:23Z"
  ]
 }

@@ -38,9 +38,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T23:10:00Z",
-   "actual": "2026-11-20T23:10:00Z"
+   "actual": "2026-11-21T01:12:00Z"
   },
   "FV 6872|2026-11-20T23:50:00Z": {
    "number": "FV 6872",
@@ -48,9 +48,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T23:50:00Z",
-   "actual": "2026-11-20T23:50:00Z"
+   "actual": "2026-11-21T01:30:00Z"
   },
   "S7 2566|2026-11-21T00:25:00Z": {
    "number": "S7 2566",
@@ -58,9 +58,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:25:00Z",
-   "actual": "2026-11-21T00:25:00Z"
+   "actual": "2026-11-21T00:27:00Z"
   },
   "U6 388|2026-11-21T00:35:00Z": {
    "number": "U6 388",
@@ -68,9 +68,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:35:00Z",
-   "actual": "2026-11-21T00:35:00Z"
+   "actual": "2026-11-21T00:39:00Z"
   },
   "DP 6522|2026-11-21T01:05:00Z": {
    "number": "DP 6522",
@@ -78,15 +78,36 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T01:05:00Z",
-   "actual": "2026-11-21T01:05:00Z"
+   "actual": "2026-11-21T01:51:00Z"
+  },
+  "N4 308|2026-11-21T02:00:00Z": {
+   "number": "N4 308",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T02:00:00Z",
+   "actual": "2026-11-21T02:00:00Z"
+  },
+  "SU 1639|2026-11-21T02:05:00Z": {
+   "number": "SU 1639",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T02:05:00Z",
+   "actual": "2026-11-21T02:05:00Z"
   }
  },
  "fetched": [
   "2026-11-20T18:07:30Z",
   "2026-11-20T20:07:34Z",
   "2026-11-20T22:07:26Z",
-  "2026-11-21T00:07:26Z"
+  "2026-11-21T00:07:26Z",
+  "2026-11-21T02:07:23Z"
  ]
 }

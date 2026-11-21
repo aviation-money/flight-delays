@@ -51,10 +51,21 @@
    "status": "Expected",
    "scheduled": "2026-11-20T23:35:00Z",
    "actual": "2026-11-20T23:35:00Z"
+  },
+  "SU 1129|2026-11-21T03:05:00Z": {
+   "number": "SU 1129",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-21T03:05:00Z",
+   "actual": "2026-11-21T03:05:00Z"
   }
  },
  "fetched": [
   "2026-11-20T22:07:26Z",
-  "2026-11-21T00:07:26Z"
+  "2026-11-21T00:07:26Z",
+  "2026-11-21T02:07:23Z"
  ]
 }

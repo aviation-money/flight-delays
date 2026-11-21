@@ -21,11 +21,22 @@
    "status": "Unknown",
    "scheduled": "2026-11-20T21:40:00Z",
    "actual": null
+  },
+  "A4 6236|2026-11-21T02:00:00Z": {
+   "number": "A4 6236",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T02:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-20T20:07:34Z",
   "2026-11-20T22:07:26Z",
-  "2026-11-21T00:07:26Z"
+  "2026-11-21T00:07:26Z",
+  "2026-11-21T02:07:23Z"
  ]
 }
