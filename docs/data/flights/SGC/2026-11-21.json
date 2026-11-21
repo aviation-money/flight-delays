@@ -228,9 +228,9 @@
    "to": "CSY",
    "to_name": "Cheboksary",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T13:40:00Z",
-   "actual": "2026-11-21T13:40:00Z"
+   "actual": "2026-11-21T14:09:00Z"
   },
   "UT 119|2026-11-21T13:45:00Z": {
    "number": "UT 119",
@@ -251,6 +251,36 @@
    "status": "Expected",
    "scheduled": "2026-11-21T11:15:00Z",
    "actual": "2026-11-21T13:45:00Z"
+  },
+  "UT 6128|2026-11-21T15:35:00Z": {
+   "number": "UT 6128",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T15:35:00Z",
+   "actual": "2026-11-21T15:35:00Z"
+  },
+  "UT 6132|2026-11-21T16:00:00Z": {
+   "number": "UT 6132",
+   "airline": "UTAir",
+   "to": "Moskva Vnk",
+   "to_name": "Moskva Vnk",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T16:00:00Z",
+   "actual": "2026-11-21T16:00:00Z"
+  },
+  "UT 405|2026-11-21T14:20:00Z": {
+   "number": "UT 405",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-500",
+   "status": "Expected",
+   "scheduled": "2026-11-21T14:20:00Z",
+   "actual": "2026-11-21T16:30:00Z"
   }
  },
  "fetched": [
@@ -263,6 +293,7 @@
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }

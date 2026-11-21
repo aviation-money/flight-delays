@@ -28,9 +28,9 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-21T04:40:00Z",
-   "actual": "2026-11-21T14:55:00Z"
+   "actual": "2026-11-21T14:56:00Z"
   },
   "FV 6226|2026-11-21T06:00:00Z": {
    "number": "FV 6226",
@@ -81,6 +81,16 @@
    "status": "Departed",
    "scheduled": "2026-11-21T12:50:00Z",
    "actual": "2026-11-21T12:57:00Z"
+  },
+  "SU 1225|2026-11-21T16:25:00Z": {
+   "number": "SU 1225",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T16:25:00Z",
+   "actual": "2026-11-21T16:25:00Z"
   }
  },
  "fetched": [
@@ -92,6 +102,7 @@
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }

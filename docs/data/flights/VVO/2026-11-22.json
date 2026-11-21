@@ -10,7 +10,7 @@
    "model": "Boeing 777-300ER",
    "status": "Expected",
    "scheduled": "2026-11-21T14:05:00Z",
-   "actual": "2026-11-21T14:05:00Z"
+   "actual": "2026-11-21T14:20:00Z"
   },
   "HZ 5468|2026-11-21T14:30:00Z": {
    "number": "HZ 5468",
@@ -20,10 +20,21 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-21T14:30:00Z",
-   "actual": "2026-11-21T14:30:00Z"
+   "actual": "2026-11-21T14:44:00Z"
+  },
+  "HZ 5472|2026-11-21T15:50:00Z": {
+   "number": "HZ 5472",
+   "airline": "Aurora",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-21T15:50:00Z",
+   "actual": "2026-11-21T15:50:00Z"
   }
  },
  "fetched": [
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }

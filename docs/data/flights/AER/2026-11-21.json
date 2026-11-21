@@ -411,6 +411,76 @@
    "status": "GateClosed",
    "scheduled": "2026-11-21T14:20:00Z",
    "actual": "2026-11-21T14:20:00Z"
+  },
+  "YC 886|2026-11-21T14:03:00Z": {
+   "number": "YC 886",
+   "airline": "Yamal",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-21T14:03:00Z",
+   "actual": "2026-11-21T14:03:00Z"
+  },
+  "SU 1125|2026-11-21T14:14:00Z": {
+   "number": "SU 1125",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-21T14:14:00Z",
+   "actual": "2026-11-21T14:14:00Z"
+  },
+  "FV 6121|2026-11-21T15:09:00Z": {
+   "number": "FV 6121",
+   "airline": "Rossiya",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-21T15:09:00Z",
+   "actual": "2026-11-21T15:09:00Z"
+  },
+  "FV 6562|2026-11-21T15:30:00Z": {
+   "number": "FV 6562",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-21T15:30:00Z",
+   "actual": "2026-11-21T15:30:00Z"
+  },
+  "3F 3350|2026-11-21T15:30:00Z": {
+   "number": "3F 3350",
+   "airline": "FlyOne Armenia",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-21T15:30:00Z",
+   "actual": "2026-11-21T15:50:00Z"
+  },
+  "SU 1127|2026-11-21T16:30:00Z": {
+   "number": "SU 1127",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T16:30:00Z",
+   "actual": "2026-11-21T16:30:00Z"
+  },
+  "A4 6120|2026-11-21T16:30:00Z": {
+   "number": "A4 6120",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-21T16:30:00Z",
+   "actual": "2026-11-21T17:00:00Z"
   }
  },
  "fetched": [
@@ -422,6 +492,7 @@
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }

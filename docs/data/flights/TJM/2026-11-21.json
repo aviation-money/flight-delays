@@ -217,7 +217,7 @@
    "airline": "UTAir",
    "to": "AER",
    "to_name": "Sochi",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-800 (winglets)",
    "status": "Departed",
    "scheduled": "2026-11-21T12:55:00Z",
    "actual": "2026-11-21T13:10:00Z"
@@ -238,9 +238,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T14:15:00Z",
-   "actual": "2026-11-21T14:15:00Z"
+   "actual": "2026-11-21T14:30:00Z"
   },
   "4G 482|2026-11-21T09:50:00Z": {
    "number": "4G 482",
@@ -251,6 +251,26 @@
    "status": "Canceled",
    "scheduled": "2026-11-21T09:50:00Z",
    "actual": "2026-11-21T14:48:00Z"
+  },
+  "UT 719|2026-11-21T16:15:00Z": {
+   "number": "UT 719",
+   "airline": "UTAir",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T16:15:00Z",
+   "actual": "2026-11-21T16:15:00Z"
+  },
+  "UT 102|2026-11-21T16:30:00Z": {
+   "number": "UT 102",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-21T16:30:00Z",
+   "actual": "2026-11-21T16:30:00Z"
   }
  },
  "fetched": [
@@ -263,6 +283,7 @@
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }

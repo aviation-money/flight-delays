@@ -91,6 +91,26 @@
    "status": "Departed",
    "scheduled": "2026-11-21T11:30:00Z",
    "actual": "2026-11-21T11:46:00Z"
+  },
+  "A4 4063|2026-11-21T15:20:00Z": {
+   "number": "A4 4063",
+   "airline": "Azimuth",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T15:20:00Z",
+   "actual": "2026-11-21T15:20:00Z"
+  },
+  "SU 1175|2026-11-21T16:20:00Z": {
+   "number": "SU 1175",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T16:20:00Z",
+   "actual": "2026-11-21T16:20:00Z"
   }
  },
  "fetched": [
@@ -103,6 +123,7 @@
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }

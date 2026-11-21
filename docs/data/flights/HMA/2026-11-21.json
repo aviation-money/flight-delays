@@ -91,6 +91,36 @@
    "status": "Departed",
    "scheduled": "2026-11-21T09:50:00Z",
    "actual": "2026-11-21T09:50:00Z"
+  },
+  "UT 315|2026-11-21T15:45:00Z": {
+   "number": "UT 315",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-21T15:45:00Z",
+   "actual": "2026-11-21T15:50:00Z"
+  },
+  "UT 116|2026-11-21T16:00:00Z": {
+   "number": "UT 116",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T16:00:00Z",
+   "actual": "2026-11-21T16:00:00Z"
+  },
+  "UT 320|2026-11-21T15:15:00Z": {
+   "number": "UT 320",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T15:15:00Z",
+   "actual": "2026-11-21T16:40:00Z"
   }
  },
  "fetched": [
@@ -103,6 +133,7 @@
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }

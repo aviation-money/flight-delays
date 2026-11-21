@@ -201,6 +201,46 @@
    "status": "Departed",
    "scheduled": "2026-11-21T13:00:00Z",
    "actual": "2026-11-21T13:24:00Z"
+  },
+  "DP 5582|2026-11-21T13:50:00Z": {
+   "number": "DP 5582",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T13:50:00Z",
+   "actual": "2026-11-21T16:15:00Z"
+  },
+  "RT 9447|2026-11-21T16:15:00Z": {
+   "number": "RT 9447",
+   "airline": "UVT Aero",
+   "to": "TBW",
+   "to_name": "Tambov",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T16:15:00Z",
+   "actual": "2026-11-21T16:15:00Z"
+  },
+  "S7 1074|2026-11-21T16:50:00Z": {
+   "number": "S7 1074",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T16:50:00Z",
+   "actual": "2026-11-21T16:50:00Z"
+  },
+  "SU 1215|2026-11-21T16:55:00Z": {
+   "number": "SU 1215",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T16:55:00Z",
+   "actual": "2026-11-21T16:55:00Z"
   }
  },
  "fetched": [
@@ -213,6 +253,7 @@
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }

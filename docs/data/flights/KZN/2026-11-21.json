@@ -225,7 +225,7 @@
   "N4 731|2026-11-21T08:45:00Z": {
    "number": "N4 731",
    "airline": "Nordwind",
-   "to": "Kaliningrad",
+   "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Boeing 737",
    "status": "Departed",
@@ -278,9 +278,49 @@
    "to": "Ashgabat",
    "to_name": "Ashgabat",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T15:00:00Z",
-   "actual": "2026-11-21T15:00:00Z"
+   "actual": "2026-11-21T14:45:00Z"
+  },
+  "SU 1193|2026-11-21T15:20:00Z": {
+   "number": "SU 1193",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-21T15:20:00Z",
+   "actual": "2026-11-21T15:16:00Z"
+  },
+  "UT 134|2026-11-21T11:20:00Z": {
+   "number": "UT 134",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72-500",
+   "status": "Departed",
+   "scheduled": "2026-11-21T11:20:00Z",
+   "actual": "2026-11-21T15:26:00Z"
+  },
+  "EO 725|2026-11-21T15:45:00Z": {
+   "number": "EO 725",
+   "airline": "Pegas Fly",
+   "to": "ASF",
+   "to_name": "Astrakhan",
+   "model": "Embraer 190",
+   "status": "Departed",
+   "scheduled": "2026-11-21T15:45:00Z",
+   "actual": "2026-11-21T15:36:00Z"
+  },
+  "5N 598|2026-11-21T16:10:00Z": {
+   "number": "5N 598",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T16:10:00Z",
+   "actual": "2026-11-21T16:10:00Z"
   }
  },
  "fetched": [
@@ -292,6 +332,7 @@
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
   "2026-11-21T12:07:25Z",
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }

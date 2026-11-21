@@ -1,8 +1,30 @@
 {
  "airport": "KHV",
  "date": "2026-11-22",
- "flights": {},
+ "flights": {
+  "S7 6501|2026-11-21T15:20:00Z": {
+   "number": "S7 6501",
+   "airline": "S7",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-21T15:20:00Z",
+   "actual": "2026-11-21T15:30:00Z"
+  },
+  "HY 706|2026-11-21T16:00:00Z": {
+   "number": "HY 706",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Boeing 767-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-21T16:00:00Z",
+   "actual": "2026-11-21T16:00:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-21T14:07:26Z"
+  "2026-11-21T14:07:26Z",
+  "2026-11-21T16:07:27Z"
  ]
 }
