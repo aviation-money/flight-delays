@@ -218,9 +218,39 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T13:00:00Z",
-   "actual": "2026-11-21T13:00:00Z"
+   "actual": "2026-11-21T13:30:00Z"
+  },
+  "A4 6202|2026-11-21T13:40:00Z": {
+   "number": "A4 6202",
+   "airline": "Azimuth",
+   "to": "CSY",
+   "to_name": "Cheboksary",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T13:40:00Z",
+   "actual": "2026-11-21T13:40:00Z"
+  },
+  "UT 119|2026-11-21T13:45:00Z": {
+   "number": "UT 119",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-21T13:45:00Z",
+   "actual": "2026-11-21T13:45:00Z"
+  },
+  "UT 6493|2026-11-21T11:15:00Z": {
+   "number": "UT 6493",
+   "airline": "UTAir",
+   "to": "Tyumen Roshchino",
+   "to_name": "Tyumen Roshchino",
+   "model": "Boeing 737-500",
+   "status": "Expected",
+   "scheduled": "2026-11-21T11:15:00Z",
+   "actual": "2026-11-21T13:45:00Z"
   }
  },
  "fetched": [
@@ -232,6 +262,7 @@
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
-  "2026-11-21T12:07:25Z"
+  "2026-11-21T12:07:25Z",
+  "2026-11-21T14:07:26Z"
  ]
 }

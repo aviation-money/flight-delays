@@ -608,9 +608,9 @@
    "to": "Ganja",
    "to_name": "Ganja",
    "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T03:45:00Z",
-   "actual": "2026-11-21T11:40:00Z"
+   "actual": "2026-11-21T12:07:00Z"
   },
   "IA 242|2026-11-21T10:10:00Z": {
    "number": "IA 242",
@@ -668,9 +668,9 @@
    "to": "DAR",
    "to_name": "Dar es Salaam",
    "model": "Boeing 787-8",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T07:40:00Z",
-   "actual": "2026-11-21T11:30:00Z"
+   "actual": "2026-11-21T11:44:00Z"
   },
   "FV 6026|2026-11-21T11:30:00Z": {
    "number": "FV 6026",
@@ -688,9 +688,9 @@
    "to": "TBS",
    "to_name": "Tbilisi",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T11:30:00Z",
-   "actual": "2026-11-21T11:45:00Z"
+   "actual": "2026-11-21T11:55:00Z"
   },
   "FZ 990|2026-11-21T12:00:00Z": {
    "number": "FZ 990",
@@ -698,9 +698,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737 MAX 8",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T12:00:00Z",
-   "actual": "2026-11-21T12:00:00Z"
+   "actual": "2026-11-21T12:08:00Z"
   },
   "NE 641|2026-11-21T11:25:00Z": {
    "number": "NE 641",
@@ -708,9 +708,9 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T11:25:00Z",
-   "actual": "2026-11-21T12:00:00Z"
+   "actual": "2026-11-21T12:33:00Z"
   },
   "FV 6028|2026-11-21T12:30:00Z": {
    "number": "FV 6028",
@@ -718,9 +718,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T12:30:00Z",
-   "actual": "2026-11-21T12:30:00Z"
+   "actual": "2026-11-21T12:43:00Z"
   },
   "NE 619|2026-11-21T13:05:00Z": {
    "number": "NE 619",
@@ -728,9 +728,69 @@
    "to": "HRG",
    "to_name": "Hurghada",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T13:05:00Z",
-   "actual": "2026-11-21T13:05:00Z"
+   "actual": "2026-11-21T13:03:00Z"
+  },
+  "DP 263|2026-11-21T13:55:00Z": {
+   "number": "DP 263",
+   "airline": "Pobeda",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T13:55:00Z",
+   "actual": "2026-11-21T13:55:00Z"
+  },
+  "FV 6032|2026-11-21T14:00:00Z": {
+   "number": "FV 6032",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T14:00:00Z",
+   "actual": "2026-11-21T14:00:00Z"
+  },
+  "DP 159|2026-11-21T14:05:00Z": {
+   "number": "DP 159",
+   "airline": "Pobeda",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T14:05:00Z",
+   "actual": "2026-11-21T14:05:00Z"
+  },
+  "B2 980|2026-11-21T14:15:00Z": {
+   "number": "B2 980",
+   "airline": "Belavia",
+   "to": "MSQ",
+   "to_name": "Minsk",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T14:15:00Z",
+   "actual": "2026-11-21T14:15:00Z"
+  },
+  "PC 389|2026-11-21T14:25:00Z": {
+   "number": "PC 389",
+   "airline": "Pegasus",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Airbus A321 NEO",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T14:25:00Z",
+   "actual": "2026-11-21T14:25:00Z"
+  },
+  "R3 476|2026-11-21T13:20:00Z": {
+   "number": "R3 476",
+   "airline": "Yakutia",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T13:20:00Z",
+   "actual": "2026-11-21T15:00:00Z"
   }
  },
  "fetched": [
@@ -741,6 +801,7 @@
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
-  "2026-11-21T12:07:25Z"
+  "2026-11-21T12:07:25Z",
+  "2026-11-21T14:07:26Z"
  ]
 }

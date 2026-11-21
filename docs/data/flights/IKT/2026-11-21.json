@@ -438,7 +438,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T10:00:00Z",
    "actual": null
   },
@@ -481,6 +481,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-21T12:20:00Z",
    "actual": null
+  },
+  "S7 6325|2026-11-21T13:55:00Z": {
+   "number": "S7 6325",
+   "airline": "S7",
+   "to": "PVG",
+   "to_name": "Shanghai",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T13:55:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -494,6 +504,7 @@
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
-  "2026-11-21T12:07:25Z"
+  "2026-11-21T12:07:25Z",
+  "2026-11-21T14:07:26Z"
  ]
 }

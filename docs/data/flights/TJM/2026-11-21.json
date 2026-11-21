@@ -208,7 +208,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T12:35:00Z",
    "actual": "2026-11-21T12:35:00Z"
   },
@@ -218,9 +218,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T12:55:00Z",
-   "actual": "2026-11-21T12:55:00Z"
+   "actual": "2026-11-21T13:10:00Z"
   },
   "UT 464|2026-11-21T13:00:00Z": {
    "number": "UT 464",
@@ -228,9 +228,29 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T13:00:00Z",
-   "actual": "2026-11-21T13:00:00Z"
+   "actual": "2026-11-21T13:08:00Z"
+  },
+  "UT 125|2026-11-21T14:15:00Z": {
+   "number": "UT 125",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T14:15:00Z",
+   "actual": "2026-11-21T14:15:00Z"
+  },
+  "4G 482|2026-11-21T09:50:00Z": {
+   "number": "4G 482",
+   "airline": "Gazpromavia",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-700",
+   "status": "Canceled",
+   "scheduled": "2026-11-21T09:50:00Z",
+   "actual": "2026-11-21T14:48:00Z"
   }
  },
  "fetched": [
@@ -242,6 +262,7 @@
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
-  "2026-11-21T12:07:25Z"
+  "2026-11-21T12:07:25Z",
+  "2026-11-21T14:07:26Z"
  ]
 }

@@ -158,9 +158,9 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T12:50:00Z",
-   "actual": "2026-11-21T12:50:00Z"
+   "actual": "2026-11-21T12:56:00Z"
   },
   "RT 652|2026-11-21T13:00:00Z": {
    "number": "RT 652",
@@ -168,7 +168,7 @@
    "to": "RMZ",
    "to_name": "Tobolsk",
    "model": "TsR200",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T13:00:00Z",
    "actual": "2026-11-21T13:00:00Z"
   },
@@ -178,9 +178,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "EMB170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T13:05:00Z",
-   "actual": "2026-11-21T13:05:00Z"
+   "actual": "2026-11-21T13:11:00Z"
   }
  },
  "fetched": [
@@ -193,6 +193,7 @@
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
-  "2026-11-21T12:07:25Z"
+  "2026-11-21T12:07:25Z",
+  "2026-11-21T14:07:26Z"
  ]
 }

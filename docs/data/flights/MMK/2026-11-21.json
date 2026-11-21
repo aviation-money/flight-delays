@@ -90,7 +90,17 @@
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-21T12:10:00Z",
-   "actual": "2026-11-21T12:10:00Z"
+   "actual": "2026-11-21T12:27:00Z"
+  },
+  "5N 518|2026-11-21T13:35:00Z": {
+   "number": "5N 518",
+   "airline": "Smartavia",
+   "to": "Saint-Petersburg",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T13:35:00Z",
+   "actual": "2026-11-21T14:15:00Z"
   }
  },
  "fetched": [
@@ -101,6 +111,7 @@
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
-  "2026-11-21T12:07:25Z"
+  "2026-11-21T12:07:25Z",
+  "2026-11-21T14:07:26Z"
  ]
 }

@@ -30,7 +30,7 @@
    "model": "Boeing 737-800",
    "status": "Delayed",
    "scheduled": "2026-11-21T04:40:00Z",
-   "actual": "2026-11-21T12:20:00Z"
+   "actual": "2026-11-21T14:55:00Z"
   },
   "FV 6226|2026-11-21T06:00:00Z": {
    "number": "FV 6226",
@@ -78,9 +78,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T12:50:00Z",
-   "actual": "2026-11-21T12:50:00Z"
+   "actual": "2026-11-21T12:57:00Z"
   }
  },
  "fetched": [
@@ -91,6 +91,7 @@
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
-  "2026-11-21T12:07:25Z"
+  "2026-11-21T12:07:25Z",
+  "2026-11-21T14:07:26Z"
  ]
 }

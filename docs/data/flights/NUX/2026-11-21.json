@@ -207,10 +207,10 @@
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-21T11:30:00Z",
-   "actual": "2026-11-21T11:30:00Z"
+   "actual": "2026-11-21T12:03:00Z"
   },
   "YC 146|2026-11-21T11:45:00Z": {
    "number": "YC 146",
@@ -228,9 +228,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-21T11:55:00Z",
-   "actual": "2026-11-21T12:10:00Z"
+   "actual": "2026-11-21T12:40:00Z"
   }
  },
  "fetched": [
@@ -242,6 +242,7 @@
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
-  "2026-11-21T12:07:25Z"
+  "2026-11-21T12:07:25Z",
+  "2026-11-21T14:07:26Z"
  ]
 }

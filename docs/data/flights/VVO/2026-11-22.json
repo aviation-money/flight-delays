@@ -1,0 +1,29 @@
+{
+ "airport": "VVO",
+ "date": "2026-11-22",
+ "flights": {
+  "SU 1721|2026-11-21T14:05:00Z": {
+   "number": "SU 1721",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-21T14:05:00Z",
+   "actual": "2026-11-21T14:05:00Z"
+  },
+  "HZ 5468|2026-11-21T14:30:00Z": {
+   "number": "HZ 5468",
+   "airline": "Aurora",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-21T14:30:00Z",
+   "actual": "2026-11-21T14:30:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-21T14:07:26Z"
+ ]
+}

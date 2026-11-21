@@ -1,0 +1,19 @@
+{
+ "airport": "UUS",
+ "date": "2026-11-22",
+ "flights": {
+  "HZ 4694|2026-11-21T13:30:00Z": {
+   "number": "HZ 4694",
+   "airline": "Aurora",
+   "to": "PVG",
+   "to_name": "Shanghai",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-21T13:30:00Z",
+   "actual": "2026-11-21T13:24:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-21T14:07:26Z"
+ ]
+}

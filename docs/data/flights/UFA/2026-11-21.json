@@ -298,9 +298,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T08:55:00Z",
-   "actual": "2026-11-21T12:30:00Z"
+   "actual": "2026-11-21T13:29:00Z"
   },
   "A4 6122|2026-11-21T10:50:00Z": {
    "number": "A4 6122",
@@ -378,9 +378,9 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T12:10:00Z",
-   "actual": "2026-11-21T12:10:00Z"
+   "actual": "2026-11-21T12:17:00Z"
   },
   "SZ 290|2026-11-21T12:15:00Z": {
    "number": "SZ 290",
@@ -388,9 +388,49 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T12:15:00Z",
    "actual": "2026-11-21T12:15:00Z"
+  },
+  "DP 6502|2026-11-21T12:50:00Z": {
+   "number": "DP 6502",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T12:50:00Z",
+   "actual": "2026-11-21T14:00:00Z"
+  },
+  "FV 5975|2026-11-21T13:20:00Z": {
+   "number": "FV 5975",
+   "airline": "Rossiya",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T13:20:00Z",
+   "actual": "2026-11-21T14:15:00Z"
+  },
+  "4G 482|2026-11-21T12:25:00Z": {
+   "number": "4G 482",
+   "airline": "Gazpromavia",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-700",
+   "status": "Canceled",
+   "scheduled": "2026-11-21T12:25:00Z",
+   "actual": "2026-11-21T14:30:00Z"
+  },
+  "S7 5048|2026-11-21T14:55:00Z": {
+   "number": "S7 5048",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T14:55:00Z",
+   "actual": "2026-11-21T14:55:00Z"
   }
  },
  "fetched": [
@@ -402,6 +442,7 @@
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
   "2026-11-21T10:07:25Z",
-  "2026-11-21T12:07:25Z"
+  "2026-11-21T12:07:25Z",
+  "2026-11-21T14:07:26Z"
  ]
 }
