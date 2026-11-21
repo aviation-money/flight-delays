@@ -8,12 +8,13 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T21:45:00Z",
-   "actual": "2026-11-20T22:25:00Z"
+   "actual": "2026-11-20T22:51:00Z"
   }
  },
  "fetched": [
-  "2026-11-20T22:07:26Z"
+  "2026-11-20T22:07:26Z",
+  "2026-11-21T00:07:26Z"
  ]
 }

@@ -51,12 +51,63 @@
    "status": "Expected",
    "scheduled": "2026-11-20T22:40:00Z",
    "actual": null
+  },
+  "S7 3008|2026-11-20T23:15:00Z": {
+   "number": "S7 3008",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320 NEO",
+   "status": "Unknown",
+   "scheduled": "2026-11-20T23:15:00Z",
+   "actual": null
+  },
+  "SU 1751|2026-11-20T23:55:00Z": {
+   "number": "SU 1751",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-20T23:55:00Z",
+   "actual": null
+  },
+  "PI 999|2026-11-21T00:00:00Z": {
+   "number": "PI 999",
+   "airline": "Polar",
+   "to": "BQJ",
+   "to_name": "Batagay",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T00:00:00Z",
+   "actual": null
+  },
+  "R3 491|2026-11-21T00:30:00Z": {
+   "number": "R3 491",
+   "airline": "Yakutia",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-21T00:30:00Z",
+   "actual": null
+  },
+  "S7 5264|2026-11-21T00:35:00Z": {
+   "number": "S7 5264",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-21T00:35:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-20T16:07:27Z",
   "2026-11-20T18:07:30Z",
   "2026-11-20T20:07:34Z",
-  "2026-11-20T22:07:26Z"
+  "2026-11-20T22:07:26Z",
+  "2026-11-21T00:07:26Z"
  ]
 }

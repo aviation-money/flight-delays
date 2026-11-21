@@ -18,9 +18,9 @@
    "to": "DWC",
    "to_name": "Jebel Ali",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T21:45:00Z",
-   "actual": "2026-11-20T21:45:00Z"
+   "actual": "2026-11-20T22:24:00Z"
   },
   "ZF 4355|2026-11-20T22:10:00Z": {
    "number": "ZF 4355",
@@ -28,9 +28,9 @@
    "to": "Mattala",
    "to_name": "Mattala",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-20T22:10:00Z",
-   "actual": "2026-11-20T22:10:00Z"
+   "actual": "2026-11-20T22:43:00Z"
   },
   "N4 806|2026-11-20T22:45:00Z": {
    "number": "N4 806",
@@ -38,9 +38,9 @@
    "to": "GOJ",
    "to_name": "Nizhniy Novgorod",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T22:45:00Z",
-   "actual": "2026-11-20T22:45:00Z"
+   "actual": "2026-11-20T22:46:00Z"
   },
   "A4 6307|2026-11-20T22:55:00Z": {
    "number": "A4 6307",
@@ -48,12 +48,33 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T22:55:00Z",
-   "actual": "2026-11-20T22:55:00Z"
+   "actual": "2026-11-20T23:08:00Z"
+  },
+  "A4 6203|2026-11-20T23:55:00Z": {
+   "number": "A4 6203",
+   "airline": "Azimuth",
+   "to": "MQF",
+   "to_name": "Magnitogorsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T23:55:00Z",
+   "actual": "2026-11-20T23:55:00Z"
+  },
+  "FZ 978|2026-11-21T00:30:00Z": {
+   "number": "FZ 978",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T00:30:00Z",
+   "actual": "2026-11-21T00:30:00Z"
   }
  },
  "fetched": [
-  "2026-11-20T22:07:26Z"
+  "2026-11-20T22:07:26Z",
+  "2026-11-21T00:07:26Z"
  ]
 }

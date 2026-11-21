@@ -1,9 +1,41 @@
 {
  "airport": "REN",
  "date": "2026-11-21",
- "flights": {},
+ "flights": {
+  "SM 904|2026-11-20T23:30:00Z": {
+   "number": "SM 904",
+   "airline": "Air Cairo",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-20T23:30:00Z",
+   "actual": "2026-11-20T23:32:00Z"
+  },
+  "SU 1783|2026-11-21T01:05:00Z": {
+   "number": "SU 1783",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T01:05:00Z",
+   "actual": "2026-11-21T01:05:00Z"
+  },
+  "FV 6172|2026-11-21T01:05:00Z": {
+   "number": "FV 6172",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "Canceled",
+   "scheduled": "2026-11-21T01:05:00Z",
+   "actual": "2026-11-21T01:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-20T20:07:34Z",
-  "2026-11-20T22:07:26Z"
+  "2026-11-20T22:07:26Z",
+  "2026-11-21T00:07:26Z"
  ]
 }

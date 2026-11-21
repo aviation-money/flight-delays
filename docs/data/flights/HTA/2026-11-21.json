@@ -18,15 +18,66 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-20T23:00:00Z",
-   "actual": "2026-11-20T23:00:00Z"
+   "actual": "2026-11-20T23:10:00Z"
+  },
+  "S7 5224|2026-11-20T23:30:00Z": {
+   "number": "S7 5224",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-20T23:30:00Z",
+   "actual": "2026-11-20T23:30:00Z"
+  },
+  "U6 94|2026-11-21T00:20:00Z": {
+   "number": "U6 94",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T00:20:00Z",
+   "actual": "2026-11-21T00:20:00Z"
+  },
+  "АЯ 187|2026-11-21T01:00:00Z": {
+   "number": "АЯ 187",
+   "airline": "Aeroservis",
+   "to": "Krasnyy Chikoy",
+   "to_name": "Krasnyy Chikoy",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T01:00:00Z",
+   "actual": "2026-11-21T01:00:00Z"
+  },
+  "АЯ 181|2026-11-21T01:00:00Z": {
+   "number": "АЯ 181",
+   "airline": "Aeroservis",
+   "to": "Tungokochen",
+   "to_name": "Tungokochen",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T01:00:00Z",
+   "actual": "2026-11-21T01:00:00Z"
+  },
+  "S7 3046|2026-11-21T01:05:00Z": {
+   "number": "S7 3046",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320 NEO",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T01:05:00Z",
+   "actual": "2026-11-21T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-20T16:07:27Z",
   "2026-11-20T18:07:30Z",
   "2026-11-20T20:07:34Z",
-  "2026-11-20T22:07:26Z"
+  "2026-11-20T22:07:26Z",
+  "2026-11-21T00:07:26Z"
  ]
 }

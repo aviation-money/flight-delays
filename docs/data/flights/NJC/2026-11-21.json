@@ -8,7 +8,7 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-20T19:30:00Z",
    "actual": null
   },
@@ -31,10 +31,21 @@
    "status": "Expected",
    "scheduled": "2026-11-20T23:00:00Z",
    "actual": null
+  },
+  "SU 1647|2026-11-21T00:45:00Z": {
+   "number": "SU 1647",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-21T00:45:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-20T20:07:34Z",
-  "2026-11-20T22:07:26Z"
+  "2026-11-20T22:07:26Z",
+  "2026-11-21T00:07:26Z"
  ]
 }

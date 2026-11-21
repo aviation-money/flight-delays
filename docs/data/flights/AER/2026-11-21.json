@@ -31,9 +31,30 @@
    "status": "Boarding",
    "scheduled": "2026-11-20T22:30:00Z",
    "actual": "2026-11-20T22:30:00Z"
+  },
+  "SU 1133|2026-11-20T22:18:00Z": {
+   "number": "SU 1133",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-20T22:18:00Z",
+   "actual": "2026-11-20T22:18:00Z"
+  },
+  "FZ 972|2026-11-20T23:35:00Z": {
+   "number": "FZ 972",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-20T23:35:00Z",
+   "actual": "2026-11-20T23:35:00Z"
   }
  },
  "fetched": [
-  "2026-11-20T22:07:26Z"
+  "2026-11-20T22:07:26Z",
+  "2026-11-21T00:07:26Z"
  ]
 }
