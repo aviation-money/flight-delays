@@ -121,6 +121,36 @@
    "status": "Departed",
    "scheduled": "2026-11-21T01:10:00Z",
    "actual": "2026-11-21T01:39:00Z"
+  },
+  "FV 2477|2026-11-21T03:25:00Z": {
+   "number": "FV 2477",
+   "airline": "Rossiya",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-21T03:25:00Z",
+   "actual": "2026-11-21T03:36:00Z"
+  },
+  "HZ 5628|2026-11-21T04:00:00Z": {
+   "number": "HZ 5628",
+   "airline": "Aurora",
+   "to": "Yuzhno-Sakhalinsk",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Canceled",
+   "scheduled": "2026-11-21T04:00:00Z",
+   "actual": "2026-11-21T04:00:00Z"
+  },
+  "FV 5707|2026-11-21T04:00:00Z": {
+   "number": "FV 5707",
+   "airline": "Rossiya",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-21T04:00:00Z",
+   "actual": "2026-11-21T04:00:00Z"
   }
  },
  "fetched": [
@@ -130,6 +160,7 @@
   "2026-11-20T20:07:34Z",
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
-  "2026-11-21T02:07:23Z"
+  "2026-11-21T02:07:23Z",
+  "2026-11-21T04:07:24Z"
  ]
 }

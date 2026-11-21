@@ -68,14 +68,35 @@
    "to": "Sabetta",
    "to_name": "Sabetta",
    "model": "Airbus A320-200",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T02:20:00Z",
-   "actual": "2026-11-21T02:20:00Z"
+   "actual": "2026-11-21T02:35:00Z"
+  },
+  "U6 2611|2026-11-21T04:00:00Z": {
+   "number": "U6 2611",
+   "airline": "Ural",
+   "to": "NMA",
+   "to_name": "Namangan",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T04:00:00Z",
+   "actual": "2026-11-21T04:00:00Z"
+  },
+  "U6 2127|2026-11-21T04:00:00Z": {
+   "number": "U6 2127",
+   "airline": "Ural",
+   "to": "KSQ",
+   "to_name": "Khanabad",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T04:00:00Z",
+   "actual": "2026-11-21T04:00:00Z"
   }
  },
  "fetched": [
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
-  "2026-11-21T02:07:23Z"
+  "2026-11-21T02:07:23Z",
+  "2026-11-21T04:07:24Z"
  ]
 }

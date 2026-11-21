@@ -8,9 +8,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T02:50:00Z",
-   "actual": "2026-11-21T02:50:00Z"
+   "actual": "2026-11-21T03:16:00Z"
   },
   "YC 189|2026-11-21T03:05:00Z": {
    "number": "YC 189",
@@ -18,15 +18,96 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T03:05:00Z",
-   "actual": "2026-11-21T03:05:00Z"
+   "actual": "2026-11-21T03:24:00Z"
+  },
+  "S7 2572|2026-11-21T03:20:00Z": {
+   "number": "S7 2572",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T03:20:00Z",
+   "actual": "2026-11-21T03:20:00Z"
+  },
+  "S7 5336|2026-11-21T03:35:00Z": {
+   "number": "S7 5336",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-21T03:35:00Z",
+   "actual": "2026-11-21T03:40:00Z"
+  },
+  "WZ 1082|2026-11-21T03:55:00Z": {
+   "number": "WZ 1082",
+   "airline": "Red Wings",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T03:55:00Z",
+   "actual": "2026-11-21T03:55:00Z"
+  },
+  "4G 9816|2026-11-21T03:30:00Z": {
+   "number": "4G 9816",
+   "airline": "Gazpromavia",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-21T03:30:00Z",
+   "actual": "2026-11-21T04:00:00Z"
+  },
+  "YC 9793|2026-11-21T04:15:00Z": {
+   "number": "YC 9793",
+   "airline": "Yamal",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-21T04:15:00Z",
+   "actual": "2026-11-21T04:15:00Z"
+  },
+  "UTH 9990|2026-11-21T03:40:00Z": {
+   "number": "UTH 9990",
+   "airline": "AO YuTeyr-Vertoletnye uslugi",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-21T03:40:00Z",
+   "actual": "2026-11-21T04:30:00Z"
+  },
+  "UTH 8910|2026-11-21T03:31:00Z": {
+   "number": "UTH 8910",
+   "airline": "AO YuTeyr-Vertoletnye uslugi",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-21T03:31:00Z",
+   "actual": "2026-11-21T04:30:00Z"
+  },
+  "4G 9847|2026-11-21T05:00:00Z": {
+   "number": "4G 9847",
+   "airline": "Gazpromavia",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T05:00:00Z",
+   "actual": "2026-11-21T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-20T20:07:34Z",
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
-  "2026-11-21T02:07:23Z"
+  "2026-11-21T02:07:23Z",
+  "2026-11-21T04:07:24Z"
  ]
 }

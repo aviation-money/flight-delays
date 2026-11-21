@@ -18,14 +18,25 @@
    "to": "BEG",
    "to_name": "Belgrade",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:25:00Z",
-   "actual": "2026-11-21T01:30:00Z"
+   "actual": "2026-11-21T01:57:00Z"
+  },
+  "N4 860|2026-11-21T04:40:00Z": {
+   "number": "N4 860",
+   "airline": "Nordwind",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T04:40:00Z",
+   "actual": "2026-11-21T04:40:00Z"
   }
  },
  "fetched": [
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
-  "2026-11-21T02:07:23Z"
+  "2026-11-21T02:07:23Z",
+  "2026-11-21T04:07:24Z"
  ]
 }

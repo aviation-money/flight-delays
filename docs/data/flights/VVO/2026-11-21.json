@@ -138,7 +138,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T00:40:00Z",
    "actual": "2026-11-21T01:01:00Z"
   },
@@ -148,7 +148,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T01:00:00Z",
    "actual": "2026-11-21T01:14:00Z"
   },
@@ -160,7 +160,7 @@
    "model": "Airbus A330-300",
    "status": "Expected",
    "scheduled": "2026-11-21T02:05:00Z",
-   "actual": "2026-11-21T02:05:00Z"
+   "actual": "2026-11-21T02:33:00Z"
   },
   "HZ 5606|2026-11-21T02:20:00Z": {
    "number": "HZ 5606",
@@ -168,9 +168,29 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T02:20:00Z",
-   "actual": "2026-11-21T02:20:00Z"
+   "actual": "2026-11-21T02:21:00Z"
+  },
+  "FV 6260|2026-11-21T04:40:00Z": {
+   "number": "FV 6260",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 747-400",
+   "status": "Expected",
+   "scheduled": "2026-11-21T04:40:00Z",
+   "actual": "2026-11-21T04:40:00Z"
+  },
+  "R3 492|2026-11-21T04:50:00Z": {
+   "number": "R3 492",
+   "airline": "Yakutia",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-21T04:50:00Z",
+   "actual": "2026-11-21T04:50:00Z"
   }
  },
  "fetched": [
@@ -180,6 +200,7 @@
   "2026-11-20T20:07:34Z",
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
-  "2026-11-21T02:07:23Z"
+  "2026-11-21T02:07:23Z",
+  "2026-11-21T04:07:24Z"
  ]
 }

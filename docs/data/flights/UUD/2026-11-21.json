@@ -58,9 +58,9 @@
    "to": "Irkutsk",
    "to_name": "Irkutsk",
    "model": null,
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-21T01:45:00Z",
-   "actual": "2026-11-21T01:45:00Z"
+   "actual": "2026-11-21T03:45:00Z"
   },
   "S7 6402|2026-11-21T01:25:00Z": {
    "number": "S7 6402",
@@ -68,9 +68,9 @@
    "to": "Irkutsk",
    "to_name": "Irkutsk",
    "model": null,
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-21T01:25:00Z",
-   "actual": "2026-11-21T01:55:00Z"
+   "actual": "2026-11-21T03:45:00Z"
   },
   "S7 6312|2026-11-21T02:00:00Z": {
    "number": "S7 6312",
@@ -78,9 +78,9 @@
    "to": "Irkutsk",
    "to_name": "Irkutsk",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T02:00:00Z",
-   "actual": "2026-11-21T02:00:00Z"
+   "actual": "2026-11-21T03:25:00Z"
   },
   "SU 1455|2026-11-21T02:05:00Z": {
    "number": "SU 1455",
@@ -88,9 +88,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T02:05:00Z",
-   "actual": "2026-11-21T02:05:00Z"
+   "actual": "2026-11-21T02:49:00Z"
   },
   "S7 3034|2026-11-21T02:30:00Z": {
    "number": "S7 3034",
@@ -98,9 +98,39 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T02:30:00Z",
-   "actual": "2026-11-21T02:05:00Z"
+   "actual": "2026-11-21T02:29:00Z"
+  },
+  "S7 6404|2026-11-21T03:00:00Z": {
+   "number": "S7 6404",
+   "airline": "S7",
+   "to": "Irkutsk",
+   "to_name": "Irkutsk",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-21T03:00:00Z",
+   "actual": "2026-11-21T03:51:00Z"
+  },
+  "WZ 5094|2026-11-21T02:40:00Z": {
+   "number": "WZ 5094",
+   "airline": "Red Wings",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T02:40:00Z",
+   "actual": "2026-11-21T04:10:00Z"
+  },
+  "FV 2442|2026-11-21T05:00:00Z": {
+   "number": "FV 2442",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T05:00:00Z",
+   "actual": "2026-11-21T05:00:00Z"
   }
  },
  "fetched": [
@@ -109,6 +139,7 @@
   "2026-11-20T20:07:34Z",
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
-  "2026-11-21T02:07:23Z"
+  "2026-11-21T02:07:23Z",
+  "2026-11-21T04:07:24Z"
  ]
 }

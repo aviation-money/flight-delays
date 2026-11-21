@@ -11,11 +11,32 @@
    "status": "Departed",
    "scheduled": "2026-11-20T21:50:00Z",
    "actual": "2026-11-20T22:00:00Z"
+  },
+  "WZ 701|2026-11-21T04:00:00Z": {
+   "number": "WZ 701",
+   "airline": "Red Wings",
+   "to": "TBS",
+   "to_name": "Tbilisi",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-21T04:00:00Z",
+   "actual": "2026-11-21T04:00:00Z"
+  },
+  "U6 2617|2026-11-21T04:50:00Z": {
+   "number": "U6 2617",
+   "airline": "Ural",
+   "to": "UGC",
+   "to_name": "Urgench",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T04:50:00Z",
+   "actual": "2026-11-21T04:50:00Z"
   }
  },
  "fetched": [
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
-  "2026-11-21T02:07:23Z"
+  "2026-11-21T02:07:23Z",
+  "2026-11-21T04:07:24Z"
  ]
 }

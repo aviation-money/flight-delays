@@ -77,15 +77,46 @@
    "airline": "Al Masria",
    "to": "Sharm el Sheikh",
    "to_name": "Sharm el Sheikh",
-   "model": null,
-   "status": "GateClosed",
+   "model": "Boeing 737-400",
+   "status": "Departed",
    "scheduled": "2026-11-21T01:40:00Z",
-   "actual": "2026-11-21T01:40:00Z"
+   "actual": "2026-11-21T02:04:00Z"
+  },
+  "YC 478|2026-11-21T04:00:00Z": {
+   "number": "YC 478",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T04:00:00Z",
+   "actual": "2026-11-21T04:00:00Z"
+  },
+  "A4 6217|2026-11-21T04:05:00Z": {
+   "number": "A4 6217",
+   "airline": "Azimuth",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T04:05:00Z",
+   "actual": "2026-11-21T04:05:00Z"
+  },
+  "SU 612|2026-11-21T04:40:00Z": {
+   "number": "SU 612",
+   "airline": "Aeroflot",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T04:40:00Z",
+   "actual": "2026-11-21T04:40:00Z"
   }
  },
  "fetched": [
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
-  "2026-11-21T02:07:23Z"
+  "2026-11-21T02:07:23Z",
+  "2026-11-21T04:07:24Z"
  ]
 }
