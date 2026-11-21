@@ -868,7 +868,7 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T09:55:00Z",
    "actual": "2026-11-21T09:55:00Z"
   },
@@ -878,7 +878,7 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T10:20:00Z",
    "actual": "2026-11-21T10:20:00Z"
   },
@@ -888,9 +888,69 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Embraer 170",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T10:30:00Z",
-   "actual": "2026-11-21T10:30:00Z"
+   "actual": "2026-11-21T10:32:00Z"
+  },
+  "S7 5345|2026-11-21T11:10:00Z": {
+   "number": "S7 5345",
+   "airline": "S7",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-21T11:10:00Z",
+   "actual": "2026-11-21T11:19:00Z"
+  },
+  "S7 5047|2026-11-21T11:20:00Z": {
+   "number": "S7 5047",
+   "airline": "S7",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-21T11:20:00Z",
+   "actual": "2026-11-21T11:21:00Z"
+  },
+  "SU 852|2026-11-21T12:35:00Z": {
+   "number": "SU 852",
+   "airline": "Aeroflot",
+   "to": "SYX",
+   "to_name": "Sanya",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T12:35:00Z",
+   "actual": "2026-11-21T12:35:00Z"
+  },
+  "S7 5239|2026-11-21T12:50:00Z": {
+   "number": "S7 5239",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T12:50:00Z",
+   "actual": "2026-11-21T12:50:00Z"
+  },
+  "S7 5201|2026-11-21T13:00:00Z": {
+   "number": "S7 5201",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T13:00:00Z",
+   "actual": "2026-11-21T13:00:00Z"
+  },
+  "S7 5319|2026-11-21T13:05:00Z": {
+   "number": "S7 5319",
+   "airline": "S7",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T13:05:00Z",
+   "actual": "2026-11-21T13:05:00Z"
   }
  },
  "fetched": [
@@ -902,6 +962,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }

@@ -201,6 +201,26 @@
    "status": "Departed",
    "scheduled": "2026-11-21T08:25:00Z",
    "actual": "2026-11-21T08:25:00Z"
+  },
+  "КГ 568|2026-11-21T11:25:00Z": {
+   "number": "КГ 568",
+   "airline": "Aero Nomad Airlayns",
+   "to": "Osh",
+   "to_name": "Osh",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-21T11:25:00Z",
+   "actual": "2026-11-21T11:31:00Z"
+  },
+  "UT 296|2026-11-21T13:00:00Z": {
+   "number": "UT 296",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T13:00:00Z",
+   "actual": "2026-11-21T13:00:00Z"
   }
  },
  "fetched": [
@@ -211,6 +231,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }

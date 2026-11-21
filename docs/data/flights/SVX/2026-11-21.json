@@ -448,9 +448,9 @@
    "to": "URJ",
    "to_name": "Uray",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "Delayed",
    "scheduled": "2026-11-21T09:05:00Z",
-   "actual": "2026-11-21T10:20:00Z"
+   "actual": "2026-11-21T12:50:00Z"
   },
   "WZ 1203|2026-11-21T10:05:00Z": {
    "number": "WZ 1203",
@@ -458,7 +458,7 @@
    "to": "BUS",
    "to_name": "Batumi",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T10:05:00Z",
    "actual": "2026-11-21T10:05:00Z"
   },
@@ -468,19 +468,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T10:20:00Z",
-   "actual": "2026-11-21T10:20:00Z"
+   "actual": "2026-11-21T10:24:00Z"
   },
   "SU 1413|2026-11-21T10:20:00Z": {
    "number": "SU 1413",
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
-   "status": "Boarding",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-21T10:20:00Z",
-   "actual": "2026-11-21T10:20:00Z"
+   "actual": "2026-11-21T10:40:00Z"
   },
   "WZ 1097|2026-11-21T11:00:00Z": {
    "number": "WZ 1097",
@@ -488,9 +488,9 @@
    "to": "NQZ",
    "to_name": "Astana",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T11:00:00Z",
-   "actual": "2026-11-21T11:00:00Z"
+   "actual": "2026-11-21T11:30:00Z"
   },
   "S7 6416|2026-11-21T10:15:00Z": {
    "number": "S7 6416",
@@ -498,9 +498,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T10:15:00Z",
-   "actual": "2026-11-21T11:00:00Z"
+   "actual": "2026-11-21T11:53:00Z"
   },
   "U6 268|2026-11-21T11:00:00Z": {
    "number": "U6 268",
@@ -508,9 +508,29 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T11:00:00Z",
-   "actual": "2026-11-21T11:00:00Z"
+   "actual": "2026-11-21T11:18:00Z"
+  },
+  "WZ 901|2026-11-21T11:55:00Z": {
+   "number": "WZ 901",
+   "airline": "Red Wings",
+   "to": "REN",
+   "to_name": "Orenburg",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T11:55:00Z",
+   "actual": "2026-11-21T11:55:00Z"
+  },
+  "FV 5971|2026-11-21T13:05:00Z": {
+   "number": "FV 5971",
+   "airline": "Rossiya",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T13:05:00Z",
+   "actual": "2026-11-21T13:05:00Z"
   }
  },
  "fetched": [
@@ -521,6 +541,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }

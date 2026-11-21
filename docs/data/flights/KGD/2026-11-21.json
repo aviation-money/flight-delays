@@ -51,6 +51,36 @@
    "status": "CheckIn",
    "scheduled": "2026-11-21T11:00:00Z",
    "actual": "2026-11-21T11:00:00Z"
+  },
+  "SU 1009|2026-11-21T04:10:00Z": {
+   "number": "SU 1009",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-21T04:10:00Z",
+   "actual": "2026-11-21T11:17:00Z"
+  },
+  "U6 628|2026-11-21T12:30:00Z": {
+   "number": "U6 628",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-21T12:30:00Z",
+   "actual": "2026-11-21T12:30:00Z"
+  },
+  "SU 1019|2026-11-21T12:00:00Z": {
+   "number": "SU 1019",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Delayed",
+   "scheduled": "2026-11-21T12:00:00Z",
+   "actual": "2026-11-21T12:30:00Z"
   }
  },
  "fetched": [
@@ -60,6 +90,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }

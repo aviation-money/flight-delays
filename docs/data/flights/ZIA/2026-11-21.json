@@ -47,7 +47,7 @@
    "airline": "Ural",
    "to": "DYU",
    "to_name": "Dushanbe",
-   "model": "Airbus A321",
+   "model": "Airbus A321-100/200",
    "status": "Departed",
    "scheduled": "2026-11-21T08:00:00Z",
    "actual": "2026-11-21T09:08:00Z"
@@ -61,6 +61,16 @@
    "status": "Departed",
    "scheduled": "2026-11-21T09:00:00Z",
    "actual": "2026-11-21T09:29:00Z"
+  },
+  "B2 954|2026-11-21T12:35:00Z": {
+   "number": "B2 954",
+   "airline": "Belavia",
+   "to": "MSQ",
+   "to_name": "Minsk",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T12:35:00Z",
+   "actual": "2026-11-21T12:35:00Z"
   }
  },
  "fetched": [
@@ -70,6 +80,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }

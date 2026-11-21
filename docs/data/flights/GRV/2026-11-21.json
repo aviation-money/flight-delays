@@ -41,6 +41,26 @@
    "status": "Expected",
    "scheduled": "2026-11-21T09:40:00Z",
    "actual": null
+  },
+  "UT 400|2026-11-21T11:50:00Z": {
+   "number": "UT 400",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T11:50:00Z",
+   "actual": null
+  },
+  "U6 428|2026-11-21T12:05:00Z": {
+   "number": "U6 428",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-21T12:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -50,6 +70,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }

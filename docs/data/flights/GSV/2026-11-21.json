@@ -28,9 +28,19 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Boeing 737-500",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T10:45:00Z",
-   "actual": "2026-11-21T10:45:00Z"
+   "actual": "2026-11-21T11:08:00Z"
+  },
+  "DP 6862|2026-11-21T12:50:00Z": {
+   "number": "DP 6862",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T12:50:00Z",
+   "actual": "2026-11-21T12:50:00Z"
   }
  },
  "fetched": [
@@ -41,6 +51,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }

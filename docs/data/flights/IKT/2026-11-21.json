@@ -441,6 +441,46 @@
    "status": "Expected",
    "scheduled": "2026-11-21T10:00:00Z",
    "actual": null
+  },
+  "S7 6431|2026-11-21T11:20:00Z": {
+   "number": "S7 6431",
+   "airline": "S7",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-21T11:20:00Z",
+   "actual": null
+  },
+  "S7 5226|2026-11-21T11:35:00Z": {
+   "number": "S7 5226",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-21T11:35:00Z",
+   "actual": null
+  },
+  "SU 1445|2026-11-21T11:45:00Z": {
+   "number": "SU 1445",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T11:45:00Z",
+   "actual": null
+  },
+  "SU 866|2026-11-21T12:20:00Z": {
+   "number": "SU 866",
+   "airline": "Aeroflot",
+   "to": "SYX",
+   "to_name": "Sanya",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T12:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -453,6 +493,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }

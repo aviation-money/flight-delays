@@ -218,9 +218,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T10:20:00Z",
-   "actual": "2026-11-21T10:20:00Z"
+   "actual": "2026-11-21T10:10:00Z"
   },
   "N4 731|2026-11-21T08:45:00Z": {
    "number": "N4 731",
@@ -228,9 +228,9 @@
    "to": "Kaliningrad",
    "to_name": "Kaliningrad",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-21T08:45:00Z",
-   "actual": "2026-11-21T11:00:00Z"
+   "actual": "2026-11-21T12:00:00Z"
   },
   "S7 5036|2026-11-21T11:05:00Z": {
    "number": "S7 5036",
@@ -238,9 +238,29 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T11:05:00Z",
-   "actual": "2026-11-21T11:05:00Z"
+   "actual": "2026-11-21T11:11:00Z"
+  },
+  "TK 430|2026-11-21T12:05:00Z": {
+   "number": "TK 430",
+   "airline": "Turkish",
+   "to": "Istanbul (Havalimani New)",
+   "to_name": "Istanbul (Havalimani New)",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T12:05:00Z",
+   "actual": "2026-11-21T12:05:00Z"
+  },
+  "HY 650|2026-11-21T12:50:00Z": {
+   "number": "HY 650",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T12:50:00Z",
+   "actual": "2026-11-21T12:50:00Z"
   }
  },
  "fetched": [
@@ -250,6 +270,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }

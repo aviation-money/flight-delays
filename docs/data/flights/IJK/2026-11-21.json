@@ -91,6 +91,16 @@
    "status": "Expected",
    "scheduled": "2026-11-21T10:05:00Z",
    "actual": null
+  },
+  "I8 305|2026-11-21T11:30:00Z": {
+   "number": "I8 305",
+   "airline": "Izhavia",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T11:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -101,6 +111,7 @@
   "2026-11-21T04:07:24Z",
   "2026-11-21T06:07:25Z",
   "2026-11-21T08:07:31Z",
-  "2026-11-21T10:07:25Z"
+  "2026-11-21T10:07:25Z",
+  "2026-11-21T12:07:25Z"
  ]
 }
