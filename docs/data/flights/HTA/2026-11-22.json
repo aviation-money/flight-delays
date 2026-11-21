@@ -18,14 +18,15 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T20:45:00Z",
-   "actual": "2026-11-21T20:45:00Z"
+   "actual": "2026-11-21T20:54:00Z"
   }
  },
  "fetched": [
   "2026-11-21T16:07:27Z",
   "2026-11-21T18:07:23Z",
-  "2026-11-21T20:07:26Z"
+  "2026-11-21T20:07:26Z",
+  "2026-11-21T22:07:23Z"
  ]
 }

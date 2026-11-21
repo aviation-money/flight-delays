@@ -45,7 +45,7 @@
   "IQ 512|2026-11-21T18:35:00Z": {
    "number": "IQ 512",
    "airline": "Qazaq Air",
-   "to": "Astana",
+   "to": "NQZ",
    "to_name": "Astana",
    "model": "Bombardier Dash 8 Q400 / DHC-8-400",
    "status": "Departed",
@@ -98,9 +98,9 @@
    "to": "TLK",
    "to_name": "Talakan",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T20:45:00Z",
-   "actual": "2026-11-21T20:45:00Z"
+   "actual": "2026-11-21T20:49:00Z"
   },
   "S7 5327|2026-11-21T20:55:00Z": {
    "number": "S7 5327",
@@ -108,13 +108,84 @@
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T20:55:00Z",
    "actual": "2026-11-21T20:55:00Z"
+  },
+  "S7 5229|2026-11-21T21:30:00Z": {
+   "number": "S7 5229",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-21T21:30:00Z",
+   "actual": "2026-11-21T21:35:00Z"
+  },
+  "FZ 964|2026-11-21T21:20:00Z": {
+   "number": "FZ 964",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-21T21:20:00Z",
+   "actual": "2026-11-21T21:42:00Z"
+  },
+  "S7 5215|2026-11-21T21:50:00Z": {
+   "number": "S7 5215",
+   "airline": "S7",
+   "to": "BTK",
+   "to_name": "Bratsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-21T21:50:00Z",
+   "actual": "2026-11-21T21:57:00Z"
+  },
+  "S7 5871|2026-11-21T22:20:00Z": {
+   "number": "S7 5871",
+   "airline": "S7",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T22:20:00Z",
+   "actual": "2026-11-21T22:20:00Z"
+  },
+  "S7 5017|2026-11-21T22:50:00Z": {
+   "number": "S7 5017",
+   "airline": "S7",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T22:50:00Z",
+   "actual": "2026-11-21T22:50:00Z"
+  },
+  "S7 5387|2026-11-21T23:00:00Z": {
+   "number": "S7 5387",
+   "airline": "S7",
+   "to": "KYZ",
+   "to_name": "Kyzyl",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T23:00:00Z",
+   "actual": "2026-11-21T23:00:00Z"
+  },
+  "SU 650|2026-11-21T23:05:00Z": {
+   "number": "SU 650",
+   "airline": "Aeroflot",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Airbus A330-300",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T23:05:00Z",
+   "actual": "2026-11-21T23:05:00Z"
   }
  },
  "fetched": [
   "2026-11-21T18:07:23Z",
-  "2026-11-21T20:07:26Z"
+  "2026-11-21T20:07:26Z",
+  "2026-11-21T22:07:23Z"
  ]
 }

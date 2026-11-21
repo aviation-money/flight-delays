@@ -1,9 +1,21 @@
 {
  "airport": "NOZ",
  "date": "2026-11-22",
- "flights": {},
+ "flights": {
+  "WZ 5089|2026-11-21T22:20:00Z": {
+   "number": "WZ 5089",
+   "airline": "Red Wings",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-21T22:20:00Z",
+   "actual": "2026-11-21T22:32:00Z"
+  }
+ },
  "fetched": [
   "2026-11-21T18:07:23Z",
-  "2026-11-21T20:07:26Z"
+  "2026-11-21T20:07:26Z",
+  "2026-11-21T22:07:23Z"
  ]
 }

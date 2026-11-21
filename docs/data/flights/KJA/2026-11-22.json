@@ -21,10 +21,41 @@
    "status": "Departed",
    "scheduled": "2026-11-21T18:15:00Z",
    "actual": "2026-11-21T18:15:00Z"
+  },
+  "S7 5310|2026-11-21T21:15:00Z": {
+   "number": "S7 5310",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-21T21:15:00Z",
+   "actual": "2026-11-21T21:15:00Z"
+  },
+  "KV 129|2026-11-21T22:25:00Z": {
+   "number": "KV 129",
+   "airline": "KrasAvia",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "ATR 42-500",
+   "status": "Expected",
+   "scheduled": "2026-11-21T22:25:00Z",
+   "actual": "2026-11-21T22:25:00Z"
+  },
+  "Y7 217|2026-11-21T23:00:00Z": {
+   "number": "Y7 217",
+   "airline": "NordStar",
+   "to": "Norilsk",
+   "to_name": "Norilsk",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T23:00:00Z",
+   "actual": "2026-11-21T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-21T18:07:23Z",
-  "2026-11-21T20:07:26Z"
+  "2026-11-21T20:07:26Z",
+  "2026-11-21T22:07:23Z"
  ]
 }

@@ -131,11 +131,82 @@
    "status": "Unknown",
    "scheduled": "2026-11-21T21:00:00Z",
    "actual": null
+  },
+  "IO 183|2026-11-21T21:20:00Z": {
+   "number": "IO 183",
+   "airline": "IrAero",
+   "to": "Chara",
+   "to_name": "Chara",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T21:20:00Z",
+   "actual": null
+  },
+  "IO 1141|2026-11-21T21:55:00Z": {
+   "number": "IO 1141",
+   "airline": "IrAero",
+   "to": "Bodaybo",
+   "to_name": "Bodaybo",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T21:55:00Z",
+   "actual": null
+  },
+  "SU 840|2026-11-21T22:15:00Z": {
+   "number": "SU 840",
+   "airline": "Aeroflot",
+   "to": "CXR",
+   "to_name": "Nha Trang",
+   "model": null,
+   "status": "Unknown",
+   "scheduled": "2026-11-21T22:15:00Z",
+   "actual": null
+  },
+  "S7 5228|2026-11-21T22:15:00Z": {
+   "number": "S7 5228",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-21T22:15:00Z",
+   "actual": null
+  },
+  "IO 345|2026-11-21T22:20:00Z": {
+   "number": "IO 345",
+   "airline": "IrAero",
+   "to": "Taksimo",
+   "to_name": "Taksimo",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T22:20:00Z",
+   "actual": null
+  },
+  "UT 165|2026-11-21T22:45:00Z": {
+   "number": "UT 165",
+   "airline": "UTAir",
+   "to": "UKX",
+   "to_name": "Ust-Kut",
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T22:45:00Z",
+   "actual": null
+  },
+  "IO 151|2026-11-21T23:00:00Z": {
+   "number": "IO 151",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T23:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-21T16:07:27Z",
   "2026-11-21T18:07:23Z",
-  "2026-11-21T20:07:26Z"
+  "2026-11-21T20:07:26Z",
+  "2026-11-21T22:07:23Z"
  ]
 }

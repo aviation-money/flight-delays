@@ -1,0 +1,49 @@
+{
+ "airport": "KZN",
+ "date": "2026-11-22",
+ "flights": {
+  "N4 1405|2026-11-21T22:00:00Z": {
+   "number": "N4 1405",
+   "airline": "Nordwind",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T22:00:00Z",
+   "actual": "2026-11-21T22:00:00Z"
+  },
+  "FZ 974|2026-11-21T22:10:00Z": {
+   "number": "FZ 974",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T22:10:00Z",
+   "actual": "2026-11-21T22:10:00Z"
+  },
+  "EO 759|2026-11-21T23:00:00Z": {
+   "number": "EO 759",
+   "airline": "Pegas Fly",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Embraer 190",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T23:00:00Z",
+   "actual": "2026-11-21T23:00:00Z"
+  },
+  "DP 6846|2026-11-21T21:05:00Z": {
+   "number": "DP 6846",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T21:05:00Z",
+   "actual": "2026-11-21T23:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-21T22:07:23Z"
+ ]
+}

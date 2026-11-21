@@ -8,9 +8,9 @@
    "to": "HKT",
    "to_name": "Phuket",
    "model": "Boeing 767-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T19:35:00Z",
-   "actual": "2026-11-21T19:35:00Z"
+   "actual": "2026-11-21T20:02:00Z"
   },
   "UT 406|2026-11-21T19:25:00Z": {
    "number": "UT 406",
@@ -38,12 +38,23 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T20:05:00Z",
-   "actual": "2026-11-21T20:05:00Z"
+   "actual": "2026-11-21T20:20:00Z"
+  },
+  "KV 9501|2026-11-21T22:05:00Z": {
+   "number": "KV 9501",
+   "airline": "KrasAvia",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Yak 42",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T22:05:00Z",
+   "actual": "2026-11-21T22:05:00Z"
   }
  },
  "fetched": [
-  "2026-11-21T20:07:26Z"
+  "2026-11-21T20:07:26Z",
+  "2026-11-21T22:07:23Z"
  ]
 }

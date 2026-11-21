@@ -11,12 +11,43 @@
    "status": "Departed",
    "scheduled": "2026-11-21T13:30:00Z",
    "actual": "2026-11-21T13:24:00Z"
+  },
+  "S7 6512|2026-11-21T21:30:00Z": {
+   "number": "S7 6512",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-21T21:30:00Z",
+   "actual": "2026-11-21T21:26:00Z"
+  },
+  "IO 316|2026-11-21T22:10:00Z": {
+   "number": "IO 316",
+   "airline": "IrAero",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T22:10:00Z",
+   "actual": "2026-11-21T22:10:00Z"
+  },
+  "S7 5258|2026-11-21T22:45:00Z": {
+   "number": "S7 5258",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T22:45:00Z",
+   "actual": "2026-11-21T22:45:00Z"
   }
  },
  "fetched": [
   "2026-11-21T14:07:26Z",
   "2026-11-21T16:07:27Z",
   "2026-11-21T18:07:23Z",
-  "2026-11-21T20:07:26Z"
+  "2026-11-21T20:07:26Z",
+  "2026-11-21T22:07:23Z"
  ]
 }

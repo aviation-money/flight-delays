@@ -1,8 +1,30 @@
 {
  "airport": "ASF",
  "date": "2026-11-22",
- "flights": {},
+ "flights": {
+  "A4 6158|2026-11-21T21:40:00Z": {
+   "number": "A4 6158",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-21T21:40:00Z",
+   "actual": "2026-11-21T21:44:00Z"
+  },
+  "A4 4057|2026-11-21T22:45:00Z": {
+   "number": "A4 4057",
+   "airline": "Azimuth",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-21T22:45:00Z",
+   "actual": "2026-11-21T22:45:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-21T20:07:26Z"
+  "2026-11-21T20:07:26Z",
+  "2026-11-21T22:07:23Z"
  ]
 }

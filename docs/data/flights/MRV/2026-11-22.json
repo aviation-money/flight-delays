@@ -1,0 +1,39 @@
+{
+ "airport": "MRV",
+ "date": "2026-11-22",
+ "flights": {
+  "A4 6187|2026-11-21T21:10:00Z": {
+   "number": "A4 6187",
+   "airline": "Azimuth",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-21T21:10:00Z",
+   "actual": "2026-11-21T21:24:00Z"
+  },
+  "A4 6021|2026-11-21T21:40:00Z": {
+   "number": "A4 6021",
+   "airline": "Azimuth",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T21:40:00Z",
+   "actual": "2026-11-21T21:40:00Z"
+  },
+  "A4 6023|2026-11-21T21:25:00Z": {
+   "number": "A4 6023",
+   "airline": "Azimuth",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T21:25:00Z",
+   "actual": "2026-11-21T21:50:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-21T22:07:23Z"
+ ]
+}
