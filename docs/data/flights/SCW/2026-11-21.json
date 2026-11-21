@@ -18,15 +18,26 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T03:50:00Z",
-   "actual": "2026-11-21T03:50:00Z"
+   "actual": "2026-11-21T05:55:00Z"
+  },
+  "SU 1391|2026-11-21T06:15:00Z": {
+   "number": "SU 1391",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-21T06:15:00Z",
+   "actual": "2026-11-21T06:15:00Z"
   }
  },
  "fetched": [
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
-  "2026-11-21T04:07:24Z"
+  "2026-11-21T04:07:24Z",
+  "2026-11-21T06:07:25Z"
  ]
 }

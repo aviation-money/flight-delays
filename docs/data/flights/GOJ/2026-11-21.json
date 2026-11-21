@@ -28,15 +28,26 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-21T04:40:00Z",
-   "actual": "2026-11-21T04:40:00Z"
+   "actual": "2026-11-21T06:45:00Z"
+  },
+  "FV 6226|2026-11-21T06:00:00Z": {
+   "number": "FV 6226",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T06:00:00Z",
+   "actual": "2026-11-21T06:00:00Z"
   }
  },
  "fetched": [
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
-  "2026-11-21T04:07:24Z"
+  "2026-11-21T04:07:24Z",
+  "2026-11-21T06:07:25Z"
  ]
 }

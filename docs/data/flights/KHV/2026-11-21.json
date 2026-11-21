@@ -148,9 +148,29 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T04:00:00Z",
-   "actual": "2026-11-21T04:00:00Z"
+   "actual": "2026-11-21T04:05:00Z"
+  },
+  "S7 5282|2026-11-21T06:45:00Z": {
+   "number": "S7 5282",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus Industrie А320",
+   "status": "Expected",
+   "scheduled": "2026-11-21T06:45:00Z",
+   "actual": "2026-11-21T06:45:00Z"
+  },
+  "FV 6280|2026-11-21T07:05:00Z": {
+   "number": "FV 6280",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-21T07:05:00Z",
+   "actual": "2026-11-21T07:05:00Z"
   }
  },
  "fetched": [
@@ -161,6 +181,7 @@
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
-  "2026-11-21T04:07:24Z"
+  "2026-11-21T04:07:24Z",
+  "2026-11-21T06:07:25Z"
  ]
 }

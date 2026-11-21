@@ -81,12 +81,63 @@
    "status": "Expected",
    "scheduled": "2026-11-21T04:50:00Z",
    "actual": "2026-11-21T04:50:00Z"
+  },
+  "YC 386|2026-11-21T04:59:00Z": {
+   "number": "YC 386",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-21T04:59:00Z",
+   "actual": "2026-11-21T04:59:00Z"
+  },
+  "FV 6643|2026-11-21T05:13:00Z": {
+   "number": "FV 6643",
+   "airline": "Rossiya",
+   "to": "GOJ",
+   "to_name": "Nizhniy Novgorod",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-21T05:13:00Z",
+   "actual": "2026-11-21T05:13:00Z"
+  },
+  "DP 112|2026-11-21T05:47:00Z": {
+   "number": "DP 112",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-21T05:47:00Z",
+   "actual": "2026-11-21T05:47:00Z"
+  },
+  "FV 6129|2026-11-21T05:57:00Z": {
+   "number": "FV 6129",
+   "airline": "Rossiya",
+   "to": "Perm",
+   "to_name": "Perm",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T05:57:00Z",
+   "actual": "2026-11-21T05:57:00Z"
+  },
+  "A4 5069|2026-11-21T07:00:00Z": {
+   "number": "A4 5069",
+   "airline": "Azimuth",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-21T07:00:00Z",
+   "actual": "2026-11-21T07:00:00Z"
   }
  },
  "fetched": [
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
-  "2026-11-21T04:07:24Z"
+  "2026-11-21T04:07:24Z",
+  "2026-11-21T06:07:25Z"
  ]
 }

@@ -180,7 +180,7 @@
    "model": "Boeing 747-400",
    "status": "Expected",
    "scheduled": "2026-11-21T04:40:00Z",
-   "actual": "2026-11-21T04:40:00Z"
+   "actual": "2026-11-21T05:13:00Z"
   },
   "R3 492|2026-11-21T04:50:00Z": {
    "number": "R3 492",
@@ -190,7 +190,37 @@
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-21T04:50:00Z",
-   "actual": "2026-11-21T04:50:00Z"
+   "actual": "2026-11-21T05:00:00Z"
+  },
+  "S7 6201|2026-11-21T05:20:00Z": {
+   "number": "S7 6201",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-21T05:20:00Z",
+   "actual": "2026-11-21T05:24:00Z"
+  },
+  "HZ 5602|2026-11-21T06:35:00Z": {
+   "number": "HZ 5602",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-21T06:35:00Z",
+   "actual": "2026-11-21T06:35:00Z"
+  },
+  "CA 810|2026-11-21T06:45:00Z": {
+   "number": "CA 810",
+   "airline": "Air China",
+   "to": "PEK",
+   "to_name": "Beijing",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-21T06:45:00Z",
+   "actual": "2026-11-21T06:45:00Z"
   }
  },
  "fetched": [
@@ -201,6 +231,7 @@
   "2026-11-20T22:07:26Z",
   "2026-11-21T00:07:26Z",
   "2026-11-21T02:07:23Z",
-  "2026-11-21T04:07:24Z"
+  "2026-11-21T04:07:24Z",
+  "2026-11-21T06:07:25Z"
  ]
 }
