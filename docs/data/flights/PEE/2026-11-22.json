@@ -77,10 +77,10 @@
    "airline": "Uzbekistan",
    "to": "NMA",
    "to_name": "Namangan",
-   "model": "Airbus",
-   "status": "GateClosed",
+   "model": "Airbus A320",
+   "status": "Departed",
    "scheduled": "2026-11-22T10:10:00Z",
-   "actual": "2026-11-22T10:10:00Z"
+   "actual": "2026-11-22T10:18:00Z"
   },
   "RT 542|2026-11-22T10:30:00Z": {
    "number": "RT 542",
@@ -88,9 +88,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Bombardier",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T10:30:00Z",
-   "actual": "2026-11-22T10:30:00Z"
+   "actual": "2026-11-22T10:22:00Z"
   },
   "SU 1203|2026-11-22T11:00:00Z": {
    "number": "SU 1203",
@@ -98,9 +98,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T11:00:00Z",
-   "actual": "2026-11-22T11:00:00Z"
+   "actual": "2026-11-22T11:15:00Z"
+  },
+  "FV 6434|2026-11-22T07:50:00Z": {
+   "number": "FV 6434",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T07:50:00Z",
+   "actual": "2026-11-22T11:40:00Z"
+  },
+  "S7 5040|2026-11-22T12:10:00Z": {
+   "number": "S7 5040",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T12:10:00Z",
+   "actual": "2026-11-22T12:10:00Z"
   }
  },
  "fetched": [
@@ -111,6 +131,7 @@
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
-  "2026-11-22T10:07:24Z"
+  "2026-11-22T10:07:24Z",
+  "2026-11-22T12:07:24Z"
  ]
 }

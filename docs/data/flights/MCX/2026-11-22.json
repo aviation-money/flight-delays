@@ -81,6 +81,46 @@
    "status": "Expected",
    "scheduled": "2026-11-22T10:25:00Z",
    "actual": null
+  },
+  "SU 1055|2026-11-22T11:40:00Z": {
+   "number": "SU 1055",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-22T11:40:00Z",
+   "actual": null
+  },
+  "U6 1344|2026-11-22T12:20:00Z": {
+   "number": "U6 1344",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-22T12:20:00Z",
+   "actual": null
+  },
+  "N4 937|2026-11-22T12:40:00Z": {
+   "number": "N4 937",
+   "airline": "Nordwind",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T12:40:00Z",
+   "actual": null
+  },
+  "DP 6924|2026-11-22T13:00:00Z": {
+   "number": "DP 6924",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T13:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -90,6 +130,7 @@
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
-  "2026-11-22T10:07:24Z"
+  "2026-11-22T10:07:24Z",
+  "2026-11-22T12:07:24Z"
  ]
 }

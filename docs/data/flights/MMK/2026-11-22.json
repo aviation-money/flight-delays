@@ -30,7 +30,7 @@
    "model": null,
    "status": "Delayed",
    "scheduled": "2026-11-22T07:00:00Z",
-   "actual": "2026-11-22T09:00:00Z"
+   "actual": "2026-11-22T13:00:00Z"
   },
   "D2 52|2026-11-22T08:00:00Z": {
    "number": "D2 52",
@@ -80,7 +80,7 @@
    "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-22T10:15:00Z",
-   "actual": "2026-11-22T10:15:00Z"
+   "actual": "2026-11-22T10:41:00Z"
   },
   "5N 522|2026-11-22T10:50:00Z": {
    "number": "5N 522",
@@ -101,6 +101,26 @@
    "status": "Departed",
    "scheduled": "2026-11-22T10:00:00Z",
    "actual": "2026-11-22T11:04:00Z"
+  },
+  "WZ 5008|2026-11-22T11:40:00Z": {
+   "number": "WZ 5008",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T11:40:00Z",
+   "actual": "2026-11-22T11:40:00Z"
+  },
+  "FV 6342|2026-11-22T12:10:00Z": {
+   "number": "FV 6342",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-22T12:10:00Z",
+   "actual": "2026-11-22T12:10:00Z"
   }
  },
  "fetched": [
@@ -110,6 +130,7 @@
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
-  "2026-11-22T10:07:24Z"
+  "2026-11-22T10:07:24Z",
+  "2026-11-22T12:07:24Z"
  ]
 }

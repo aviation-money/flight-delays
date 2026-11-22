@@ -198,9 +198,49 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T10:10:00Z",
-   "actual": "2026-11-22T10:10:00Z"
+   "actual": "2026-11-22T10:13:00Z"
+  },
+  "4G 482|2026-11-22T09:50:00Z": {
+   "number": "4G 482",
+   "airline": "Gazpromavia",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-700",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T09:50:00Z",
+   "actual": "2026-11-22T12:00:00Z"
+  },
+  "UT 509|2026-11-22T12:05:00Z": {
+   "number": "UT 509",
+   "airline": "UTAir",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T12:05:00Z",
+   "actual": "2026-11-22T12:05:00Z"
+  },
+  "S7 5352|2026-11-22T12:35:00Z": {
+   "number": "S7 5352",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-22T12:35:00Z",
+   "actual": "2026-11-22T12:35:00Z"
+  },
+  "UT 464|2026-11-22T13:00:00Z": {
+   "number": "UT 464",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T13:00:00Z",
+   "actual": "2026-11-22T13:00:00Z"
   }
  },
  "fetched": [
@@ -211,6 +251,7 @@
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
-  "2026-11-22T10:07:24Z"
+  "2026-11-22T10:07:24Z",
+  "2026-11-22T12:07:24Z"
  ]
 }

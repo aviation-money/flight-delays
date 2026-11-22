@@ -288,9 +288,9 @@
    "to": "Bovanenkovo",
    "to_name": "Bovanenkovo",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T10:05:00Z",
-   "actual": "2026-11-22T10:05:00Z"
+   "actual": "2026-11-22T10:23:00Z"
   },
   "S7 6420|2026-11-22T09:45:00Z": {
    "number": "S7 6420",
@@ -298,9 +298,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T09:45:00Z",
-   "actual": "2026-11-22T10:15:00Z"
+   "actual": "2026-11-22T10:27:00Z"
   },
   "EO 770|2026-11-22T10:15:00Z": {
    "number": "EO 770",
@@ -308,9 +308,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Embraer 190",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T10:15:00Z",
-   "actual": "2026-11-22T10:15:00Z"
+   "actual": "2026-11-22T10:08:00Z"
   },
   "SU 864|2026-11-22T11:00:00Z": {
    "number": "SU 864",
@@ -318,9 +318,59 @@
    "to": "SYX",
    "to_name": "Sanya",
    "model": "Airbus A330-300",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T11:00:00Z",
-   "actual": "2026-11-22T11:00:00Z"
+   "actual": "2026-11-22T11:40:00Z"
+  },
+  "SU 1235|2026-11-22T11:35:00Z": {
+   "number": "SU 1235",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T11:35:00Z",
+   "actual": "2026-11-22T11:45:00Z"
+  },
+  "A4 6022|2026-11-22T10:50:00Z": {
+   "number": "A4 6022",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T10:50:00Z",
+   "actual": "2026-11-22T11:50:00Z"
+  },
+  "S7 5046|2026-11-22T11:25:00Z": {
+   "number": "S7 5046",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-22T11:25:00Z",
+   "actual": "2026-11-22T11:50:00Z"
+  },
+  "S7 1136|2026-11-22T10:55:00Z": {
+   "number": "S7 1136",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T10:55:00Z",
+   "actual": "2026-11-22T11:53:00Z"
+  },
+  "4G 9658|2026-11-22T11:40:00Z": {
+   "number": "4G 9658",
+   "airline": "Gazpromavia",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-22T11:40:00Z",
+   "actual": "2026-11-22T13:00:00Z"
   }
  },
  "fetched": [
@@ -331,6 +381,7 @@
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
-  "2026-11-22T10:07:24Z"
+  "2026-11-22T10:07:24Z",
+  "2026-11-22T12:07:24Z"
  ]
 }

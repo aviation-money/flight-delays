@@ -168,9 +168,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T09:05:00Z",
-   "actual": "2026-11-22T09:05:00Z"
+   "actual": "2026-11-22T08:56:00Z"
   },
   "HZ 5623|2026-11-22T09:10:00Z": {
    "number": "HZ 5623",
@@ -188,9 +188,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T10:50:00Z",
-   "actual": "2026-11-22T10:50:00Z"
+   "actual": "2026-11-22T10:57:00Z"
   }
  },
  "fetched": [
@@ -204,6 +204,7 @@
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
-  "2026-11-22T10:07:24Z"
+  "2026-11-22T10:07:24Z",
+  "2026-11-22T12:07:24Z"
  ]
 }

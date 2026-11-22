@@ -208,9 +208,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T09:25:00Z",
-   "actual": "2026-11-22T09:25:00Z"
+   "actual": "2026-11-22T09:45:00Z"
   },
   "IO 109|2026-11-22T09:10:00Z": {
    "number": "IO 109",
@@ -218,9 +218,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Sukhoi Superjet 100",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-22T09:10:00Z",
-   "actual": "2026-11-22T09:45:00Z"
+   "actual": "2026-11-22T10:42:00Z"
   },
   "HZ 5640|2026-11-22T10:40:00Z": {
    "number": "HZ 5640",
@@ -228,9 +228,49 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T10:40:00Z",
-   "actual": "2026-11-22T10:40:00Z"
+   "actual": "2026-11-22T10:50:00Z"
+  },
+  "HZ 5652|2026-11-22T11:55:00Z": {
+   "number": "HZ 5652",
+   "airline": "Aurora",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T11:55:00Z",
+   "actual": "2026-11-22T11:55:00Z"
+  },
+  "SU 850|2026-11-22T12:20:00Z": {
+   "number": "SU 850",
+   "airline": "Aeroflot",
+   "to": "SYX",
+   "to_name": "Sanya",
+   "model": "del2",
+   "status": "Expected",
+   "scheduled": "2026-11-22T12:20:00Z",
+   "actual": "2026-11-22T12:20:00Z"
+  },
+  "FV 6280|2026-11-22T12:35:00Z": {
+   "number": "FV 6280",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300",
+   "status": "Expected",
+   "scheduled": "2026-11-22T12:35:00Z",
+   "actual": "2026-11-22T12:35:00Z"
+  },
+  "HZ 5476|2026-11-22T13:00:00Z": {
+   "number": "HZ 5476",
+   "airline": "Aurora",
+   "to": "PVG",
+   "to_name": "Shanghai",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T13:00:00Z",
+   "actual": "2026-11-22T13:00:00Z"
   }
  },
  "fetched": [
@@ -244,6 +284,7 @@
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
-  "2026-11-22T10:07:24Z"
+  "2026-11-22T10:07:24Z",
+  "2026-11-22T12:07:24Z"
  ]
 }
