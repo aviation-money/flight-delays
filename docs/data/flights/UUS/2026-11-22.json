@@ -148,9 +148,29 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T06:30:00Z",
    "actual": "2026-11-22T06:30:00Z"
+  },
+  "S7 6202|2026-11-22T08:00:00Z": {
+   "number": "S7 6202",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T08:00:00Z",
+   "actual": "2026-11-22T08:00:00Z"
+  },
+  "FV 5716|2026-11-22T09:05:00Z": {
+   "number": "FV 5716",
+   "airline": "Rossiya",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T09:05:00Z",
+   "actual": "2026-11-22T09:05:00Z"
   }
  },
  "fetched": [
@@ -162,6 +182,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

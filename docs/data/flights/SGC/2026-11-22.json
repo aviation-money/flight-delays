@@ -161,6 +161,26 @@
    "status": "Departed",
    "scheduled": "2026-11-22T04:45:00Z",
    "actual": "2026-11-22T04:59:00Z"
+  },
+  "UT 139|2026-11-22T08:25:00Z": {
+   "number": "UT 139",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T08:25:00Z",
+   "actual": "2026-11-22T08:25:00Z"
+  },
+  "UT 6441|2026-11-22T07:50:00Z": {
+   "number": "UT 6441",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T07:50:00Z",
+   "actual": "2026-11-22T08:30:00Z"
   }
  },
  "fetched": [
@@ -169,6 +189,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

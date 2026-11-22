@@ -248,9 +248,49 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T06:00:00Z",
-   "actual": "2026-11-22T06:20:00Z"
+   "actual": "2026-11-22T06:50:00Z"
+  },
+  "S7 6432A|2026-11-22T13:40:00Z": {
+   "number": "S7 6432A",
+   "airline": "S7",
+   "to": "Irkutsk",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-22T13:40:00Z",
+   "actual": "2026-11-22T07:15:00Z"
+  },
+  "KV 9285|2026-11-22T08:00:00Z": {
+   "number": "KV 9285",
+   "airline": "KrasAvia",
+   "to": "Igarka",
+   "to_name": "Igarka",
+   "model": "An-26",
+   "status": "Canceled",
+   "scheduled": "2026-11-22T08:00:00Z",
+   "actual": "2026-11-22T08:00:00Z"
+  },
+  "KV 9283|2026-11-22T08:00:00Z": {
+   "number": "KV 9283",
+   "airline": "KrasAvia",
+   "to": "Igarka",
+   "to_name": "Igarka",
+   "model": "An-26",
+   "status": "Expected",
+   "scheduled": "2026-11-22T08:00:00Z",
+   "actual": "2026-11-22T08:00:00Z"
+  },
+  "S7 5308|2026-11-22T07:50:00Z": {
+   "number": "S7 5308",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-22T07:50:00Z",
+   "actual": "2026-11-22T08:15:00Z"
   }
  },
  "fetched": [
@@ -260,6 +300,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

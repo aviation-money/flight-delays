@@ -168,7 +168,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T05:20:00Z",
    "actual": "2026-11-22T05:29:00Z"
   },
@@ -178,9 +178,9 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T06:10:00Z",
-   "actual": "2026-11-22T06:10:00Z"
+   "actual": "2026-11-22T06:18:00Z"
   },
   "HZ 5602|2026-11-22T06:35:00Z": {
    "number": "HZ 5602",
@@ -188,7 +188,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T06:35:00Z",
    "actual": "2026-11-22T06:35:00Z"
   },
@@ -200,7 +200,37 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-22T06:45:00Z",
-   "actual": "2026-11-22T06:45:00Z"
+   "actual": "2026-11-22T06:46:00Z"
+  },
+  "SU 638|2026-11-22T07:45:00Z": {
+   "number": "SU 638",
+   "airline": "Aeroflot",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-22T07:45:00Z",
+   "actual": "2026-11-22T08:05:00Z"
+  },
+  "CA 812|2026-11-22T08:20:00Z": {
+   "number": "CA 812",
+   "airline": "Air China",
+   "to": "PEK",
+   "to_name": "Beijing",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-22T08:20:00Z",
+   "actual": "2026-11-22T08:20:00Z"
+  },
+  "KN 878|2026-11-22T09:05:00Z": {
+   "number": "KN 878",
+   "airline": "China United",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-22T09:05:00Z",
+   "actual": "2026-11-22T09:05:00Z"
   }
  },
  "fetched": [
@@ -212,6 +242,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

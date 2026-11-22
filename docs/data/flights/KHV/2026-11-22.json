@@ -178,9 +178,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus Industrie А330-300",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:35:00Z",
-   "actual": "2026-11-22T05:35:00Z"
+   "actual": "2026-11-22T06:13:00Z"
+  },
+  "S7 6513|2026-11-22T08:30:00Z": {
+   "number": "S7 6513",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus Industrie А320",
+   "status": "Delayed",
+   "scheduled": "2026-11-22T08:30:00Z",
+   "actual": "2026-11-22T08:50:00Z"
+  },
+  "HZ 5601|2026-11-22T09:00:00Z": {
+   "number": "HZ 5601",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T09:00:00Z",
+   "actual": "2026-11-22T09:00:00Z"
   }
  },
  "fetched": [
@@ -192,6 +212,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

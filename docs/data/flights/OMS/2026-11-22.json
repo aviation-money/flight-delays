@@ -111,6 +111,26 @@
    "status": "Unknown",
    "scheduled": "2026-11-22T05:45:00Z",
    "actual": null
+  },
+  "YC 618|2026-11-22T08:10:00Z": {
+   "number": "YC 618",
+   "airline": "Yamal",
+   "to": "NYM",
+   "to_name": "Nadym",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-22T08:10:00Z",
+   "actual": "2026-11-22T08:10:00Z"
+  },
+  "UT 187|2026-11-22T08:40:00Z": {
+   "number": "UT 187",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-22T08:40:00Z",
+   "actual": "2026-11-22T08:40:00Z"
   }
  },
  "fetched": [
@@ -120,6 +140,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

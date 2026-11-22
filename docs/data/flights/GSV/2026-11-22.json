@@ -8,9 +8,19 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T06:35:00Z",
-   "actual": "2026-11-22T07:00:00Z"
+   "actual": "2026-11-22T07:25:00Z"
+  },
+  "SU 1357|2026-11-22T07:55:00Z": {
+   "number": "SU 1357",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T07:55:00Z",
+   "actual": "2026-11-22T07:55:00Z"
   }
  },
  "fetched": [
@@ -19,6 +29,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

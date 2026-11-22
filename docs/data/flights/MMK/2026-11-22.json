@@ -18,7 +18,7 @@
    "to": "CEE",
    "to_name": "Cherepovets",
    "model": "Bombardier CRJ200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T06:00:00Z",
    "actual": "2026-11-22T06:00:00Z"
   },
@@ -28,9 +28,39 @@
    "to": "Arkhangelsk",
    "to_name": "Arkhangelsk",
    "model": null,
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-22T07:00:00Z",
-   "actual": "2026-11-22T07:00:00Z"
+   "actual": "2026-11-22T09:00:00Z"
+  },
+  "D2 52|2026-11-22T08:00:00Z": {
+   "number": "D2 52",
+   "airline": "Severstal Aircompany",
+   "to": "Arkhangelsk",
+   "to_name": "Arkhangelsk",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T08:00:00Z",
+   "actual": "2026-11-22T08:00:00Z"
+  },
+  "5N 508|2026-11-22T08:15:00Z": {
+   "number": "5N 508",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T08:15:00Z",
+   "actual": "2026-11-22T08:15:00Z"
+  },
+  "FV 6344|2026-11-22T09:05:00Z": {
+   "number": "FV 6344",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T09:05:00Z",
+   "actual": "2026-11-22T09:05:00Z"
   }
  },
  "fetched": [
@@ -38,6 +68,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

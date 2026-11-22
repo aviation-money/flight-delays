@@ -137,7 +137,7 @@
    "airline": "Rossiya",
    "to": "KJA",
    "to_name": "Krasnoyarsk",
-   "model": "Sukhoi Superjet 100",
+   "model": "Sukhoi Superjet 100-95",
    "status": "Departed",
    "scheduled": "2026-11-22T05:00:00Z",
    "actual": "2026-11-22T05:03:00Z"
@@ -148,9 +148,9 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T01:10:00Z",
-   "actual": "2026-11-22T06:00:00Z"
+   "actual": "2026-11-22T06:10:00Z"
   },
   "UT 131|2026-11-22T04:15:00Z": {
    "number": "UT 131",
@@ -160,7 +160,37 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-22T04:15:00Z",
-   "actual": "2026-11-22T06:15:00Z"
+   "actual": "2026-11-22T08:15:00Z"
+  },
+  "4G 203|2026-11-22T07:40:00Z": {
+   "number": "4G 203",
+   "airline": "Gazpromavia",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-22T07:40:00Z",
+   "actual": "2026-11-22T07:56:00Z"
+  },
+  "SU 1505|2026-11-22T08:25:00Z": {
+   "number": "SU 1505",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T08:25:00Z",
+   "actual": "2026-11-22T08:25:00Z"
+  },
+  "UT 209|2026-11-22T08:50:00Z": {
+   "number": "UT 209",
+   "airline": "UTAir",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T08:50:00Z",
+   "actual": "2026-11-22T08:50:00Z"
   }
  },
  "fetched": [
@@ -169,6 +199,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

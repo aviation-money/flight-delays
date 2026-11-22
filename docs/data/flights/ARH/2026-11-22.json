@@ -21,6 +21,26 @@
    "status": "Departed",
    "scheduled": "2026-11-22T04:00:00Z",
    "actual": "2026-11-22T04:05:00Z"
+  },
+  "FV 6304|2026-11-22T07:20:00Z": {
+   "number": "FV 6304",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-22T07:20:00Z",
+   "actual": "2026-11-22T07:39:00Z"
+  },
+  "5N 307|2026-11-22T08:15:00Z": {
+   "number": "5N 307",
+   "airline": "Smartavia",
+   "to": "NNM",
+   "to_name": "Naryan Mar",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T08:15:00Z",
+   "actual": "2026-11-22T08:15:00Z"
   }
  },
  "fetched": [
@@ -28,6 +48,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

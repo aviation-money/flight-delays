@@ -68,16 +68,16 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:50:00Z",
-   "actual": "2026-11-22T05:50:00Z"
+   "actual": "2026-11-22T06:09:00Z"
   },
   "UT 6146|2026-11-22T04:20:00Z": {
    "number": "UT 6146",
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737-500",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-22T04:20:00Z",
    "actual": "2026-11-22T04:55:00Z"
@@ -108,9 +108,19 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T05:40:00Z",
-   "actual": "2026-11-22T05:50:00Z"
+   "actual": "2026-11-22T06:05:00Z"
+  },
+  "UT 542|2026-11-22T07:30:00Z": {
+   "number": "UT 542",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-22T07:30:00Z",
+   "actual": "2026-11-22T07:59:00Z"
   }
  },
  "fetched": [
@@ -119,6 +129,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

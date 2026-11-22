@@ -327,7 +327,7 @@
    "airline": "S7",
    "to": "DME",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A319",
    "status": "Unknown",
    "scheduled": "2026-11-22T03:40:00Z",
    "actual": null
@@ -348,7 +348,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:55:00Z",
    "actual": null
   },
@@ -357,7 +357,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-800",
+   "model": "Airbus A320 NEO",
    "status": "Expected",
    "scheduled": "2026-11-22T04:10:00Z",
    "actual": null
@@ -368,7 +368,7 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:10:00Z",
    "actual": null
   },
@@ -431,6 +431,16 @@
    "status": "Expected",
    "scheduled": "2026-11-22T06:25:00Z",
    "actual": null
+  },
+  "IO 232|2026-11-22T07:45:00Z": {
+   "number": "IO 232",
+   "airline": "IrAero",
+   "to": "UBN",
+   "to_name": "Ulaan Baatar",
+   "model": "Bombardier CRJ",
+   "status": "Expected",
+   "scheduled": "2026-11-22T07:45:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -441,6 +451,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

@@ -201,6 +201,66 @@
    "status": "Departed",
    "scheduled": "2026-11-22T00:05:00Z",
    "actual": "2026-11-22T03:58:00Z"
+  },
+  "UT 106|2026-11-22T04:05:00Z": {
+   "number": "UT 106",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-22T04:05:00Z",
+   "actual": "2026-11-22T07:39:00Z"
+  },
+  "SU 1237|2026-11-22T07:45:00Z": {
+   "number": "SU 1237",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T07:45:00Z",
+   "actual": "2026-11-22T07:48:00Z"
+  },
+  "UT 185|2026-11-22T07:55:00Z": {
+   "number": "UT 185",
+   "airline": "UTAir",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Boeing 737-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T07:55:00Z",
+   "actual": "2026-11-22T07:55:00Z"
+  },
+  "UT 9045|2026-11-22T08:05:00Z": {
+   "number": "UT 9045",
+   "airline": "UTAir",
+   "to": "BTK",
+   "to_name": "Bratsk",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T08:05:00Z",
+   "actual": "2026-11-22T08:05:00Z"
+  },
+  "UT 1126|2026-11-22T07:50:00Z": {
+   "number": "UT 1126",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T07:50:00Z",
+   "actual": "2026-11-22T08:05:00Z"
+  },
+  "UT 133|2026-11-22T08:55:00Z": {
+   "number": "UT 133",
+   "airline": "UTAir",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T08:55:00Z",
+   "actual": "2026-11-22T08:55:00Z"
   }
  },
  "fetched": [
@@ -209,6 +269,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }

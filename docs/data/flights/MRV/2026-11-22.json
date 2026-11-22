@@ -60,7 +60,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "GateClosed",
    "scheduled": "2026-11-22T03:40:00Z",
-   "actual": "2026-11-22T06:30:00Z"
+   "actual": "2026-11-22T08:00:00Z"
   },
   "SU 812|2026-11-22T04:00:00Z": {
    "number": "SU 812",
@@ -88,9 +88,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T06:00:00Z",
-   "actual": "2026-11-22T06:30:00Z"
+   "actual": "2026-11-22T07:20:00Z"
   },
   "A4 6073|2026-11-22T06:30:00Z": {
    "number": "A4 6073",
@@ -98,9 +98,9 @@
    "to": "Istanbul",
    "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-22T06:30:00Z",
-   "actual": "2026-11-22T06:30:00Z"
+   "actual": "2026-11-22T07:35:00Z"
   },
   "SU 1315|2026-11-22T06:45:00Z": {
    "number": "SU 1315",
@@ -108,9 +108,39 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T06:45:00Z",
-   "actual": "2026-11-22T06:45:00Z"
+   "actual": "2026-11-22T07:01:00Z"
+  },
+  "A4 6005|2026-11-22T07:10:00Z": {
+   "number": "A4 6005",
+   "airline": "Azimuth",
+   "to": "PKV",
+   "to_name": "Pskov",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T07:10:00Z",
+   "actual": "2026-11-22T07:25:00Z"
+  },
+  "A4 6217|2026-11-22T07:40:00Z": {
+   "number": "A4 6217",
+   "airline": "Azimuth",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T07:40:00Z",
+   "actual": "2026-11-22T07:40:00Z"
+  },
+  "UT 510|2026-11-22T07:40:00Z": {
+   "number": "UT 510",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T07:40:00Z",
+   "actual": "2026-11-22T09:00:00Z"
   }
  },
  "fetched": [
@@ -118,6 +148,7 @@
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
-  "2026-11-22T06:07:25Z"
+  "2026-11-22T06:07:25Z",
+  "2026-11-22T08:07:25Z"
  ]
 }
