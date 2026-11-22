@@ -8,15 +8,46 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:45:00Z",
-   "actual": "2026-11-22T00:05:00Z"
+   "actual": "2026-11-22T00:31:00Z"
+  },
+  "SU 1537|2026-11-22T01:20:00Z": {
+   "number": "SU 1537",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
+   "scheduled": "2026-11-22T01:20:00Z",
+   "actual": "2026-11-22T01:46:00Z"
+  },
+  "N4 314|2026-11-22T01:50:00Z": {
+   "number": "N4 314",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T01:50:00Z",
+   "actual": "2026-11-22T02:30:00Z"
+  },
+  "SU 1431|2026-11-22T03:00:00Z": {
+   "number": "SU 1431",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T03:00:00Z",
+   "actual": "2026-11-22T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-21T18:07:23Z",
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
-  "2026-11-22T00:07:24Z"
+  "2026-11-22T00:07:24Z",
+  "2026-11-22T02:07:28Z"
  ]
 }

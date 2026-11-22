@@ -330,7 +330,7 @@
    "model": "Airbus A330",
    "status": "Departed",
    "scheduled": "2026-11-21T23:35:00Z",
-   "actual": "2026-11-21T23:37:00Z"
+   "actual": "2026-11-21T23:35:00Z"
   },
   "SU 1890|2026-11-21T23:55:00Z": {
    "number": "SU 1890",
@@ -348,13 +348,44 @@
    "to": "BEG",
    "to_name": "Belgrade",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T01:00:00Z",
-   "actual": "2026-11-22T01:00:00Z"
+   "actual": "2026-11-22T01:11:00Z"
+  },
+  "UJ 614|2026-11-22T01:30:00Z": {
+   "number": "UJ 614",
+   "airline": "AlMasria",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T01:30:00Z",
+   "actual": "2026-11-22T02:10:00Z"
+  },
+  "FV 6277|2026-11-22T02:25:00Z": {
+   "number": "FV 6277",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Boeing 777",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T02:25:00Z",
+   "actual": "2026-11-22T02:25:00Z"
+  },
+  "SU 2132|2026-11-22T02:35:00Z": {
+   "number": "SU 2132",
+   "airline": "Aeroflot",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T02:35:00Z",
+   "actual": "2026-11-22T02:35:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
-  "2026-11-22T00:07:24Z"
+  "2026-11-22T00:07:24Z",
+  "2026-11-22T02:07:28Z"
  ]
 }

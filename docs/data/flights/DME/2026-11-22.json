@@ -37,7 +37,7 @@
    "airline": "S7",
    "to": "NUX",
    "to_name": "Novyy Urengoy",
-   "model": "Airbus A320-200",
+   "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-21T22:40:00Z",
    "actual": "2026-11-21T23:02:00Z"
@@ -58,9 +58,9 @@
    "to": "NOJ",
    "to_name": "Noyabrsk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T23:50:00Z",
-   "actual": "2026-11-21T23:50:00Z"
+   "actual": "2026-11-22T00:04:00Z"
   },
   "YC 32|2026-11-22T00:05:00Z": {
    "number": "YC 32",
@@ -68,13 +68,14 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T00:05:00Z",
-   "actual": "2026-11-22T00:05:00Z"
+   "actual": "2026-11-22T00:19:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
-  "2026-11-22T00:07:24Z"
+  "2026-11-22T00:07:24Z",
+  "2026-11-22T02:07:28Z"
  ]
 }

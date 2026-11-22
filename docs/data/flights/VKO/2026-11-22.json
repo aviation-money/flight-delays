@@ -58,9 +58,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T23:50:00Z",
-   "actual": "2026-11-21T23:50:00Z"
+   "actual": "2026-11-22T00:02:00Z"
   },
   "VF 276|2026-11-21T23:50:00Z": {
    "number": "VF 276",
@@ -68,16 +68,16 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T23:50:00Z",
-   "actual": "2026-11-21T23:50:00Z"
+   "actual": "2026-11-21T23:54:00Z"
   },
   "TK 422|2026-11-21T23:40:00Z": {
    "number": "TK 422",
    "airline": "Turkish",
    "to": "IST",
    "to_name": "Istanbul",
-   "model": "Airbus A321",
+   "model": "Airbus A330-300",
    "status": "Departed",
    "scheduled": "2026-11-21T23:40:00Z",
    "actual": "2026-11-21T23:53:00Z"
@@ -88,13 +88,64 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Airbus A321 NEO",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T00:10:00Z",
-   "actual": "2026-11-22T01:00:00Z"
+   "actual": "2026-11-22T01:51:00Z"
+  },
+  "PC 1577|2026-11-22T01:10:00Z": {
+   "number": "PC 1577",
+   "airline": "Pegasus",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Airbus A320 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-22T01:10:00Z",
+   "actual": "2026-11-22T01:13:00Z"
+  },
+  "PC 1521|2026-11-22T01:10:00Z": {
+   "number": "PC 1521",
+   "airline": "Pegasus",
+   "to": "ADB",
+   "to_name": "İzmir",
+   "model": "Airbus A320 NEO",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T01:10:00Z",
+   "actual": "2026-11-22T01:50:00Z"
+  },
+  "A4 9173|2026-11-22T02:00:00Z": {
+   "number": "A4 9173",
+   "airline": "Azimuth",
+   "to": "COV",
+   "to_name": "Adana",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T02:00:00Z",
+   "actual": "2026-11-22T02:00:00Z"
+  },
+  "UT 743|2026-11-22T02:45:00Z": {
+   "number": "UT 743",
+   "airline": "UTAir",
+   "to": "Ganja",
+   "to_name": "Ganja",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T02:45:00Z",
+   "actual": "2026-11-22T02:45:00Z"
+  },
+  "VF 588|2026-11-22T02:30:00Z": {
+   "number": "VF 588",
+   "airline": "AJet",
+   "to": "ESB",
+   "to_name": "Ankara",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T02:30:00Z",
+   "actual": "2026-11-22T02:50:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
-  "2026-11-22T00:07:24Z"
+  "2026-11-22T00:07:24Z",
+  "2026-11-22T02:07:28Z"
  ]
 }

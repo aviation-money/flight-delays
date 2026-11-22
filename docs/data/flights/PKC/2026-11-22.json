@@ -18,9 +18,29 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-21T23:30:00Z",
-   "actual": "2026-11-22T00:25:00Z"
+   "actual": "2026-11-22T00:46:00Z"
+  },
+  "SU 1731|2026-11-22T01:25:00Z": {
+   "number": "SU 1731",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Departed",
+   "scheduled": "2026-11-22T01:25:00Z",
+   "actual": "2026-11-22T01:27:00Z"
+  },
+  "HZ 5615|2026-11-22T01:40:00Z": {
+   "number": "HZ 5615",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T01:40:00Z",
+   "actual": "2026-11-22T01:44:00Z"
   }
  },
  "fetched": [
@@ -30,6 +50,7 @@
   "2026-11-21T18:07:23Z",
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
-  "2026-11-22T00:07:24Z"
+  "2026-11-22T00:07:24Z",
+  "2026-11-22T02:07:28Z"
  ]
 }

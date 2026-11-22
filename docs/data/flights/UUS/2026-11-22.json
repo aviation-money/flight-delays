@@ -58,9 +58,9 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Airbus A319",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T00:20:00Z",
-   "actual": "2026-11-22T00:20:00Z"
+   "actual": "2026-11-22T00:36:00Z"
   },
   "HZ 5627|2026-11-22T00:40:00Z": {
    "number": "HZ 5627",
@@ -68,7 +68,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T00:40:00Z",
    "actual": "2026-11-22T00:40:00Z"
   },
@@ -81,6 +81,26 @@
    "status": "Expected",
    "scheduled": "2026-11-22T01:00:00Z",
    "actual": "2026-11-22T01:00:00Z"
+  },
+  "HZ 3004|2026-11-22T02:30:00Z": {
+   "number": "HZ 3004",
+   "airline": "Aurora",
+   "to": "NGK",
+   "to_name": "Nogliki-Sakhalin Island",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-22T02:30:00Z",
+   "actual": "2026-11-22T02:30:00Z"
+  },
+  "ATI 6503|2026-11-22T03:00:00Z": {
+   "number": "ATI 6503",
+   "airline": "ATI",
+   "to": "NGK",
+   "to_name": "Nogliki-Sakhalin Island",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-22T03:00:00Z",
+   "actual": "2026-11-22T03:00:00Z"
   }
  },
  "fetched": [
@@ -89,6 +109,7 @@
   "2026-11-21T18:07:23Z",
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
-  "2026-11-22T00:07:24Z"
+  "2026-11-22T00:07:24Z",
+  "2026-11-22T02:07:28Z"
  ]
 }

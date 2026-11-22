@@ -11,10 +11,21 @@
    "status": "Expected",
    "scheduled": "2026-11-22T00:05:00Z",
    "actual": null
+  },
+  "UT 356|2026-11-22T02:45:00Z": {
+   "number": "UT 356",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T02:45:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
-  "2026-11-22T00:07:24Z"
+  "2026-11-22T00:07:24Z",
+  "2026-11-22T02:07:28Z"
  ]
 }

@@ -18,14 +18,25 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-900",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-22T01:05:00Z",
-   "actual": "2026-11-22T01:05:00Z"
+   "actual": "2026-11-22T01:40:00Z"
+  },
+  "FV 6454|2026-11-22T01:25:00Z": {
+   "number": "FV 6454",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T01:25:00Z",
+   "actual": "2026-11-22T01:25:00Z"
   }
  },
  "fetched": [
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
-  "2026-11-22T00:07:24Z"
+  "2026-11-22T00:07:24Z",
+  "2026-11-22T02:07:28Z"
  ]
 }
