@@ -71,11 +71,22 @@
    "status": "Departed",
    "scheduled": "2026-11-22T00:05:00Z",
    "actual": "2026-11-22T00:19:00Z"
+  },
+  "HH 706|2026-11-22T05:00:00Z": {
+   "number": "HH 706",
+   "airline": "Taban",
+   "to": "NMA",
+   "to_name": "Namangan",
+   "model": "Airbus A321-200 (Sharklets)",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T05:00:00Z",
+   "actual": "2026-11-22T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

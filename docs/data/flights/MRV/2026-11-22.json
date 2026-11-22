@@ -47,15 +47,46 @@
    "airline": "flydubai",
    "to": "DXB",
    "to_name": "Dubai",
-   "model": "Boeing 737",
+   "model": "Boeing 737 MAX 8",
    "status": "Departed",
    "scheduled": "2026-11-22T00:30:00Z",
    "actual": "2026-11-22T00:37:00Z"
+  },
+  "YC 378|2026-11-22T03:40:00Z": {
+   "number": "YC 378",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T03:40:00Z",
+   "actual": "2026-11-22T03:40:00Z"
+  },
+  "SU 812|2026-11-22T04:00:00Z": {
+   "number": "SU 812",
+   "airline": "Aeroflot",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T04:00:00Z",
+   "actual": "2026-11-22T04:00:00Z"
+  },
+  "U6 2865|2026-11-22T04:35:00Z": {
+   "number": "U6 2865",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T04:35:00Z",
+   "actual": "2026-11-22T04:35:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

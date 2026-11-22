@@ -8,9 +8,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T02:50:00Z",
-   "actual": "2026-11-22T02:50:00Z"
+   "actual": "2026-11-22T03:16:00Z"
   },
   "YC 189|2026-11-22T03:05:00Z": {
    "number": "YC 189",
@@ -18,15 +18,76 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:05:00Z",
-   "actual": "2026-11-22T03:05:00Z"
+   "actual": "2026-11-22T03:40:00Z"
+  },
+  "RT 336|2026-11-22T03:35:00Z": {
+   "number": "RT 336",
+   "airline": "UVT Aero",
+   "to": "UUA",
+   "to_name": "Bugulma",
+   "model": "Bombardier CRJ200",
+   "status": "Departed",
+   "scheduled": "2026-11-22T03:35:00Z",
+   "actual": "2026-11-22T03:44:00Z"
+  },
+  "S7 2572|2026-11-22T03:20:00Z": {
+   "number": "S7 2572",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T03:20:00Z",
+   "actual": "2026-11-22T03:54:00Z"
+  },
+  "4G 9816|2026-11-22T03:30:00Z": {
+   "number": "4G 9816",
+   "airline": "Gazpromavia",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-22T03:30:00Z",
+   "actual": "2026-11-22T03:57:00Z"
+  },
+  "4G 9814|2026-11-22T04:00:00Z": {
+   "number": "4G 9814",
+   "airline": "Gazpromavia",
+   "to": "Novyy Port",
+   "to_name": "Novyy Port",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T04:00:00Z",
+   "actual": "2026-11-22T04:00:00Z"
+  },
+  "WZ 1508|2026-11-22T03:50:00Z": {
+   "number": "WZ 1508",
+   "airline": "Red Wings",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-22T03:50:00Z",
+   "actual": "2026-11-22T04:20:00Z"
+  },
+  "UT 6146|2026-11-22T04:20:00Z": {
+   "number": "UT 6146",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-500",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T04:20:00Z",
+   "actual": "2026-11-22T04:20:00Z"
   }
  },
  "fetched": [
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

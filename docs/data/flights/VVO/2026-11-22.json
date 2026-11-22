@@ -118,7 +118,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T00:40:00Z",
    "actual": "2026-11-22T00:44:00Z"
   },
@@ -127,7 +127,7 @@
    "airline": "Aeroflot",
    "to": "BKK",
    "to_name": "Bangkok",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-8LJ",
    "status": "Expected",
    "scheduled": "2026-11-22T00:55:00Z",
    "actual": "2026-11-22T01:22:00Z"
@@ -140,7 +140,27 @@
    "model": "Boeing 777-300",
    "status": "Expected",
    "scheduled": "2026-11-22T02:05:00Z",
-   "actual": "2026-11-22T02:05:00Z"
+   "actual": "2026-11-22T02:20:00Z"
+  },
+  "FV 6260|2026-11-22T03:50:00Z": {
+   "number": "FV 6260",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 747-400",
+   "status": "Expected",
+   "scheduled": "2026-11-22T03:50:00Z",
+   "actual": "2026-11-22T03:50:00Z"
+  },
+  "S7 6261|2026-11-22T04:30:00Z": {
+   "number": "S7 6261",
+   "airline": "S7",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T04:30:00Z",
+   "actual": "2026-11-22T04:30:00Z"
   }
  },
  "fetched": [
@@ -150,6 +170,7 @@
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

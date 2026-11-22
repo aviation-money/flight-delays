@@ -31,11 +31,22 @@
    "status": "Expected",
    "scheduled": "2026-11-22T02:50:00Z",
    "actual": "2026-11-22T02:50:00Z"
+  },
+  "YC 486|2026-11-22T02:46:00Z": {
+   "number": "YC 486",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T02:46:00Z",
+   "actual": "2026-11-22T02:46:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

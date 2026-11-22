@@ -51,6 +51,36 @@
    "status": "Departed",
    "scheduled": "2026-11-22T01:30:00Z",
    "actual": "2026-11-22T01:39:00Z"
+  },
+  "FV 6290|2026-11-22T03:35:00Z": {
+   "number": "FV 6290",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T03:35:00Z",
+   "actual": "2026-11-22T03:35:00Z"
+  },
+  "S7 6516|2026-11-22T04:25:00Z": {
+   "number": "S7 6516",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T04:25:00Z",
+   "actual": "2026-11-22T04:25:00Z"
+  },
+  "HZ 5613|2026-11-22T04:50:00Z": {
+   "number": "HZ 5613",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T04:50:00Z",
+   "actual": "2026-11-22T04:50:00Z"
   }
  },
  "fetched": [
@@ -60,6 +90,7 @@
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

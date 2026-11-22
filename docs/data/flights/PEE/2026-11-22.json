@@ -47,16 +47,27 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
-   "status": "Boarding",
+   "model": "Airbus A320",
+   "status": "Departed",
    "scheduled": "2026-11-22T02:20:00Z",
-   "actual": "2026-11-22T02:20:00Z"
+   "actual": "2026-11-22T02:25:00Z"
+  },
+  "RT 255|2026-11-22T03:10:00Z": {
+   "number": "RT 255",
+   "airline": "UVT Aero",
+   "to": "RGK",
+   "to_name": "Gorno-Altaysk",
+   "model": "Bombardier",
+   "status": "Departed",
+   "scheduled": "2026-11-22T03:10:00Z",
+   "actual": "2026-11-22T03:10:00Z"
   }
  },
  "fetched": [
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

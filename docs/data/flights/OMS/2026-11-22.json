@@ -28,7 +28,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-21T23:50:00Z",
    "actual": "2026-11-21T23:50:00Z"
   },
@@ -68,9 +68,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T01:05:00Z",
-   "actual": "2026-11-22T01:05:00Z"
+   "actual": "2026-11-22T02:25:00Z"
   },
   "SU 1639|2026-11-22T02:05:00Z": {
    "number": "SU 1639",
@@ -78,9 +78,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T02:05:00Z",
-   "actual": "2026-11-22T02:05:00Z"
+   "actual": "2026-11-22T02:40:00Z"
   },
   "EO 760|2026-11-22T02:25:00Z": {
    "number": "EO 760",
@@ -88,9 +88,19 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Embraer 190",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T02:25:00Z",
-   "actual": "2026-11-22T02:25:00Z"
+   "actual": "2026-11-22T02:43:00Z"
+  },
+  "IQ 522|2026-11-22T04:00:00Z": {
+   "number": "IQ 522",
+   "airline": "Qazaq Air",
+   "to": "NQZ",
+   "to_name": "Astana",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "Departed",
+   "scheduled": "2026-11-22T04:00:00Z",
+   "actual": "2026-11-22T04:01:00Z"
   }
  },
  "fetched": [
@@ -98,6 +108,7 @@
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

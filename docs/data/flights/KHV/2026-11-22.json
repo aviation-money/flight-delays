@@ -120,7 +120,7 @@
    "model": "LET L-410",
    "status": "Delayed",
    "scheduled": "2026-11-22T00:10:00Z",
-   "actual": "2026-11-22T02:10:00Z"
+   "actual": "2026-11-22T00:10:00Z"
   },
   "S7 6515|2026-11-22T00:15:00Z": {
    "number": "S7 6515",
@@ -161,6 +161,26 @@
    "status": "Departed",
    "scheduled": "2026-11-22T01:10:00Z",
    "actual": "2026-11-22T01:18:00Z"
+  },
+  "HZ 5628|2026-11-22T04:00:00Z": {
+   "number": "HZ 5628",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T04:00:00Z",
+   "actual": "2026-11-22T03:49:00Z"
+  },
+  "SU 1713|2026-11-22T04:35:00Z": {
+   "number": "SU 1713",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus Industrie А330-300",
+   "status": "Expected",
+   "scheduled": "2026-11-22T04:35:00Z",
+   "actual": "2026-11-22T04:35:00Z"
   }
  },
  "fetched": [
@@ -170,6 +190,7 @@
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

@@ -101,6 +101,46 @@
    "status": "Expected",
    "scheduled": "2026-11-22T03:00:00Z",
    "actual": "2026-11-22T03:00:00Z"
+  },
+  "HZ 3016|2026-11-21T23:20:00Z": {
+   "number": "HZ 3016",
+   "airline": "Aurora",
+   "to": "Kurilsk",
+   "to_name": "Kurilsk",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "Departed",
+   "scheduled": "2026-11-21T23:20:00Z",
+   "actual": "2026-11-22T03:24:00Z"
+  },
+  "HZ 5681|2026-11-22T03:30:00Z": {
+   "number": "HZ 5681",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T03:30:00Z",
+   "actual": "2026-11-22T03:35:00Z"
+  },
+  "SU 1743|2026-11-22T03:50:00Z": {
+   "number": "SU 1743",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-22T03:50:00Z",
+   "actual": "2026-11-22T03:50:00Z"
+  },
+  "HZ 3018|2026-11-22T04:15:00Z": {
+   "number": "HZ 3018",
+   "airline": "Aurora",
+   "to": "Kurilsk",
+   "to_name": "Kurilsk",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T04:15:00Z",
+   "actual": "2026-11-22T04:15:00Z"
   }
  },
  "fetched": [
@@ -110,6 +150,7 @@
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

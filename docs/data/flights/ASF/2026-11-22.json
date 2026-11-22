@@ -28,15 +28,26 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:00:00Z",
-   "actual": "2026-11-22T03:00:00Z"
+   "actual": "2026-11-22T03:01:00Z"
+  },
+  "A4 5048|2026-11-22T05:00:00Z": {
+   "number": "A4 5048",
+   "airline": "Azimuth",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T05:00:00Z",
+   "actual": "2026-11-22T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

@@ -8,14 +8,25 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T02:55:00Z",
-   "actual": "2026-11-22T02:55:00Z"
+   "actual": "2026-11-22T03:34:00Z"
+  },
+  "D2 53|2026-11-22T04:00:00Z": {
+   "number": "D2 53",
+   "airline": "Severstal Aircompany",
+   "to": "MMK",
+   "to_name": "Murmansk",
+   "model": "CRJ200LR",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T04:00:00Z",
+   "actual": "2026-11-22T04:00:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

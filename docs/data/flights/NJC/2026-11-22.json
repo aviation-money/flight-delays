@@ -41,12 +41,23 @@
    "status": "Expected",
    "scheduled": "2026-11-22T00:50:00Z",
    "actual": null
+  },
+  "7R 816|2026-11-22T05:00:00Z": {
+   "number": "7R 816",
+   "airline": "RusLine",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Bombardier CRJ",
+   "status": "Expected",
+   "scheduled": "2026-11-22T05:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

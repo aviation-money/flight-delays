@@ -21,11 +21,32 @@
    "status": "Expected",
    "scheduled": "2026-11-22T03:00:00Z",
    "actual": null
+  },
+  "WZ 5046|2026-11-22T03:40:00Z": {
+   "number": "WZ 5046",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-22T03:40:00Z",
+   "actual": null
+  },
+  "DP 6926|2026-11-22T05:00:00Z": {
+   "number": "DP 6926",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T05:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

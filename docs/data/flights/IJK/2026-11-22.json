@@ -1,11 +1,23 @@
 {
  "airport": "IJK",
  "date": "2026-11-22",
- "flights": {},
+ "flights": {
+  "I8 301|2026-11-22T04:00:00Z": {
+   "number": "I8 301",
+   "airline": "Izhavia",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-22T04:00:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }

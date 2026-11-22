@@ -8,9 +8,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T01:50:00Z",
-   "actual": "2026-11-22T01:50:00Z"
+   "actual": "2026-11-22T02:39:00Z"
   },
   "UT 300|2026-11-22T03:00:00Z": {
    "number": "UT 300",
@@ -18,15 +18,26 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:00:00Z",
-   "actual": "2026-11-22T03:00:00Z"
+   "actual": "2026-11-22T03:03:00Z"
+  },
+  "UT 301|2026-11-22T05:00:00Z": {
+   "number": "UT 301",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T05:00:00Z",
+   "actual": "2026-11-22T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-21T20:07:26Z",
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
-  "2026-11-22T02:07:28Z"
+  "2026-11-22T02:07:28Z",
+  "2026-11-22T04:07:26Z"
  ]
 }
