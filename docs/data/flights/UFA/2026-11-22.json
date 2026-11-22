@@ -48,13 +48,64 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Yak 42",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:05:00Z",
-   "actual": "2026-11-21T22:05:00Z"
+   "actual": "2026-11-21T22:07:00Z"
+  },
+  "UT 6117|2026-11-21T23:40:00Z": {
+   "number": "UT 6117",
+   "airline": "UTAir",
+   "to": "IAA",
+   "to_name": "Igarka",
+   "model": "Boeing 737-400",
+   "status": "Canceled",
+   "scheduled": "2026-11-21T23:40:00Z",
+   "actual": "2026-11-21T23:40:00Z"
+  },
+  "A4 4039|2026-11-21T23:35:00Z": {
+   "number": "A4 4039",
+   "airline": "Azimuth",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T23:35:00Z",
+   "actual": "2026-11-21T23:50:00Z"
+  },
+  "Y7 4703|2026-11-21T23:50:00Z": {
+   "number": "Y7 4703",
+   "airline": "NordStar",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T23:50:00Z",
+   "actual": "2026-11-22T00:10:00Z"
+  },
+  "FV 6412|2026-11-22T00:30:00Z": {
+   "number": "FV 6412",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T00:30:00Z",
+   "actual": "2026-11-22T00:30:00Z"
+  },
+  "DP 775|2026-11-22T00:35:00Z": {
+   "number": "DP 775",
+   "airline": "Pobeda",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T00:35:00Z",
+   "actual": "2026-11-22T00:35:00Z"
   }
  },
  "fetched": [
   "2026-11-21T20:07:26Z",
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

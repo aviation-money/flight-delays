@@ -38,7 +38,7 @@
    "to": "TOF",
    "to_name": "Tomsk",
    "model": "ATR 42-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:25:00Z",
    "actual": "2026-11-21T22:25:00Z"
   },
@@ -48,14 +48,85 @@
    "to": "Norilsk",
    "to_name": "Norilsk",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T23:00:00Z",
    "actual": "2026-11-21T23:00:00Z"
+  },
+  "IO 1412|2026-11-21T23:30:00Z": {
+   "number": "IO 1412",
+   "airline": "IrAero",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-21T23:30:00Z",
+   "actual": "2026-11-21T23:30:00Z"
+  },
+  "U6 2919|2026-11-21T23:10:00Z": {
+   "number": "U6 2919",
+   "airline": "Ural",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Airbus A320",
+   "status": "Delayed",
+   "scheduled": "2026-11-21T23:10:00Z",
+   "actual": "2026-11-22T00:05:00Z"
+  },
+  "SU 1481|2026-11-22T00:15:00Z": {
+   "number": "SU 1481",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:15:00Z",
+   "actual": "2026-11-22T00:15:00Z"
+  },
+  "Y7 207|2026-11-22T00:20:00Z": {
+   "number": "Y7 207",
+   "airline": "NordStar",
+   "to": "Norilsk",
+   "to_name": "Norilsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:20:00Z",
+   "actual": "2026-11-22T00:20:00Z"
+  },
+  "FV 6574|2026-11-22T00:35:00Z": {
+   "number": "FV 6574",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:35:00Z",
+   "actual": "2026-11-22T00:35:00Z"
+  },
+  "UT 572|2026-11-22T00:10:00Z": {
+   "number": "UT 572",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Delayed",
+   "scheduled": "2026-11-22T00:10:00Z",
+   "actual": "2026-11-22T00:40:00Z"
+  },
+  "FV 6821|2026-11-22T01:05:00Z": {
+   "number": "FV 6821",
+   "airline": "Rossiya",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T01:05:00Z",
+   "actual": "2026-11-22T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-21T18:07:23Z",
   "2026-11-21T20:07:26Z",
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

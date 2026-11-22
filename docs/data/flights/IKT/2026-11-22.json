@@ -98,7 +98,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T20:05:00Z",
    "actual": null
   },
@@ -108,7 +108,7 @@
    "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T20:20:00Z",
    "actual": null
   },
@@ -195,11 +195,51 @@
   "IO 151|2026-11-21T23:00:00Z": {
    "number": "IO 151",
    "airline": "IrAero",
-   "to": "ODO",
+   "to": "Bodaybo",
    "to_name": "Bodaybo",
    "model": "An-24",
    "status": "Unknown",
    "scheduled": "2026-11-21T23:00:00Z",
+   "actual": null
+  },
+  "S7 6443|2026-11-21T23:30:00Z": {
+   "number": "S7 6443",
+   "airline": "S7",
+   "to": "BTK",
+   "to_name": "Bratsk",
+   "model": "Embraer 170",
+   "status": "Unknown",
+   "scheduled": "2026-11-21T23:30:00Z",
+   "actual": null
+  },
+  "UT 158|2026-11-21T23:45:00Z": {
+   "number": "UT 158",
+   "airline": "UTAir",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-21T23:45:00Z",
+   "actual": null
+  },
+  "S7 5232|2026-11-22T00:30:00Z": {
+   "number": "S7 5232",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:30:00Z",
+   "actual": null
+  },
+  "IO 9151|2026-11-22T00:40:00Z": {
+   "number": "IO 9151",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-26",
+   "status": "Unknown",
+   "scheduled": "2026-11-22T00:40:00Z",
    "actual": null
   }
  },
@@ -207,6 +247,7 @@
   "2026-11-21T16:07:27Z",
   "2026-11-21T18:07:23Z",
   "2026-11-21T20:07:26Z",
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

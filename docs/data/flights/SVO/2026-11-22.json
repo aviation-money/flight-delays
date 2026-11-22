@@ -47,7 +47,7 @@
    "airline": "VietJetAir",
    "to": "CXR",
    "to_name": "Nha Trang",
-   "model": "Airbus A330",
+   "model": "Airbus A330-300",
    "status": "Departed",
    "scheduled": "2026-11-21T21:15:00Z",
    "actual": "2026-11-21T21:21:00Z"
@@ -70,7 +70,7 @@
    "model": "Boeing 777",
    "status": "Departed",
    "scheduled": "2026-11-21T21:20:00Z",
-   "actual": "2026-11-21T21:26:00Z"
+   "actual": "2026-11-21T21:23:00Z"
   },
   "SU 428|2026-11-21T21:30:00Z": {
    "number": "SU 428",
@@ -157,7 +157,7 @@
    "airline": "Southwind",
    "to": "IST",
    "to_name": "Istanbul",
-   "model": "Boeing 737 MAX",
+   "model": "Boeing 737 MAX 8",
    "status": "Departed",
    "scheduled": "2026-11-21T21:50:00Z",
    "actual": "2026-11-21T21:49:00Z"
@@ -170,7 +170,7 @@
    "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-21T21:45:00Z",
-   "actual": "2026-11-21T21:53:00Z"
+   "actual": "2026-11-21T21:50:00Z"
   },
   "SU 1306|2026-11-21T21:55:00Z": {
    "number": "SU 1306",
@@ -198,9 +198,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T21:55:00Z",
-   "actual": "2026-11-21T21:55:00Z"
+   "actual": "2026-11-21T22:13:00Z"
   },
   "FV 6171|2026-11-21T21:45:00Z": {
    "number": "FV 6171",
@@ -228,9 +228,9 @@
    "to": "ALA",
    "to_name": "Almaty",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:05:00Z",
-   "actual": "2026-11-21T22:05:00Z"
+   "actual": "2026-11-21T22:04:00Z"
   },
   "FV 5955|2026-11-21T21:05:00Z": {
    "number": "FV 5955",
@@ -238,9 +238,9 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T21:05:00Z",
-   "actual": "2026-11-21T22:05:00Z"
+   "actual": "2026-11-21T23:10:00Z"
   },
   "SU 1482|2026-11-21T22:10:00Z": {
    "number": "SU 1482",
@@ -248,9 +248,9 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:10:00Z",
-   "actual": "2026-11-21T22:10:00Z"
+   "actual": "2026-11-21T22:47:00Z"
   },
   "SU 1524|2026-11-21T21:25:00Z": {
    "number": "SU 1524",
@@ -258,9 +258,9 @@
    "to": "RGK",
    "to_name": "Gorno-Altaysk",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T21:25:00Z",
-   "actual": "2026-11-21T22:25:00Z"
+   "actual": "2026-11-21T22:21:00Z"
   },
   "SU 1464|2026-11-21T22:30:00Z": {
    "number": "SU 1464",
@@ -268,17 +268,17 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:30:00Z",
-   "actual": "2026-11-21T22:30:00Z"
+   "actual": "2026-11-21T22:26:00Z"
   },
   "SU 1512|2026-11-21T22:35:00Z": {
    "number": "SU 1512",
    "airline": "Aeroflot",
    "to": "SGC",
    "to_name": "Surgut",
-   "model": "Airbus A320",
-   "status": "Boarding",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:35:00Z",
    "actual": "2026-11-21T22:35:00Z"
   },
@@ -288,9 +288,9 @@
    "to": "CMN",
    "to_name": "Casablanca",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:35:00Z",
-   "actual": "2026-11-21T22:35:00Z"
+   "actual": "2026-11-21T22:34:00Z"
   },
   "SU 524|2026-11-21T22:45:00Z": {
    "number": "SU 524",
@@ -298,7 +298,7 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:45:00Z",
    "actual": "2026-11-21T22:45:00Z"
   },
@@ -308,9 +308,9 @@
    "to": "RGK",
    "to_name": "Gorno-Altaysk",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:55:00Z",
-   "actual": "2026-11-21T22:55:00Z"
+   "actual": "2026-11-21T22:49:00Z"
   },
   "UJ 712|2026-11-21T23:00:00Z": {
    "number": "UJ 712",
@@ -318,12 +318,43 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T23:00:00Z",
-   "actual": "2026-11-21T23:00:00Z"
+   "actual": "2026-11-21T23:19:00Z"
+  },
+  "9G 200|2026-11-21T23:35:00Z": {
+   "number": "9G 200",
+   "airline": "Sun PhuQuoc",
+   "to": "PQC",
+   "to_name": "Duong Dong",
+   "model": "Airbus A330",
+   "status": "Departed",
+   "scheduled": "2026-11-21T23:35:00Z",
+   "actual": "2026-11-21T23:37:00Z"
+  },
+  "SU 1890|2026-11-21T23:55:00Z": {
+   "number": "SU 1890",
+   "airline": "Aeroflot",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-21T23:55:00Z",
+   "actual": "2026-11-21T23:55:00Z"
+  },
+  "JU 139|2026-11-22T01:00:00Z": {
+   "number": "JU 139",
+   "airline": "Air Serbia",
+   "to": "BEG",
+   "to_name": "Belgrade",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T01:00:00Z",
+   "actual": "2026-11-22T01:00:00Z"
   }
  },
  "fetched": [
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

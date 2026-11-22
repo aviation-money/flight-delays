@@ -8,12 +8,13 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:10:00Z",
-   "actual": "2026-11-21T22:10:00Z"
+   "actual": "2026-11-21T22:30:00Z"
   }
  },
  "fetched": [
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

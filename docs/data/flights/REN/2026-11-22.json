@@ -1,9 +1,31 @@
 {
  "airport": "REN",
  "date": "2026-11-22",
- "flights": {},
+ "flights": {
+  "N4 78|2026-11-21T23:30:00Z": {
+   "number": "N4 78",
+   "airline": "Nordwind",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-21T23:30:00Z",
+   "actual": "2026-11-21T23:31:00Z"
+  },
+  "FV 6172|2026-11-22T01:05:00Z": {
+   "number": "FV 6172",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T01:05:00Z",
+   "actual": "2026-11-22T01:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-21T20:07:26Z",
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

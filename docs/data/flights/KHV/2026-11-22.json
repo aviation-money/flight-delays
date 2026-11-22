@@ -48,9 +48,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:15:00Z",
-   "actual": "2026-11-21T22:15:00Z"
+   "actual": "2026-11-21T22:29:00Z"
   },
   "U6 174|2026-11-21T21:50:00Z": {
    "number": "U6 174",
@@ -58,19 +58,19 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320 NEO",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-21T21:50:00Z",
-   "actual": "2026-11-21T22:20:00Z"
+   "actual": "2026-11-21T23:27:00Z"
   },
   "S7 5238|2026-11-21T22:55:00Z": {
    "number": "S7 5238",
    "airline": "S7",
    "to": "OVB",
    "to_name": "Novosibirsk",
-   "model": "Airbus Industrie А321 sharklets",
-   "status": "Expected",
+   "model": "Airbus A321",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:55:00Z",
-   "actual": "2026-11-21T22:55:00Z"
+   "actual": "2026-11-21T23:18:00Z"
   },
   "HZ 3100|2026-11-21T23:00:00Z": {
    "number": "HZ 3100",
@@ -78,9 +78,79 @@
    "to": "Nikolayevsk-na-Amure Airport",
    "to_name": "Nikolayevsk-na-Amure Airport",
    "model": "De Havilland DHC-8-400 Dash 8",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-21T23:00:00Z",
-   "actual": "2026-11-21T23:00:00Z"
+   "actual": "2026-11-21T23:10:00Z"
+  },
+  "S7 6220|2026-11-22T00:05:00Z": {
+   "number": "S7 6220",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "del2",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:05:00Z",
+   "actual": "2026-11-22T00:05:00Z"
+  },
+  "SU 5807|2026-11-22T00:10:00Z": {
+   "number": "SU 5807",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus Industrie А330-200",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:10:00Z",
+   "actual": "2026-11-22T00:10:00Z"
+  },
+  "НИ 401|2026-11-21T23:20:00Z": {
+   "number": "НИ 401",
+   "airline": "Khabavia",
+   "to": "OHO",
+   "to_name": "Okhotsk",
+   "model": "An-24",
+   "status": "Delayed",
+   "scheduled": "2026-11-21T23:20:00Z",
+   "actual": "2026-11-22T00:10:00Z"
+  },
+  "НИ 409|2026-11-22T00:10:00Z": {
+   "number": "НИ 409",
+   "airline": "Khabavia",
+   "to": "Kherpuchi",
+   "to_name": "Kherpuchi",
+   "model": "LET L-410",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:10:00Z",
+   "actual": "2026-11-22T00:10:00Z"
+  },
+  "S7 6515|2026-11-22T00:15:00Z": {
+   "number": "S7 6515",
+   "airline": "S7",
+   "to": "GDX",
+   "to_name": "Magadan",
+   "model": "Airbus Industrie А320",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:15:00Z",
+   "actual": "2026-11-22T00:15:00Z"
+  },
+  "HZ 5684|2026-11-22T00:30:00Z": {
+   "number": "HZ 5684",
+   "airline": "Aurora",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:30:00Z",
+   "actual": "2026-11-22T00:30:00Z"
+  },
+  "HZ 5612|2026-11-22T00:55:00Z": {
+   "number": "HZ 5612",
+   "airline": "Aurora",
+   "to": "GDX",
+   "to_name": "Magadan",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T00:55:00Z",
+   "actual": "2026-11-22T00:55:00Z"
   }
  },
  "fetched": [
@@ -88,6 +158,7 @@
   "2026-11-21T16:07:27Z",
   "2026-11-21T18:07:23Z",
   "2026-11-21T20:07:26Z",
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

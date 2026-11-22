@@ -18,9 +18,9 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T21:55:00Z",
-   "actual": "2026-11-21T21:55:00Z"
+   "actual": "2026-11-21T22:40:00Z"
   },
   "YC 90|2026-11-21T22:30:00Z": {
    "number": "YC 90",
@@ -28,9 +28,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:30:00Z",
-   "actual": "2026-11-21T22:30:00Z"
+   "actual": "2026-11-21T22:56:00Z"
   },
   "S7 2571|2026-11-21T22:40:00Z": {
    "number": "S7 2571",
@@ -38,12 +38,43 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:40:00Z",
-   "actual": "2026-11-21T22:40:00Z"
+   "actual": "2026-11-21T23:02:00Z"
+  },
+  "HH 710|2026-11-21T23:40:00Z": {
+   "number": "HH 710",
+   "airline": "Taban",
+   "to": "BHK",
+   "to_name": "Bukhara",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-21T23:40:00Z",
+   "actual": "2026-11-21T23:40:00Z"
+  },
+  "YC 419|2026-11-21T23:50:00Z": {
+   "number": "YC 419",
+   "airline": "Yamal",
+   "to": "NOJ",
+   "to_name": "Noyabrsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-21T23:50:00Z",
+   "actual": "2026-11-21T23:50:00Z"
+  },
+  "YC 32|2026-11-22T00:05:00Z": {
+   "number": "YC 32",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T00:05:00Z",
+   "actual": "2026-11-22T00:05:00Z"
   }
  },
  "fetched": [
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

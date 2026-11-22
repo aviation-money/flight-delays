@@ -8,13 +8,14 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T20:40:00Z",
-   "actual": "2026-11-21T20:40:00Z"
+   "actual": "2026-11-21T22:02:00Z"
   }
  },
  "fetched": [
   "2026-11-21T20:07:26Z",
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

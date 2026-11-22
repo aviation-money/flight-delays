@@ -27,7 +27,7 @@
    "airline": "Nordwind",
    "to": "HKT",
    "to_name": "Phuket",
-   "model": "Airbus A330-300",
+   "model": "Airbus A330",
    "status": "Departed",
    "scheduled": "2026-11-21T20:30:00Z",
    "actual": "2026-11-21T21:49:00Z"
@@ -38,9 +38,9 @@
    "to": "BKK",
    "to_name": "Bangkok",
    "model": "Airbus A330-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T21:30:00Z",
-   "actual": "2026-11-21T21:50:00Z"
+   "actual": "2026-11-21T22:43:00Z"
   },
   "ZF 4037|2026-11-21T22:00:00Z": {
    "number": "ZF 4037",
@@ -48,9 +48,9 @@
    "to": "HKT",
    "to_name": "Phuket",
    "model": "Boeing 767-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:00:00Z",
-   "actual": "2026-11-21T22:00:00Z"
+   "actual": "2026-11-21T23:32:00Z"
   },
   "FZ 980|2026-11-21T21:20:00Z": {
    "number": "FZ 980",
@@ -58,9 +58,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "GateClosed",
    "scheduled": "2026-11-21T21:20:00Z",
-   "actual": "2026-11-21T22:20:00Z"
+   "actual": "2026-11-21T22:30:00Z"
   },
   "7R 815|2026-11-21T22:25:00Z": {
    "number": "7R 815",
@@ -68,9 +68,9 @@
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
    "model": "Bombardier CRJ",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-21T22:25:00Z",
-   "actual": "2026-11-21T22:25:00Z"
+   "actual": "2026-11-21T23:37:00Z"
   },
   "2S 126|2026-11-21T22:35:00Z": {
    "number": "2S 126",
@@ -78,13 +78,74 @@
    "to": "AYT",
    "to_name": "Antalya",
    "model": null,
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-21T22:35:00Z",
-   "actual": "2026-11-21T22:35:00Z"
+   "actual": "2026-11-21T22:50:00Z"
+  },
+  "FV 6122|2026-11-22T00:05:00Z": {
+   "number": "FV 6122",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T00:05:00Z",
+   "actual": "2026-11-22T00:05:00Z"
+  },
+  "DP 406|2026-11-22T00:50:00Z": {
+   "number": "DP 406",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T00:50:00Z",
+   "actual": "2026-11-22T00:50:00Z"
+  },
+  "NE 431|2026-11-22T00:50:00Z": {
+   "number": "NE 431",
+   "airline": "Nesma",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T00:50:00Z",
+   "actual": "2026-11-22T00:50:00Z"
+  },
+  "DP 516|2026-11-22T00:30:00Z": {
+   "number": "DP 516",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T00:30:00Z",
+   "actual": "2026-11-22T00:55:00Z"
+  },
+  "DP 6542|2026-11-22T01:00:00Z": {
+   "number": "DP 6542",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T01:00:00Z",
+   "actual": "2026-11-22T01:00:00Z"
+  },
+  "FV 6402|2026-11-22T01:00:00Z": {
+   "number": "FV 6402",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T01:00:00Z",
+   "actual": "2026-11-22T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-21T20:07:26Z",
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }

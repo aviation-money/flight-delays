@@ -18,9 +18,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T21:40:00Z",
-   "actual": "2026-11-21T21:40:00Z"
+   "actual": "2026-11-21T21:57:00Z"
   },
   "A4 6023|2026-11-21T21:25:00Z": {
    "number": "A4 6023",
@@ -28,12 +28,33 @@
    "to": "CEK",
    "to_name": "Chelyabinsk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-21T21:25:00Z",
-   "actual": "2026-11-21T21:50:00Z"
+   "actual": "2026-11-21T22:27:00Z"
+  },
+  "A4 6133|2026-11-21T23:10:00Z": {
+   "number": "A4 6133",
+   "airline": "Azimuth",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-21T23:10:00Z",
+   "actual": "2026-11-21T23:42:00Z"
+  },
+  "FZ 978|2026-11-22T00:30:00Z": {
+   "number": "FZ 978",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T00:30:00Z",
+   "actual": "2026-11-22T00:30:00Z"
   }
  },
  "fetched": [
-  "2026-11-21T22:07:23Z"
+  "2026-11-21T22:07:23Z",
+  "2026-11-22T00:07:24Z"
  ]
 }
