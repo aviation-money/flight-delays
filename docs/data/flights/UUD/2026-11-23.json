@@ -11,11 +11,42 @@
    "status": "Departed",
    "scheduled": "2026-11-22T17:55:00Z",
    "actual": "2026-11-22T18:11:00Z"
+  },
+  "S7 5256|2026-11-22T21:15:00Z": {
+   "number": "S7 5256",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:15:00Z",
+   "actual": "2026-11-22T21:24:00Z"
+  },
+  "S7 6430|2026-11-22T21:40:00Z": {
+   "number": "S7 6430",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:40:00Z",
+   "actual": "2026-11-22T21:52:00Z"
+  },
+  "S7 3032|2026-11-22T23:00:00Z": {
+   "number": "S7 3032",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T16:07:25Z",
   "2026-11-22T18:07:25Z",
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

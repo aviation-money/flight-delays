@@ -8,9 +8,9 @@
    "to": "NMA",
    "to_name": "Namangan",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T20:05:00Z",
-   "actual": "2026-11-22T20:05:00Z"
+   "actual": "2026-11-22T20:24:00Z"
   },
   "FZ 996|2026-11-22T20:40:00Z": {
    "number": "FZ 996",
@@ -18,12 +18,33 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T20:40:00Z",
-   "actual": "2026-11-22T20:40:00Z"
+   "actual": "2026-11-22T21:55:00Z"
+  },
+  "UT 478|2026-11-22T21:35:00Z": {
+   "number": "UT 478",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:35:00Z",
+   "actual": "2026-11-22T21:52:00Z"
+  },
+  "FV 5967|2026-11-22T23:05:00Z": {
+   "number": "FV 5967",
+   "airline": "Rossiya",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:05:00Z",
+   "actual": "2026-11-22T23:05:00Z"
   }
  },
  "fetched": [
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

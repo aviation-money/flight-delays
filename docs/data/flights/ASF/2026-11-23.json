@@ -1,8 +1,20 @@
 {
  "airport": "ASF",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "A4 7072|2026-11-22T23:00:00Z": {
+   "number": "A4 7072",
+   "airline": "Azimuth",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

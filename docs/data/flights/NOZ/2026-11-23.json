@@ -8,13 +8,14 @@
    "to": "PQC",
    "to_name": "Duong Dong",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T19:15:00Z",
-   "actual": "2026-11-22T19:15:00Z"
+   "actual": "2026-11-22T19:29:00Z"
   }
  },
  "fetched": [
   "2026-11-22T18:07:25Z",
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

@@ -11,9 +11,20 @@
    "status": "Expected",
    "scheduled": "2026-11-22T19:30:00Z",
    "actual": null
+  },
+  "S7 5328|2026-11-22T23:00:00Z": {
+   "number": "S7 5328",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

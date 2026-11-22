@@ -7,10 +7,10 @@
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "model": "Boeing 737-500 (winglets)",
+   "status": "Departed",
    "scheduled": "2026-11-22T20:20:00Z",
-   "actual": "2026-11-22T20:20:00Z"
+   "actual": "2026-11-22T20:35:00Z"
   },
   "UT 431|2026-11-22T21:00:00Z": {
    "number": "UT 431",
@@ -18,12 +18,23 @@
    "to": "TLK",
    "to_name": "Talakan",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T21:00:00Z",
-   "actual": "2026-11-22T21:00:00Z"
+   "actual": "2026-11-22T21:17:00Z"
+  },
+  "ZF 4085|2026-11-22T23:00:00Z": {
+   "number": "ZF 4085",
+   "airline": "AZUR Air",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 767-300",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
   }
  },
  "fetched": [
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

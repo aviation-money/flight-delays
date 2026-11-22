@@ -8,13 +8,44 @@
    "to": "Fukuok",
    "to_name": "Fukuok",
    "model": "Boeing 777-200",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T20:30:00Z",
    "actual": "2026-11-22T20:30:00Z"
+  },
+  "S7 5310|2026-11-22T21:15:00Z": {
+   "number": "S7 5310",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:15:00Z",
+   "actual": "2026-11-22T21:15:00Z"
+  },
+  "FV 6877|2026-11-22T21:45:00Z": {
+   "number": "FV 6877",
+   "airline": "Rossiya",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:45:00Z",
+   "actual": "2026-11-22T21:45:00Z"
+  },
+  "DP 6550|2026-11-22T23:00:00Z": {
+   "number": "DP 6550",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T18:07:25Z",
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

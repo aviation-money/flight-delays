@@ -1,0 +1,49 @@
+{
+ "airport": "KZN",
+ "date": "2026-11-23",
+ "flights": {
+  "N4 757|2026-11-22T21:40:00Z": {
+   "number": "N4 757",
+   "airline": "Nordwind",
+   "to": "BAX",
+   "to_name": "Barnaul",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:40:00Z",
+   "actual": "2026-11-22T21:33:00Z"
+  },
+  "FZ 974|2026-11-22T22:10:00Z": {
+   "number": "FZ 974",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T22:10:00Z",
+   "actual": "2026-11-22T22:10:00Z"
+  },
+  "N4 1409|2026-11-22T22:40:00Z": {
+   "number": "N4 1409",
+   "airline": "Nordwind",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T22:40:00Z",
+   "actual": "2026-11-22T22:40:00Z"
+  },
+  "T5 738|2026-11-22T23:00:00Z": {
+   "number": "T5 738",
+   "airline": "Turkmenistan",
+   "to": "Ashgabat",
+   "to_name": "Ashgabat",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-22T22:07:23Z"
+ ]
+}

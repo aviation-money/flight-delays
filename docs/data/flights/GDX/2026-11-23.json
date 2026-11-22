@@ -1,11 +1,43 @@
 {
  "airport": "GDX",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "СЛ 81|2026-11-22T22:05:00Z": {
+   "number": "СЛ 81",
+   "airline": "Sila",
+   "to": "Omsukchan",
+   "to_name": "Omsukchan",
+   "model": "An-28",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T22:05:00Z",
+   "actual": "2026-11-22T22:05:00Z"
+  },
+  "IO 131|2026-11-22T22:30:00Z": {
+   "number": "IO 131",
+   "airline": "IrAero",
+   "to": "Severo-Evensk",
+   "to_name": "Severo-Evensk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-22T22:30:00Z",
+   "actual": "2026-11-22T22:30:00Z"
+  },
+  "IO 133|2026-11-22T23:00:00Z": {
+   "number": "IO 133",
+   "airline": "IrAero",
+   "to": "KPW",
+   "to_name": "Keperveem",
+   "model": "An-24",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-22T14:07:26Z",
   "2026-11-22T16:07:25Z",
   "2026-11-22T18:07:25Z",
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

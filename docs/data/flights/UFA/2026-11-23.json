@@ -8,12 +8,13 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Boeing 737-400",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T20:25:00Z",
-   "actual": "2026-11-22T20:25:00Z"
+   "actual": "2026-11-22T21:01:00Z"
   }
  },
  "fetched": [
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

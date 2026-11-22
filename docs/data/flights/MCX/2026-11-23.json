@@ -1,0 +1,19 @@
+{
+ "airport": "MCX",
+ "date": "2026-11-23",
+ "flights": {
+  "N4 228|2026-11-22T23:00:00Z": {
+   "number": "N4 228",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-22T22:07:23Z"
+ ]
+}

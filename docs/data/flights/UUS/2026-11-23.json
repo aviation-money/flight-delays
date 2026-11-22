@@ -1,11 +1,33 @@
 {
  "airport": "UUS",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "S7 5258|2026-11-22T22:45:00Z": {
+   "number": "S7 5258",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T22:45:00Z",
+   "actual": "2026-11-22T22:45:00Z"
+  },
+  "TG 2651|2026-11-22T23:00:00Z": {
+   "number": "TG 2651",
+   "airline": "Thai  International",
+   "to": "GVN",
+   "to_name": "Sovetskaya Gavan",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-22T14:07:26Z",
   "2026-11-22T16:07:25Z",
   "2026-11-22T18:07:25Z",
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

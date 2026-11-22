@@ -1,0 +1,119 @@
+{
+ "airport": "LED",
+ "date": "2026-11-23",
+ "flights": {
+  "FV 6531|2026-11-22T21:05:00Z": {
+   "number": "FV 6531",
+   "airline": "Rossiya",
+   "to": "ALA",
+   "to_name": "Almaty",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:05:00Z",
+   "actual": "2026-11-22T21:11:00Z"
+  },
+  "FV 6401|2026-11-22T21:20:00Z": {
+   "number": "FV 6401",
+   "airline": "Rossiya",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:20:00Z",
+   "actual": "2026-11-22T21:19:00Z"
+  },
+  "FV 6453|2026-11-22T21:35:00Z": {
+   "number": "FV 6453",
+   "airline": "Rossiya",
+   "to": "REN",
+   "to_name": "Orenburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:35:00Z",
+   "actual": "2026-11-22T21:24:00Z"
+  },
+  "J2 20|2026-11-22T21:30:00Z": {
+   "number": "J2 20",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:30:00Z",
+   "actual": "2026-11-22T21:26:00Z"
+  },
+  "TK 400|2026-11-22T21:40:00Z": {
+   "number": "TK 400",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:40:00Z",
+   "actual": "2026-11-22T21:36:00Z"
+  },
+  "FV 6461|2026-11-22T21:35:00Z": {
+   "number": "FV 6461",
+   "airline": "Rossiya",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:35:00Z",
+   "actual": "2026-11-22T21:41:00Z"
+  },
+  "FV 6581|2026-11-22T22:10:00Z": {
+   "number": "FV 6581",
+   "airline": "Rossiya",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T22:10:00Z",
+   "actual": "2026-11-22T22:03:00Z"
+  },
+  "5N 501|2026-11-22T22:30:00Z": {
+   "number": "5N 501",
+   "airline": "Smartavia",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T22:30:00Z",
+   "actual": "2026-11-22T22:30:00Z"
+  },
+  "5N 587|2026-11-22T22:35:00Z": {
+   "number": "5N 587",
+   "airline": "Smartavia",
+   "to": "REN",
+   "to_name": "Orenburg",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T22:35:00Z",
+   "actual": "2026-11-22T22:35:00Z"
+  },
+  "5N 591|2026-11-22T22:40:00Z": {
+   "number": "5N 591",
+   "airline": "Smartavia",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-700",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T22:40:00Z",
+   "actual": "2026-11-22T22:40:00Z"
+  },
+  "SZ 204|2026-11-22T23:00:00Z": {
+   "number": "SZ 204",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-22T22:07:23Z"
+ ]
+}

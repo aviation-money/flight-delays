@@ -1,9 +1,31 @@
 {
  "airport": "BAX",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "WZ 5085|2026-11-22T22:00:00Z": {
+   "number": "WZ 5085",
+   "airline": "Red Wings",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T22:00:00Z",
+   "actual": "2026-11-22T22:00:00Z"
+  },
+  "DP 6532|2026-11-22T22:45:00Z": {
+   "number": "DP 6532",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T22:45:00Z",
+   "actual": "2026-11-22T22:45:00Z"
+  }
+ },
  "fetched": [
   "2026-11-22T18:07:25Z",
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

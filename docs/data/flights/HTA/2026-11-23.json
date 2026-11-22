@@ -21,11 +21,32 @@
    "status": "Departed",
    "scheduled": "2026-11-22T18:20:00Z",
    "actual": "2026-11-22T18:27:00Z"
+  },
+  "IO 105|2026-11-22T22:00:00Z": {
+   "number": "IO 105",
+   "airline": "IrAero",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-22T22:00:00Z",
+   "actual": "2026-11-22T22:01:00Z"
+  },
+  "U6 623|2026-11-22T23:00:00Z": {
+   "number": "U6 623",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T16:07:25Z",
   "2026-11-22T18:07:25Z",
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

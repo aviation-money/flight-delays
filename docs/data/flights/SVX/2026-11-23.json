@@ -8,9 +8,9 @@
    "to": "PKX",
    "to_name": "Beijing",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T19:50:00Z",
-   "actual": "2026-11-22T19:50:00Z"
+   "actual": "2026-11-22T20:00:00Z"
   },
   "C6 472|2026-11-22T19:55:00Z": {
    "number": "C6 472",
@@ -18,9 +18,9 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T19:55:00Z",
-   "actual": "2026-11-22T19:55:00Z"
+   "actual": "2026-11-22T20:15:00Z"
   },
   "WZ 5041|2026-11-22T19:55:00Z": {
    "number": "WZ 5041",
@@ -28,9 +28,9 @@
    "to": "KEJ",
    "to_name": "Kemerovo",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T19:55:00Z",
-   "actual": "2026-11-22T19:55:00Z"
+   "actual": "2026-11-22T20:29:00Z"
   },
   "WZ 5015|2026-11-22T21:00:00Z": {
    "number": "WZ 5015",
@@ -38,12 +38,33 @@
    "to": "ABA",
    "to_name": "Abakan",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T21:00:00Z",
-   "actual": "2026-11-22T21:00:00Z"
+   "actual": "2026-11-22T21:06:00Z"
+  },
+  "J2 646|2026-11-22T21:50:00Z": {
+   "number": "J2 646",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:50:00Z",
+   "actual": "2026-11-22T21:50:00Z"
+  },
+  "FZ 980|2026-11-22T21:20:00Z": {
+   "number": "FZ 980",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T21:20:00Z",
+   "actual": "2026-11-22T22:00:00Z"
   }
  },
  "fetched": [
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

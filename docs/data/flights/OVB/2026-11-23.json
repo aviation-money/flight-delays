@@ -128,9 +128,9 @@
    "to": "PYJ",
    "to_name": "Udachniy",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T20:20:00Z",
-   "actual": "2026-11-22T20:20:00Z"
+   "actual": "2026-11-22T20:33:00Z"
   },
   "S7 5357|2026-11-22T20:45:00Z": {
    "number": "S7 5357",
@@ -138,9 +138,9 @@
    "to": "TLK",
    "to_name": "Talakan",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T20:45:00Z",
-   "actual": "2026-11-22T20:45:00Z"
+   "actual": "2026-11-22T20:49:00Z"
   },
   "S7 5283|2026-11-22T20:50:00Z": {
    "number": "S7 5283",
@@ -148,9 +148,9 @@
    "to": "PWE",
    "to_name": "Pevek",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T20:50:00Z",
-   "actual": "2026-11-22T20:50:00Z"
+   "actual": "2026-11-22T20:55:00Z"
   },
   "S7 5241|2026-11-22T20:55:00Z": {
    "number": "S7 5241",
@@ -158,9 +158,9 @@
    "to": "MJZ",
    "to_name": "Mirny",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T20:55:00Z",
-   "actual": "2026-11-22T20:55:00Z"
+   "actual": "2026-11-22T21:09:00Z"
   },
   "S7 5327|2026-11-22T20:55:00Z": {
    "number": "S7 5327",
@@ -178,13 +178,104 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T21:00:00Z",
-   "actual": "2026-11-22T21:00:00Z"
+   "actual": "2026-11-22T20:59:00Z"
+  },
+  "S7 5805|2026-11-22T21:10:00Z": {
+   "number": "S7 5805",
+   "airline": "S7",
+   "to": "MLE",
+   "to_name": "Malé",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:10:00Z",
+   "actual": "2026-11-22T21:17:00Z"
+  },
+  "S7 5229|2026-11-22T21:30:00Z": {
+   "number": "S7 5229",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:30:00Z",
+   "actual": "2026-11-22T21:31:00Z"
+  },
+  "S7 5359|2026-11-22T21:30:00Z": {
+   "number": "S7 5359",
+   "airline": "S7",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:30:00Z",
+   "actual": "2026-11-22T21:39:00Z"
+  },
+  "S7 5303|2026-11-22T21:35:00Z": {
+   "number": "S7 5303",
+   "airline": "S7",
+   "to": "NSK",
+   "to_name": "Norilsk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:35:00Z",
+   "actual": "2026-11-22T21:47:00Z"
+  },
+  "S7 5215|2026-11-22T21:50:00Z": {
+   "number": "S7 5215",
+   "airline": "S7",
+   "to": "BTK",
+   "to_name": "Bratsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:50:00Z",
+   "actual": "2026-11-22T21:50:00Z"
+  },
+  "FZ 964|2026-11-22T21:20:00Z": {
+   "number": "FZ 964",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-22T21:20:00Z",
+   "actual": "2026-11-22T21:58:00Z"
+  },
+  "S7 5701|2026-11-22T22:20:00Z": {
+   "number": "S7 5701",
+   "airline": "S7",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T22:20:00Z",
+   "actual": "2026-11-22T22:20:00Z"
+  },
+  "S7 5017|2026-11-22T22:50:00Z": {
+   "number": "S7 5017",
+   "airline": "S7",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T22:50:00Z",
+   "actual": "2026-11-22T22:50:00Z"
+  },
+  "FV 6642|2026-11-22T23:00:00Z": {
+   "number": "FV 6642",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T18:07:25Z",
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }

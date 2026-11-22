@@ -1,8 +1,20 @@
 {
  "airport": "REN",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "A4 6150|2026-11-22T23:00:00Z": {
+   "number": "A4 6150",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T23:00:00Z",
+   "actual": "2026-11-22T23:00:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-22T20:07:24Z"
+  "2026-11-22T20:07:24Z",
+  "2026-11-22T22:07:23Z"
  ]
 }
