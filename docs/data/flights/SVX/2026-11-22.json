@@ -587,7 +587,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-22T15:00:00Z",
    "actual": "2026-11-22T15:53:00Z"
@@ -600,7 +600,7 @@
    "model": "ATR 72",
    "status": "Departed",
    "scheduled": "2026-11-22T14:00:00Z",
-   "actual": "2026-11-22T15:20:00Z"
+   "actual": "2026-11-22T16:00:00Z"
   },
   "U6 755|2026-11-22T15:10:00Z": {
    "number": "U6 755",
@@ -617,10 +617,10 @@
    "airline": "VietJetAir",
    "to": "CXR",
    "to_name": "Nha Trang",
-   "model": null,
-   "status": "GateClosed",
+   "model": "Airbus A330-300",
+   "status": "Departed",
    "scheduled": "2026-11-22T15:35:00Z",
-   "actual": "2026-11-22T15:35:00Z"
+   "actual": "2026-11-22T16:26:00Z"
   },
   "U6 270|2026-11-22T15:30:00Z": {
    "number": "U6 270",
@@ -648,9 +648,9 @@
    "to": "SKD",
    "to_name": "Samarkand",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T16:00:00Z",
-   "actual": "2026-11-22T16:00:00Z"
+   "actual": "2026-11-22T17:06:00Z"
   },
   "S7 5020|2026-11-22T16:15:00Z": {
    "number": "S7 5020",
@@ -658,9 +658,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T16:15:00Z",
-   "actual": "2026-11-22T16:15:00Z"
+   "actual": "2026-11-22T16:30:00Z"
   },
   "UT 1105|2026-11-22T16:30:00Z": {
    "number": "UT 1105",
@@ -670,7 +670,7 @@
    "model": "ATR 72",
    "status": "Departed",
    "scheduled": "2026-11-22T16:30:00Z",
-   "actual": "2026-11-22T16:30:00Z"
+   "actual": "2026-11-22T16:33:00Z"
   },
   "WZ 5045|2026-11-22T17:00:00Z": {
    "number": "WZ 5045",
@@ -678,9 +678,79 @@
    "to": "MCX",
    "to_name": "Makhachkala",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-22T17:00:00Z",
-   "actual": "2026-11-22T17:00:00Z"
+   "actual": "2026-11-22T17:45:00Z"
+  },
+  "U6 624|2026-11-22T17:15:00Z": {
+   "number": "U6 624",
+   "airline": "Ural",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T17:15:00Z",
+   "actual": "2026-11-22T17:31:00Z"
+  },
+  "FV 6404|2026-11-22T17:15:00Z": {
+   "number": "FV 6404",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T17:15:00Z",
+   "actual": "2026-11-22T17:35:00Z"
+  },
+  "WZ 1067|2026-11-22T17:25:00Z": {
+   "number": "WZ 1067",
+   "airline": "Red Wings",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T17:25:00Z",
+   "actual": "2026-11-22T17:35:00Z"
+  },
+  "WZ 1025|2026-11-22T17:30:00Z": {
+   "number": "WZ 1025",
+   "airline": "Red Wings",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-22T17:30:00Z",
+   "actual": "2026-11-22T17:42:00Z"
+  },
+  "WZ 1033|2026-11-22T17:45:00Z": {
+   "number": "WZ 1033",
+   "airline": "Red Wings",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T17:45:00Z",
+   "actual": "2026-11-22T17:45:00Z"
+  },
+  "SU 1415|2026-11-22T18:10:00Z": {
+   "number": "SU 1415",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T18:10:00Z",
+   "actual": "2026-11-22T18:10:00Z"
+  },
+  "WZ 5075|2026-11-22T18:35:00Z": {
+   "number": "WZ 5075",
+   "airline": "Red Wings",
+   "to": "BAX",
+   "to_name": "Barnaul",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T18:35:00Z",
+   "actual": "2026-11-22T18:35:00Z"
   }
  },
  "fetched": [
@@ -694,6 +764,7 @@
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
   "2026-11-22T14:07:26Z",
-  "2026-11-22T16:07:25Z"
+  "2026-11-22T16:07:25Z",
+  "2026-11-22T18:07:25Z"
  ]
 }

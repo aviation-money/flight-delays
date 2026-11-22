@@ -287,7 +287,7 @@
    "airline": "UTAir",
    "to": "EVN",
    "to_name": "Yerevan",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-22T14:55:00Z",
    "actual": "2026-11-22T15:31:00Z"
@@ -298,9 +298,49 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T16:30:00Z",
-   "actual": "2026-11-22T16:30:00Z"
+   "actual": "2026-11-22T16:39:00Z"
+  },
+  "S7 5354|2026-11-22T17:30:00Z": {
+   "number": "S7 5354",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T17:30:00Z",
+   "actual": "2026-11-22T17:30:00Z"
+  },
+  "UT 299|2026-11-22T17:35:00Z": {
+   "number": "UT 299",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-22T17:35:00Z",
+   "actual": "2026-11-22T17:43:00Z"
+  },
+  "FV 6468|2026-11-22T18:05:00Z": {
+   "number": "FV 6468",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T18:05:00Z",
+   "actual": "2026-11-22T18:05:00Z"
+  },
+  "SU 1501|2026-11-22T18:25:00Z": {
+   "number": "SU 1501",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T18:25:00Z",
+   "actual": "2026-11-22T18:25:00Z"
   }
  },
  "fetched": [
@@ -314,6 +354,7 @@
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
   "2026-11-22T14:07:26Z",
-  "2026-11-22T16:07:25Z"
+  "2026-11-22T16:07:25Z",
+  "2026-11-22T18:07:25Z"
  ]
 }

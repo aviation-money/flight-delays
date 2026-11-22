@@ -8,7 +8,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T16:30:00Z",
    "actual": null
   },
@@ -31,9 +31,50 @@
    "status": "Expected",
    "scheduled": "2026-11-22T16:50:00Z",
    "actual": null
+  },
+  "FV 6686|2026-11-22T17:15:00Z": {
+   "number": "FV 6686",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-22T17:15:00Z",
+   "actual": null
+  },
+  "S7 6311|2026-11-22T17:25:00Z": {
+   "number": "S7 6311",
+   "airline": "S7",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-22T17:25:00Z",
+   "actual": null
+  },
+  "S7 6401|2026-11-22T17:25:00Z": {
+   "number": "S7 6401",
+   "airline": "S7",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T17:25:00Z",
+   "actual": null
+  },
+  "S7 5236|2026-11-22T17:40:00Z": {
+   "number": "S7 5236",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-22T17:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
-  "2026-11-22T16:07:25Z"
+  "2026-11-22T16:07:25Z",
+  "2026-11-22T18:07:25Z"
  ]
 }

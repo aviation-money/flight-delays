@@ -8,12 +8,13 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T17:00:00Z",
-   "actual": null
+   "actual": "2026-11-22T17:01:00Z"
   }
  },
  "fetched": [
-  "2026-11-22T16:07:25Z"
+  "2026-11-22T16:07:25Z",
+  "2026-11-22T18:07:25Z"
  ]
 }

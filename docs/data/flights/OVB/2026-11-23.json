@@ -1,0 +1,69 @@
+{
+ "airport": "OVB",
+ "date": "2026-11-23",
+ "flights": {
+  "S7 5277|2026-11-22T17:05:00Z": {
+   "number": "S7 5277",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-22T17:05:00Z",
+   "actual": "2026-11-22T17:05:00Z"
+  },
+  "S7 5503|2026-11-22T17:30:00Z": {
+   "number": "S7 5503",
+   "airline": "S7",
+   "to": "ALA",
+   "to_name": "Almaty",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-22T17:30:00Z",
+   "actual": "2026-11-22T17:32:00Z"
+  },
+  "S7 5245|2026-11-22T17:40:00Z": {
+   "number": "S7 5245",
+   "airline": "S7",
+   "to": "NER",
+   "to_name": "Neryungri",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-22T17:40:00Z",
+   "actual": "2026-11-22T17:44:00Z"
+  },
+  "S7 5255|2026-11-22T17:45:00Z": {
+   "number": "S7 5255",
+   "airline": "S7",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T17:45:00Z",
+   "actual": "2026-11-22T17:54:00Z"
+  },
+  "DV 1026|2026-11-22T18:25:00Z": {
+   "number": "DV 1026",
+   "airline": "SCAT",
+   "to": "CIT",
+   "to_name": "Shymkent",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T18:25:00Z",
+   "actual": "2026-11-22T18:25:00Z"
+  },
+  "IQ 512|2026-11-22T18:35:00Z": {
+   "number": "IQ 512",
+   "airline": "Qazaq Air",
+   "to": "NQZ",
+   "to_name": "Astana",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T18:35:00Z",
+   "actual": "2026-11-22T18:35:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-22T18:07:25Z"
+ ]
+}

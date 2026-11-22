@@ -1,8 +1,20 @@
 {
  "airport": "UUD",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "S7 5254|2026-11-22T17:55:00Z": {
+   "number": "S7 5254",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T17:55:00Z",
+   "actual": "2026-11-22T17:55:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-22T16:07:25Z"
+  "2026-11-22T16:07:25Z",
+  "2026-11-22T18:07:25Z"
  ]
 }

@@ -128,9 +128,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T16:00:00Z",
-   "actual": "2026-11-22T16:00:00Z"
+   "actual": "2026-11-22T16:02:00Z"
   },
   "5N 582|2026-11-22T16:10:00Z": {
    "number": "5N 582",
@@ -138,9 +138,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T16:10:00Z",
-   "actual": "2026-11-22T16:10:00Z"
+   "actual": "2026-11-22T16:17:00Z"
   },
   "S7 1074|2026-11-22T16:50:00Z": {
    "number": "S7 1074",
@@ -148,9 +148,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T16:50:00Z",
-   "actual": "2026-11-22T16:50:00Z"
+   "actual": "2026-11-22T17:10:00Z"
   },
   "SU 1215|2026-11-22T16:55:00Z": {
    "number": "SU 1215",
@@ -158,9 +158,49 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T16:55:00Z",
-   "actual": "2026-11-22T16:55:00Z"
+   "actual": "2026-11-22T17:17:00Z"
+  },
+  "DP 6584|2026-11-22T18:20:00Z": {
+   "number": "DP 6584",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T18:20:00Z",
+   "actual": "2026-11-22T18:20:00Z"
+  },
+  "FV 6238|2026-11-22T18:20:00Z": {
+   "number": "FV 6238",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T18:20:00Z",
+   "actual": "2026-11-22T18:20:00Z"
+  },
+  "DP 572|2026-11-22T17:40:00Z": {
+   "number": "DP 572",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T17:40:00Z",
+   "actual": "2026-11-22T18:45:00Z"
+  },
+  "SU 1217|2026-11-22T18:55:00Z": {
+   "number": "SU 1217",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T18:55:00Z",
+   "actual": "2026-11-22T18:55:00Z"
   }
  },
  "fetched": [
@@ -174,6 +214,7 @@
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
   "2026-11-22T14:07:26Z",
-  "2026-11-22T16:07:25Z"
+  "2026-11-22T16:07:25Z",
+  "2026-11-22T18:07:25Z"
  ]
 }
