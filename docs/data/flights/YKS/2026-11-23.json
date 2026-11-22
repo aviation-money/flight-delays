@@ -11,10 +11,21 @@
    "status": "Departed",
    "scheduled": "2026-11-22T17:00:00Z",
    "actual": "2026-11-22T17:01:00Z"
+  },
+  "R3 491|2026-11-22T19:40:00Z": {
+   "number": "R3 491",
+   "airline": "Yakutia",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-22T19:40:00Z",
+   "actual": "2026-11-22T19:43:00Z"
   }
  },
  "fetched": [
   "2026-11-22T16:07:25Z",
-  "2026-11-22T18:07:25Z"
+  "2026-11-22T18:07:25Z",
+  "2026-11-22T20:07:24Z"
  ]
 }

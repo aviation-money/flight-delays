@@ -1,8 +1,20 @@
 {
  "airport": "OMS",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "FV 6846|2026-11-22T19:30:00Z": {
+   "number": "FV 6846",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-22T19:30:00Z",
+   "actual": "2026-11-22T19:43:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-22T18:07:25Z"
+  "2026-11-22T18:07:25Z",
+  "2026-11-22T20:07:24Z"
  ]
 }

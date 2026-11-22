@@ -337,7 +337,7 @@
    "airline": "Pobeda",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-800 (winglets)",
    "status": "Departed",
    "scheduled": "2026-11-22T16:25:00Z",
    "actual": "2026-11-22T17:30:00Z"
@@ -368,19 +368,19 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T17:45:00Z",
-   "actual": "2026-11-22T17:45:00Z"
+   "actual": "2026-11-22T18:04:00Z"
   },
   "D2 142|2026-11-22T17:55:00Z": {
    "number": "D2 142",
    "airline": "Severstal Aircompany",
    "to": "CEE",
    "to_name": "Cherepovets",
-   "model": "Bombardier CRJ200",
-   "status": "GateClosed",
+   "model": "Canadair CRJ 200",
+   "status": "Departed",
    "scheduled": "2026-11-22T17:55:00Z",
-   "actual": "2026-11-22T17:55:00Z"
+   "actual": "2026-11-22T17:58:00Z"
   },
   "U6 168|2026-11-22T17:55:00Z": {
    "number": "U6 168",
@@ -388,9 +388,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T17:55:00Z",
-   "actual": "2026-11-22T17:55:00Z"
+   "actual": "2026-11-22T18:01:00Z"
   },
   "N4 282|2026-11-22T10:20:00Z": {
    "number": "N4 282",
@@ -414,6 +414,7 @@
   "2026-11-22T12:07:24Z",
   "2026-11-22T14:07:26Z",
   "2026-11-22T16:07:25Z",
-  "2026-11-22T18:07:25Z"
+  "2026-11-22T18:07:25Z",
+  "2026-11-22T20:07:24Z"
  ]
 }

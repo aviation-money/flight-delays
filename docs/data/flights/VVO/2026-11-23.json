@@ -17,7 +17,7 @@
    "airline": "VietJetAir",
    "to": "PQC",
    "to_name": "Duong Dong",
-   "model": null,
+   "model": "Airbus A321 NEO",
    "status": "Expected",
    "scheduled": "2026-11-22T15:45:00Z",
    "actual": "2026-11-22T16:37:00Z"
@@ -50,12 +50,33 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-22T19:00:00Z",
-   "actual": "2026-11-22T19:00:00Z"
+   "actual": "2026-11-22T19:03:00Z"
+  },
+  "S7 5202|2026-11-22T19:50:00Z": {
+   "number": "S7 5202",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T19:50:00Z",
+   "actual": "2026-11-22T19:50:00Z"
+  },
+  "S7 6241|2026-11-22T20:35:00Z": {
+   "number": "S7 6241",
+   "airline": "S7",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T20:35:00Z",
+   "actual": "2026-11-22T20:35:00Z"
   }
  },
  "fetched": [
   "2026-11-22T14:07:26Z",
   "2026-11-22T16:07:25Z",
-  "2026-11-22T18:07:25Z"
+  "2026-11-22T18:07:25Z",
+  "2026-11-22T20:07:24Z"
  ]
 }

@@ -38,7 +38,7 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T17:15:00Z",
    "actual": null
   },
@@ -71,10 +71,41 @@
    "status": "Expected",
    "scheduled": "2026-11-22T17:40:00Z",
    "actual": null
+  },
+  "IO 105|2026-11-22T19:45:00Z": {
+   "number": "IO 105",
+   "airline": "IrAero",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-22T19:45:00Z",
+   "actual": null
+  },
+  "S7 5278|2026-11-22T20:05:00Z": {
+   "number": "S7 5278",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-22T20:05:00Z",
+   "actual": null
+  },
+  "S7 6429|2026-11-22T20:20:00Z": {
+   "number": "S7 6429",
+   "airline": "S7",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-22T20:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-22T16:07:25Z",
-  "2026-11-22T18:07:25Z"
+  "2026-11-22T18:07:25Z",
+  "2026-11-22T20:07:24Z"
  ]
 }

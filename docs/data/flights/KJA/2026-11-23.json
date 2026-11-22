@@ -1,8 +1,20 @@
 {
  "airport": "KJA",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "N4 3835|2026-11-22T20:30:00Z": {
+   "number": "N4 3835",
+   "airline": "Nordwind",
+   "to": "Fukuok",
+   "to_name": "Fukuok",
+   "model": "Boeing 777-200",
+   "status": "Expected",
+   "scheduled": "2026-11-22T20:30:00Z",
+   "actual": "2026-11-22T20:30:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-22T18:07:25Z"
+  "2026-11-22T18:07:25Z",
+  "2026-11-22T20:07:24Z"
  ]
 }

@@ -478,9 +478,39 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T18:40:00Z",
-   "actual": "2026-11-22T18:40:00Z"
+   "actual": "2026-11-22T18:54:00Z"
+  },
+  "FV 6121|2026-11-22T15:10:00Z": {
+   "number": "FV 6121",
+   "airline": "Rossiya",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T15:10:00Z",
+   "actual": "2026-11-22T20:20:00Z"
+  },
+  "A4 5185|2026-11-22T20:30:00Z": {
+   "number": "A4 5185",
+   "airline": "Azimuth",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T20:30:00Z",
+   "actual": "2026-11-22T20:30:00Z"
+  },
+  "DP 339|2026-11-22T20:35:00Z": {
+   "number": "DP 339",
+   "airline": "Pobeda",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T20:35:00Z",
+   "actual": "2026-11-22T20:35:00Z"
   }
  },
  "fetched": [
@@ -494,6 +524,7 @@
   "2026-11-22T12:07:24Z",
   "2026-11-22T14:07:26Z",
   "2026-11-22T16:07:25Z",
-  "2026-11-22T18:07:25Z"
+  "2026-11-22T18:07:25Z",
+  "2026-11-22T20:07:24Z"
  ]
 }

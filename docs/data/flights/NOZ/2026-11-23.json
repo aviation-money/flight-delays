@@ -1,8 +1,20 @@
 {
  "airport": "NOZ",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "VJ 6847|2026-11-22T19:15:00Z": {
+   "number": "VJ 6847",
+   "airline": "VietJetAir",
+   "to": "PQC",
+   "to_name": "Duong Dong",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T19:15:00Z",
+   "actual": "2026-11-22T19:15:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-22T18:07:25Z"
+  "2026-11-22T18:07:25Z",
+  "2026-11-22T20:07:24Z"
  ]
 }

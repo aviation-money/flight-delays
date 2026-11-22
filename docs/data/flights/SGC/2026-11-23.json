@@ -1,0 +1,29 @@
+{
+ "airport": "SGC",
+ "date": "2026-11-23",
+ "flights": {
+  "UT 407|2026-11-22T20:20:00Z": {
+   "number": "UT 407",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T20:20:00Z",
+   "actual": "2026-11-22T20:20:00Z"
+  },
+  "UT 431|2026-11-22T21:00:00Z": {
+   "number": "UT 431",
+   "airline": "UTAir",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T21:00:00Z",
+   "actual": "2026-11-22T21:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-22T20:07:24Z"
+ ]
+}

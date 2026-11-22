@@ -1,0 +1,19 @@
+{
+ "airport": "UFA",
+ "date": "2026-11-23",
+ "flights": {
+  "UT 6113|2026-11-22T20:25:00Z": {
+   "number": "UT 6113",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Boeing 737-400",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T20:25:00Z",
+   "actual": "2026-11-22T20:25:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-22T20:07:24Z"
+ ]
+}

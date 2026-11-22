@@ -1,0 +1,19 @@
+{
+ "airport": "TJM",
+ "date": "2026-11-23",
+ "flights": {
+  "DV 1032|2026-11-22T19:05:00Z": {
+   "number": "DV 1032",
+   "airline": "SCAT",
+   "to": "CIT",
+   "to_name": "Shymkent",
+   "model": "Boeing 737-900",
+   "status": "Departed",
+   "scheduled": "2026-11-22T19:05:00Z",
+   "actual": "2026-11-22T19:10:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-22T20:07:24Z"
+ ]
+}

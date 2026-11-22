@@ -8,14 +8,35 @@
    "to": "HKT",
    "to_name": "Phuket",
    "model": "Boeing 777-300ER",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T19:00:00Z",
-   "actual": "2026-11-22T19:00:00Z"
+   "actual": "2026-11-22T19:09:00Z"
+  },
+  "SU 1723|2026-11-22T19:40:00Z": {
+   "number": "SU 1723",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus Industrie А330-300",
+   "status": "Expected",
+   "scheduled": "2026-11-22T19:40:00Z",
+   "actual": "2026-11-22T19:40:00Z"
+  },
+  "S7 5240|2026-11-22T20:45:00Z": {
+   "number": "S7 5240",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus Industrie А320",
+   "status": "Expected",
+   "scheduled": "2026-11-22T20:45:00Z",
+   "actual": "2026-11-22T20:45:00Z"
   }
  },
  "fetched": [
   "2026-11-22T14:07:26Z",
   "2026-11-22T16:07:25Z",
-  "2026-11-22T18:07:25Z"
+  "2026-11-22T18:07:25Z",
+  "2026-11-22T20:07:24Z"
  ]
 }

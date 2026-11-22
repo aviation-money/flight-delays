@@ -1,0 +1,49 @@
+{
+ "airport": "SVX",
+ "date": "2026-11-23",
+ "flights": {
+  "U6 775|2026-11-22T19:50:00Z": {
+   "number": "U6 775",
+   "airline": "Ural",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T19:50:00Z",
+   "actual": "2026-11-22T19:50:00Z"
+  },
+  "C6 472|2026-11-22T19:55:00Z": {
+   "number": "C6 472",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T19:55:00Z",
+   "actual": "2026-11-22T19:55:00Z"
+  },
+  "WZ 5041|2026-11-22T19:55:00Z": {
+   "number": "WZ 5041",
+   "airline": "Red Wings",
+   "to": "KEJ",
+   "to_name": "Kemerovo",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T19:55:00Z",
+   "actual": "2026-11-22T19:55:00Z"
+  },
+  "WZ 5015|2026-11-22T21:00:00Z": {
+   "number": "WZ 5015",
+   "airline": "Red Wings",
+   "to": "ABA",
+   "to_name": "Abakan",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T21:00:00Z",
+   "actual": "2026-11-22T21:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-22T20:07:24Z"
+ ]
+}
