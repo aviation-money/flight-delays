@@ -51,6 +51,26 @@
    "status": "Expected",
    "scheduled": "2026-11-22T05:00:00Z",
    "actual": null
+  },
+  "HY 9666|2026-11-22T05:15:00Z": {
+   "number": "HY 9666",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-22T05:15:00Z",
+   "actual": null
+  },
+  "UT 188|2026-11-22T05:50:00Z": {
+   "number": "UT 188",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-22T05:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -58,6 +78,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

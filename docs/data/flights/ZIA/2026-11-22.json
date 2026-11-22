@@ -28,9 +28,9 @@
    "to": "FEG",
    "to_name": "Fergana",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:00:00Z",
-   "actual": "2026-11-22T04:00:00Z"
+   "actual": "2026-11-22T04:46:00Z"
   },
   "U6 2617|2026-11-22T04:50:00Z": {
    "number": "U6 2617",
@@ -38,15 +38,16 @@
    "to": "UGC",
    "to_name": "Urgench",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:50:00Z",
-   "actual": "2026-11-22T04:50:00Z"
+   "actual": "2026-11-22T05:31:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

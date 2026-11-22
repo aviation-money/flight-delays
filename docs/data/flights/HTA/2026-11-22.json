@@ -78,9 +78,19 @@
    "to": "Chara",
    "to_name": "Chara",
    "model": "An-24",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:15:00Z",
    "actual": "2026-11-22T04:15:00Z"
+  },
+  "IO 109|2026-11-22T05:40:00Z": {
+   "number": "IO 109",
+   "airline": "IrAero",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T05:40:00Z",
+   "actual": "2026-11-22T05:55:00Z"
   }
  },
  "fetched": [
@@ -90,6 +100,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

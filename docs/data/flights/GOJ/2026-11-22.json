@@ -1,11 +1,23 @@
 {
  "airport": "GOJ",
  "date": "2026-11-22",
- "flights": {},
+ "flights": {
+  "WZ 1347|2026-11-22T05:20:00Z": {
+   "number": "WZ 1347",
+   "airline": "Red Wings",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-22T05:20:00Z",
+   "actual": "2026-11-22T05:44:00Z"
+  }
+ },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

@@ -38,9 +38,29 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:45:00Z",
    "actual": "2026-11-22T04:45:00Z"
+  },
+  "S7 7014|2026-11-22T05:15:00Z": {
+   "number": "S7 7014",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-22T05:15:00Z",
+   "actual": "2026-11-22T05:15:00Z"
+  },
+  "KV 130|2026-11-22T06:25:00Z": {
+   "number": "KV 130",
+   "airline": "KrasAvia",
+   "to": "KCY",
+   "to_name": "Krasnoyarsk",
+   "model": "ATR 42-500",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T06:25:00Z",
+   "actual": "2026-11-22T06:25:00Z"
   }
  },
  "fetched": [
@@ -49,6 +69,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

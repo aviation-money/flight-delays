@@ -157,7 +157,7 @@
    "airline": "Azimuth",
    "to": "KJA",
    "to_name": "Krasnoyarsk",
-   "model": "Sukhoi Superjet 100",
+   "model": "Sukhoi Superjet 100-95",
    "status": "Departed",
    "scheduled": "2026-11-22T01:40:00Z",
    "actual": "2026-11-22T02:27:00Z"
@@ -208,6 +208,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

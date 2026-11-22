@@ -41,12 +41,43 @@
    "status": "Departed",
    "scheduled": "2026-11-22T02:46:00Z",
    "actual": "2026-11-22T02:46:00Z"
+  },
+  "DP 112|2026-11-22T05:55:00Z": {
+   "number": "DP 112",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T05:55:00Z",
+   "actual": "2026-11-22T05:55:00Z"
+  },
+  "FV 6201|2026-11-22T05:25:00Z": {
+   "number": "FV 6201",
+   "airline": "Rossiya",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T05:25:00Z",
+   "actual": "2026-11-22T06:20:00Z"
+  },
+  "DP 6946|2026-11-22T06:50:00Z": {
+   "number": "DP 6946",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T06:50:00Z",
+   "actual": "2026-11-22T06:50:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

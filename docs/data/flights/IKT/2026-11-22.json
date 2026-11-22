@@ -248,7 +248,7 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Unknown",
+   "status": "Expected",
    "scheduled": "2026-11-22T01:25:00Z",
    "actual": null
   },
@@ -318,7 +318,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:30:00Z",
    "actual": null
   },
@@ -347,7 +347,7 @@
    "airline": "S7",
    "to": "OVB",
    "to_name": "Novosibirsk",
-   "model": "Embraer 170",
+   "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-22T03:55:00Z",
    "actual": null
@@ -401,6 +401,36 @@
    "status": "Expected",
    "scheduled": "2026-11-22T05:05:00Z",
    "actual": null
+  },
+  "S7 5230|2026-11-22T05:10:00Z": {
+   "number": "S7 5230",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-22T05:10:00Z",
+   "actual": null
+  },
+  "СЛ 51|2026-11-22T06:00:00Z": {
+   "number": "СЛ 51",
+   "airline": "Sibirskaya legkaya aviatsiya",
+   "to": "Kazachinskoe",
+   "to_name": "Kazachinskoe",
+   "model": "LET L-410",
+   "status": "Unknown",
+   "scheduled": "2026-11-22T06:00:00Z",
+   "actual": null
+  },
+  "S7 6321|2026-11-22T06:25:00Z": {
+   "number": "S7 6321",
+   "airline": "S7",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T06:25:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -410,6 +440,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

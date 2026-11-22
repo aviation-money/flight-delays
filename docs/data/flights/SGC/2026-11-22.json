@@ -77,7 +77,7 @@
    "airline": "UTAir",
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-800 (winglets)",
    "status": "Departed",
    "scheduled": "2026-11-22T02:05:00Z",
    "actual": "2026-11-22T02:38:00Z"
@@ -107,10 +107,10 @@
    "airline": "UTAir",
    "to": "GSV",
    "to_name": "Saratov",
-   "model": "Boeing 737-500",
-   "status": "Expected",
+   "model": "Boeing 737-500 (winglets)",
+   "status": "Departed",
    "scheduled": "2026-11-22T02:55:00Z",
-   "actual": "2026-11-22T02:55:00Z"
+   "actual": "2026-11-22T03:28:00Z"
   },
   "SU 1513|2026-11-22T03:00:00Z": {
    "number": "SU 1513",
@@ -128,9 +128,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-400",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:05:00Z",
-   "actual": "2026-11-22T03:30:00Z"
+   "actual": "2026-11-22T03:51:00Z"
   },
   "S7 5348|2026-11-22T03:55:00Z": {
    "number": "S7 5348",
@@ -138,19 +138,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:55:00Z",
-   "actual": "2026-11-22T03:55:00Z"
+   "actual": "2026-11-22T04:14:00Z"
   },
   "UT 593|2026-11-22T04:10:00Z": {
    "number": "UT 593",
    "airline": "UTAir",
    "to": "GRV",
    "to_name": "Grozny",
-   "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "model": "Boeing 737-400",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:10:00Z",
-   "actual": "2026-11-22T04:10:00Z"
+   "actual": "2026-11-22T04:25:00Z"
   },
   "UT 205|2026-11-22T04:45:00Z": {
    "number": "UT 205",
@@ -158,9 +158,9 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:45:00Z",
-   "actual": "2026-11-22T04:45:00Z"
+   "actual": "2026-11-22T04:59:00Z"
   }
  },
  "fetched": [
@@ -168,6 +168,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

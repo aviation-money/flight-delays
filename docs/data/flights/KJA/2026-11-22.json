@@ -197,7 +197,7 @@
    "airline": "Rossiya",
    "to": "SVX",
    "to_name": "Ekaterinburg",
-   "model": "Boeing 737-800",
+   "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-22T03:00:00Z",
    "actual": "2026-11-22T03:20:00Z"
@@ -228,7 +228,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:50:00Z",
    "actual": "2026-11-22T03:50:00Z"
   },
@@ -238,9 +238,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:05:00Z",
    "actual": "2026-11-22T05:05:00Z"
+  },
+  "A4 4042|2026-11-22T06:00:00Z": {
+   "number": "A4 4042",
+   "airline": "Azimuth",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-22T06:00:00Z",
+   "actual": "2026-11-22T06:20:00Z"
   }
  },
  "fetched": [
@@ -249,6 +259,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

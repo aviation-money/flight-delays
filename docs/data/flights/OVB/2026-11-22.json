@@ -328,9 +328,9 @@
    "to": "BAX",
    "to_name": "Barnaul",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:05:00Z",
-   "actual": "2026-11-22T03:36:00Z"
+   "actual": "2026-11-22T04:10:00Z"
   },
   "SU 1307|2026-11-22T03:15:00Z": {
    "number": "SU 1307",
@@ -378,9 +378,9 @@
    "to": "NOZ",
    "to_name": "Novokuznetsk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:15:00Z",
-   "actual": "2026-11-22T04:00:00Z"
+   "actual": "2026-11-22T04:08:00Z"
   },
   "S7 5367|2026-11-22T04:00:00Z": {
    "number": "S7 5367",
@@ -388,9 +388,9 @@
    "to": "RGK",
    "to_name": "Gorno-Altaysk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:00:00Z",
-   "actual": "2026-11-22T04:00:00Z"
+   "actual": "2026-11-22T04:01:00Z"
   },
   "S7 2512|2026-11-22T04:05:00Z": {
    "number": "S7 2512",
@@ -398,9 +398,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:05:00Z",
-   "actual": "2026-11-22T04:19:00Z"
+   "actual": "2026-11-22T04:37:00Z"
   },
   "S7 5003|2026-11-22T04:25:00Z": {
    "number": "S7 5003",
@@ -408,9 +408,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:25:00Z",
-   "actual": "2026-11-22T04:25:00Z"
+   "actual": "2026-11-22T04:31:00Z"
   },
   "S7 5127|2026-11-22T04:25:00Z": {
    "number": "S7 5127",
@@ -418,9 +418,9 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:25:00Z",
-   "actual": "2026-11-22T04:25:00Z"
+   "actual": "2026-11-22T04:33:00Z"
   },
   "S7 5545|2026-11-22T04:30:00Z": {
    "number": "S7 5545",
@@ -428,9 +428,9 @@
    "to": "OSS",
    "to_name": "Osh",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:30:00Z",
-   "actual": "2026-11-22T04:30:00Z"
+   "actual": "2026-11-22T04:47:00Z"
   },
   "S7 5523|2026-11-22T04:40:00Z": {
    "number": "S7 5523",
@@ -438,9 +438,9 @@
    "to": "UKK",
    "to_name": "Ust Kamenogorsk",
    "model": "Embraer 170",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:40:00Z",
-   "actual": "2026-11-22T04:40:00Z"
+   "actual": "2026-11-22T05:29:00Z"
   },
   "S7 5501|2026-11-22T04:45:00Z": {
    "number": "S7 5501",
@@ -448,9 +448,9 @@
    "to": "ALA",
    "to_name": "Almaty",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:45:00Z",
-   "actual": "2026-11-22T04:45:00Z"
+   "actual": "2026-11-22T05:14:00Z"
   },
   "SU 2863|2026-11-22T03:55:00Z": {
    "number": "SU 2863",
@@ -458,9 +458,9 @@
    "to": "KRR",
    "to_name": "Krasnodar",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T03:55:00Z",
-   "actual": "2026-11-22T04:55:00Z"
+   "actual": "2026-11-22T05:13:00Z"
   },
   "UT 138|2026-11-22T05:00:00Z": {
    "number": "UT 138",
@@ -468,9 +468,99 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T05:00:00Z",
-   "actual": "2026-11-22T05:00:00Z"
+   "actual": "2026-11-22T05:08:00Z"
+  },
+  "S7 2508|2026-11-22T05:10:00Z": {
+   "number": "S7 2508",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-22T05:10:00Z",
+   "actual": "2026-11-22T05:21:00Z"
+  },
+  "S7 5591|2026-11-22T05:30:00Z": {
+   "number": "S7 5591",
+   "airline": "S7",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T05:30:00Z",
+   "actual": "2026-11-22T05:38:00Z"
+  },
+  "S7 7005|2026-11-22T05:55:00Z": {
+   "number": "S7 7005",
+   "airline": "S7",
+   "to": "KEJ",
+   "to_name": "Kemerovo",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T05:55:00Z",
+   "actual": "2026-11-22T05:55:00Z"
+  },
+  "S7 5565|2026-11-22T06:15:00Z": {
+   "number": "S7 5565",
+   "airline": "S7",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T06:15:00Z",
+   "actual": "2026-11-22T06:15:00Z"
+  },
+  "S7 5307|2026-11-22T05:55:00Z": {
+   "number": "S7 5307",
+   "airline": "S7",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T05:55:00Z",
+   "actual": "2026-11-22T06:19:00Z"
+  },
+  "S7 5555|2026-11-22T06:30:00Z": {
+   "number": "S7 5555",
+   "airline": "S7",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T06:30:00Z",
+   "actual": "2026-11-22T06:30:00Z"
+  },
+  "S7 5569|2026-11-22T06:20:00Z": {
+   "number": "S7 5569",
+   "airline": "S7",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T06:20:00Z",
+   "actual": "2026-11-22T06:35:00Z"
+  },
+  "S7 5315|2026-11-22T06:45:00Z": {
+   "number": "S7 5315",
+   "airline": "S7",
+   "to": "ABA",
+   "to_name": "Abakan",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T06:45:00Z",
+   "actual": "2026-11-22T06:45:00Z"
+  },
+  "S7 5035|2026-11-22T07:05:00Z": {
+   "number": "S7 5035",
+   "airline": "S7",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T07:05:00Z",
+   "actual": "2026-11-22T07:05:00Z"
   }
  },
  "fetched": [
@@ -479,6 +569,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

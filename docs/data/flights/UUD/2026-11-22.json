@@ -47,7 +47,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-8LJ",
    "status": "Departed",
    "scheduled": "2026-11-22T02:05:00Z",
    "actual": "2026-11-22T03:23:00Z"
@@ -60,7 +60,7 @@
    "model": "Airbus A320",
    "status": "GateClosed",
    "scheduled": "2026-11-22T02:30:00Z",
-   "actual": "2026-11-22T04:00:00Z"
+   "actual": "2026-11-22T05:00:00Z"
   },
   "IO 316|2026-11-22T02:55:00Z": {
    "number": "IO 316",
@@ -78,7 +78,7 @@
    "to": "Taksimo",
    "to_name": "Taksimo",
    "model": "An-24",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T05:00:00Z",
    "actual": "2026-11-22T05:00:00Z"
   }
@@ -90,6 +90,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

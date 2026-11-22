@@ -11,12 +11,33 @@
    "status": "Departed",
    "scheduled": "2026-11-21T23:55:00Z",
    "actual": "2026-11-21T23:55:00Z"
+  },
+  "D2 54|2026-11-22T06:00:00Z": {
+   "number": "D2 54",
+   "airline": "Severstal Aircompany",
+   "to": "CEE",
+   "to_name": "Cherepovets",
+   "model": "Bombardier CRJ200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T06:00:00Z",
+   "actual": "2026-11-22T06:00:00Z"
+  },
+  "PNH 9501|2026-11-22T07:00:00Z": {
+   "number": "PNH 9501",
+   "airline": "PANH",
+   "to": "Arkhangelsk",
+   "to_name": "Arkhangelsk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-22T07:00:00Z",
+   "actual": "2026-11-22T07:00:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

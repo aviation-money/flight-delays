@@ -118,9 +118,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:10:00Z",
-   "actual": "2026-11-22T04:10:00Z"
+   "actual": "2026-11-22T04:41:00Z"
   },
   "UT 125|2026-11-22T04:25:00Z": {
    "number": "UT 125",
@@ -128,9 +128,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:25:00Z",
-   "actual": "2026-11-22T04:25:00Z"
+   "actual": "2026-11-22T04:50:00Z"
   },
   "FV 6822|2026-11-22T05:00:00Z": {
    "number": "FV 6822",
@@ -138,9 +138,29 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T05:00:00Z",
-   "actual": "2026-11-22T05:00:00Z"
+   "actual": "2026-11-22T05:03:00Z"
+  },
+  "N4 866|2026-11-22T01:10:00Z": {
+   "number": "N4 866",
+   "airline": "Nordwind",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T01:10:00Z",
+   "actual": "2026-11-22T06:00:00Z"
+  },
+  "UT 131|2026-11-22T04:15:00Z": {
+   "number": "UT 131",
+   "airline": "UTAir",
+   "to": "Igrim",
+   "to_name": "Igrim",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-22T04:15:00Z",
+   "actual": "2026-11-22T06:15:00Z"
   }
  },
  "fetched": [
@@ -148,6 +168,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

@@ -150,7 +150,7 @@
    "model": "Boeing 747-400",
    "status": "Expected",
    "scheduled": "2026-11-22T03:50:00Z",
-   "actual": "2026-11-22T03:50:00Z"
+   "actual": "2026-11-22T04:12:00Z"
   },
   "S7 6261|2026-11-22T04:30:00Z": {
    "number": "S7 6261",
@@ -160,7 +160,47 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-22T04:30:00Z",
-   "actual": "2026-11-22T04:30:00Z"
+   "actual": "2026-11-22T05:14:00Z"
+  },
+  "S7 6201|2026-11-22T05:20:00Z": {
+   "number": "S7 6201",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T05:20:00Z",
+   "actual": "2026-11-22T05:29:00Z"
+  },
+  "FV 5715|2026-11-22T06:10:00Z": {
+   "number": "FV 5715",
+   "airline": "Rossiya",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-22T06:10:00Z",
+   "actual": "2026-11-22T06:10:00Z"
+  },
+  "HZ 5602|2026-11-22T06:35:00Z": {
+   "number": "HZ 5602",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T06:35:00Z",
+   "actual": "2026-11-22T06:35:00Z"
+  },
+  "CA 810|2026-11-22T06:45:00Z": {
+   "number": "CA 810",
+   "airline": "Air China",
+   "to": "PEK",
+   "to_name": "Beijing",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-22T06:45:00Z",
+   "actual": "2026-11-22T06:45:00Z"
   }
  },
  "fetched": [
@@ -171,6 +211,7 @@
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }

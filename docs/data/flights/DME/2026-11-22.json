@@ -78,15 +78,76 @@
    "to": "NMA",
    "to_name": "Namangan",
    "model": "Airbus A321-200 (Sharklets)",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T05:00:00Z",
-   "actual": "2026-11-22T05:00:00Z"
+   "actual": "2026-11-22T05:15:00Z"
+  },
+  "U6 371|2026-11-22T06:00:00Z": {
+   "number": "U6 371",
+   "airline": "Ural",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T06:00:00Z",
+   "actual": "2026-11-22T06:00:00Z"
+  },
+  "U6 2803|2026-11-22T05:15:00Z": {
+   "number": "U6 2803",
+   "airline": "Ural",
+   "to": "BSZ",
+   "to_name": "Bishkek",
+   "model": "Airbus A320-200",
+   "status": "Departed",
+   "scheduled": "2026-11-22T05:15:00Z",
+   "actual": "2026-11-22T06:04:00Z"
+  },
+  "S7 2041|2026-11-22T06:15:00Z": {
+   "number": "S7 2041",
+   "airline": "S7",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Airbus A320-200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T06:15:00Z",
+   "actual": "2026-11-22T06:15:00Z"
+  },
+  "S7 3235|2026-11-22T06:55:00Z": {
+   "number": "S7 3235",
+   "airline": "S7",
+   "to": "ASB",
+   "to_name": "Ashgabat",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T06:55:00Z",
+   "actual": "2026-11-22T06:55:00Z"
+  },
+  "EK 130|2026-11-22T06:55:00Z": {
+   "number": "EK 130",
+   "airline": "Emirates",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 777-300",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T06:55:00Z",
+   "actual": "2026-11-22T06:55:00Z"
+  },
+  "U6 261|2026-11-22T07:00:00Z": {
+   "number": "U6 261",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T07:00:00Z",
+   "actual": "2026-11-22T07:00:00Z"
   }
  },
  "fetched": [
   "2026-11-21T22:07:23Z",
   "2026-11-22T00:07:24Z",
   "2026-11-22T02:07:28Z",
-  "2026-11-22T04:07:26Z"
+  "2026-11-22T04:07:26Z",
+  "2026-11-22T06:07:25Z"
  ]
 }
