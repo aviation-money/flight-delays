@@ -538,9 +538,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T13:55:00Z",
-   "actual": "2026-11-22T13:55:00Z"
+   "actual": "2026-11-22T14:42:00Z"
   },
   "U6 266|2026-11-22T14:00:00Z": {
    "number": "U6 266",
@@ -548,9 +548,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:00:00Z",
-   "actual": "2026-11-22T14:00:00Z"
+   "actual": "2026-11-22T14:06:00Z"
   },
   "U6 571|2026-11-22T14:10:00Z": {
    "number": "U6 571",
@@ -558,9 +558,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:10:00Z",
-   "actual": "2026-11-22T14:10:00Z"
+   "actual": "2026-11-22T14:49:00Z"
   },
   "FV 5969|2026-11-22T12:00:00Z": {
    "number": "FV 5969",
@@ -568,9 +568,9 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T12:00:00Z",
-   "actual": "2026-11-22T14:15:00Z"
+   "actual": "2026-11-22T14:46:00Z"
   },
   "SU 1403|2026-11-22T14:20:00Z": {
    "number": "SU 1403",
@@ -578,9 +578,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:20:00Z",
-   "actual": "2026-11-22T14:20:00Z"
+   "actual": "2026-11-22T14:34:00Z"
   },
   "SU 1023|2026-11-22T15:00:00Z": {
    "number": "SU 1023",
@@ -588,9 +588,99 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T15:00:00Z",
-   "actual": "2026-11-22T15:00:00Z"
+   "actual": "2026-11-22T15:53:00Z"
+  },
+  "UT 112|2026-11-22T14:00:00Z": {
+   "number": "UT 112",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-22T14:00:00Z",
+   "actual": "2026-11-22T15:20:00Z"
+  },
+  "U6 755|2026-11-22T15:10:00Z": {
+   "number": "U6 755",
+   "airline": "Ural",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-22T15:10:00Z",
+   "actual": "2026-11-22T15:26:00Z"
+  },
+  "VJ 6779|2026-11-22T15:35:00Z": {
+   "number": "VJ 6779",
+   "airline": "VietJetAir",
+   "to": "CXR",
+   "to_name": "Nha Trang",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T15:35:00Z",
+   "actual": "2026-11-22T15:35:00Z"
+  },
+  "U6 270|2026-11-22T15:30:00Z": {
+   "number": "U6 270",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T15:30:00Z",
+   "actual": "2026-11-22T15:55:00Z"
+  },
+  "U6 299|2026-11-22T15:40:00Z": {
+   "number": "U6 299",
+   "airline": "Ural",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T15:40:00Z",
+   "actual": "2026-11-22T15:58:00Z"
+  },
+  "U6 2861|2026-11-22T16:00:00Z": {
+   "number": "U6 2861",
+   "airline": "Ural",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T16:00:00Z",
+   "actual": "2026-11-22T16:00:00Z"
+  },
+  "S7 5020|2026-11-22T16:15:00Z": {
+   "number": "S7 5020",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T16:15:00Z",
+   "actual": "2026-11-22T16:15:00Z"
+  },
+  "UT 1105|2026-11-22T16:30:00Z": {
+   "number": "UT 1105",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-22T16:30:00Z",
+   "actual": "2026-11-22T16:30:00Z"
+  },
+  "WZ 5045|2026-11-22T17:00:00Z": {
+   "number": "WZ 5045",
+   "airline": "Red Wings",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T17:00:00Z",
+   "actual": "2026-11-22T17:00:00Z"
   }
  },
  "fetched": [
@@ -603,6 +693,7 @@
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
-  "2026-11-22T14:07:26Z"
+  "2026-11-22T14:07:26Z",
+  "2026-11-22T16:07:25Z"
  ]
 }

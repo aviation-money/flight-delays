@@ -87,7 +87,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Expected",
    "scheduled": "2026-11-22T11:40:00Z",
    "actual": null
@@ -131,6 +131,26 @@
    "status": "Expected",
    "scheduled": "2026-11-22T13:40:00Z",
    "actual": null
+  },
+  "A4 5008|2026-11-22T15:10:00Z": {
+   "number": "A4 5008",
+   "airline": "Azimuth",
+   "to": "Sochi",
+   "to_name": "Sochi",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-22T15:10:00Z",
+   "actual": null
+  },
+  "SU 1057|2026-11-22T15:20:00Z": {
+   "number": "SU 1057",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-22T15:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -142,6 +162,7 @@
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
-  "2026-11-22T14:07:26Z"
+  "2026-11-22T14:07:26Z",
+  "2026-11-22T16:07:25Z"
  ]
 }

@@ -121,6 +121,46 @@
    "status": "Departed",
    "scheduled": "2026-11-22T12:10:00Z",
    "actual": "2026-11-22T12:50:00Z"
+  },
+  "D2 52|2026-11-22T15:15:00Z": {
+   "number": "D2 52",
+   "airline": "Severstal Aircompany",
+   "to": "ARH",
+   "to_name": "Arkhangelsk",
+   "model": "Bombardier CRJ200",
+   "status": "Departed",
+   "scheduled": "2026-11-22T15:15:00Z",
+   "actual": "2026-11-22T15:50:00Z"
+  },
+  "SU 1329|2026-11-22T15:55:00Z": {
+   "number": "SU 1329",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T15:55:00Z",
+   "actual": "2026-11-22T15:55:00Z"
+  },
+  "5N 518|2026-11-22T16:15:00Z": {
+   "number": "5N 518",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T16:15:00Z",
+   "actual": "2026-11-22T16:15:00Z"
+  },
+  "EO 734|2026-11-22T16:20:00Z": {
+   "number": "EO 734",
+   "airline": "Pegas Fly",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Embraer 190",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T16:20:00Z",
+   "actual": "2026-11-22T16:20:00Z"
   }
  },
  "fetched": [
@@ -132,6 +172,7 @@
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
-  "2026-11-22T14:07:26Z"
+  "2026-11-22T14:07:26Z",
+  "2026-11-22T16:07:25Z"
  ]
 }

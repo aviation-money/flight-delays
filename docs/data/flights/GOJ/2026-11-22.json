@@ -48,9 +48,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:00:00Z",
-   "actual": "2026-11-22T14:00:00Z"
+   "actual": "2026-11-22T14:05:00Z"
   },
   "WZ 5030|2026-11-22T14:15:00Z": {
    "number": "WZ 5030",
@@ -58,9 +58,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:15:00Z",
-   "actual": "2026-11-22T14:15:00Z"
+   "actual": "2026-11-22T14:23:00Z"
   },
   "RT 581|2026-11-22T14:50:00Z": {
    "number": "RT 581",
@@ -68,9 +68,19 @@
    "to": "CEK",
    "to_name": "Chelyabinsk",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:50:00Z",
-   "actual": "2026-11-22T14:50:00Z"
+   "actual": "2026-11-22T14:57:00Z"
+  },
+  "SU 1225|2026-11-22T16:25:00Z": {
+   "number": "SU 1225",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T16:25:00Z",
+   "actual": "2026-11-22T16:25:00Z"
   }
  },
  "fetched": [
@@ -82,6 +92,7 @@
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
-  "2026-11-22T14:07:26Z"
+  "2026-11-22T14:07:26Z",
+  "2026-11-22T16:07:25Z"
  ]
 }

@@ -377,8 +377,8 @@
    "airline": "Rossiya",
    "to": "CEK",
    "to_name": "Chelyabinsk",
-   "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:20:00Z",
    "actual": "2026-11-22T14:20:00Z"
   },
@@ -388,7 +388,7 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:25:00Z",
    "actual": "2026-11-22T14:25:00Z"
   },
@@ -397,8 +397,8 @@
    "airline": "Rossiya",
    "to": "OSS",
    "to_name": "Osh",
-   "model": "Boeing 737-800",
-   "status": "Expected",
+   "model": "Airbus A320",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:30:00Z",
    "actual": "2026-11-22T14:30:00Z"
   },
@@ -408,9 +408,39 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T15:00:00Z",
    "actual": "2026-11-22T15:00:00Z"
+  },
+  "FV 6845|2026-11-22T16:05:00Z": {
+   "number": "FV 6845",
+   "airline": "Rossiya",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-22T16:05:00Z",
+   "actual": "2026-11-22T16:05:00Z"
+  },
+  "HZ 5641|2026-11-22T16:10:00Z": {
+   "number": "HZ 5641",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T16:10:00Z",
+   "actual": "2026-11-22T16:10:00Z"
+  },
+  "SU 1489|2026-11-22T16:25:00Z": {
+   "number": "SU 1489",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-22T16:25:00Z",
+   "actual": "2026-11-22T16:25:00Z"
   }
  },
  "fetched": [
@@ -424,6 +454,7 @@
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
-  "2026-11-22T14:07:26Z"
+  "2026-11-22T14:07:26Z",
+  "2026-11-22T16:07:25Z"
  ]
 }

@@ -108,9 +108,9 @@
    "to": "Rasht",
    "to_name": "Rasht",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:00:00Z",
-   "actual": "2026-11-22T14:00:00Z"
+   "actual": "2026-11-22T14:01:00Z"
   },
   "SU 1643|2026-11-22T14:35:00Z": {
    "number": "SU 1643",
@@ -118,9 +118,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:35:00Z",
-   "actual": "2026-11-22T14:35:00Z"
+   "actual": "2026-11-22T14:38:00Z"
+  },
+  "SU 1175|2026-11-22T16:20:00Z": {
+   "number": "SU 1175",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T16:20:00Z",
+   "actual": "2026-11-22T17:05:00Z"
   }
  },
  "fetched": [
@@ -133,6 +143,7 @@
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
-  "2026-11-22T14:07:26Z"
+  "2026-11-22T14:07:26Z",
+  "2026-11-22T16:07:25Z"
  ]
 }

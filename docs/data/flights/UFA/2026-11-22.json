@@ -378,7 +378,7 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:00:00Z",
    "actual": "2026-11-22T14:00:00Z"
   },
@@ -388,9 +388,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T13:20:00Z",
-   "actual": "2026-11-22T14:00:00Z"
+   "actual": "2026-11-22T14:07:00Z"
   },
   "4G 482|2026-11-22T12:40:00Z": {
    "number": "4G 482",
@@ -398,9 +398,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-700",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-22T12:40:00Z",
-   "actual": "2026-11-22T14:00:00Z"
+   "actual": "2026-11-22T14:18:00Z"
   },
   "N4 1417|2026-11-22T14:25:00Z": {
    "number": "N4 1417",
@@ -408,19 +408,19 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:25:00Z",
-   "actual": "2026-11-22T14:25:00Z"
+   "actual": "2026-11-22T14:35:00Z"
   },
   "SU 1233|2026-11-22T14:40:00Z": {
    "number": "SU 1233",
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
-   "status": "CheckIn",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
    "scheduled": "2026-11-22T14:40:00Z",
-   "actual": "2026-11-22T14:40:00Z"
+   "actual": "2026-11-22T14:48:00Z"
   },
   "UT 304|2026-11-22T11:10:00Z": {
    "number": "UT 304",
@@ -428,9 +428,39 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T11:10:00Z",
-   "actual": "2026-11-22T15:05:00Z"
+   "actual": "2026-11-22T15:08:00Z"
+  },
+  "UT 104|2026-11-22T15:55:00Z": {
+   "number": "UT 104",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T15:55:00Z",
+   "actual": "2026-11-22T15:55:00Z"
+  },
+  "UT 151|2026-11-22T16:00:00Z": {
+   "number": "UT 151",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Boeing 737-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T16:00:00Z",
+   "actual": "2026-11-22T16:00:00Z"
+  },
+  "SU 1259|2026-11-22T16:40:00Z": {
+   "number": "SU 1259",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T16:40:00Z",
+   "actual": "2026-11-22T16:40:00Z"
   }
  },
  "fetched": [
@@ -443,6 +473,7 @@
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
   "2026-11-22T12:07:24Z",
-  "2026-11-22T14:07:26Z"
+  "2026-11-22T14:07:26Z",
+  "2026-11-22T16:07:25Z"
  ]
 }
