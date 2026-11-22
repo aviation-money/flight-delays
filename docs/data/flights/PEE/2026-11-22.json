@@ -108,9 +108,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T07:50:00Z",
-   "actual": "2026-11-22T11:40:00Z"
+   "actual": "2026-11-22T12:02:00Z"
   },
   "S7 5040|2026-11-22T12:10:00Z": {
    "number": "S7 5040",
@@ -118,9 +118,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T12:10:00Z",
-   "actual": "2026-11-22T12:10:00Z"
+   "actual": "2026-11-22T12:12:00Z"
+  },
+  "FV 6074|2026-11-22T13:25:00Z": {
+   "number": "FV 6074",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-22T13:25:00Z",
+   "actual": "2026-11-22T13:33:00Z"
   }
  },
  "fetched": [
@@ -132,6 +142,7 @@
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
-  "2026-11-22T12:07:24Z"
+  "2026-11-22T12:07:24Z",
+  "2026-11-22T14:07:26Z"
  ]
 }

@@ -68,9 +68,29 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T12:55:00Z",
    "actual": "2026-11-22T12:55:00Z"
+  },
+  "FV 6306|2026-11-22T13:20:00Z": {
+   "number": "FV 6306",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-22T13:20:00Z",
+   "actual": "2026-11-22T13:32:00Z"
+  },
+  "5N 218|2026-11-22T14:50:00Z": {
+   "number": "5N 218",
+   "airline": "Smartavia",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T14:50:00Z",
+   "actual": "2026-11-22T14:50:00Z"
   }
  },
  "fetched": [
@@ -81,6 +101,7 @@
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
-  "2026-11-22T12:07:24Z"
+  "2026-11-22T12:07:24Z",
+  "2026-11-22T14:07:26Z"
  ]
 }

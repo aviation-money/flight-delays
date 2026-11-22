@@ -68,9 +68,19 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Bombardier CRJ100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T12:55:00Z",
-   "actual": "2026-11-22T12:55:00Z"
+   "actual": "2026-11-22T12:58:00Z"
+  },
+  "UT 315|2026-11-22T13:40:00Z": {
+   "number": "UT 315",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-22T13:40:00Z",
+   "actual": "2026-11-22T13:45:00Z"
   }
  },
  "fetched": [
@@ -82,6 +92,7 @@
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
-  "2026-11-22T12:07:24Z"
+  "2026-11-22T12:07:24Z",
+  "2026-11-22T14:07:26Z"
  ]
 }

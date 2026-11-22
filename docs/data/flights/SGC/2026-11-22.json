@@ -198,9 +198,19 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T13:00:00Z",
-   "actual": "2026-11-22T13:00:00Z"
+   "actual": "2026-11-22T13:15:00Z"
+  },
+  "UT 119|2026-11-22T13:45:00Z": {
+   "number": "UT 119",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-22T13:45:00Z",
+   "actual": "2026-11-22T13:49:00Z"
   }
  },
  "fetched": [
@@ -212,6 +222,7 @@
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
-  "2026-11-22T12:07:24Z"
+  "2026-11-22T12:07:24Z",
+  "2026-11-22T14:07:26Z"
  ]
 }

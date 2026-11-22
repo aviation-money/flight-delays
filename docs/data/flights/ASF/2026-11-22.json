@@ -67,7 +67,7 @@
    "airline": "Nesma",
    "to": "Hurghada",
    "to_name": "Hurghada",
-   "model": null,
+   "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-22T11:15:00Z",
    "actual": "2026-11-22T10:04:00Z"
@@ -91,6 +91,36 @@
    "status": "Boarding",
    "scheduled": "2026-11-22T12:00:00Z",
    "actual": "2026-11-22T12:10:00Z"
+  },
+  "FV 6203|2026-11-22T12:45:00Z": {
+   "number": "FV 6203",
+   "airline": "Rossiya",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-22T12:45:00Z",
+   "actual": "2026-11-22T12:48:00Z"
+  },
+  "ПУ 2381|2026-11-22T14:00:00Z": {
+   "number": "ПУ 2381",
+   "airline": "Pouya Air",
+   "to": "Rasht",
+   "to_name": "Rasht",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T14:00:00Z",
+   "actual": "2026-11-22T14:00:00Z"
+  },
+  "SU 1643|2026-11-22T14:35:00Z": {
+   "number": "SU 1643",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T14:35:00Z",
+   "actual": "2026-11-22T14:35:00Z"
   }
  },
  "fetched": [
@@ -102,6 +132,7 @@
   "2026-11-22T06:07:25Z",
   "2026-11-22T08:07:25Z",
   "2026-11-22T10:07:24Z",
-  "2026-11-22T12:07:24Z"
+  "2026-11-22T12:07:24Z",
+  "2026-11-22T14:07:26Z"
  ]
 }
