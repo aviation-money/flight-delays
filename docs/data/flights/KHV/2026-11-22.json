@@ -188,9 +188,9 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus Industrie А320",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-22T08:30:00Z",
-   "actual": "2026-11-22T08:50:00Z"
+   "actual": "2026-11-22T09:06:00Z"
   },
   "HZ 5601|2026-11-22T09:00:00Z": {
    "number": "HZ 5601",
@@ -198,9 +198,39 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T09:00:00Z",
-   "actual": "2026-11-22T09:00:00Z"
+   "actual": "2026-11-22T09:13:00Z"
+  },
+  "HZ 5642|2026-11-22T09:25:00Z": {
+   "number": "HZ 5642",
+   "airline": "Aurora",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T09:25:00Z",
+   "actual": "2026-11-22T09:25:00Z"
+  },
+  "IO 109|2026-11-22T09:10:00Z": {
+   "number": "IO 109",
+   "airline": "IrAero",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-22T09:10:00Z",
+   "actual": "2026-11-22T09:45:00Z"
+  },
+  "HZ 5640|2026-11-22T10:40:00Z": {
+   "number": "HZ 5640",
+   "airline": "Aurora",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T10:40:00Z",
+   "actual": "2026-11-22T10:40:00Z"
   }
  },
  "fetched": [
@@ -213,6 +243,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

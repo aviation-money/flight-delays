@@ -198,7 +198,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T06:45:00Z",
    "actual": "2026-11-22T06:46:00Z"
   },
@@ -210,7 +210,7 @@
    "model": "Boeing 777-300ER",
    "status": "Expected",
    "scheduled": "2026-11-22T07:45:00Z",
-   "actual": "2026-11-22T08:05:00Z"
+   "actual": "2026-11-22T08:11:00Z"
   },
   "CA 812|2026-11-22T08:20:00Z": {
    "number": "CA 812",
@@ -220,7 +220,7 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-22T08:20:00Z",
-   "actual": "2026-11-22T08:20:00Z"
+   "actual": "2026-11-22T08:22:00Z"
   },
   "KN 878|2026-11-22T09:05:00Z": {
    "number": "KN 878",
@@ -230,7 +230,7 @@
    "model": "Boeing 737",
    "status": "Expected",
    "scheduled": "2026-11-22T09:05:00Z",
-   "actual": "2026-11-22T09:05:00Z"
+   "actual": "2026-11-22T09:14:00Z"
   }
  },
  "fetched": [
@@ -243,6 +243,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

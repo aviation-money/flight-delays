@@ -278,9 +278,9 @@
    "to": "Igarka",
    "to_name": "Igarka",
    "model": "An-26",
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-22T08:00:00Z",
-   "actual": "2026-11-22T08:00:00Z"
+   "actual": "2026-11-22T10:00:00Z"
   },
   "S7 5308|2026-11-22T07:50:00Z": {
    "number": "S7 5308",
@@ -288,7 +288,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T07:50:00Z",
    "actual": "2026-11-22T08:15:00Z"
   }
@@ -301,6 +301,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

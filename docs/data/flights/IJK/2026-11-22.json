@@ -21,6 +21,36 @@
    "status": "Expected",
    "scheduled": "2026-11-22T06:40:00Z",
    "actual": null
+  },
+  "I8 925|2026-11-22T09:30:00Z": {
+   "number": "I8 925",
+   "airline": "Izhavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-22T09:30:00Z",
+   "actual": null
+  },
+  "FV 6374|2026-11-22T10:05:00Z": {
+   "number": "FV 6374",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-22T10:05:00Z",
+   "actual": null
+  },
+  "DP 624|2026-11-22T10:50:00Z": {
+   "number": "DP 624",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T10:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -30,6 +60,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

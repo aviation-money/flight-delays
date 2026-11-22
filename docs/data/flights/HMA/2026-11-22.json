@@ -40,7 +40,27 @@
    "model": "Bombardier CRJ100",
    "status": "CheckIn",
    "scheduled": "2026-11-22T08:35:00Z",
-   "actual": "2026-11-22T08:35:00Z"
+   "actual": "2026-11-22T10:05:00Z"
+  },
+  "A2 113|2026-11-22T09:10:00Z": {
+   "number": "A2 113",
+   "airline": "A2",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "An-24",
+   "status": "Delayed",
+   "scheduled": "2026-11-22T09:10:00Z",
+   "actual": "2026-11-22T09:10:00Z"
+  },
+  "UT 303|2026-11-22T07:00:00Z": {
+   "number": "UT 303",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T07:00:00Z",
+   "actual": "2026-11-22T11:00:00Z"
   }
  },
  "fetched": [
@@ -50,6 +70,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

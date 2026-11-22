@@ -68,9 +68,39 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T09:00:00Z",
    "actual": "2026-11-22T09:00:00Z"
+  },
+  "HY 9802|2026-11-22T10:10:00Z": {
+   "number": "HY 9802",
+   "airline": "Uzbekistan",
+   "to": "NMA",
+   "to_name": "Namangan",
+   "model": "Airbus",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T10:10:00Z",
+   "actual": "2026-11-22T10:10:00Z"
+  },
+  "RT 542|2026-11-22T10:30:00Z": {
+   "number": "RT 542",
+   "airline": "UVT Aero",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Bombardier",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T10:30:00Z",
+   "actual": "2026-11-22T10:30:00Z"
+  },
+  "SU 1203|2026-11-22T11:00:00Z": {
+   "number": "SU 1203",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T11:00:00Z",
+   "actual": "2026-11-22T11:00:00Z"
   }
  },
  "fetched": [
@@ -80,6 +110,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

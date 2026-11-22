@@ -21,6 +21,36 @@
    "status": "Departed",
    "scheduled": "2026-11-22T02:45:00Z",
    "actual": null
+  },
+  "SU 1499|2026-11-22T09:40:00Z": {
+   "number": "SU 1499",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-22T09:40:00Z",
+   "actual": null
+  },
+  "FV 6134|2026-11-22T09:50:00Z": {
+   "number": "FV 6134",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T09:50:00Z",
+   "actual": null
+  },
+  "UT 594|2026-11-22T09:50:00Z": {
+   "number": "UT 594",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T09:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -29,6 +59,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

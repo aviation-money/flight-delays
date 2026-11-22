@@ -51,6 +51,36 @@
    "status": "Departed",
    "scheduled": "2026-11-22T06:30:00Z",
    "actual": "2026-11-22T06:31:00Z"
+  },
+  "SU 1679|2026-11-22T09:40:00Z": {
+   "number": "SU 1679",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T09:40:00Z",
+   "actual": "2026-11-22T09:43:00Z"
+  },
+  "NE 477|2026-11-22T11:15:00Z": {
+   "number": "NE 477",
+   "airline": "Nesma",
+   "to": "Hurghada",
+   "to_name": "Hurghada",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-22T11:15:00Z",
+   "actual": "2026-11-22T10:00:00Z"
+  },
+  "DP 6962|2026-11-22T07:40:00Z": {
+   "number": "DP 6962",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T07:40:00Z",
+   "actual": "2026-11-22T10:15:00Z"
   }
  },
  "fetched": [
@@ -60,6 +90,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

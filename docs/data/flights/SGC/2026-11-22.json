@@ -168,9 +168,9 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T08:25:00Z",
-   "actual": "2026-11-22T08:25:00Z"
+   "actual": "2026-11-22T08:26:00Z"
   },
   "UT 6441|2026-11-22T07:50:00Z": {
    "number": "UT 6441",
@@ -178,9 +178,19 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-22T07:50:00Z",
-   "actual": "2026-11-22T08:30:00Z"
+   "actual": "2026-11-22T09:30:00Z"
+  },
+  "UT 213|2026-11-22T10:15:00Z": {
+   "number": "UT 213",
+   "airline": "UTAir",
+   "to": "BAX",
+   "to_name": "Barnaul",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T10:15:00Z",
+   "actual": "2026-11-22T10:15:00Z"
   }
  },
  "fetched": [
@@ -190,6 +200,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

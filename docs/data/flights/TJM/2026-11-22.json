@@ -147,7 +147,7 @@
    "airline": "Nordwind",
    "to": "KGD",
    "to_name": "Kaliningrad",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-22T01:10:00Z",
    "actual": "2026-11-22T06:10:00Z"
@@ -177,8 +177,8 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
-   "status": "GateClosed",
+   "model": "Airbus A320-214",
+   "status": "Departed",
    "scheduled": "2026-11-22T08:25:00Z",
    "actual": "2026-11-22T08:25:00Z"
   },
@@ -188,9 +188,19 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T08:50:00Z",
-   "actual": "2026-11-22T08:50:00Z"
+   "actual": "2026-11-22T08:51:00Z"
+  },
+  "YC 956|2026-11-22T10:10:00Z": {
+   "number": "YC 956",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T10:10:00Z",
+   "actual": "2026-11-22T10:10:00Z"
   }
  },
  "fetched": [
@@ -200,6 +210,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

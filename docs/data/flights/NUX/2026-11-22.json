@@ -121,6 +121,36 @@
    "status": "Departed",
    "scheduled": "2026-11-22T07:30:00Z",
    "actual": "2026-11-22T07:59:00Z"
+  },
+  "4G 204|2026-11-22T10:20:00Z": {
+   "number": "4G 204",
+   "airline": "Gazpromavia",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T10:20:00Z",
+   "actual": "2026-11-22T10:20:00Z"
+  },
+  "VI 4238|2026-11-22T10:35:00Z": {
+   "number": "VI 4238",
+   "airline": "Volga-Dnepr",
+   "to": "Sabetta",
+   "to_name": "Sabetta",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-22T10:35:00Z",
+   "actual": "2026-11-22T10:35:00Z"
+  },
+  "4G 269|2026-11-22T10:50:00Z": {
+   "number": "4G 269",
+   "airline": "Gazpromavia",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T10:50:00Z",
+   "actual": "2026-11-22T10:50:00Z"
   }
  },
  "fetched": [
@@ -130,6 +160,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

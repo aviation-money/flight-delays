@@ -48,9 +48,9 @@
    "to": "KCY",
    "to_name": "Krasnoyarsk",
    "model": "ATR 42-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T04:40:00Z",
-   "actual": "2026-11-22T04:40:00Z"
+   "actual": "2026-11-22T09:28:00Z"
   },
   "S7 7010|2026-11-22T04:45:00Z": {
    "number": "S7 7010",
@@ -61,6 +61,16 @@
    "status": "Departed",
    "scheduled": "2026-11-22T04:45:00Z",
    "actual": "2026-11-22T05:25:00Z"
+  },
+  "SU 1541|2026-11-22T10:35:00Z": {
+   "number": "SU 1541",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T10:35:00Z",
+   "actual": "2026-11-22T10:35:00Z"
   }
  },
  "fetched": [
@@ -71,6 +81,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

@@ -58,7 +58,7 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T05:15:00Z",
    "actual": null
   },
@@ -68,7 +68,7 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T05:50:00Z",
    "actual": null
   }
@@ -80,6 +80,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

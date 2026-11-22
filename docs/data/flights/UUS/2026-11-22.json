@@ -158,9 +158,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T08:00:00Z",
-   "actual": "2026-11-22T08:00:00Z"
+   "actual": "2026-11-22T07:53:00Z"
   },
   "FV 5716|2026-11-22T09:05:00Z": {
    "number": "FV 5716",
@@ -168,9 +168,29 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-22T09:05:00Z",
    "actual": "2026-11-22T09:05:00Z"
+  },
+  "HZ 5623|2026-11-22T09:10:00Z": {
+   "number": "HZ 5623",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-22T09:10:00Z",
+   "actual": "2026-11-22T09:02:00Z"
+  },
+  "S7 6514|2026-11-22T10:50:00Z": {
+   "number": "S7 6514",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T10:50:00Z",
+   "actual": "2026-11-22T10:50:00Z"
   }
  },
  "fetched": [
@@ -183,6 +203,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }

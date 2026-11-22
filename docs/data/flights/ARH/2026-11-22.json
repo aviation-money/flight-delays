@@ -38,9 +38,29 @@
    "to": "NNM",
    "to_name": "Naryan Mar",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T08:15:00Z",
-   "actual": "2026-11-22T08:15:00Z"
+   "actual": "2026-11-22T08:32:00Z"
+  },
+  "FV 6338|2026-11-22T10:00:00Z": {
+   "number": "FV 6338",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T10:00:00Z",
+   "actual": "2026-11-22T10:00:00Z"
+  },
+  "5N 151|2026-11-22T11:05:00Z": {
+   "number": "5N 151",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-22T11:05:00Z",
+   "actual": "2026-11-22T11:05:00Z"
   }
  },
  "fetched": [
@@ -49,6 +69,7 @@
   "2026-11-22T02:07:28Z",
   "2026-11-22T04:07:26Z",
   "2026-11-22T06:07:25Z",
-  "2026-11-22T08:07:25Z"
+  "2026-11-22T08:07:25Z",
+  "2026-11-22T10:07:24Z"
  ]
 }
