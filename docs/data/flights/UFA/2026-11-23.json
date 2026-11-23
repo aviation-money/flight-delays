@@ -110,7 +110,7 @@
    "model": "Boeing 737-800",
    "status": "CheckIn",
    "scheduled": "2026-11-23T03:00:00Z",
-   "actual": "2026-11-23T05:00:00Z"
+   "actual": "2026-11-23T07:00:00Z"
   },
   "KV 9431|2026-11-23T04:00:00Z": {
    "number": "KV 9431",
@@ -118,9 +118,9 @@
    "to": "USK",
    "to_name": "Usinsk",
    "model": "Yak 42",
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-23T04:00:00Z",
-   "actual": "2026-11-23T04:00:00Z"
+   "actual": "2026-11-23T06:30:00Z"
   },
   "NE 455|2026-11-23T03:30:00Z": {
    "number": "NE 455",
@@ -140,7 +140,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "CheckIn",
    "scheduled": "2026-11-23T04:15:00Z",
-   "actual": "2026-11-23T04:15:00Z"
+   "actual": "2026-11-23T06:30:00Z"
   },
   "4G 451|2026-11-23T04:30:00Z": {
    "number": "4G 451",
@@ -148,9 +148,9 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:30:00Z",
-   "actual": "2026-11-23T04:30:00Z"
+   "actual": "2026-11-23T06:30:00Z"
   },
   "UT 106|2026-11-23T04:05:00Z": {
    "number": "UT 106",
@@ -158,9 +158,19 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Canceled",
    "scheduled": "2026-11-23T04:05:00Z",
    "actual": "2026-11-23T04:55:00Z"
+  },
+  "WZ 1026|2026-11-23T04:20:00Z": {
+   "number": "WZ 1026",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T04:20:00Z",
+   "actual": "2026-11-23T06:30:00Z"
   }
  },
  "fetched": [
@@ -168,6 +178,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

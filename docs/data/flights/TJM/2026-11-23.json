@@ -120,7 +120,7 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-23T02:40:00Z",
-   "actual": "2026-11-23T05:00:00Z"
+   "actual": "2026-11-23T07:00:00Z"
   },
   "UT 319|2026-11-23T02:35:00Z": {
    "number": "UT 319",
@@ -138,9 +138,9 @@
    "to": "NYA",
    "to_name": "Nyagan",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:00:00Z",
-   "actual": "2026-11-23T05:00:00Z"
+   "actual": "2026-11-23T05:37:00Z"
   },
   "UT 541|2026-11-23T04:10:00Z": {
    "number": "UT 541",
@@ -148,9 +148,29 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:10:00Z",
-   "actual": "2026-11-23T04:40:00Z"
+   "actual": "2026-11-23T05:29:00Z"
+  },
+  "4G 451|2026-11-23T04:30:00Z": {
+   "number": "4G 451",
+   "airline": "Gazpromavia",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T04:30:00Z",
+   "actual": "2026-11-23T06:00:00Z"
+  },
+  "UT 229|2026-11-23T04:30:00Z": {
+   "number": "UT 229",
+   "airline": "UTAir",
+   "to": "OVS",
+   "to_name": "Sovetskiy",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-23T04:30:00Z",
+   "actual": "2026-11-23T07:00:00Z"
   }
  },
  "fetched": [
@@ -158,6 +178,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

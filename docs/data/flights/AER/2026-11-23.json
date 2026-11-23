@@ -61,12 +61,53 @@
    "status": "Departed",
    "scheduled": "2026-11-23T03:22:00Z",
    "actual": "2026-11-23T03:22:00Z"
+  },
+  "A4 5069|2026-11-23T05:30:00Z": {
+   "number": "A4 5069",
+   "airline": "Azimuth",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T05:30:00Z",
+   "actual": "2026-11-23T05:30:00Z"
+  },
+  "DP 112|2026-11-23T05:40:00Z": {
+   "number": "DP 112",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T05:40:00Z",
+   "actual": "2026-11-23T06:00:00Z"
+  },
+  "A4 5025|2026-11-23T06:30:00Z": {
+   "number": "A4 5025",
+   "airline": "Azimuth",
+   "to": "TLV",
+   "to_name": "Tel Aviv Yafo",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T06:30:00Z",
+   "actual": "2026-11-23T06:30:00Z"
+  },
+  "WZ 567|2026-11-23T07:00:00Z": {
+   "number": "WZ 567",
+   "airline": "Red Wings",
+   "to": "BUS",
+   "to_name": "Batumi",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T07:00:00Z",
+   "actual": "2026-11-23T07:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

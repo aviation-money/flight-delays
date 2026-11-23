@@ -11,12 +11,23 @@
    "status": "Departed",
    "scheduled": "2026-11-22T23:55:00Z",
    "actual": "2026-11-22T23:58:00Z"
+  },
+  "D2 54|2026-11-23T06:00:00Z": {
+   "number": "D2 54",
+   "airline": "Severstal Aircompany",
+   "to": "Cherepovets",
+   "to_name": "Cherepovets",
+   "model": "Bombardier CRJ200",
+   "status": "Departed",
+   "scheduled": "2026-11-23T06:00:00Z",
+   "actual": "2026-11-23T06:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

@@ -117,7 +117,7 @@
    "airline": "UTAir",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-23T02:40:00Z",
    "actual": "2026-11-23T03:06:00Z"
@@ -128,9 +128,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:00:00Z",
-   "actual": "2026-11-23T03:00:00Z"
+   "actual": "2026-11-23T04:00:00Z"
   },
   "UT 435|2026-11-23T03:40:00Z": {
    "number": "UT 435",
@@ -138,19 +138,19 @@
    "to": "KRR",
    "to_name": "Krasnodar",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:40:00Z",
-   "actual": "2026-11-23T03:40:00Z"
+   "actual": "2026-11-23T04:05:00Z"
   },
   "UT 511|2026-11-23T03:50:00Z": {
    "number": "UT 511",
    "airline": "UTAir",
    "to": "AER",
    "to_name": "Sochi",
-   "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "model": "Boeing 737-500 (winglets)",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:50:00Z",
-   "actual": "2026-11-23T03:50:00Z"
+   "actual": "2026-11-23T04:12:00Z"
   },
   "S7 5348|2026-11-23T03:55:00Z": {
    "number": "S7 5348",
@@ -158,9 +158,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:55:00Z",
-   "actual": "2026-11-23T03:55:00Z"
+   "actual": "2026-11-23T04:14:00Z"
   },
   "UT 259|2026-11-23T04:45:00Z": {
    "number": "UT 259",
@@ -168,9 +168,9 @@
    "to": "CEK",
    "to_name": "Chelyabinsk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:45:00Z",
-   "actual": "2026-11-23T04:45:00Z"
+   "actual": "2026-11-23T05:07:00Z"
   },
   "UT 6495|2026-11-23T02:55:00Z": {
    "number": "UT 6495",
@@ -198,6 +198,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

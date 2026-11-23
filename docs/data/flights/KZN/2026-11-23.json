@@ -48,9 +48,9 @@
    "to": "USK",
    "to_name": "Usinsk",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-23T02:30:00Z",
-   "actual": "2026-11-23T04:30:00Z"
+   "actual": "2026-11-23T05:50:00Z"
   },
   "RT 585|2026-11-23T04:15:00Z": {
    "number": "RT 585",
@@ -58,9 +58,9 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Canadair CRJ 200",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-23T04:15:00Z",
-   "actual": "2026-11-23T04:15:00Z"
+   "actual": "2026-11-23T06:15:00Z"
   },
   "N4 6767|2026-11-23T04:15:00Z": {
    "number": "N4 6767",
@@ -68,15 +68,36 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-23T04:15:00Z",
-   "actual": "2026-11-23T04:15:00Z"
+   "actual": "2026-11-23T06:45:00Z"
+  },
+  "WZ 1068|2026-11-23T03:30:00Z": {
+   "number": "WZ 1068",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T03:30:00Z",
+   "actual": "2026-11-23T06:30:00Z"
+  },
+  "SU 1279|2026-11-23T03:50:00Z": {
+   "number": "SU 1279",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T03:50:00Z",
+   "actual": "2026-11-23T06:50:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

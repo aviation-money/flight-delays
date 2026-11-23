@@ -40,7 +40,7 @@
    "model": "Mil Mi",
    "status": "CheckIn",
    "scheduled": "2026-11-23T03:00:00Z",
-   "actual": "2026-11-23T04:00:00Z"
+   "actual": "2026-11-23T06:30:00Z"
   },
   "NF 969|2026-11-23T03:30:00Z": {
    "number": "NF 969",
@@ -50,7 +50,7 @@
    "model": "Mil Mi",
    "status": "CheckIn",
    "scheduled": "2026-11-23T03:30:00Z",
-   "actual": "2026-11-23T03:30:00Z"
+   "actual": "2026-11-23T07:00:00Z"
   },
   "A4 6066|2026-11-23T03:50:00Z": {
    "number": "A4 6066",
@@ -70,7 +70,7 @@
    "model": "ATR 72",
    "status": "GateClosed",
    "scheduled": "2026-11-23T03:30:00Z",
-   "actual": "2026-11-23T04:30:00Z"
+   "actual": "2026-11-23T06:00:00Z"
   },
   "UT 309|2026-11-23T05:00:00Z": {
    "number": "UT 309",
@@ -80,7 +80,17 @@
    "model": "ATR 72",
    "status": "CheckIn",
    "scheduled": "2026-11-23T05:00:00Z",
-   "actual": "2026-11-23T05:00:00Z"
+   "actual": "2026-11-23T06:30:00Z"
+  },
+  "NF 967|2026-11-23T05:40:00Z": {
+   "number": "NF 967",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T05:40:00Z",
+   "actual": "2026-11-23T06:30:00Z"
   }
  },
  "fetched": [
@@ -88,6 +98,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

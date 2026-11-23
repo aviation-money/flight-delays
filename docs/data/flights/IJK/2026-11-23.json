@@ -21,6 +21,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-23T04:00:00Z",
    "actual": null
+  },
+  "SU 1295|2026-11-23T06:40:00Z": {
+   "number": "SU 1295",
+   "airline": "Aeroflot",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T06:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -28,6 +38,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

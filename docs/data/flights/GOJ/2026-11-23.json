@@ -11,12 +11,23 @@
    "status": "Departed",
    "scheduled": "2026-11-22T23:30:00Z",
    "actual": "2026-11-22T23:36:00Z"
+  },
+  "FV 6226|2026-11-23T06:00:00Z": {
+   "number": "FV 6226",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T06:00:00Z",
+   "actual": "2026-11-23T06:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

@@ -95,22 +95,62 @@
   "SU 1851|2026-11-23T03:15:00Z": {
    "number": "SU 1851",
    "airline": "Aeroflot",
-   "to": "Moscow",
+   "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:15:00Z",
-   "actual": "2026-11-23T03:50:00Z"
+   "actual": "2026-11-23T04:29:00Z"
   },
   "WZ 5016|2026-11-23T05:00:00Z": {
    "number": "WZ 5016",
    "airline": "Red Wings",
-   "to": "Ekaterinburg",
+   "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-23T05:00:00Z",
-   "actual": "2026-11-23T05:00:00Z"
+   "actual": "2026-11-23T06:30:00Z"
+  },
+  "U6 756|2026-11-23T05:30:00Z": {
+   "number": "U6 756",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T05:30:00Z",
+   "actual": "2026-11-23T06:30:00Z"
+  },
+  "U6 623|2026-11-23T05:10:00Z": {
+   "number": "U6 623",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T05:10:00Z",
+   "actual": "2026-11-23T06:30:00Z"
+  },
+  "U6 300|2026-11-23T05:15:00Z": {
+   "number": "U6 300",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T05:15:00Z",
+   "actual": "2026-11-23T06:30:00Z"
+  },
+  "HY 9829|2026-11-23T05:50:00Z": {
+   "number": "HY 9829",
+   "airline": "Uzbekistan",
+   "to": "Ekaterinburg",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T05:50:00Z",
+   "actual": "2026-11-23T07:00:00Z"
   }
  },
  "fetched": [
@@ -118,6 +158,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

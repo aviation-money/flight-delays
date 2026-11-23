@@ -11,12 +11,43 @@
    "status": "Departed",
    "scheduled": "2026-11-23T02:55:00Z",
    "actual": "2026-11-23T03:35:00Z"
+  },
+  "А2 9719|2026-11-23T05:30:00Z": {
+   "number": "А2 9719",
+   "airline": "A247",
+   "to": "Varandey",
+   "to_name": "Varandey",
+   "model": "An-24",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T05:30:00Z",
+   "actual": "2026-11-23T05:30:00Z"
+  },
+  "D2 53|2026-11-23T06:00:00Z": {
+   "number": "D2 53",
+   "airline": "Severstal Aircompany",
+   "to": "MMK",
+   "to_name": "Murmansk",
+   "model": "CRJ200LR",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T06:00:00Z",
+   "actual": "2026-11-23T06:00:00Z"
+  },
+  "СИ 9641|2026-11-23T07:00:00Z": {
+   "number": "СИ 9641",
+   "airline": "Arktika",
+   "to": "Amderma-2",
+   "to_name": "Amderma-2",
+   "model": "Yak 42",
+   "status": "Expected",
+   "scheduled": "2026-11-23T07:00:00Z",
+   "actual": "2026-11-23T07:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

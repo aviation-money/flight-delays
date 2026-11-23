@@ -31,6 +31,36 @@
    "status": "Departed",
    "scheduled": "2026-11-23T03:20:00Z",
    "actual": "2026-11-23T03:35:00Z"
+  },
+  "YC 317|2026-11-23T05:10:00Z": {
+   "number": "YC 317",
+   "airline": "Yamal",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T05:10:00Z",
+   "actual": "2026-11-23T05:15:00Z"
+  },
+  "YC 222|2026-11-23T05:25:00Z": {
+   "number": "YC 222",
+   "airline": "Yamal",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T05:25:00Z",
+   "actual": "2026-11-23T05:25:00Z"
+  },
+  "YC 22|2026-11-23T06:40:00Z": {
+   "number": "YC 22",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T06:40:00Z",
+   "actual": "2026-11-23T06:40:00Z"
   }
  },
  "fetched": [
@@ -38,6 +68,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

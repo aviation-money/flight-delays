@@ -108,9 +108,9 @@
    "to": "Chara",
    "to_name": "Chara",
    "model": "An-24",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:15:00Z",
-   "actual": "2026-11-23T04:15:00Z"
+   "actual": "2026-11-23T04:18:00Z"
   },
   "АЯ 9185|2026-11-23T05:00:00Z": {
    "number": "АЯ 9185",
@@ -118,9 +118,19 @@
    "to": "Gazimurskiy Zavod",
    "to_name": "Gazimurskiy Zavod",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:00:00Z",
-   "actual": "2026-11-23T05:00:00Z"
+   "actual": "2026-11-23T05:07:00Z"
+  },
+  "IO 317|2026-11-23T05:35:00Z": {
+   "number": "IO 317",
+   "airline": "IrAero",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T05:35:00Z",
+   "actual": "2026-11-23T05:35:00Z"
   }
  },
  "fetched": [
@@ -130,6 +140,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

@@ -138,9 +138,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:05:00Z",
-   "actual": "2026-11-23T05:05:00Z"
+   "actual": "2026-11-23T05:50:00Z"
   },
   "FV 6881|2026-11-23T01:20:00Z": {
    "number": "FV 6881",
@@ -248,7 +248,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:05:00Z",
    "actual": "2026-11-23T04:05:00Z"
   },
@@ -258,7 +258,7 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Sukhoi Superjet 100-95",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:05:00Z",
    "actual": "2026-11-23T05:05:00Z"
   }
@@ -269,6 +269,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

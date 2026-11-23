@@ -51,6 +51,16 @@
    "status": "Expected",
    "scheduled": "2026-11-23T02:05:00Z",
    "actual": null
+  },
+  "UT 188|2026-11-23T05:50:00Z": {
+   "number": "UT 188",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T05:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -58,6 +68,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

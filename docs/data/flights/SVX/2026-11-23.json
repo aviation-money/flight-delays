@@ -230,7 +230,7 @@
    "model": null,
    "status": "Delayed",
    "scheduled": "2026-11-23T02:00:00Z",
-   "actual": "2026-11-23T04:15:00Z"
+   "actual": "2026-11-23T07:00:00Z"
   },
   "WZ 5029|2026-11-23T03:35:00Z": {
    "number": "WZ 5029",
@@ -240,7 +240,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "Delayed",
    "scheduled": "2026-11-23T03:35:00Z",
-   "actual": "2026-11-23T04:30:00Z"
+   "actual": "2026-11-23T07:00:00Z"
   },
   "FZ 998|2026-11-23T03:15:00Z": {
    "number": "FZ 998",
@@ -250,7 +250,87 @@
    "model": "Boeing 737-800",
    "status": "Delayed",
    "scheduled": "2026-11-23T03:15:00Z",
-   "actual": "2026-11-23T04:40:00Z"
+   "actual": "2026-11-23T07:00:00Z"
+  },
+  "UT 105|2026-11-23T06:20:00Z": {
+   "number": "UT 105",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "Canceled",
+   "scheduled": "2026-11-23T06:20:00Z",
+   "actual": "2026-11-23T06:50:00Z"
+  },
+  "SU 421|2026-11-23T03:10:00Z": {
+   "number": "SU 421",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T03:10:00Z",
+   "actual": "2026-11-23T06:50:00Z"
+  },
+  "HY 9830|2026-11-23T07:00:00Z": {
+   "number": "HY 9830",
+   "airline": "Uzbekistan",
+   "to": "NMA",
+   "to_name": "Namangan",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T07:00:00Z",
+   "actual": "2026-11-23T07:00:00Z"
+  },
+  "U6 300|2026-11-23T07:00:00Z": {
+   "number": "U6 300",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T07:00:00Z",
+   "actual": "2026-11-23T07:00:00Z"
+  },
+  "U6 205|2026-11-23T03:45:00Z": {
+   "number": "U6 205",
+   "airline": "Ural",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Airbus A320",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T03:45:00Z",
+   "actual": "2026-11-23T07:00:00Z"
+  },
+  "WZ 16|2026-11-23T04:20:00Z": {
+   "number": "WZ 16",
+   "airline": "Red Wings",
+   "to": "ZIA",
+   "to_name": "Moscow",
+   "model": "Tu-204",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T04:20:00Z",
+   "actual": "2026-11-23T07:00:00Z"
+  },
+  "SU 1407|2026-11-23T03:30:00Z": {
+   "number": "SU 1407",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T03:30:00Z",
+   "actual": "2026-11-23T07:00:00Z"
+  },
+  "U6 272|2026-11-23T04:30:00Z": {
+   "number": "U6 272",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T04:30:00Z",
+   "actual": "2026-11-23T07:00:00Z"
   }
  },
  "fetched": [
@@ -258,6 +338,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

@@ -58,9 +58,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:30:00Z",
-   "actual": "2026-11-23T04:30:00Z"
+   "actual": "2026-11-23T04:36:00Z"
+  },
+  "N4 758|2026-11-23T02:05:00Z": {
+   "number": "N4 758",
+   "airline": "Nordwind",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T02:05:00Z",
+   "actual": "2026-11-23T06:05:00Z"
   }
  },
  "fetched": [
@@ -69,6 +79,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

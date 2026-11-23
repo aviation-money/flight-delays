@@ -8,9 +8,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:10:00Z",
-   "actual": "2026-11-23T04:10:00Z"
+   "actual": "2026-11-23T04:07:00Z"
   },
   "SM 926|2026-11-23T05:05:00Z": {
    "number": "SM 926",
@@ -18,15 +18,26 @@
    "to": "Sharm el-Sheikh",
    "to_name": "Sharm el-Sheikh",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:05:00Z",
-   "actual": "2026-11-23T05:05:00Z"
+   "actual": "2026-11-23T05:31:00Z"
+  },
+  "DP 530|2026-11-23T06:50:00Z": {
+   "number": "DP 530",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T06:50:00Z",
+   "actual": "2026-11-23T06:50:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

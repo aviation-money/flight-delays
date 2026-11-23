@@ -180,7 +180,7 @@
    "model": "De Havilland DHC-8-400 Dash 8",
    "status": "Departed",
    "scheduled": "2026-11-23T03:30:00Z",
-   "actual": "2026-11-23T03:46:00Z"
+   "actual": "2026-11-23T03:45:00Z"
   },
   "FV 5707|2026-11-23T03:50:00Z": {
    "number": "FV 5707",
@@ -218,19 +218,39 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus Industrie А330-200",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:35:00Z",
-   "actual": "2026-11-23T04:35:00Z"
+   "actual": "2026-11-23T05:17:00Z"
   },
   "S7 6220|2026-11-23T04:50:00Z": {
    "number": "S7 6220",
    "airline": "S7",
    "to": "VVO",
    "to_name": "Vladivostok",
-   "model": "del2",
-   "status": "Expected",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:50:00Z",
-   "actual": "2026-11-23T04:50:00Z"
+   "actual": "2026-11-23T05:23:00Z"
+  },
+  "HZ 3102|2026-11-23T05:10:00Z": {
+   "number": "HZ 3102",
+   "airline": "Aurora",
+   "to": "Nikolayevsk-na-Amure Airport",
+   "to_name": "Nikolayevsk-na-Amure Airport",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Expected",
+   "scheduled": "2026-11-23T05:10:00Z",
+   "actual": "2026-11-23T05:10:00Z"
+  },
+  "FV 6280|2026-11-23T07:05:00Z": {
+   "number": "FV 6280",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300",
+   "status": "Expected",
+   "scheduled": "2026-11-23T07:05:00Z",
+   "actual": "2026-11-23T07:05:00Z"
   }
  },
  "fetched": [
@@ -241,6 +261,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

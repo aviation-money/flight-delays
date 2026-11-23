@@ -28,9 +28,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:00:00Z",
-   "actual": "2026-11-23T05:00:00Z"
+   "actual": "2026-11-23T05:51:00Z"
   },
   "ЛЩ 9651|2026-11-23T04:30:00Z": {
    "number": "ЛЩ 9651",
@@ -38,9 +38,29 @@
    "to": "BRIZ SPBU",
    "to_name": "BRIZ SPBU",
    "model": null,
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-23T04:30:00Z",
    "actual": "2026-11-23T04:30:00Z"
+  },
+  "ЛЩ 9653|2026-11-23T05:30:00Z": {
+   "number": "ЛЩ 9653",
+   "airline": "Mars Avia",
+   "to": "BRIZ SPBU",
+   "to_name": "BRIZ SPBU",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T05:30:00Z",
+   "actual": "2026-11-23T05:30:00Z"
+  },
+  "ЛЩ 9667|2026-11-23T06:00:00Z": {
+   "number": "ЛЩ 9667",
+   "airline": "Mars Avia",
+   "to": "BRIZ SPBU",
+   "to_name": "BRIZ SPBU",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T06:00:00Z",
+   "actual": "2026-11-23T06:00:00Z"
   }
  },
  "fetched": [
@@ -48,6 +68,7 @@
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }

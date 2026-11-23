@@ -10,13 +10,44 @@
    "model": "Boeing 737-500",
    "status": "Departed",
    "scheduled": "2026-11-23T03:50:00Z",
-   "actual": "2026-11-23T03:50:00Z"
+   "actual": "2026-11-23T05:46:00Z"
+  },
+  "FV 6172|2026-11-23T07:10:00Z": {
+   "number": "FV 6172",
+   "airline": "Rossiya",
+   "to": "Moskva Sheremetevo",
+   "to_name": "Moskva Sheremetevo",
+   "model": "Boeing 737-900",
+   "status": "Departed",
+   "scheduled": "2026-11-23T07:10:00Z",
+   "actual": "2026-11-23T05:10:00Z"
+  },
+  "SU 2139|2026-11-23T05:30:00Z": {
+   "number": "SU 2139",
+   "airline": "Aeroflot",
+   "to": "Moskva Sheremetevo",
+   "to_name": "Moskva Sheremetevo",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T05:30:00Z",
+   "actual": "2026-11-23T05:30:00Z"
+  },
+  "FV 6406|2026-11-23T06:15:00Z": {
+   "number": "FV 6406",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "SSJ 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-23T06:15:00Z",
+   "actual": "2026-11-23T06:15:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
-  "2026-11-23T04:07:24Z"
+  "2026-11-23T04:07:24Z",
+  "2026-11-23T06:07:24Z"
  ]
 }
