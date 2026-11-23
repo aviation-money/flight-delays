@@ -120,7 +120,7 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-23T02:40:00Z",
-   "actual": "2026-11-23T07:00:00Z"
+   "actual": "2026-11-23T09:00:00Z"
   },
   "UT 319|2026-11-23T02:35:00Z": {
    "number": "UT 319",
@@ -170,7 +170,47 @@
    "model": "ATR 72",
    "status": "Expected",
    "scheduled": "2026-11-23T04:30:00Z",
-   "actual": "2026-11-23T07:00:00Z"
+   "actual": "2026-11-23T09:00:00Z"
+  },
+  "4G 270|2026-11-23T07:30:00Z": {
+   "number": "4G 270",
+   "airline": "Gazpromavia",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T07:30:00Z",
+   "actual": "2026-11-23T07:49:00Z"
+  },
+  "UT 111|2026-11-23T06:00:00Z": {
+   "number": "UT 111",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T06:00:00Z",
+   "actual": "2026-11-23T08:00:00Z"
+  },
+  "SU 1505|2026-11-23T08:25:00Z": {
+   "number": "SU 1505",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-23T08:25:00Z",
+   "actual": "2026-11-23T08:25:00Z"
+  },
+  "UT 287|2026-11-23T08:45:00Z": {
+   "number": "UT 287",
+   "airline": "UTAir",
+   "to": "Nizhnevartovsk",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T08:45:00Z",
+   "actual": "2026-11-23T08:45:00Z"
   }
  },
  "fetched": [
@@ -179,6 +219,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

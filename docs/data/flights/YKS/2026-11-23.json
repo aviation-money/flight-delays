@@ -158,9 +158,19 @@
    "to": "ZIX",
    "to_name": "Zhigansk",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T06:50:00Z",
    "actual": "2026-11-23T06:50:00Z"
+  },
+  "S7 6208|2026-11-23T07:45:00Z": {
+   "number": "S7 6208",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T07:45:00Z",
+   "actual": "2026-11-23T07:59:00Z"
   }
  },
  "fetched": [
@@ -171,6 +181,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

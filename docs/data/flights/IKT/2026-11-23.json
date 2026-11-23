@@ -277,7 +277,7 @@
    "airline": "S7",
    "to": "DME",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A319",
    "status": "Unknown",
    "scheduled": "2026-11-23T03:40:00Z",
    "actual": null
@@ -298,7 +298,7 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:10:00Z",
    "actual": null
   },
@@ -307,7 +307,7 @@
    "airline": "Aeroflot",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-8MC",
    "status": "Expected",
    "scheduled": "2026-11-23T04:30:00Z",
    "actual": null
@@ -381,6 +381,16 @@
    "status": "Expected",
    "scheduled": "2026-11-23T06:25:00Z",
    "actual": null
+  },
+  "UT 6238|2026-11-23T09:00:00Z": {
+   "number": "UT 6238",
+   "airline": "UTAir",
+   "to": "BTK",
+   "to_name": "Bratsk",
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T09:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -391,6 +401,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

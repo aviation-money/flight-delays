@@ -98,9 +98,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:45:00Z",
-   "actual": "2026-11-23T05:45:00Z"
+   "actual": "2026-11-23T06:00:00Z"
+  },
+  "YC 318|2026-11-23T08:10:00Z": {
+   "number": "YC 318",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T08:10:00Z",
+   "actual": "2026-11-23T08:10:00Z"
   }
  },
  "fetched": [
@@ -110,6 +120,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

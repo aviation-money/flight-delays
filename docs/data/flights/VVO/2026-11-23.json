@@ -198,7 +198,7 @@
    "to": "YKS",
    "to_name": "Yakutsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:10:00Z",
    "actual": "2026-11-23T03:34:00Z"
   },
@@ -218,7 +218,7 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:55:00Z",
    "actual": "2026-11-23T04:01:00Z"
   },
@@ -248,7 +248,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:20:00Z",
    "actual": "2026-11-23T05:20:00Z"
   },
@@ -260,7 +260,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-23T06:35:00Z",
-   "actual": "2026-11-23T06:35:00Z"
+   "actual": "2026-11-23T06:44:00Z"
   },
   "CA 810|2026-11-23T06:45:00Z": {
    "number": "CA 810",
@@ -270,7 +270,7 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-23T06:45:00Z",
-   "actual": "2026-11-23T06:45:00Z"
+   "actual": "2026-11-23T06:51:00Z"
   },
   "FV 5752|2026-11-23T07:00:00Z": {
    "number": "FV 5752",
@@ -280,7 +280,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-23T07:00:00Z",
-   "actual": "2026-11-23T07:00:00Z"
+   "actual": "2026-11-23T07:14:00Z"
   }
  },
  "fetched": [
@@ -292,6 +292,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

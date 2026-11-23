@@ -58,9 +58,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T06:45:00Z",
-   "actual": "2026-11-23T06:45:00Z"
+   "actual": "2026-11-23T06:57:00Z"
   },
   "A4 6307|2026-11-23T06:45:00Z": {
    "number": "A4 6307",
@@ -68,9 +68,9 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-23T06:45:00Z",
-   "actual": "2026-11-23T06:45:00Z"
+   "actual": "2026-11-23T07:50:00Z"
   },
   "A4 6099|2026-11-23T05:20:00Z": {
    "number": "A4 6099",
@@ -78,9 +78,9 @@
    "to": "BUS",
    "to_name": "Batumi",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-23T05:20:00Z",
-   "actual": "2026-11-23T06:50:00Z"
+   "actual": "2026-11-23T08:30:00Z"
   },
   "A4 6039|2026-11-23T07:05:00Z": {
    "number": "A4 6039",
@@ -88,9 +88,19 @@
    "to": "SKX",
    "to_name": "Saransk",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T07:05:00Z",
-   "actual": "2026-11-23T07:05:00Z"
+   "actual": "2026-11-23T07:38:00Z"
+  },
+  "A4 6069|2026-11-23T09:00:00Z": {
+   "number": "A4 6069",
+   "airline": "Azimuth",
+   "to": "Istanbul",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T09:00:00Z",
+   "actual": "2026-11-23T09:00:00Z"
   }
  },
  "fetched": [
@@ -98,6 +108,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

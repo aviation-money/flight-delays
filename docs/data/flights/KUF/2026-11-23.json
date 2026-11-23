@@ -38,9 +38,9 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:05:00Z",
-   "actual": "2026-11-23T07:05:00Z"
+   "actual": "2026-11-23T07:56:00Z"
   },
   "A4 7008|2026-11-22T23:05:00Z": {
    "number": "A4 7008",
@@ -60,7 +60,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "Delayed",
    "scheduled": "2026-11-22T23:35:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T07:45:00Z"
   },
   "A4 4047|2026-11-23T02:30:00Z": {
    "number": "A4 4047",
@@ -80,7 +80,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "Delayed",
    "scheduled": "2026-11-23T04:00:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T08:30:00Z"
   },
   "RT 275|2026-11-23T05:50:00Z": {
    "number": "RT 275",
@@ -88,9 +88,19 @@
    "to": "RMZ",
    "to_name": "Tobolsk",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-23T05:50:00Z",
-   "actual": "2026-11-23T06:50:00Z"
+   "actual": "2026-11-23T08:00:00Z"
+  },
+  "U6 1869|2026-11-23T09:05:00Z": {
+   "number": "U6 1869",
+   "airline": "Ural",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T09:05:00Z",
+   "actual": "2026-11-23T09:05:00Z"
   }
  },
  "fetched": [
@@ -99,6 +109,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

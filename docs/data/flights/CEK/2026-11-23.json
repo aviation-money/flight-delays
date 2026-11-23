@@ -97,7 +97,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-23T03:15:00Z",
    "actual": "2026-11-23T04:29:00Z"
@@ -108,9 +108,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:00:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T07:31:00Z"
   },
   "U6 756|2026-11-23T05:30:00Z": {
    "number": "U6 756",
@@ -118,9 +118,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:30:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T07:05:00Z"
   },
   "U6 623|2026-11-23T05:10:00Z": {
    "number": "U6 623",
@@ -128,9 +128,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus",
-   "status": "Delayed",
+   "status": "GateClosed",
    "scheduled": "2026-11-23T05:10:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T06:50:00Z"
   },
   "U6 300|2026-11-23T05:15:00Z": {
    "number": "U6 300",
@@ -138,19 +138,39 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:15:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T07:12:00Z"
   },
   "HY 9829|2026-11-23T05:50:00Z": {
    "number": "HY 9829",
    "airline": "Uzbekistan",
-   "to": "Ekaterinburg",
+   "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:50:00Z",
    "actual": "2026-11-23T07:00:00Z"
+  },
+  "SU 1535|2026-11-23T07:30:00Z": {
+   "number": "SU 1535",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T07:30:00Z",
+   "actual": "2026-11-23T08:25:00Z"
+  },
+  "UT 260|2026-11-23T08:40:00Z": {
+   "number": "UT 260",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T08:40:00Z",
+   "actual": "2026-11-23T08:40:00Z"
   }
  },
  "fetched": [
@@ -159,6 +179,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

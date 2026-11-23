@@ -18,9 +18,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T06:00:00Z",
-   "actual": "2026-11-23T06:00:00Z"
+   "actual": "2026-11-23T06:01:00Z"
+  },
+  "FV 6106|2026-11-23T09:00:00Z": {
+   "number": "FV 6106",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T09:00:00Z",
+   "actual": "2026-11-23T09:00:00Z"
   }
  },
  "fetched": [
@@ -28,6 +38,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

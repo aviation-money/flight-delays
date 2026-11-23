@@ -15,10 +15,10 @@
   "UT 727|2026-11-23T03:30:00Z": {
    "number": "UT 727",
    "airline": "UTAir",
-   "to": "IST",
+   "to": "Istanbul",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Unknown",
    "scheduled": "2026-11-23T03:30:00Z",
    "actual": null
   }
@@ -28,6 +28,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

@@ -98,9 +98,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:05:00Z",
-   "actual": "2026-11-23T03:00:00Z"
+   "actual": "2026-11-23T07:47:00Z"
   },
   "UT 364|2026-11-23T03:00:00Z": {
    "number": "UT 364",
@@ -108,9 +108,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:00:00Z",
-   "actual": "2026-11-23T07:00:00Z"
+   "actual": "2026-11-23T08:03:00Z"
   },
   "KV 9431|2026-11-23T04:00:00Z": {
    "number": "KV 9431",
@@ -118,9 +118,9 @@
    "to": "USK",
    "to_name": "Usinsk",
    "model": "Yak 42",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:00:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T07:01:00Z"
   },
   "NE 455|2026-11-23T03:30:00Z": {
    "number": "NE 455",
@@ -140,7 +140,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "CheckIn",
    "scheduled": "2026-11-23T04:15:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T08:30:00Z"
   },
   "4G 451|2026-11-23T04:30:00Z": {
    "number": "4G 451",
@@ -150,7 +150,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-23T04:30:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T08:00:00Z"
   },
   "UT 106|2026-11-23T04:05:00Z": {
    "number": "UT 106",
@@ -170,7 +170,47 @@
    "model": "Sukhoi Superjet 100",
    "status": "CheckIn",
    "scheduled": "2026-11-23T04:20:00Z",
-   "actual": "2026-11-23T06:30:00Z"
+   "actual": "2026-11-23T08:15:00Z"
+  },
+  "5N 592|2026-11-23T02:15:00Z": {
+   "number": "5N 592",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-700",
+   "status": "Departed",
+   "scheduled": "2026-11-23T02:15:00Z",
+   "actual": "2026-11-23T07:23:00Z"
+  },
+  "SU 1261|2026-11-23T02:55:00Z": {
+   "number": "SU 1261",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-23T02:55:00Z",
+   "actual": "2026-11-23T07:37:00Z"
+  },
+  "UT 185|2026-11-23T07:55:00Z": {
+   "number": "UT 185",
+   "airline": "UTAir",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T07:55:00Z",
+   "actual": "2026-11-23T07:55:00Z"
+  },
+  "UT 133|2026-11-23T08:55:00Z": {
+   "number": "UT 133",
+   "airline": "UTAir",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T08:55:00Z",
+   "actual": "2026-11-23T08:55:00Z"
   }
  },
  "fetched": [
@@ -179,6 +219,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

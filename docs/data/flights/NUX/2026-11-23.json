@@ -48,9 +48,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:25:00Z",
-   "actual": "2026-11-23T05:25:00Z"
+   "actual": "2026-11-23T07:59:00Z"
   },
   "YC 22|2026-11-23T06:40:00Z": {
    "number": "YC 22",
@@ -58,9 +58,29 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T06:40:00Z",
    "actual": "2026-11-23T06:40:00Z"
+  },
+  "UT 542|2026-11-23T07:30:00Z": {
+   "number": "UT 542",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T07:30:00Z",
+   "actual": "2026-11-23T08:00:00Z"
+  },
+  "FV 6818|2026-11-23T08:40:00Z": {
+   "number": "FV 6818",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T08:40:00Z",
+   "actual": "2026-11-23T08:40:00Z"
   }
  },
  "fetched": [
@@ -69,6 +89,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }

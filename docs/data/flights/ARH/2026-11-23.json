@@ -18,9 +18,9 @@
    "to": "Varandey",
    "to_name": "Varandey",
    "model": "An-24",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:30:00Z",
-   "actual": "2026-11-23T05:30:00Z"
+   "actual": "2026-11-23T06:10:00Z"
   },
   "D2 53|2026-11-23T06:00:00Z": {
    "number": "D2 53",
@@ -28,9 +28,9 @@
    "to": "MMK",
    "to_name": "Murmansk",
    "model": "CRJ200LR",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T06:00:00Z",
-   "actual": "2026-11-23T06:00:00Z"
+   "actual": "2026-11-23T06:27:00Z"
   },
   "СИ 9641|2026-11-23T07:00:00Z": {
    "number": "СИ 9641",
@@ -41,6 +41,36 @@
    "status": "Expected",
    "scheduled": "2026-11-23T07:00:00Z",
    "actual": "2026-11-23T07:00:00Z"
+  },
+  "FV 6304|2026-11-23T07:20:00Z": {
+   "number": "FV 6304",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T07:20:00Z",
+   "actual": "2026-11-23T07:20:00Z"
+  },
+  "FV 7002|2026-11-23T08:00:00Z": {
+   "number": "FV 7002",
+   "airline": "Rossiya",
+   "to": "S.Peterburg",
+   "to_name": "S.Peterburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-23T08:00:00Z",
+   "actual": "2026-11-23T08:00:00Z"
+  },
+  "5N 145|2026-11-23T08:15:00Z": {
+   "number": "5N 145",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-23T08:15:00Z",
+   "actual": "2026-11-23T08:15:00Z"
   }
  },
  "fetched": [
@@ -48,6 +78,7 @@
   "2026-11-23T00:07:28Z",
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
-  "2026-11-23T06:07:24Z"
+  "2026-11-23T06:07:24Z",
+  "2026-11-23T08:07:24Z"
  ]
 }
