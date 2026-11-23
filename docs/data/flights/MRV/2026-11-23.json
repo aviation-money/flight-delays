@@ -28,14 +28,35 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T02:50:00Z",
-   "actual": "2026-11-23T02:50:00Z"
+   "actual": "2026-11-23T03:35:00Z"
+  },
+  "C6 450|2026-11-23T04:25:00Z": {
+   "number": "C6 450",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T04:25:00Z",
+   "actual": "2026-11-23T04:25:00Z"
+  },
+  "A4 6025|2026-11-23T04:30:00Z": {
+   "number": "A4 6025",
+   "airline": "Azimuth",
+   "to": "TLV",
+   "to_name": "Tel Aviv Yafo",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T04:30:00Z",
+   "actual": "2026-11-23T04:30:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

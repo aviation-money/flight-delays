@@ -61,11 +61,22 @@
    "status": "Departed",
    "scheduled": "2026-11-23T00:35:00Z",
    "actual": "2026-11-23T00:54:00Z"
+  },
+  "HH 704|2026-11-23T04:00:00Z": {
+   "number": "HH 704",
+   "airline": "Taban",
+   "to": "FEG",
+   "to_name": "Fergana",
+   "model": "Airbus A320-200",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T04:00:00Z",
+   "actual": "2026-11-23T04:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

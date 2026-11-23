@@ -37,7 +37,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
+   "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-23T01:05:00Z",
    "actual": "2026-11-23T01:16:00Z"
@@ -58,9 +58,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:25:00Z",
-   "actual": "2026-11-23T01:55:00Z"
+   "actual": "2026-11-23T02:10:00Z"
   },
   "DP 550|2026-11-23T00:40:00Z": {
    "number": "DP 550",
@@ -68,9 +68,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:40:00Z",
-   "actual": "2026-11-23T01:55:00Z"
+   "actual": "2026-11-23T02:24:00Z"
   },
   "Y7 1091|2026-11-23T02:00:00Z": {
    "number": "Y7 1091",
@@ -80,7 +80,7 @@
    "model": "Boeing 737",
    "status": "Expected",
    "scheduled": "2026-11-23T02:00:00Z",
-   "actual": "2026-11-23T02:00:00Z"
+   "actual": "2026-11-23T02:15:00Z"
   },
   "5N 528|2026-11-23T03:00:00Z": {
    "number": "5N 528",
@@ -88,15 +88,36 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:00:00Z",
-   "actual": "2026-11-23T03:00:00Z"
+   "actual": "2026-11-23T03:18:00Z"
+  },
+  "SU 1851|2026-11-23T03:15:00Z": {
+   "number": "SU 1851",
+   "airline": "Aeroflot",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T03:15:00Z",
+   "actual": "2026-11-23T03:50:00Z"
+  },
+  "WZ 5016|2026-11-23T05:00:00Z": {
+   "number": "WZ 5016",
+   "airline": "Red Wings",
+   "to": "Ekaterinburg",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T05:00:00Z",
+   "actual": "2026-11-23T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

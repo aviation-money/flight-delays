@@ -61,6 +61,46 @@
    "status": "Departed",
    "scheduled": "2026-11-23T01:30:00Z",
    "actual": "2026-11-23T01:25:00Z"
+  },
+  "HZ 5681|2026-11-23T03:30:00Z": {
+   "number": "HZ 5681",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-23T03:30:00Z",
+   "actual": "2026-11-23T03:28:00Z"
+  },
+  "TG 2661|2026-11-23T03:50:00Z": {
+   "number": "TG 2661",
+   "airline": "Thai  International",
+   "to": "GVN",
+   "to_name": "Sovetskaya Gavan",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-23T03:50:00Z",
+   "actual": "2026-11-23T03:50:00Z"
+  },
+  "SU 1743|2026-11-23T03:50:00Z": {
+   "number": "SU 1743",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:50:00Z",
+   "actual": "2026-11-23T03:50:00Z"
+  },
+  "HZ 3034|2026-11-23T04:05:00Z": {
+   "number": "HZ 3034",
+   "airline": "Aurora",
+   "to": "DEE",
+   "to_name": "Kunashir Island",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T04:05:00Z",
+   "actual": "2026-11-23T04:05:00Z"
   }
  },
  "fetched": [
@@ -70,6 +110,7 @@
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

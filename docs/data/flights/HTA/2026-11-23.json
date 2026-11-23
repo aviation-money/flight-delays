@@ -88,19 +88,39 @@
    "to": "BAX",
    "to_name": "Barnaul",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T02:05:00Z",
-   "actual": "2026-11-23T02:05:00Z"
+   "actual": "2026-11-23T02:07:00Z"
   },
   "АЯ 173|2026-11-23T03:00:00Z": {
    "number": "АЯ 173",
    "airline": "Aeroservis",
-   "to": "Chita",
-   "to_name": "Chita",
+   "to": "Kyra",
+   "to_name": "Kyra",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:00:00Z",
-   "actual": "2026-11-23T03:00:00Z"
+   "actual": "2026-11-23T03:34:00Z"
+  },
+  "IO 176|2026-11-23T04:15:00Z": {
+   "number": "IO 176",
+   "airline": "IrAero",
+   "to": "Chara",
+   "to_name": "Chara",
+   "model": "An-24",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T04:15:00Z",
+   "actual": "2026-11-23T04:15:00Z"
+  },
+  "АЯ 9185|2026-11-23T05:00:00Z": {
+   "number": "АЯ 9185",
+   "airline": "Aeroservis",
+   "to": "Gazimurskiy Zavod",
+   "to_name": "Gazimurskiy Zavod",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T05:00:00Z",
+   "actual": "2026-11-23T05:00:00Z"
   }
  },
  "fetched": [
@@ -109,6 +129,7 @@
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

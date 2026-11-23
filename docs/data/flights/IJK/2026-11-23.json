@@ -11,12 +11,23 @@
    "status": "Unknown",
    "scheduled": "2026-11-22T21:40:00Z",
    "actual": null
+  },
+  "I8 301|2026-11-23T04:00:00Z": {
+   "number": "I8 301",
+   "airline": "Izhavia",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T04:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

@@ -138,9 +138,9 @@
    "to": "AYT",
    "to_name": "Antalya",
    "model": "Airbus A320 NEO",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:10:00Z",
-   "actual": "2026-11-23T01:15:00Z"
+   "actual": "2026-11-23T01:55:00Z"
   },
   "VF 588|2026-11-23T02:30:00Z": {
    "number": "VF 588",
@@ -148,14 +148,155 @@
    "to": "ESB",
    "to_name": "Ankara",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T02:30:00Z",
-   "actual": "2026-11-23T02:30:00Z"
+   "actual": "2026-11-23T03:06:00Z"
+  },
+  "TK 408|2026-11-23T03:20:00Z": {
+   "number": "TK 408",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-23T03:20:00Z",
+   "actual": "2026-11-23T03:38:00Z"
+  },
+  "DP 991|2026-11-23T02:35:00Z": {
+   "number": "DP 991",
+   "airline": "Pobeda",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T02:35:00Z",
+   "actual": "2026-11-23T03:51:00Z"
+  },
+  "FV 6188|2026-11-23T04:00:00Z": {
+   "number": "FV 6188",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T04:00:00Z",
+   "actual": "2026-11-23T04:00:00Z"
+  },
+  "UT 743|2026-11-23T02:45:00Z": {
+   "number": "UT 743",
+   "airline": "UTAir",
+   "to": "Ganja",
+   "to_name": "Ganja",
+   "model": "Boeing 737-500",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T02:45:00Z",
+   "actual": "2026-11-23T04:30:00Z"
+  },
+  "DP 157|2026-11-23T04:10:00Z": {
+   "number": "DP 157",
+   "airline": "Pobeda",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T04:10:00Z",
+   "actual": "2026-11-23T04:40:00Z"
+  },
+  "DP 839|2026-11-23T04:00:00Z": {
+   "number": "DP 839",
+   "airline": "Pobeda",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T04:00:00Z",
+   "actual": "2026-11-23T04:45:00Z"
+  },
+  "DP 995|2026-11-23T04:00:00Z": {
+   "number": "DP 995",
+   "airline": "Pobeda",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T04:00:00Z",
+   "actual": "2026-11-23T04:45:00Z"
+  },
+  "DP 729|2026-11-23T04:45:00Z": {
+   "number": "DP 729",
+   "airline": "Pobeda",
+   "to": "FEG",
+   "to_name": "Fergana",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T04:45:00Z",
+   "actual": "2026-11-23T04:45:00Z"
+  },
+  "DP 855|2026-11-23T04:10:00Z": {
+   "number": "DP 855",
+   "airline": "Pobeda",
+   "to": "LWN",
+   "to_name": "Gyumri",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T04:10:00Z",
+   "actual": "2026-11-23T04:55:00Z"
+  },
+  "TK 420|2026-11-23T04:55:00Z": {
+   "number": "TK 420",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A330-300",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T04:55:00Z",
+   "actual": "2026-11-23T04:55:00Z"
+  },
+  "FV 6170|2026-11-23T05:00:00Z": {
+   "number": "FV 6170",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T05:00:00Z",
+   "actual": "2026-11-23T05:00:00Z"
+  },
+  "UT 805|2026-11-23T03:50:00Z": {
+   "number": "UT 805",
+   "airline": "UTAir",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T03:50:00Z",
+   "actual": "2026-11-23T05:00:00Z"
+  },
+  "A4 7029|2026-11-23T05:00:00Z": {
+   "number": "A4 7029",
+   "airline": "Azimuth",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T05:00:00Z",
+   "actual": "2026-11-23T05:00:00Z"
+  },
+  "7R 193|2026-11-23T05:05:00Z": {
+   "number": "7R 193",
+   "airline": "RusLine",
+   "to": "TBW",
+   "to_name": "Tambov",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T05:05:00Z",
+   "actual": "2026-11-23T05:05:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

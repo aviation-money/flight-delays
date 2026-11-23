@@ -1,10 +1,22 @@
 {
  "airport": "SCW",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "UT 376|2026-11-23T03:50:00Z": {
+   "number": "UT 376",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-23T03:50:00Z",
+   "actual": "2026-11-23T03:50:00Z"
+  }
+ },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

@@ -128,7 +128,7 @@
    "to": "YKS",
    "to_name": "Yakutsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:05:00Z",
    "actual": "2026-11-23T00:10:00Z"
   },
@@ -138,7 +138,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:40:00Z",
    "actual": "2026-11-23T00:47:00Z"
   },
@@ -148,7 +148,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:00:00Z",
    "actual": "2026-11-23T01:04:00Z"
   },
@@ -170,7 +170,7 @@
    "model": "Airbus A330-300",
    "status": "Expected",
    "scheduled": "2026-11-23T02:05:00Z",
-   "actual": "2026-11-23T02:05:00Z"
+   "actual": "2026-11-23T02:17:00Z"
   },
   "S7 6219|2026-11-23T02:20:00Z": {
    "number": "S7 6219",
@@ -178,9 +178,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T02:20:00Z",
-   "actual": "2026-11-23T02:20:00Z"
+   "actual": "2026-11-23T02:23:00Z"
   },
   "EU 2718|2026-11-23T03:00:00Z": {
    "number": "EU 2718",
@@ -190,7 +190,57 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-23T03:00:00Z",
-   "actual": "2026-11-23T03:00:00Z"
+   "actual": "2026-11-23T03:05:00Z"
+  },
+  "S7 6207|2026-11-23T03:10:00Z": {
+   "number": "S7 6207",
+   "airline": "S7",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:10:00Z",
+   "actual": "2026-11-23T03:34:00Z"
+  },
+  "FV 6260|2026-11-23T03:50:00Z": {
+   "number": "FV 6260",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 747-400",
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:50:00Z",
+   "actual": "2026-11-23T03:50:00Z"
+  },
+  "IO 106|2026-11-23T03:55:00Z": {
+   "number": "IO 106",
+   "airline": "IrAero",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:55:00Z",
+   "actual": "2026-11-23T03:55:00Z"
+  },
+  "JS 272|2026-11-23T04:05:00Z": {
+   "number": "JS 272",
+   "airline": "Air Koryo",
+   "to": "FNJ",
+   "to_name": "Pyongyang-si",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T04:05:00Z",
+   "actual": "2026-11-23T04:05:00Z"
+  },
+  "JS 372|2026-11-23T04:40:00Z": {
+   "number": "JS 372",
+   "airline": "Air Koryo",
+   "to": "FNJ",
+   "to_name": "Pyongyang-si",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T04:40:00Z",
+   "actual": "2026-11-23T04:40:00Z"
   }
  },
  "fetched": [
@@ -200,6 +250,7 @@
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

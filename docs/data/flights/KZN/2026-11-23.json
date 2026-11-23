@@ -50,12 +50,33 @@
    "model": "Bombardier CRJ200",
    "status": "CheckIn",
    "scheduled": "2026-11-23T02:30:00Z",
-   "actual": "2026-11-23T02:30:00Z"
+   "actual": "2026-11-23T04:30:00Z"
+  },
+  "RT 585|2026-11-23T04:15:00Z": {
+   "number": "RT 585",
+   "airline": "UVT Aero",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Canadair CRJ 200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T04:15:00Z",
+   "actual": "2026-11-23T04:15:00Z"
+  },
+  "N4 6767|2026-11-23T04:15:00Z": {
+   "number": "N4 6767",
+   "airline": "Nordwind",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T04:15:00Z",
+   "actual": "2026-11-23T04:15:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

@@ -48,9 +48,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T02:55:00Z",
-   "actual": "2026-11-23T02:55:00Z"
+   "actual": "2026-11-23T03:44:00Z"
+  },
+  "S7 7002|2026-11-23T04:30:00Z": {
+   "number": "S7 7002",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-23T04:30:00Z",
+   "actual": "2026-11-23T04:30:00Z"
   }
  },
  "fetched": [
@@ -58,6 +68,7 @@
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

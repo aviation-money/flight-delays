@@ -11,11 +11,22 @@
    "status": "Expected",
    "scheduled": "2026-11-23T02:45:00Z",
    "actual": null
+  },
+  "UT 727|2026-11-23T03:30:00Z": {
+   "number": "UT 727",
+   "airline": "UTAir",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }

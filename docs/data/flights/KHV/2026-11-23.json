@@ -171,6 +171,66 @@
    "status": "Delayed",
    "scheduled": "2026-11-23T02:50:00Z",
    "actual": "2026-11-23T02:50:00Z"
+  },
+  "HZ 4000|2026-11-23T03:30:00Z": {
+   "number": "HZ 4000",
+   "airline": "Aurora",
+   "to": "EKS",
+   "to_name": "Shakhtersk",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Departed",
+   "scheduled": "2026-11-23T03:30:00Z",
+   "actual": "2026-11-23T03:46:00Z"
+  },
+  "FV 5707|2026-11-23T03:50:00Z": {
+   "number": "FV 5707",
+   "airline": "Rossiya",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T03:50:00Z",
+   "actual": "2026-11-23T03:51:00Z"
+  },
+  "HZ 4122|2026-11-23T03:40:00Z": {
+   "number": "HZ 4122",
+   "airline": "Aurora",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-23T03:40:00Z",
+   "actual": "2026-11-23T03:53:00Z"
+  },
+  "HZ 5628|2026-11-23T04:00:00Z": {
+   "number": "HZ 5628",
+   "airline": "Aurora",
+   "to": "Yuzhno-Sakhalinsk",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Canceled",
+   "scheduled": "2026-11-23T04:00:00Z",
+   "actual": "2026-11-23T04:00:00Z"
+  },
+  "SU 5807|2026-11-23T04:35:00Z": {
+   "number": "SU 5807",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus Industrie А330-200",
+   "status": "Expected",
+   "scheduled": "2026-11-23T04:35:00Z",
+   "actual": "2026-11-23T04:35:00Z"
+  },
+  "S7 6220|2026-11-23T04:50:00Z": {
+   "number": "S7 6220",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "del2",
+   "status": "Expected",
+   "scheduled": "2026-11-23T04:50:00Z",
+   "actual": "2026-11-23T04:50:00Z"
   }
  },
  "fetched": [
@@ -180,6 +240,7 @@
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
   "2026-11-23T00:07:28Z",
-  "2026-11-23T02:07:22Z"
+  "2026-11-23T02:07:22Z",
+  "2026-11-23T04:07:24Z"
  ]
 }
