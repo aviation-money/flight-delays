@@ -8,12 +8,23 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:55:00Z",
-   "actual": "2026-11-22T22:55:00Z"
+   "actual": "2026-11-22T23:15:00Z"
+  },
+  "FZ 978|2026-11-23T00:30:00Z": {
+   "number": "FZ 978",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T00:30:00Z",
+   "actual": "2026-11-23T00:30:00Z"
   }
  },
  "fetched": [
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

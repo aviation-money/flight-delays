@@ -38,15 +38,56 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:00:00Z",
-   "actual": "2026-11-22T23:00:00Z"
+   "actual": "2026-11-22T23:09:00Z"
+  },
+  "S7 5224|2026-11-22T23:30:00Z": {
+   "number": "S7 5224",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-22T23:30:00Z",
+   "actual": "2026-11-22T23:52:00Z"
+  },
+  "U6 94|2026-11-23T00:20:00Z": {
+   "number": "U6 94",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T00:20:00Z",
+   "actual": "2026-11-23T00:20:00Z"
+  },
+  "АЯ 175|2026-11-23T00:30:00Z": {
+   "number": "АЯ 175",
+   "airline": "Aeroservis",
+   "to": "Menza",
+   "to_name": "Menza",
+   "model": null,
+   "status": "Canceled",
+   "scheduled": "2026-11-23T00:30:00Z",
+   "actual": "2026-11-23T00:30:00Z"
+  },
+  "S7 3046|2026-11-23T01:05:00Z": {
+   "number": "S7 3046",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320 NEO",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T01:05:00Z",
+   "actual": "2026-11-23T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-22T16:07:25Z",
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

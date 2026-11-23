@@ -8,9 +8,9 @@
    "to": "Omsukchan",
    "to_name": "Omsukchan",
    "model": "An-28",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:05:00Z",
-   "actual": "2026-11-22T22:05:00Z"
+   "actual": "2026-11-22T22:06:00Z"
   },
   "IO 131|2026-11-22T22:30:00Z": {
    "number": "IO 131",
@@ -18,9 +18,9 @@
    "to": "Severo-Evensk",
    "to_name": "Severo-Evensk",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:30:00Z",
-   "actual": "2026-11-22T22:30:00Z"
+   "actual": "2026-11-22T23:16:00Z"
   },
   "IO 133|2026-11-22T23:00:00Z": {
    "number": "IO 133",
@@ -28,9 +28,79 @@
    "to": "KPW",
    "to_name": "Keperveem",
    "model": "An-24",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:00:00Z",
-   "actual": "2026-11-22T23:00:00Z"
+   "actual": "2026-11-22T23:43:00Z"
+  },
+  "S7 5220|2026-11-22T23:10:00Z": {
+   "number": "S7 5220",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-22T23:10:00Z",
+   "actual": "2026-11-22T23:12:00Z"
+  },
+  "IO 9801|2026-11-22T23:30:00Z": {
+   "number": "IO 9801",
+   "airline": "IrAero",
+   "to": "Kupol",
+   "to_name": "Kupol",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-22T23:30:00Z",
+   "actual": "2026-11-22T23:53:00Z"
+  },
+  "IO 9701|2026-11-23T00:05:00Z": {
+   "number": "IO 9701",
+   "airline": "IrAero",
+   "to": "Baimskaya",
+   "to_name": "Baimskaya",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T00:05:00Z",
+   "actual": "2026-11-23T00:05:00Z"
+  },
+  "IO 9605|2026-11-23T00:30:00Z": {
+   "number": "IO 9605",
+   "airline": "IrAero",
+   "to": "Kupol",
+   "to_name": "Kupol",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:30:00Z",
+   "actual": "2026-11-23T00:30:00Z"
+  },
+  "IO 9167|2026-11-23T00:45:00Z": {
+   "number": "IO 9167",
+   "airline": "IrAero",
+   "to": "Omolon",
+   "to_name": "Omolon",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:45:00Z",
+   "actual": "2026-11-23T00:45:00Z"
+  },
+  "IO 9703|2026-11-23T01:00:00Z": {
+   "number": "IO 9703",
+   "airline": "IrAero",
+   "to": "Keperveem",
+   "to_name": "Keperveem",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T01:00:00Z",
+   "actual": "2026-11-23T01:00:00Z"
+  },
+  "IO 9137|2026-11-23T01:00:00Z": {
+   "number": "IO 9137",
+   "airline": "IrAero",
+   "to": "Okhotsk",
+   "to_name": "Okhotsk",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T01:00:00Z",
+   "actual": "2026-11-23T01:00:00Z"
   }
  },
  "fetched": [
@@ -38,6 +108,7 @@
   "2026-11-22T16:07:25Z",
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

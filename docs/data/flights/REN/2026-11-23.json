@@ -8,13 +8,14 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:00:00Z",
    "actual": "2026-11-22T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

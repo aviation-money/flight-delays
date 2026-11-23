@@ -48,9 +48,9 @@
    "to": "BQJ",
    "to_name": "Batagay",
    "model": "Dhc8-300",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:00:00Z",
-   "actual": "2026-11-22T22:00:00Z"
+   "actual": "2026-11-22T22:16:00Z"
   },
   "S7 5262|2026-11-22T22:10:00Z": {
    "number": "S7 5262",
@@ -58,15 +58,86 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:10:00Z",
-   "actual": "2026-11-22T22:10:00Z"
+   "actual": "2026-11-22T22:42:00Z"
+  },
+  "S7 3008|2026-11-22T23:15:00Z": {
+   "number": "S7 3008",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T23:15:00Z",
+   "actual": "2026-11-22T23:26:00Z"
+  },
+  "SU 1751|2026-11-22T23:55:00Z": {
+   "number": "SU 1751",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T23:55:00Z",
+   "actual": "2026-11-22T23:55:00Z"
+  },
+  "PI 231|2026-11-23T00:00:00Z": {
+   "number": "PI 231",
+   "airline": "Polar",
+   "to": "Moma",
+   "to_name": "Moma",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:00:00Z",
+   "actual": "2026-11-23T00:00:00Z"
+  },
+  "PI 9925|2026-11-23T00:20:00Z": {
+   "number": "PI 9925",
+   "airline": "Polar",
+   "to": "Zhigansk",
+   "to_name": "Zhigansk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:20:00Z",
+   "actual": "2026-11-23T00:20:00Z"
+  },
+  "S7 5264|2026-11-23T00:35:00Z": {
+   "number": "S7 5264",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:35:00Z",
+   "actual": "2026-11-23T00:35:00Z"
+  },
+  "PI 203|2026-11-23T00:40:00Z": {
+   "number": "PI 203",
+   "airline": "Polar",
+   "to": "BGN",
+   "to_name": "Belaya Gora",
+   "model": "An-26",
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:40:00Z",
+   "actual": "2026-11-23T00:40:00Z"
+  },
+  "PI 235|2026-11-23T01:00:00Z": {
+   "number": "PI 235",
+   "airline": "Polar",
+   "to": "Ust-Kuyga",
+   "to_name": "Ust-Kuyga",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-23T01:00:00Z",
+   "actual": "2026-11-23T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T16:07:25Z",
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

@@ -11,10 +11,81 @@
    "status": "Departed",
    "scheduled": "2026-11-22T20:25:00Z",
    "actual": "2026-11-22T21:01:00Z"
+  },
+  "UT 6109|2026-11-22T23:40:00Z": {
+   "number": "UT 6109",
+   "airline": "UTAir",
+   "to": "IAA",
+   "to_name": "Igarka",
+   "model": "Boeing 737-400",
+   "status": "Canceled",
+   "scheduled": "2026-11-22T23:40:00Z",
+   "actual": "2026-11-22T23:40:00Z"
+  },
+  "UT 408|2026-11-22T23:30:00Z": {
+   "number": "UT 408",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-22T23:30:00Z",
+   "actual": "2026-11-23T00:00:00Z"
+  },
+  "FV 6412|2026-11-23T00:30:00Z": {
+   "number": "FV 6412",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T00:30:00Z",
+   "actual": "2026-11-23T00:30:00Z"
+  },
+  "DP 438|2026-11-23T00:35:00Z": {
+   "number": "DP 438",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T00:35:00Z",
+   "actual": "2026-11-23T00:35:00Z"
+  },
+  "DP 560|2026-11-23T00:40:00Z": {
+   "number": "DP 560",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T00:40:00Z",
+   "actual": "2026-11-23T00:40:00Z"
+  },
+  "UT 6577|2026-11-23T00:45:00Z": {
+   "number": "UT 6577",
+   "airline": "UTAir",
+   "to": "KGP",
+   "to_name": "Kogalym",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T00:45:00Z",
+   "actual": "2026-11-23T00:45:00Z"
+  },
+  "Y7 4701|2026-11-23T00:55:00Z": {
+   "number": "Y7 4701",
+   "airline": "NordStar",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T00:55:00Z",
+   "actual": "2026-11-23T00:55:00Z"
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

@@ -38,9 +38,29 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:20:00Z",
-   "actual": "2026-11-22T22:20:00Z"
+   "actual": "2026-11-22T22:32:00Z"
+  },
+  "PTK 107|2026-11-22T23:30:00Z": {
+   "number": "PTK 107",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "An-26",
+   "status": "Departed",
+   "scheduled": "2026-11-22T23:30:00Z",
+   "actual": "2026-11-22T23:25:00Z"
+  },
+  "PTK 123|2026-11-22T22:30:00Z": {
+   "number": "PTK 123",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "Ossora",
+   "to_name": "Ossora",
+   "model": "Yak 40",
+   "status": "Delayed",
+   "scheduled": "2026-11-22T22:30:00Z",
+   "actual": "2026-11-23T00:30:00Z"
   }
  },
  "fetched": [
@@ -49,6 +69,7 @@
   "2026-11-22T16:07:25Z",
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

@@ -8,9 +8,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737 MAX 8",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T21:25:00Z",
-   "actual": "2026-11-22T21:25:00Z"
+   "actual": "2026-11-22T21:57:00Z"
   },
   "TK 410|2026-11-22T21:35:00Z": {
    "number": "TK 410",
@@ -18,9 +18,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T21:35:00Z",
-   "actual": "2026-11-22T21:35:00Z"
+   "actual": "2026-11-22T21:53:00Z"
   },
   "J2 810|2026-11-22T21:55:00Z": {
    "number": "J2 810",
@@ -28,9 +28,9 @@
    "to": "GYD",
    "to_name": "Baku",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T21:55:00Z",
-   "actual": "2026-11-22T21:55:00Z"
+   "actual": "2026-11-22T22:14:00Z"
   },
   "DP 733|2026-11-22T21:20:00Z": {
    "number": "DP 733",
@@ -38,9 +38,9 @@
    "to": "TMJ",
    "to_name": "Termez",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T21:20:00Z",
-   "actual": "2026-11-22T21:55:00Z"
+   "actual": "2026-11-22T22:22:00Z"
   },
   "HY 606|2026-11-22T22:00:00Z": {
    "number": "HY 606",
@@ -48,9 +48,9 @@
    "to": "SKD",
    "to_name": "Samarkand",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:00:00Z",
-   "actual": "2026-11-22T22:00:00Z"
+   "actual": "2026-11-22T22:24:00Z"
   },
   "UT 355|2026-11-22T22:10:00Z": {
    "number": "UT 355",
@@ -58,9 +58,9 @@
    "to": "GRV",
    "to_name": "Grozny",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:10:00Z",
-   "actual": "2026-11-22T22:10:00Z"
+   "actual": "2026-11-22T22:35:00Z"
   },
   "TK 412|2026-11-22T23:05:00Z": {
    "number": "TK 412",
@@ -68,12 +68,73 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Airbus A330-300",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:05:00Z",
-   "actual": "2026-11-22T23:05:00Z"
+   "actual": "2026-11-22T23:36:00Z"
+  },
+  "DP 435B|2026-11-22T22:50:00Z": {
+   "number": "DP 435B",
+   "airline": "Pobeda",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-22T22:50:00Z",
+   "actual": "2026-11-22T23:15:00Z"
+  },
+  "VF 276|2026-11-22T23:50:00Z": {
+   "number": "VF 276",
+   "airline": "AJet",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-22T23:50:00Z",
+   "actual": "2026-11-22T23:50:00Z"
+  },
+  "TK 422|2026-11-22T23:40:00Z": {
+   "number": "TK 422",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T23:40:00Z",
+   "actual": "2026-11-23T00:00:00Z"
+  },
+  "PC 387|2026-11-23T00:10:00Z": {
+   "number": "PC 387",
+   "airline": "Pegasus",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Airbus A321 NEO",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T00:10:00Z",
+   "actual": "2026-11-23T00:10:00Z"
+  },
+  "3F 3324|2026-11-22T23:50:00Z": {
+   "number": "3F 3324",
+   "airline": "FlyOne Armenia",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-22T23:50:00Z",
+   "actual": "2026-11-23T00:20:00Z"
+  },
+  "UT 715|2026-11-23T01:00:00Z": {
+   "number": "UT 715",
+   "airline": "UTAir",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 767-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T01:00:00Z",
+   "actual": "2026-11-23T01:00:00Z"
   }
  },
  "fetched": [
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

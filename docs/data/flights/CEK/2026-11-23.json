@@ -1,9 +1,51 @@
 {
  "airport": "CEK",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "WZ 919|2026-11-22T22:05:00Z": {
+   "number": "WZ 919",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-22T22:05:00Z",
+   "actual": "2026-11-22T23:47:00Z"
+  },
+  "DP 6568|2026-11-23T00:30:00Z": {
+   "number": "DP 6568",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T00:30:00Z",
+   "actual": "2026-11-23T00:30:00Z"
+  },
+  "DP 6570|2026-11-23T01:00:00Z": {
+   "number": "DP 6570",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T01:00:00Z",
+   "actual": "2026-11-23T01:00:00Z"
+  },
+  "SU 1093|2026-11-23T01:05:00Z": {
+   "number": "SU 1093",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T01:05:00Z",
+   "actual": "2026-11-23T01:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

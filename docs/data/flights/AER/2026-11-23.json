@@ -11,9 +11,40 @@
    "status": "Boarding",
    "scheduled": "2026-11-22T22:30:00Z",
    "actual": "2026-11-22T22:30:00Z"
+  },
+  "SU 1133|2026-11-22T22:28:00Z": {
+   "number": "SU 1133",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-22T22:28:00Z",
+   "actual": "2026-11-22T22:28:00Z"
+  },
+  "FZ 972|2026-11-22T23:50:00Z": {
+   "number": "FZ 972",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-22T23:50:00Z",
+   "actual": "2026-11-22T23:50:00Z"
+  },
+  "A4 5007|2026-11-23T01:05:00Z": {
+   "number": "A4 5007",
+   "airline": "Azimuth",
+   "to": "Makhachkala",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T01:05:00Z",
+   "actual": "2026-11-23T01:05:00Z"
   }
  },
  "fetched": [
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

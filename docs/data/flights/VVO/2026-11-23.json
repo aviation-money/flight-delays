@@ -80,7 +80,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-22T21:45:00Z",
-   "actual": "2026-11-22T21:45:00Z"
+   "actual": "2026-11-22T22:00:00Z"
   },
   "HZ 5600|2026-11-22T22:00:00Z": {
    "number": "HZ 5600",
@@ -88,9 +88,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:00:00Z",
-   "actual": "2026-11-22T22:00:00Z"
+   "actual": "2026-11-22T22:06:00Z"
   },
   "U6 572|2026-11-22T22:20:00Z": {
    "number": "U6 572",
@@ -100,7 +100,7 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-22T22:20:00Z",
-   "actual": "2026-11-22T22:45:00Z"
+   "actual": "2026-11-22T23:12:00Z"
   },
   "S7 5204|2026-11-22T22:50:00Z": {
    "number": "S7 5204",
@@ -110,7 +110,47 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-22T22:50:00Z",
-   "actual": "2026-11-22T22:50:00Z"
+   "actual": "2026-11-22T23:20:00Z"
+  },
+  "HZ 513|2026-11-22T23:25:00Z": {
+   "number": "HZ 513",
+   "airline": "Aurora",
+   "to": "Preobrazhenie",
+   "to_name": "Preobrazhenie",
+   "model": "De Havilland Canada DHC-6 Twin Otter",
+   "status": "Expected",
+   "scheduled": "2026-11-22T23:25:00Z",
+   "actual": "2026-11-22T23:31:00Z"
+  },
+  "R3 492|2026-11-23T00:05:00Z": {
+   "number": "R3 492",
+   "airline": "Yakutia",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:05:00Z",
+   "actual": "2026-11-23T00:05:00Z"
+  },
+  "HZ 5680|2026-11-23T00:40:00Z": {
+   "number": "HZ 5680",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:40:00Z",
+   "actual": "2026-11-23T00:40:00Z"
+  },
+  "FV 5701|2026-11-23T01:00:00Z": {
+   "number": "FV 5701",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T01:00:00Z",
+   "actual": "2026-11-23T01:00:00Z"
   }
  },
  "fetched": [
@@ -118,6 +158,7 @@
   "2026-11-22T16:07:25Z",
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

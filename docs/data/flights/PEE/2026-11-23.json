@@ -1,9 +1,21 @@
 {
  "airport": "PEE",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "DP 6512|2026-11-23T01:00:00Z": {
+   "number": "DP 6512",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T01:00:00Z",
+   "actual": "2026-11-23T01:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

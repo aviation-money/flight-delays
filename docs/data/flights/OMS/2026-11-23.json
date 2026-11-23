@@ -11,11 +11,62 @@
    "status": "Departed",
    "scheduled": "2026-11-22T19:30:00Z",
    "actual": "2026-11-22T19:43:00Z"
+  },
+  "FV 6472|2026-11-22T23:10:00Z": {
+   "number": "FV 6472",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-22T23:10:00Z",
+   "actual": "2026-11-22T23:10:00Z"
+  },
+  "SU 1763|2026-11-22T23:50:00Z": {
+   "number": "SU 1763",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-22T23:50:00Z",
+   "actual": "2026-11-22T23:50:00Z"
+  },
+  "S7 2566|2026-11-23T00:25:00Z": {
+   "number": "S7 2566",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:25:00Z",
+   "actual": "2026-11-23T00:25:00Z"
+  },
+  "U6 388|2026-11-23T00:35:00Z": {
+   "number": "U6 388",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-23T00:35:00Z",
+   "actual": "2026-11-23T00:35:00Z"
+  },
+  "DP 6522|2026-11-23T01:05:00Z": {
+   "number": "DP 6522",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T01:05:00Z",
+   "actual": "2026-11-23T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

@@ -58,13 +58,64 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T21:20:00Z",
-   "actual": "2026-11-22T22:00:00Z"
+   "actual": "2026-11-22T22:28:00Z"
+  },
+  "DP 516|2026-11-23T00:30:00Z": {
+   "number": "DP 516",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T00:30:00Z",
+   "actual": "2026-11-23T00:30:00Z"
+  },
+  "DP 783|2026-11-23T00:40:00Z": {
+   "number": "DP 783",
+   "airline": "Pobeda",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T00:40:00Z",
+   "actual": "2026-11-23T00:40:00Z"
+  },
+  "DP 6544|2026-11-23T00:45:00Z": {
+   "number": "DP 6544",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T00:45:00Z",
+   "actual": "2026-11-23T00:45:00Z"
+  },
+  "FV 6122|2026-11-23T00:05:00Z": {
+   "number": "FV 6122",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T00:05:00Z",
+   "actual": "2026-11-23T00:50:00Z"
+  },
+  "FV 6402|2026-11-23T01:00:00Z": {
+   "number": "FV 6402",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T01:00:00Z",
+   "actual": "2026-11-23T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

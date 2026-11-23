@@ -27,7 +27,7 @@
    "airline": "UTAir",
    "to": "SGC",
    "to_name": "Surgut",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-400",
    "status": "Departed",
    "scheduled": "2026-11-22T21:35:00Z",
    "actual": "2026-11-22T21:52:00Z"
@@ -41,10 +41,31 @@
    "status": "CheckIn",
    "scheduled": "2026-11-22T23:05:00Z",
    "actual": "2026-11-22T23:05:00Z"
+  },
+  "A4 7008|2026-11-22T23:05:00Z": {
+   "number": "A4 7008",
+   "airline": "Azimuth",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Delayed",
+   "scheduled": "2026-11-22T23:05:00Z",
+   "actual": "2026-11-23T01:00:00Z"
+  },
+  "WZ 5303|2026-11-22T23:35:00Z": {
+   "number": "WZ 5303",
+   "airline": "Red Wings",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-22T23:35:00Z",
+   "actual": "2026-11-23T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }

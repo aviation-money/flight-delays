@@ -18,9 +18,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737 MAX 8",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:10:00Z",
-   "actual": "2026-11-22T22:10:00Z"
+   "actual": "2026-11-22T22:19:00Z"
   },
   "N4 1409|2026-11-22T22:40:00Z": {
    "number": "N4 1409",
@@ -28,9 +28,9 @@
    "to": "LBD",
    "to_name": "Khudzhand",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T22:40:00Z",
-   "actual": "2026-11-22T22:40:00Z"
+   "actual": "2026-11-22T22:22:00Z"
   },
   "T5 738|2026-11-22T23:00:00Z": {
    "number": "T5 738",
@@ -38,12 +38,13 @@
    "to": "Ashgabat",
    "to_name": "Ashgabat",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:00:00Z",
-   "actual": "2026-11-22T23:00:00Z"
+   "actual": "2026-11-22T22:49:00Z"
   }
  },
  "fetched": [
-  "2026-11-22T22:07:23Z"
+  "2026-11-22T22:07:23Z",
+  "2026-11-23T00:07:28Z"
  ]
 }
