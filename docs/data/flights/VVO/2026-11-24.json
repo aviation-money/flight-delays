@@ -30,7 +30,7 @@
    "model": "Airbus A330-300",
    "status": "Expected",
    "scheduled": "2026-11-23T18:10:00Z",
-   "actual": "2026-11-23T18:10:00Z"
+   "actual": "2026-11-23T18:24:00Z"
   },
   "FV 6645|2026-11-23T19:00:00Z": {
    "number": "FV 6645",
@@ -40,12 +40,43 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-23T19:00:00Z",
-   "actual": "2026-11-23T19:00:00Z"
+   "actual": "2026-11-23T19:05:00Z"
+  },
+  "S7 5202|2026-11-23T19:40:00Z": {
+   "number": "S7 5202",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T19:40:00Z",
+   "actual": "2026-11-23T19:40:00Z"
+  },
+  "S7 6241|2026-11-23T20:35:00Z": {
+   "number": "S7 6241",
+   "airline": "S7",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T20:35:00Z",
+   "actual": "2026-11-23T20:35:00Z"
+  },
+  "FV 2461|2026-11-23T21:05:00Z": {
+   "number": "FV 2461",
+   "airline": "Rossiya",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T21:05:00Z",
+   "actual": "2026-11-23T21:05:00Z"
   }
  },
  "fetched": [
   "2026-11-23T14:07:30Z",
   "2026-11-23T16:07:29Z",
-  "2026-11-23T18:07:28Z"
+  "2026-11-23T18:07:28Z",
+  "2026-11-23T20:07:29Z"
  ]
 }

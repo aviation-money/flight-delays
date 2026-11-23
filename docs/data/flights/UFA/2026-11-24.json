@@ -1,0 +1,29 @@
+{
+ "airport": "UFA",
+ "date": "2026-11-24",
+ "flights": {
+  "UJ 676|2026-11-23T19:35:00Z": {
+   "number": "UJ 676",
+   "airline": "AL MASRIA UNIVERSAL AIRLINES",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-23T19:35:00Z",
+   "actual": "2026-11-23T19:53:00Z"
+  },
+  "FZ 986|2026-11-23T20:05:00Z": {
+   "number": "FZ 986",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T20:05:00Z",
+   "actual": "2026-11-23T20:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-23T20:07:29Z"
+ ]
+}

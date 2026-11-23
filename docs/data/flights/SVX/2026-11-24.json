@@ -1,0 +1,39 @@
+{
+ "airport": "SVX",
+ "date": "2026-11-24",
+ "flights": {
+  "WZ 5003|2026-11-23T19:50:00Z": {
+   "number": "WZ 5003",
+   "airline": "Red Wings",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T19:50:00Z",
+   "actual": "2026-11-23T19:50:00Z"
+  },
+  "NE 437|2026-11-23T20:15:00Z": {
+   "number": "NE 437",
+   "airline": "Nesma",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-23T20:15:00Z",
+   "actual": "2026-11-23T20:15:00Z"
+  },
+  "Y7 918|2026-11-23T20:45:00Z": {
+   "number": "Y7 918",
+   "airline": "NordStar",
+   "to": "NSK",
+   "to_name": "Norilsk",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T20:45:00Z",
+   "actual": "2026-11-23T20:45:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-23T20:07:29Z"
+ ]
+}

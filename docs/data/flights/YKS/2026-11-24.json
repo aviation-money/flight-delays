@@ -1,9 +1,31 @@
 {
  "airport": "YKS",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "R3 295|2026-11-23T19:20:00Z": {
+   "number": "R3 295",
+   "airline": "Yakutia",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T19:20:00Z",
+   "actual": "2026-11-23T19:51:00Z"
+  },
+  "PI 217|2026-11-23T21:00:00Z": {
+   "number": "PI 217",
+   "airline": "Polar",
+   "to": "Srednekolymsk",
+   "to_name": "Srednekolymsk",
+   "model": "An-26",
+   "status": "Expected",
+   "scheduled": "2026-11-23T21:00:00Z",
+   "actual": "2026-11-23T21:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T16:07:29Z",
-  "2026-11-23T18:07:28Z"
+  "2026-11-23T18:07:28Z",
+  "2026-11-23T20:07:29Z"
  ]
 }

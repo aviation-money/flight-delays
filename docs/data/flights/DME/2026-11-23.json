@@ -447,7 +447,7 @@
    "airline": "S7",
    "to": "YKS",
    "to_name": "Yakutsk",
-   "model": "Airbus A321-200 (Sharklets)",
+   "model": "Airbus A321-200 (sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-23T15:20:00Z",
    "actual": "2026-11-23T15:50:00Z"
@@ -518,19 +518,19 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T17:35:00Z",
-   "actual": "2026-11-23T17:35:00Z"
+   "actual": "2026-11-23T18:10:00Z"
   },
   "U6 263|2026-11-23T17:35:00Z": {
    "number": "U6 263",
    "airline": "Ural",
    "to": "SVX",
    "to_name": "Ekaterinburg",
-   "model": "Airbus A320-200",
-   "status": "GateClosed",
+   "model": "Airbus A320",
+   "status": "Departed",
    "scheduled": "2026-11-23T17:35:00Z",
-   "actual": "2026-11-23T17:35:00Z"
+   "actual": "2026-11-23T18:13:00Z"
   },
   "S7 2509|2026-11-23T17:15:00Z": {
    "number": "S7 2509",
@@ -558,9 +558,9 @@
    "to": "KYZ",
    "to_name": "Kyzyl",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:05:00Z",
-   "actual": "2026-11-23T18:05:00Z"
+   "actual": "2026-11-23T18:23:00Z"
   },
   "S7 3017|2026-11-23T18:15:00Z": {
    "number": "S7 3017",
@@ -568,19 +568,19 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:15:00Z",
-   "actual": "2026-11-23T18:15:00Z"
+   "actual": "2026-11-23T19:01:00Z"
   },
   "Y7 4400|2026-11-23T18:20:00Z": {
    "number": "Y7 4400",
    "airline": "NordStar",
-   "to": "Ufa",
+   "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:20:00Z",
-   "actual": "2026-11-23T18:20:00Z"
+   "actual": "2026-11-23T18:56:00Z"
   },
   "ET 761|2026-11-23T18:30:00Z": {
    "number": "ET 761",
@@ -588,29 +588,29 @@
    "to": "ADD",
    "to_name": "Addis Ababa",
    "model": "Boeing 787-8",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:30:00Z",
-   "actual": "2026-11-23T18:30:00Z"
+   "actual": "2026-11-23T18:51:00Z"
   },
   "G9 806|2026-11-23T18:50:00Z": {
    "number": "G9 806",
    "airline": "Air Arabia",
-   "to": "Sharjah",
+   "to": "SHJ",
    "to_name": "Sharjah",
    "model": "Airbus A321-200 (Sharklets)",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:50:00Z",
-   "actual": "2026-11-23T18:50:00Z"
+   "actual": "2026-11-23T18:54:00Z"
   },
   "S7 2503|2026-11-23T18:50:00Z": {
    "number": "S7 2503",
    "airline": "S7",
-   "to": "Novosibirsk",
+   "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:50:00Z",
-   "actual": "2026-11-23T18:50:00Z"
+   "actual": "2026-11-23T18:58:00Z"
   },
   "Y7 101|2026-11-23T18:55:00Z": {
    "number": "Y7 101",
@@ -618,29 +618,29 @@
    "to": "Norilsk",
    "to_name": "Norilsk",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:55:00Z",
-   "actual": "2026-11-23T18:55:00Z"
+   "actual": "2026-11-23T19:37:00Z"
   },
   "S7 2565|2026-11-23T18:55:00Z": {
    "number": "S7 2565",
    "airline": "S7",
-   "to": "Omsk",
+   "to": "OMS",
    "to_name": "Omsk",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:55:00Z",
-   "actual": "2026-11-23T18:55:00Z"
+   "actual": "2026-11-23T19:13:00Z"
   },
   "S7 3033|2026-11-23T18:55:00Z": {
    "number": "S7 3033",
    "airline": "S7",
-   "to": "Ulan-Ude",
+   "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:55:00Z",
-   "actual": "2026-11-23T18:55:00Z"
+   "actual": "2026-11-23T19:22:00Z"
   },
   "C6 410|2026-11-23T19:00:00Z": {
    "number": "C6 410",
@@ -648,9 +648,9 @@
    "to": "SKD",
    "to_name": "Samarkand",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T19:00:00Z",
-   "actual": "2026-11-23T19:00:00Z"
+   "actual": "2026-11-23T19:20:00Z"
   },
   "U6 265|2026-11-23T19:00:00Z": {
    "number": "U6 265",
@@ -658,9 +658,79 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T19:00:00Z",
-   "actual": "2026-11-23T19:00:00Z"
+   "actual": "2026-11-23T19:14:00Z"
+  },
+  "S7 2615|2026-11-23T19:15:00Z": {
+   "number": "S7 2615",
+   "airline": "S7",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Airbus A320-200",
+   "status": "Departed",
+   "scheduled": "2026-11-23T19:15:00Z",
+   "actual": "2026-11-23T19:32:00Z"
+  },
+  "S7 2601|2026-11-23T19:45:00Z": {
+   "number": "S7 2601",
+   "airline": "S7",
+   "to": "BAX",
+   "to_name": "Barnaul",
+   "model": "Airbus A320-200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T19:45:00Z",
+   "actual": "2026-11-23T19:45:00Z"
+  },
+  "HY 602|2026-11-23T19:50:00Z": {
+   "number": "HY 602",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Boeing 767-300",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T19:50:00Z",
+   "actual": "2026-11-23T19:50:00Z"
+  },
+  "S7 2513|2026-11-23T20:00:00Z": {
+   "number": "S7 2513",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T20:00:00Z",
+   "actual": "2026-11-23T20:00:00Z"
+  },
+  "SZ 202|2026-11-23T20:30:00Z": {
+   "number": "SZ 202",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-900",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T20:30:00Z",
+   "actual": "2026-11-23T20:30:00Z"
+  },
+  "S7 2581|2026-11-23T20:40:00Z": {
+   "number": "S7 2581",
+   "airline": "S7",
+   "to": "NSK",
+   "to_name": "Norilsk",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T20:40:00Z",
+   "actual": "2026-11-23T20:40:00Z"
+  },
+  "Y7 103|2026-11-23T20:55:00Z": {
+   "number": "Y7 103",
+   "airline": "NordStar",
+   "to": "Norilsk",
+   "to_name": "Norilsk",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T20:55:00Z",
+   "actual": "2026-11-23T20:55:00Z"
   }
  },
  "fetched": [
@@ -674,6 +744,7 @@
   "2026-11-23T12:07:27Z",
   "2026-11-23T14:07:30Z",
   "2026-11-23T16:07:29Z",
-  "2026-11-23T18:07:28Z"
+  "2026-11-23T18:07:28Z",
+  "2026-11-23T20:07:29Z"
  ]
 }

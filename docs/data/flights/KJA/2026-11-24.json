@@ -15,10 +15,10 @@
   "FV 6987|2026-11-23T18:30:00Z": {
    "number": "FV 6987",
    "airline": "Rossiya",
-   "to": "Moskva / ShRM",
-   "to_name": "Moskva / ShRM",
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:30:00Z",
    "actual": "2026-11-23T18:30:00Z"
   },
@@ -34,6 +34,7 @@
   }
  },
  "fetched": [
-  "2026-11-23T18:07:28Z"
+  "2026-11-23T18:07:28Z",
+  "2026-11-23T20:07:29Z"
  ]
 }

@@ -1,0 +1,19 @@
+{
+ "airport": "TJM",
+ "date": "2026-11-24",
+ "flights": {
+  "N4 1475|2026-11-23T19:30:00Z": {
+   "number": "N4 1475",
+   "airline": "Nordwind",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T19:30:00Z",
+   "actual": "2026-11-23T20:25:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-23T20:07:29Z"
+ ]
+}

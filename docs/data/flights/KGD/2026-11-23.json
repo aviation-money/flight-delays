@@ -298,9 +298,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T17:55:00Z",
-   "actual": "2026-11-23T18:04:00Z"
+   "actual": "2026-11-23T18:26:00Z"
   },
   "N4 286|2026-11-23T16:30:00Z": {
    "number": "N4 286",
@@ -308,9 +308,19 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T16:30:00Z",
-   "actual": "2026-11-23T18:50:00Z"
+   "actual": "2026-11-23T19:26:00Z"
+  },
+  "DP 1264|2026-11-23T18:25:00Z": {
+   "number": "DP 1264",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T18:25:00Z",
+   "actual": "2026-11-23T20:15:00Z"
   }
  },
  "fetched": [
@@ -324,6 +334,7 @@
   "2026-11-23T12:07:27Z",
   "2026-11-23T14:07:30Z",
   "2026-11-23T16:07:29Z",
-  "2026-11-23T18:07:28Z"
+  "2026-11-23T18:07:28Z",
+  "2026-11-23T20:07:29Z"
  ]
 }

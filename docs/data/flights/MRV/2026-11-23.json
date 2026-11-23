@@ -277,7 +277,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A321",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-23T15:40:00Z",
    "actual": "2026-11-23T15:42:00Z"
@@ -298,9 +298,9 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T17:40:00Z",
-   "actual": "2026-11-23T17:40:00Z"
+   "actual": "2026-11-23T18:06:00Z"
   },
   "N4 702|2026-11-23T17:25:00Z": {
    "number": "N4 702",
@@ -328,9 +328,9 @@
    "to": "Makhachkala",
    "to_name": "Makhachkala",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T17:45:00Z",
-   "actual": "2026-11-23T18:15:00Z"
+   "actual": "2026-11-23T18:59:00Z"
   },
   "A4 6111|2026-11-23T19:05:00Z": {
    "number": "A4 6111",
@@ -341,6 +341,36 @@
    "status": "Unknown",
    "scheduled": "2026-11-23T19:05:00Z",
    "actual": null
+  },
+  "UT 374|2026-11-23T11:30:00Z": {
+   "number": "UT 374",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T11:30:00Z",
+   "actual": "2026-11-23T19:28:00Z"
+  },
+  "A4 6045|2026-11-23T20:25:00Z": {
+   "number": "A4 6045",
+   "airline": "Azimuth",
+   "to": "SCW",
+   "to_name": "Syktyvkar",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T20:25:00Z",
+   "actual": "2026-11-23T20:25:00Z"
+  },
+  "SU 2816|2026-11-23T20:55:00Z": {
+   "number": "SU 2816",
+   "airline": "Aeroflot",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-23T20:55:00Z",
+   "actual": "2026-11-23T20:55:00Z"
   }
  },
  "fetched": [
@@ -354,6 +384,7 @@
   "2026-11-23T12:07:27Z",
   "2026-11-23T14:07:30Z",
   "2026-11-23T16:07:29Z",
-  "2026-11-23T18:07:28Z"
+  "2026-11-23T18:07:28Z",
+  "2026-11-23T20:07:29Z"
  ]
 }

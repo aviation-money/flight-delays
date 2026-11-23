@@ -108,9 +108,9 @@
    "to": "BEG",
    "to_name": "Belgrade",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T17:10:00Z",
-   "actual": "2026-11-23T17:52:00Z"
+   "actual": "2026-11-23T18:17:00Z"
   },
   "N4 805|2026-11-23T18:20:00Z": {
    "number": "N4 805",
@@ -118,9 +118,29 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T18:20:00Z",
-   "actual": "2026-11-23T18:20:00Z"
+   "actual": "2026-11-23T18:38:00Z"
+  },
+  "S7 7054|2026-11-23T19:50:00Z": {
+   "number": "S7 7054",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T19:50:00Z",
+   "actual": "2026-11-23T19:50:00Z"
+  },
+  "UJ 746|2026-11-23T20:05:00Z": {
+   "number": "UJ 746",
+   "airline": "AlMasria",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T20:05:00Z",
+   "actual": "2026-11-23T20:05:00Z"
   }
  },
  "fetched": [
@@ -134,6 +154,7 @@
   "2026-11-23T12:07:27Z",
   "2026-11-23T14:07:30Z",
   "2026-11-23T16:07:29Z",
-  "2026-11-23T18:07:28Z"
+  "2026-11-23T18:07:28Z",
+  "2026-11-23T20:07:29Z"
  ]
 }
