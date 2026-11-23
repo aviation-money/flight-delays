@@ -848,9 +848,9 @@
    "to": "MSQ",
    "to_name": "Minsk",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T12:15:00Z",
-   "actual": "2026-11-23T14:30:00Z"
+   "actual": "2026-11-23T15:03:00Z"
   },
   "FV 6014|2026-11-23T15:00:00Z": {
    "number": "FV 6014",
@@ -858,9 +858,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T15:00:00Z",
-   "actual": "2026-11-23T16:30:00Z"
+   "actual": "2026-11-23T17:05:00Z"
   },
   "R3 461|2026-11-23T06:40:00Z": {
    "number": "R3 461",
@@ -878,9 +878,9 @@
    "to": "PKV",
    "to_name": "Pskov",
    "model": "Sukhoi Superjet 100-95",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T16:00:00Z",
-   "actual": "2026-11-23T16:00:00Z"
+   "actual": "2026-11-23T16:24:00Z"
   },
   "ВГ 2389|2026-11-23T16:05:00Z": {
    "number": "ВГ 2389",
@@ -888,9 +888,9 @@
    "to": "VGD",
    "to_name": "Vologda",
    "model": "Yak 40",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T16:05:00Z",
-   "actual": "2026-11-23T16:05:00Z"
+   "actual": "2026-11-23T16:29:00Z"
   },
   "DP 485|2026-11-23T15:10:00Z": {
    "number": "DP 485",
@@ -898,9 +898,9 @@
    "to": "ULV",
    "to_name": "Ulyanovsk",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T15:10:00Z",
-   "actual": "2026-11-23T16:10:00Z"
+   "actual": "2026-11-23T16:33:00Z"
   },
   "DP 191|2026-11-23T13:15:00Z": {
    "number": "DP 191",
@@ -908,9 +908,9 @@
    "to": "MCX",
    "to_name": "Makhachkala",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T13:15:00Z",
-   "actual": "2026-11-23T16:10:00Z"
+   "actual": "2026-11-23T16:40:00Z"
   },
   "FV 6178|2026-11-23T16:30:00Z": {
    "number": "FV 6178",
@@ -918,9 +918,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T16:30:00Z",
-   "actual": "2026-11-23T16:30:00Z"
+   "actual": "2026-11-23T16:58:00Z"
   },
   "UT 357|2026-11-23T16:30:00Z": {
    "number": "UT 357",
@@ -928,9 +928,9 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T16:30:00Z",
-   "actual": "2026-11-23T16:30:00Z"
+   "actual": "2026-11-23T17:23:00Z"
   },
   "DP 741|2026-11-23T16:40:00Z": {
    "number": "DP 741",
@@ -938,9 +938,9 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T16:40:00Z",
-   "actual": "2026-11-23T16:40:00Z"
+   "actual": "2026-11-23T17:18:00Z"
   },
   "DP 263|2026-11-23T15:10:00Z": {
    "number": "DP 263",
@@ -948,19 +948,179 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T15:10:00Z",
-   "actual": "2026-11-23T16:50:00Z"
+   "actual": "2026-11-23T17:21:00Z"
   },
   "UT 399|2026-11-23T17:00:00Z": {
    "number": "UT 399",
    "airline": "UTAir",
    "to": "GRV",
    "to_name": "Grozny",
+   "model": "Boeing 737-800 (winglets)",
+   "status": "Departed",
+   "scheduled": "2026-11-23T17:00:00Z",
+   "actual": "2026-11-23T17:36:00Z"
+  },
+  "FZ 966|2026-11-23T17:15:00Z": {
+   "number": "FZ 966",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:15:00Z",
+   "actual": "2026-11-23T17:15:00Z"
+  },
+  "UT 453|2026-11-23T17:30:00Z": {
+   "number": "UT 453",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:30:00Z",
+   "actual": "2026-11-23T17:30:00Z"
+  },
+  "UT 807|2026-11-23T16:45:00Z": {
+   "number": "UT 807",
+   "airline": "UTAir",
+   "to": "BHK",
+   "to_name": "Bukhara",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T16:45:00Z",
+   "actual": "2026-11-23T17:40:00Z"
+  },
+  "TK 416|2026-11-23T17:15:00Z": {
+   "number": "TK 416",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A330-300",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:15:00Z",
+   "actual": "2026-11-23T17:45:00Z"
+  },
+  "FV 6180|2026-11-23T17:30:00Z": {
+   "number": "FV 6180",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:30:00Z",
+   "actual": "2026-11-23T17:45:00Z"
+  },
+  "FZ 988|2026-11-23T17:50:00Z": {
+   "number": "FZ 988",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:50:00Z",
+   "actual": "2026-11-23T17:50:00Z"
+  },
+  "HY 614|2026-11-23T17:50:00Z": {
+   "number": "HY 614",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A321 NEO",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:50:00Z",
+   "actual": "2026-11-23T18:00:00Z"
+  },
+  "DP 713|2026-11-23T18:00:00Z": {
+   "number": "DP 713",
+   "airline": "Pobeda",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T18:00:00Z",
+   "actual": "2026-11-23T18:00:00Z"
+  },
+  "UT 247|2026-11-23T17:50:00Z": {
+   "number": "UT 247",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T17:50:00Z",
+   "actual": "2026-11-23T18:20:00Z"
+  },
+  "UT 571|2026-11-23T18:30:00Z": {
+   "number": "UT 571",
+   "airline": "UTAir",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T18:30:00Z",
+   "actual": "2026-11-23T18:30:00Z"
+  },
+  "FV 6182|2026-11-23T18:30:00Z": {
+   "number": "FV 6182",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T18:30:00Z",
+   "actual": "2026-11-23T18:30:00Z"
+  },
+  "J2 812|2026-11-23T18:05:00Z": {
+   "number": "J2 812",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T18:05:00Z",
+   "actual": "2026-11-23T18:40:00Z"
+  },
+  "RT 302|2026-11-23T18:45:00Z": {
+   "number": "RT 302",
+   "airline": "UVT Aero",
+   "to": "UUA",
+   "to_name": "Bugulma",
+   "model": "Bombardier CRJ200",
+   "status": "Canceled",
+   "scheduled": "2026-11-23T18:45:00Z",
+   "actual": "2026-11-23T18:45:00Z"
+  },
+  "FZ 976|2026-11-23T18:50:00Z": {
+   "number": "FZ 976",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T18:50:00Z",
+   "actual": "2026-11-23T18:50:00Z"
+  },
+  "HY 9908|2026-11-23T18:35:00Z": {
+   "number": "HY 9908",
+   "airline": "Uzbekistan",
+   "to": "BHK",
+   "to_name": "Bukhara",
+   "model": "Airbus A320 NEO",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T18:35:00Z",
+   "actual": "2026-11-23T18:50:00Z"
+  },
+  "UT 785|2026-11-23T19:00:00Z": {
+   "number": "UT 785",
+   "airline": "UTAir",
+   "to": "EVN",
+   "to_name": "Yerevan",
    "model": "Boeing 737-800",
    "status": "CheckIn",
-   "scheduled": "2026-11-23T17:00:00Z",
-   "actual": "2026-11-23T17:00:00Z"
+   "scheduled": "2026-11-23T19:00:00Z",
+   "actual": "2026-11-23T19:00:00Z"
   }
  },
  "fetched": [
@@ -973,6 +1133,7 @@
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
   "2026-11-23T14:07:30Z",
-  "2026-11-23T16:07:29Z"
+  "2026-11-23T16:07:29Z",
+  "2026-11-23T18:07:28Z"
  ]
 }

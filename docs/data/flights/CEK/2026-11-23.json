@@ -211,6 +211,36 @@
    "status": "Departed",
    "scheduled": "2026-11-23T14:30:00Z",
    "actual": "2026-11-23T14:41:00Z"
+  },
+  "SU 1427|2026-11-23T17:30:00Z": {
+   "number": "SU 1427",
+   "airline": "Aeroflot",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-23T17:30:00Z",
+   "actual": "2026-11-23T17:30:00Z"
+  },
+  "S7 7046|2026-11-23T17:55:00Z": {
+   "number": "S7 7046",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:55:00Z",
+   "actual": "2026-11-23T17:55:00Z"
+  },
+  "FV 6844|2026-11-23T18:50:00Z": {
+   "number": "FV 6844",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T18:50:00Z",
+   "actual": "2026-11-23T18:50:00Z"
   }
  },
  "fetched": [
@@ -224,6 +254,7 @@
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
   "2026-11-23T14:07:30Z",
-  "2026-11-23T16:07:29Z"
+  "2026-11-23T16:07:29Z",
+  "2026-11-23T18:07:28Z"
  ]
 }

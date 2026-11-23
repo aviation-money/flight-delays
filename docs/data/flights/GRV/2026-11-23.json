@@ -71,6 +71,16 @@
    "status": "Expected",
    "scheduled": "2026-11-23T16:30:00Z",
    "actual": null
+  },
+  "SU 1051|2026-11-23T18:10:00Z": {
+   "number": "SU 1051",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-23T18:10:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -83,6 +93,7 @@
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
   "2026-11-23T14:07:30Z",
-  "2026-11-23T16:07:29Z"
+  "2026-11-23T16:07:29Z",
+  "2026-11-23T18:07:28Z"
  ]
 }

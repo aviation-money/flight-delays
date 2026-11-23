@@ -1,0 +1,39 @@
+{
+ "airport": "KJA",
+ "date": "2026-11-24",
+ "flights": {
+  "N4 3655|2026-11-23T17:10:00Z": {
+   "number": "N4 3655",
+   "airline": "Nordwind",
+   "to": "Kamran",
+   "to_name": "Kamran",
+   "model": "Boeing 777-200",
+   "status": "Departed",
+   "scheduled": "2026-11-23T17:10:00Z",
+   "actual": "2026-11-23T17:10:00Z"
+  },
+  "FV 6987|2026-11-23T18:30:00Z": {
+   "number": "FV 6987",
+   "airline": "Rossiya",
+   "to": "Moskva / ShRM",
+   "to_name": "Moskva / ShRM",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-23T18:30:00Z",
+   "actual": "2026-11-23T18:30:00Z"
+  },
+  "SU 1487|2026-11-23T18:30:00Z": {
+   "number": "SU 1487",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "Canceled",
+   "scheduled": "2026-11-23T18:30:00Z",
+   "actual": "2026-11-23T18:30:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-23T18:07:28Z"
+ ]
+}

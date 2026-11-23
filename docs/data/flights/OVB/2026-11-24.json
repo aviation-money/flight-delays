@@ -1,0 +1,69 @@
+{
+ "airport": "OVB",
+ "date": "2026-11-24",
+ "flights": {
+  "S7 5277|2026-11-23T17:05:00Z": {
+   "number": "S7 5277",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Canceled",
+   "scheduled": "2026-11-23T17:05:00Z",
+   "actual": "2026-11-23T17:05:00Z"
+  },
+  "9Z 3615|2026-11-23T17:00:00Z": {
+   "number": "9Z 3615",
+   "airline": "Siamwings Airlines",
+   "to": "Pattaya",
+   "to_name": "Pattaya",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-23T17:00:00Z",
+   "actual": "2026-11-23T17:14:00Z"
+  },
+  "SHE 3615|2026-11-23T17:15:00Z": {
+   "number": "SHE 3615",
+   "airline": "Shell Aircraft",
+   "to": "Unknown",
+   "to_name": "Unknown",
+   "model": "Airbus A330-200",
+   "status": "Departed",
+   "scheduled": "2026-11-23T17:15:00Z",
+   "actual": "2026-11-23T17:15:00Z"
+  },
+  "S7 5503|2026-11-23T17:30:00Z": {
+   "number": "S7 5503",
+   "airline": "S7",
+   "to": "ALA",
+   "to_name": "Almaty",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-23T17:30:00Z",
+   "actual": "2026-11-23T17:35:00Z"
+  },
+  "S7 5255|2026-11-23T17:45:00Z": {
+   "number": "S7 5255",
+   "airline": "S7",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:45:00Z",
+   "actual": "2026-11-23T17:45:00Z"
+  },
+  "S7 5245|2026-11-23T17:40:00Z": {
+   "number": "S7 5245",
+   "airline": "S7",
+   "to": "NER",
+   "to_name": "Neryungri",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-23T17:40:00Z",
+   "actual": "2026-11-23T17:47:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-23T18:07:28Z"
+ ]
+}

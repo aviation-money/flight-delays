@@ -288,9 +288,59 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T16:35:00Z",
-   "actual": "2026-11-23T16:35:00Z"
+   "actual": "2026-11-23T16:43:00Z"
+  },
+  "A4 6185|2026-11-23T17:40:00Z": {
+   "number": "A4 6185",
+   "airline": "Azimuth",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:40:00Z",
+   "actual": "2026-11-23T17:40:00Z"
+  },
+  "N4 702|2026-11-23T17:25:00Z": {
+   "number": "N4 702",
+   "airline": "Nordwind",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-23T17:25:00Z",
+   "actual": "2026-11-23T17:48:00Z"
+  },
+  "A4 6153|2026-11-23T17:10:00Z": {
+   "number": "A4 6153",
+   "airline": "Azimuth",
+   "to": "TBS",
+   "to_name": "Tbilisi",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T17:10:00Z",
+   "actual": "2026-11-23T17:52:00Z"
+  },
+  "A4 6011|2026-11-23T17:45:00Z": {
+   "number": "A4 6011",
+   "airline": "Azimuth",
+   "to": "Makhachkala",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T17:45:00Z",
+   "actual": "2026-11-23T18:15:00Z"
+  },
+  "A4 6111|2026-11-23T19:05:00Z": {
+   "number": "A4 6111",
+   "airline": "Azimuth",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T19:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -303,6 +353,7 @@
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
   "2026-11-23T14:07:30Z",
-  "2026-11-23T16:07:29Z"
+  "2026-11-23T16:07:29Z",
+  "2026-11-23T18:07:28Z"
  ]
 }
