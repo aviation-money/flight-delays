@@ -18,9 +18,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:10:00Z",
-   "actual": "2026-11-22T23:10:00Z"
+   "actual": "2026-11-23T08:34:00Z"
   },
   "SU 1763|2026-11-22T23:50:00Z": {
    "number": "SU 1763",
@@ -108,9 +108,29 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T08:10:00Z",
-   "actual": "2026-11-23T08:10:00Z"
+   "actual": "2026-11-23T08:29:00Z"
+  },
+  "S7 5342|2026-11-23T09:10:00Z": {
+   "number": "S7 5342",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "EMB170",
+   "status": "Departed",
+   "scheduled": "2026-11-23T09:10:00Z",
+   "actual": "2026-11-23T09:15:00Z"
+  },
+  "UT 140|2026-11-23T10:55:00Z": {
+   "number": "UT 140",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-23T10:55:00Z",
+   "actual": "2026-11-23T10:55:00Z"
   }
  },
  "fetched": [
@@ -121,6 +141,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

@@ -140,7 +140,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "CheckIn",
    "scheduled": "2026-11-23T04:15:00Z",
-   "actual": "2026-11-23T08:30:00Z"
+   "actual": "2026-11-23T10:00:00Z"
   },
   "4G 451|2026-11-23T04:30:00Z": {
    "number": "4G 451",
@@ -150,7 +150,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-23T04:30:00Z",
-   "actual": "2026-11-23T08:00:00Z"
+   "actual": "2026-11-23T08:19:00Z"
   },
   "UT 106|2026-11-23T04:05:00Z": {
    "number": "UT 106",
@@ -168,9 +168,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:20:00Z",
-   "actual": "2026-11-23T08:15:00Z"
+   "actual": "2026-11-23T08:57:00Z"
   },
   "5N 592|2026-11-23T02:15:00Z": {
    "number": "5N 592",
@@ -187,7 +187,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-23T02:55:00Z",
    "actual": "2026-11-23T07:37:00Z"
@@ -197,10 +197,10 @@
    "airline": "UTAir",
    "to": "NUX",
    "to_name": "Novyy Urengoy",
-   "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-23T07:55:00Z",
-   "actual": "2026-11-23T07:55:00Z"
+   "actual": "2026-11-23T08:10:00Z"
   },
   "UT 133|2026-11-23T08:55:00Z": {
    "number": "UT 133",
@@ -208,9 +208,29 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T08:55:00Z",
-   "actual": "2026-11-23T08:55:00Z"
+   "actual": "2026-11-23T09:00:00Z"
+  },
+  "C6 476|2026-11-23T10:40:00Z": {
+   "number": "C6 476",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A321 NEO",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T10:40:00Z",
+   "actual": "2026-11-23T10:40:00Z"
+  },
+  "S7 1136|2026-11-23T10:55:00Z": {
+   "number": "S7 1136",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T10:55:00Z",
+   "actual": "2026-11-23T10:55:00Z"
   }
  },
  "fetched": [
@@ -220,6 +240,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

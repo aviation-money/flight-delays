@@ -171,6 +171,26 @@
    "status": "Departed",
    "scheduled": "2026-11-23T07:45:00Z",
    "actual": "2026-11-23T07:59:00Z"
+  },
+  "R3 433|2026-11-23T09:15:00Z": {
+   "number": "R3 433",
+   "airline": "Yakutia",
+   "to": "Olenek",
+   "to_name": "Olenek",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-23T09:15:00Z",
+   "actual": "2026-11-23T09:15:00Z"
+  },
+  "IO 185|2026-11-23T08:20:00Z": {
+   "number": "IO 185",
+   "airline": "IrAero",
+   "to": "Olekminsk",
+   "to_name": "Olekminsk",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-23T08:20:00Z",
+   "actual": "2026-11-23T09:40:00Z"
   }
  },
  "fetched": [
@@ -182,6 +202,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

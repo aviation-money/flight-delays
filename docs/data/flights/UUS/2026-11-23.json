@@ -128,9 +128,19 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T08:00:00Z",
-   "actual": "2026-11-23T08:00:00Z"
+   "actual": "2026-11-23T07:51:00Z"
+  },
+  "IO 318|2026-11-23T10:10:00Z": {
+   "number": "IO 318",
+   "airline": "IrAero",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T10:10:00Z",
+   "actual": "2026-11-23T10:10:00Z"
   }
  },
  "fetched": [
@@ -143,6 +153,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

@@ -170,7 +170,7 @@
    "model": "ATR 72",
    "status": "Expected",
    "scheduled": "2026-11-23T04:30:00Z",
-   "actual": "2026-11-23T09:00:00Z"
+   "actual": "2026-11-23T11:00:00Z"
   },
   "4G 270|2026-11-23T07:30:00Z": {
    "number": "4G 270",
@@ -188,9 +188,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T06:00:00Z",
-   "actual": "2026-11-23T08:00:00Z"
+   "actual": "2026-11-23T08:31:00Z"
   },
   "SU 1505|2026-11-23T08:25:00Z": {
    "number": "SU 1505",
@@ -198,9 +198,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T08:25:00Z",
-   "actual": "2026-11-23T08:25:00Z"
+   "actual": "2026-11-23T08:56:00Z"
   },
   "UT 287|2026-11-23T08:45:00Z": {
    "number": "UT 287",
@@ -208,9 +208,39 @@
    "to": "Nizhnevartovsk",
    "to_name": "Nizhnevartovsk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T08:45:00Z",
-   "actual": "2026-11-23T08:45:00Z"
+   "actual": "2026-11-23T08:50:00Z"
+  },
+  "YC 46|2026-11-23T10:10:00Z": {
+   "number": "YC 46",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T10:10:00Z",
+   "actual": "2026-11-23T10:10:00Z"
+  },
+  "S7 5356|2026-11-23T10:15:00Z": {
+   "number": "S7 5356",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T10:15:00Z",
+   "actual": "2026-11-23T10:15:00Z"
+  },
+  "4G 451|2026-11-23T06:45:00Z": {
+   "number": "4G 451",
+   "airline": "Gazpromavia",
+   "to": "Yamburg",
+   "to_name": "Yamburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T06:45:00Z",
+   "actual": "2026-11-23T11:00:00Z"
   }
  },
  "fetched": [
@@ -220,6 +250,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

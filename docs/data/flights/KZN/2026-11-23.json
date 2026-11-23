@@ -45,7 +45,7 @@
   "RT 563|2026-11-23T02:30:00Z": {
    "number": "RT 563",
    "airline": "UVT Aero",
-   "to": "Usinsk",
+   "to": "USK",
    "to_name": "Usinsk",
    "model": "Bombardier CRJ200",
    "status": "Departed",
@@ -78,9 +78,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:30:00Z",
-   "actual": "2026-11-23T08:20:00Z"
+   "actual": "2026-11-23T08:47:00Z"
   },
   "SU 1279|2026-11-23T03:50:00Z": {
    "number": "SU 1279",
@@ -101,6 +101,76 @@
    "status": "Departed",
    "scheduled": "2026-11-23T06:30:00Z",
    "actual": "2026-11-23T07:25:00Z"
+  },
+  "DP 338|2026-11-23T06:15:00Z": {
+   "number": "DP 338",
+   "airline": "Pobeda",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T06:15:00Z",
+   "actual": "2026-11-23T09:15:00Z"
+  },
+  "DP 973|2026-11-23T07:10:00Z": {
+   "number": "DP 973",
+   "airline": "Pobeda",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T07:10:00Z",
+   "actual": "2026-11-23T09:20:00Z"
+  },
+  "SU 1191|2026-11-23T10:20:00Z": {
+   "number": "SU 1191",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T10:20:00Z",
+   "actual": "2026-11-23T10:20:00Z"
+  },
+  "FV 6594|2026-11-23T08:00:00Z": {
+   "number": "FV 6594",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T08:00:00Z",
+   "actual": "2026-11-23T10:40:00Z"
+  },
+  "N4 244|2026-11-23T08:50:00Z": {
+   "number": "N4 244",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T08:50:00Z",
+   "actual": "2026-11-23T10:50:00Z"
+  },
+  "SU 2867|2026-11-23T09:05:00Z": {
+   "number": "SU 2867",
+   "airline": "Aeroflot",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T09:05:00Z",
+   "actual": "2026-11-23T11:05:00Z"
+  },
+  "S7 5036|2026-11-23T11:05:00Z": {
+   "number": "S7 5036",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T11:05:00Z",
+   "actual": "2026-11-23T11:05:00Z"
   }
  },
  "fetched": [
@@ -109,6 +179,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

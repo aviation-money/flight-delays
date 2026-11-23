@@ -68,9 +68,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T03:30:00Z",
-   "actual": "2026-11-23T07:30:00Z"
+   "actual": "2026-11-23T08:55:00Z"
   },
   "UT 309|2026-11-23T05:00:00Z": {
    "number": "UT 309",
@@ -90,7 +90,7 @@
    "model": "Mil Mi",
    "status": "CheckIn",
    "scheduled": "2026-11-23T05:40:00Z",
-   "actual": "2026-11-23T08:30:00Z"
+   "actual": "2026-11-23T10:00:00Z"
   },
   "NF 975|2026-11-23T07:40:00Z": {
    "number": "NF 975",
@@ -108,9 +108,29 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T09:00:00Z",
    "actual": "2026-11-23T09:00:00Z"
+  },
+  "NF 979|2026-11-23T09:40:00Z": {
+   "number": "NF 979",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T09:40:00Z",
+   "actual": "2026-11-23T09:40:00Z"
+  },
+  "A2 321|2026-11-23T07:40:00Z": {
+   "number": "A2 321",
+   "airline": "A2",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "An-24",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T07:40:00Z",
+   "actual": "2026-11-23T10:00:00Z"
   }
  },
  "fetched": [
@@ -120,6 +140,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

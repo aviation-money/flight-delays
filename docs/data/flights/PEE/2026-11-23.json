@@ -75,12 +75,22 @@
   "SU 1781|2026-11-23T08:30:00Z": {
    "number": "SU 1781",
    "airline": "Aeroflot",
-   "to": "Moscow",
+   "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-23T08:30:00Z",
-   "actual": "2026-11-23T08:30:00Z"
+   "actual": "2026-11-23T10:30:00Z"
+  },
+  "7R 844|2026-11-23T10:40:00Z": {
+   "number": "7R 844",
+   "airline": "RusLine",
+   "to": "NNM",
+   "to_name": "Naryan Mar",
+   "model": "Bombardier",
+   "status": "Expected",
+   "scheduled": "2026-11-23T10:40:00Z",
+   "actual": "2026-11-23T10:40:00Z"
   }
  },
  "fetched": [
@@ -90,6 +100,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

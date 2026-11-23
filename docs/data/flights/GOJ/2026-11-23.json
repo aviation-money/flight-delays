@@ -28,9 +28,29 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T09:00:00Z",
-   "actual": "2026-11-23T09:00:00Z"
+   "actual": "2026-11-23T09:08:00Z"
+  },
+  "WZ 5344|2026-11-23T06:30:00Z": {
+   "number": "WZ 5344",
+   "airline": "Red Wings",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T06:30:00Z",
+   "actual": "2026-11-23T10:55:00Z"
+  },
+  "FV 6230|2026-11-23T08:40:00Z": {
+   "number": "FV 6230",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T08:40:00Z",
+   "actual": "2026-11-23T11:05:00Z"
   }
  },
  "fetched": [
@@ -39,6 +59,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

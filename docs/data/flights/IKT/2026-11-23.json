@@ -391,6 +391,26 @@
    "status": "Unknown",
    "scheduled": "2026-11-23T09:00:00Z",
    "actual": null
+  },
+  "CA 870|2026-11-23T10:00:00Z": {
+   "number": "CA 870",
+   "airline": "Air China",
+   "to": "PEK",
+   "to_name": "Beijing",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T10:00:00Z",
+   "actual": null
+  },
+  "HY 9674|2026-11-23T11:05:00Z": {
+   "number": "HY 9674",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-23T11:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -402,6 +422,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

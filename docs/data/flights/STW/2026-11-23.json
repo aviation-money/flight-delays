@@ -8,9 +8,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T08:05:00Z",
-   "actual": "2026-11-23T09:05:00Z"
+   "actual": "2026-11-23T08:54:00Z"
+  },
+  "DP 538|2026-11-23T08:50:00Z": {
+   "number": "DP 538",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T08:50:00Z",
+   "actual": "2026-11-23T10:35:00Z"
+  },
+  "SU 1367|2026-11-23T10:55:00Z": {
+   "number": "SU 1367",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T10:55:00Z",
+   "actual": "2026-11-23T10:55:00Z"
   }
  },
  "fetched": [
@@ -19,6 +39,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

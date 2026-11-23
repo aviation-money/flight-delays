@@ -258,7 +258,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T06:35:00Z",
    "actual": "2026-11-23T06:44:00Z"
   },
@@ -268,7 +268,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T06:45:00Z",
    "actual": "2026-11-23T06:51:00Z"
   },
@@ -281,6 +281,16 @@
    "status": "Expected",
    "scheduled": "2026-11-23T07:00:00Z",
    "actual": "2026-11-23T07:14:00Z"
+  },
+  "HZ 4216|2026-11-23T11:05:00Z": {
+   "number": "HZ 4216",
+   "airline": "Aurora",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-23T11:05:00Z",
+   "actual": "2026-11-23T11:05:00Z"
   }
  },
  "fetched": [
@@ -293,6 +303,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }

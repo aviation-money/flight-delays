@@ -177,7 +177,7 @@
    "airline": "UTAir",
    "to": "KZN",
    "to_name": "Kazan",
-   "model": "Boeing 737-500",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-23T02:55:00Z",
    "actual": "2026-11-23T07:45:00Z"
@@ -188,9 +188,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-400",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T04:20:00Z",
-   "actual": "2026-11-23T07:40:00Z"
+   "actual": "2026-11-23T08:15:00Z"
   },
   "UT 139|2026-11-23T08:25:00Z": {
    "number": "UT 139",
@@ -198,9 +198,9 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T08:25:00Z",
-   "actual": "2026-11-23T08:25:00Z"
+   "actual": "2026-11-23T08:24:00Z"
   }
  },
  "fetched": [
@@ -210,6 +210,7 @@
   "2026-11-23T02:07:22Z",
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
-  "2026-11-23T08:07:24Z"
+  "2026-11-23T08:07:24Z",
+  "2026-11-23T10:07:25Z"
  ]
 }
