@@ -1,9 +1,21 @@
 {
  "airport": "BAX",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "DP 6532|2026-11-23T22:45:00Z": {
+   "number": "DP 6532",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T22:45:00Z",
+   "actual": "2026-11-23T22:45:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T18:07:28Z",
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

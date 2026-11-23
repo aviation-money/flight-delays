@@ -11,10 +11,21 @@
    "status": "Departed",
    "scheduled": "2026-11-23T19:15:00Z",
    "actual": "2026-11-23T19:29:00Z"
+  },
+  "WZ 5037|2026-11-23T21:10:00Z": {
+   "number": "WZ 5037",
+   "airline": "Red Wings",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:10:00Z",
+   "actual": "2026-11-23T21:07:00Z"
   }
  },
  "fetched": [
   "2026-11-23T18:07:28Z",
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

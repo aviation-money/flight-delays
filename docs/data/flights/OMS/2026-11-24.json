@@ -8,13 +8,24 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T20:20:00Z",
-   "actual": "2026-11-23T20:20:00Z"
+   "actual": "2026-11-23T20:24:00Z"
+  },
+  "A4 6186|2026-11-23T22:25:00Z": {
+   "number": "A4 6186",
+   "airline": "Azimut",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T22:25:00Z",
+   "actual": "2026-11-23T22:25:00Z"
   }
  },
  "fetched": [
   "2026-11-23T18:07:28Z",
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

@@ -8,19 +8,19 @@
    "to": "TOF",
    "to_name": "Tomsk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T19:50:00Z",
-   "actual": "2026-11-23T19:50:00Z"
+   "actual": "2026-11-23T20:17:00Z"
   },
   "NE 437|2026-11-23T20:15:00Z": {
    "number": "NE 437",
    "airline": "Nesma",
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
-   "model": null,
-   "status": "Boarding",
+   "model": "Airbus A321",
+   "status": "Departed",
    "scheduled": "2026-11-23T20:15:00Z",
-   "actual": "2026-11-23T20:15:00Z"
+   "actual": "2026-11-23T20:41:00Z"
   },
   "Y7 918|2026-11-23T20:45:00Z": {
    "number": "Y7 918",
@@ -28,12 +28,23 @@
    "to": "NSK",
    "to_name": "Norilsk",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T20:45:00Z",
-   "actual": "2026-11-23T20:45:00Z"
+   "actual": "2026-11-23T21:02:00Z"
+  },
+  "FZ 980|2026-11-23T21:20:00Z": {
+   "number": "FZ 980",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:20:00Z",
+   "actual": "2026-11-23T21:46:00Z"
   }
  },
  "fetched": [
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

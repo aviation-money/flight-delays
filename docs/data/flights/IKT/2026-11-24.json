@@ -108,7 +108,7 @@
    "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T20:20:00Z",
    "actual": null
   },
@@ -121,11 +121,82 @@
    "status": "Expected",
    "scheduled": "2026-11-23T21:00:00Z",
    "actual": null
+  },
+  "IO 183|2026-11-23T21:20:00Z": {
+   "number": "IO 183",
+   "airline": "IrAero",
+   "to": "Chara",
+   "to_name": "Chara",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T21:20:00Z",
+   "actual": null
+  },
+  "IO 180|2026-11-23T21:30:00Z": {
+   "number": "IO 180",
+   "airline": "IrAero",
+   "to": "ULK",
+   "to_name": "Lensk",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T21:30:00Z",
+   "actual": null
+  },
+  "IO 1141|2026-11-23T21:55:00Z": {
+   "number": "IO 1141",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-23T21:55:00Z",
+   "actual": null
+  },
+  "SU 658|2026-11-23T22:15:00Z": {
+   "number": "SU 658",
+   "airline": "Aeroflot",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Airbus A320 NEO",
+   "status": "Expected",
+   "scheduled": "2026-11-23T22:15:00Z",
+   "actual": null
+  },
+  "S7 5228|2026-11-23T22:15:00Z": {
+   "number": "S7 5228",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-23T22:15:00Z",
+   "actual": null
+  },
+  "UT 165|2026-11-23T22:45:00Z": {
+   "number": "UT 165",
+   "airline": "UTAir",
+   "to": "UKX",
+   "to_name": "Ust-Kut",
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T22:45:00Z",
+   "actual": null
+  },
+  "IO 151|2026-11-23T23:00:00Z": {
+   "number": "IO 151",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-23T23:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

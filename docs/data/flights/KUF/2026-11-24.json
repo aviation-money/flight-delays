@@ -8,12 +8,33 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T20:40:00Z",
-   "actual": "2026-11-23T20:40:00Z"
+   "actual": "2026-11-23T21:47:00Z"
+  },
+  "Y7 4212|2026-11-23T21:10:00Z": {
+   "number": "Y7 4212",
+   "airline": "NordStar",
+   "to": "MJZ",
+   "to_name": "Mirny",
+   "model": "Boeing 737-8AS",
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:10:00Z",
+   "actual": "2026-11-23T21:14:00Z"
+  },
+  "UT 478|2026-11-23T21:35:00Z": {
+   "number": "UT 478",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:35:00Z",
+   "actual": "2026-11-23T21:54:00Z"
   }
  },
  "fetched": [
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

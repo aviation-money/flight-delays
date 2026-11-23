@@ -1,0 +1,49 @@
+{
+ "airport": "MRV",
+ "date": "2026-11-24",
+ "flights": {
+  "A4 6021|2026-11-23T21:40:00Z": {
+   "number": "A4 6021",
+   "airline": "Azimuth",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T21:40:00Z",
+   "actual": "2026-11-23T21:40:00Z"
+  },
+  "A4 6017|2026-11-23T22:20:00Z": {
+   "number": "A4 6017",
+   "airline": "Azimuth",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T22:20:00Z",
+   "actual": "2026-11-23T22:20:00Z"
+  },
+  "A4 6203|2026-11-23T22:40:00Z": {
+   "number": "A4 6203",
+   "airline": "Azimuth",
+   "to": "MQF",
+   "to_name": "Magnitogorsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T22:40:00Z",
+   "actual": "2026-11-23T22:40:00Z"
+  },
+  "N4 806|2026-11-23T22:45:00Z": {
+   "number": "N4 806",
+   "airline": "Nordwind",
+   "to": "GOJ",
+   "to_name": "Nizhniy Novgorod",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T22:45:00Z",
+   "actual": "2026-11-23T22:45:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-23T22:07:25Z"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "airport": "KZN",
+ "date": "2026-11-24",
+ "flights": {
+  "N4 1405|2026-11-23T22:00:00Z": {
+   "number": "N4 1405",
+   "airline": "Nordwind",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T22:00:00Z",
+   "actual": "2026-11-23T22:00:00Z"
+  },
+  "DP 6846|2026-11-23T22:05:00Z": {
+   "number": "DP 6846",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800(sv)",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T22:05:00Z",
+   "actual": "2026-11-23T22:05:00Z"
+  },
+  "FZ 974|2026-11-23T22:10:00Z": {
+   "number": "FZ 974",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T22:10:00Z",
+   "actual": "2026-11-23T22:10:00Z"
+  },
+  "RT 547|2026-11-23T22:20:00Z": {
+   "number": "RT 547",
+   "airline": "UVT Aero",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T22:20:00Z",
+   "actual": "2026-11-23T22:50:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-23T22:07:25Z"
+ ]
+}

@@ -31,10 +31,41 @@
    "status": "Canceled",
    "scheduled": "2026-11-23T18:30:00Z",
    "actual": "2026-11-23T18:30:00Z"
+  },
+  "S7 5310|2026-11-23T21:15:00Z": {
+   "number": "S7 5310",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:15:00Z",
+   "actual": "2026-11-23T21:15:00Z"
+  },
+  "SZ 214|2026-11-23T21:45:00Z": {
+   "number": "SZ 214",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-900",
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:45:00Z",
+   "actual": "2026-11-23T21:45:00Z"
+  },
+  "KV 129|2026-11-23T22:25:00Z": {
+   "number": "KV 129",
+   "airline": "KrasAvia",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "ATR 42-500",
+   "status": "Expected",
+   "scheduled": "2026-11-23T22:25:00Z",
+   "actual": "2026-11-23T22:25:00Z"
   }
  },
  "fetched": [
   "2026-11-23T18:07:28Z",
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

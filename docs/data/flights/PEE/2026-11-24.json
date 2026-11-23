@@ -1,8 +1,20 @@
 {
  "airport": "PEE",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "NE 421|2026-11-23T21:50:00Z": {
+   "number": "NE 421",
+   "airline": "Nesma",
+   "to": "Hurghada",
+   "to_name": "Hurghada",
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:50:00Z",
+   "actual": "2026-11-23T21:50:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

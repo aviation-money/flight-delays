@@ -1,12 +1,44 @@
 {
  "airport": "PKC",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "PTK 9441|2026-11-23T21:30:00Z": {
+   "number": "PTK 9441",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:30:00Z",
+   "actual": "2026-11-23T21:34:00Z"
+  },
+  "IO 314|2026-11-23T21:30:00Z": {
+   "number": "IO 314",
+   "airline": "IrAero",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T21:30:00Z",
+   "actual": "2026-11-23T21:45:00Z"
+  },
+  "PTK 107|2026-11-23T22:00:00Z": {
+   "number": "PTK 107",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "An-26",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T22:00:00Z",
+   "actual": "2026-11-23T22:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T12:07:27Z",
   "2026-11-23T14:07:30Z",
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

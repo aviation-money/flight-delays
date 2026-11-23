@@ -1,8 +1,30 @@
 {
  "airport": "SGC",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "RT 334|2026-11-23T19:40:00Z": {
+   "number": "RT 334",
+   "airline": "UVT Aero",
+   "to": "UUA",
+   "to_name": "Bugulma",
+   "model": "Bombardier CRJ200",
+   "status": "Expected",
+   "scheduled": "2026-11-23T19:40:00Z",
+   "actual": "2026-11-23T19:40:00Z"
+  },
+  "UT 409|2026-11-23T22:10:00Z": {
+   "number": "UT 409",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-500",
+   "status": "Expected",
+   "scheduled": "2026-11-23T22:10:00Z",
+   "actual": "2026-11-23T22:10:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

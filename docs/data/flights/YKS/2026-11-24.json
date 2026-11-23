@@ -18,14 +18,45 @@
    "to": "Srednekolymsk",
    "to_name": "Srednekolymsk",
    "model": "An-26",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T21:00:00Z",
-   "actual": "2026-11-23T21:00:00Z"
+   "actual": "2026-11-23T21:25:00Z"
+  },
+  "S7 6402|2026-11-23T21:25:00Z": {
+   "number": "S7 6402",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:25:00Z",
+   "actual": "2026-11-23T21:38:00Z"
+  },
+  "S7 5262|2026-11-23T22:10:00Z": {
+   "number": "S7 5262",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-23T22:10:00Z",
+   "actual": "2026-11-23T22:10:00Z"
+  },
+  "PI 285|2026-11-23T23:00:00Z": {
+   "number": "PI 285",
+   "airline": "Polar",
+   "to": "ZKP",
+   "to_name": "Zyryanka",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-23T23:00:00Z",
+   "actual": "2026-11-23T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

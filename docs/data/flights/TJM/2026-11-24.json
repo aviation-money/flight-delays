@@ -7,13 +7,24 @@
    "airline": "Nordwind",
    "to": "OSS",
    "to_name": "Osh",
-   "model": "Airbus A321",
-   "status": "Boarding",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-23T19:30:00Z",
-   "actual": "2026-11-23T20:25:00Z"
+   "actual": "2026-11-23T20:39:00Z"
+  },
+  "SU 1501|2026-11-23T22:35:00Z": {
+   "number": "SU 1501",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T22:35:00Z",
+   "actual": null
   }
  },
  "fetched": [
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

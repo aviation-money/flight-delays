@@ -11,11 +11,32 @@
    "status": "Departed",
    "scheduled": "2026-11-23T15:55:00Z",
    "actual": "2026-11-23T15:55:00Z"
+  },
+  "IO 115|2026-11-23T21:20:00Z": {
+   "number": "IO 115",
+   "airline": "IrAero",
+   "to": "GDX",
+   "to_name": "Magadan",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T21:20:00Z",
+   "actual": "2026-11-23T21:20:00Z"
+  },
+  "U6 623|2026-11-23T23:00:00Z": {
+   "number": "U6 623",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T23:00:00Z",
+   "actual": "2026-11-23T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

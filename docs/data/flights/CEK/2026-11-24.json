@@ -1,8 +1,20 @@
 {
  "airport": "CEK",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "ZF 4051|2026-11-23T22:00:00Z": {
+   "number": "ZF 4051",
+   "airline": "AZUR Air",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 767",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T22:00:00Z",
+   "actual": "2026-11-23T22:00:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }

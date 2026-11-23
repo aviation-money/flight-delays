@@ -1,11 +1,53 @@
 {
  "airport": "UUS",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "S7 6512|2026-11-23T21:30:00Z": {
+   "number": "S7 6512",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-23T21:30:00Z",
+   "actual": "2026-11-23T22:05:00Z"
+  },
+  "HZ 5625|2026-11-23T22:45:00Z": {
+   "number": "HZ 5625",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T22:45:00Z",
+   "actual": "2026-11-23T22:45:00Z"
+  },
+  "S7 5258|2026-11-23T22:45:00Z": {
+   "number": "S7 5258",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T22:45:00Z",
+   "actual": "2026-11-23T22:45:00Z"
+  },
+  "TG 2651|2026-11-23T23:00:00Z": {
+   "number": "TG 2651",
+   "airline": "Thai  International",
+   "to": "GVN",
+   "to_name": "Sovetskaya Gavan",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T23:00:00Z",
+   "actual": "2026-11-23T23:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T14:07:30Z",
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
-  "2026-11-23T20:07:29Z"
+  "2026-11-23T20:07:29Z",
+  "2026-11-23T22:07:25Z"
  ]
 }
