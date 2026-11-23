@@ -18,13 +18,24 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:30:00Z",
-   "actual": "2026-11-23T00:30:00Z"
+   "actual": "2026-11-23T00:40:00Z"
+  },
+  "A4 6073|2026-11-23T02:50:00Z": {
+   "number": "A4 6073",
+   "airline": "Azimuth",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T02:50:00Z",
+   "actual": "2026-11-23T02:50:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

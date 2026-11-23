@@ -38,9 +38,9 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-22T23:05:00Z",
-   "actual": "2026-11-22T23:05:00Z"
+   "actual": "2026-11-23T03:05:00Z"
   },
   "A4 7008|2026-11-22T23:05:00Z": {
    "number": "A4 7008",
@@ -50,7 +50,7 @@
    "model": "Sukhoi Superjet 100-95",
    "status": "Delayed",
    "scheduled": "2026-11-22T23:05:00Z",
-   "actual": "2026-11-23T01:00:00Z"
+   "actual": "2026-11-23T03:00:00Z"
   },
   "WZ 5303|2026-11-22T23:35:00Z": {
    "number": "WZ 5303",
@@ -60,12 +60,23 @@
    "model": "Sukhoi Superjet 100",
    "status": "Delayed",
    "scheduled": "2026-11-22T23:35:00Z",
-   "actual": "2026-11-23T01:00:00Z"
+   "actual": "2026-11-23T03:00:00Z"
+  },
+  "A4 4047|2026-11-23T02:30:00Z": {
+   "number": "A4 4047",
+   "airline": "Azimuth",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-23T02:30:00Z",
+   "actual": "2026-11-23T02:30:00Z"
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

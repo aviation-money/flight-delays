@@ -130,7 +130,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-23T00:05:00Z",
-   "actual": "2026-11-23T00:05:00Z"
+   "actual": "2026-11-23T00:10:00Z"
   },
   "HZ 5680|2026-11-23T00:40:00Z": {
    "number": "HZ 5680",
@@ -140,7 +140,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-23T00:40:00Z",
-   "actual": "2026-11-23T00:40:00Z"
+   "actual": "2026-11-23T00:47:00Z"
   },
   "FV 5701|2026-11-23T01:00:00Z": {
    "number": "FV 5701",
@@ -150,7 +150,47 @@
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-23T01:00:00Z",
-   "actual": "2026-11-23T01:00:00Z"
+   "actual": "2026-11-23T01:04:00Z"
+  },
+  "JS 472|2026-11-23T01:50:00Z": {
+   "number": "JS 472",
+   "airline": "Air Koryo",
+   "to": "FNJ",
+   "to_name": "Pyongyang-si",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T01:50:00Z",
+   "actual": "2026-11-23T01:50:00Z"
+  },
+  "SU 5805|2026-11-23T02:05:00Z": {
+   "number": "SU 5805",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A330-300",
+   "status": "Expected",
+   "scheduled": "2026-11-23T02:05:00Z",
+   "actual": "2026-11-23T02:05:00Z"
+  },
+  "S7 6219|2026-11-23T02:20:00Z": {
+   "number": "S7 6219",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T02:20:00Z",
+   "actual": "2026-11-23T02:20:00Z"
+  },
+  "EU 2718|2026-11-23T03:00:00Z": {
+   "number": "EU 2718",
+   "airline": "Chengdu",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:00:00Z",
+   "actual": "2026-11-23T03:00:00Z"
   }
  },
  "fetched": [
@@ -159,6 +199,7 @@
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

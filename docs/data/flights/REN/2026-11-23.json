@@ -11,11 +11,42 @@
    "status": "Departed",
    "scheduled": "2026-11-22T23:00:00Z",
    "actual": "2026-11-22T23:00:00Z"
+  },
+  "FV 6454|2026-11-23T01:25:00Z": {
+   "number": "FV 6454",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T01:25:00Z",
+   "actual": "2026-11-23T01:25:00Z"
+  },
+  "FV 6172|2026-11-23T01:05:00Z": {
+   "number": "FV 6172",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T01:05:00Z",
+   "actual": "2026-11-23T01:45:00Z"
+  },
+  "5N 588|2026-11-23T02:30:00Z": {
+   "number": "5N 588",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T02:30:00Z",
+   "actual": "2026-11-23T02:30:00Z"
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

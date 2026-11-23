@@ -41,10 +41,21 @@
    "status": "Departed",
    "scheduled": "2026-11-22T23:00:00Z",
    "actual": "2026-11-22T22:49:00Z"
+  },
+  "RT 563|2026-11-23T02:30:00Z": {
+   "number": "RT 563",
+   "airline": "UVT Aero",
+   "to": "USK",
+   "to_name": "Usinsk",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T02:30:00Z",
+   "actual": "2026-11-23T02:30:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

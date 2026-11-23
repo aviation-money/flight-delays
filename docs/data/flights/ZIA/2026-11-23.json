@@ -1,9 +1,21 @@
 {
  "airport": "ZIA",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "U6 2131|2026-11-23T03:00:00Z": {
+   "number": "U6 2131",
+   "airline": "Ural",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:00:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

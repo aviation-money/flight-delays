@@ -8,14 +8,75 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:00:00Z",
-   "actual": "2026-11-23T01:00:00Z"
+   "actual": "2026-11-23T01:20:00Z"
+  },
+  "DP 570|2026-11-23T00:20:00Z": {
+   "number": "DP 570",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T00:20:00Z",
+   "actual": "2026-11-23T01:30:00Z"
+  },
+  "DP 366|2026-11-23T01:10:00Z": {
+   "number": "DP 366",
+   "airline": "Pobeda",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-23T01:10:00Z",
+   "actual": "2026-11-23T01:31:00Z"
+  },
+  "DP 434|2026-11-23T00:50:00Z": {
+   "number": "DP 434",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T00:50:00Z",
+   "actual": "2026-11-23T01:50:00Z"
+  },
+  "FV 6582|2026-11-23T01:30:00Z": {
+   "number": "FV 6582",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-23T01:30:00Z",
+   "actual": "2026-11-23T01:54:00Z"
+  },
+  "SU 1395|2026-11-23T02:20:00Z": {
+   "number": "SU 1395",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T02:20:00Z",
+   "actual": "2026-11-23T02:20:00Z"
+  },
+  "SU 1871|2026-11-23T03:05:00Z": {
+   "number": "SU 1871",
+   "airline": "Aeroflot",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:05:00Z",
+   "actual": "2026-11-23T03:05:00Z"
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

@@ -1,10 +1,32 @@
 {
  "airport": "NUX",
  "date": "2026-11-23",
- "flights": {},
+ "flights": {
+  "S7 5336|2026-11-23T02:50:00Z": {
+   "number": "S7 5336",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T02:50:00Z",
+   "actual": "2026-11-23T02:50:00Z"
+  },
+  "YC 189|2026-11-23T03:05:00Z": {
+   "number": "YC 189",
+   "airline": "Yamal",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T03:05:00Z",
+   "actual": "2026-11-23T03:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

@@ -68,9 +68,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:30:00Z",
-   "actual": "2026-11-23T00:30:00Z"
+   "actual": "2026-11-23T01:20:00Z"
   },
   "DP 783|2026-11-23T00:40:00Z": {
    "number": "DP 783",
@@ -78,9 +78,9 @@
    "to": "DWC",
    "to_name": "Jebel Ali",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:40:00Z",
-   "actual": "2026-11-23T00:40:00Z"
+   "actual": "2026-11-23T00:56:00Z"
   },
   "DP 6544|2026-11-23T00:45:00Z": {
    "number": "DP 6544",
@@ -88,9 +88,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:45:00Z",
-   "actual": "2026-11-23T00:45:00Z"
+   "actual": "2026-11-23T00:49:00Z"
   },
   "FV 6122|2026-11-23T00:05:00Z": {
    "number": "FV 6122",
@@ -98,9 +98,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:05:00Z",
-   "actual": "2026-11-23T00:50:00Z"
+   "actual": "2026-11-23T01:14:00Z"
   },
   "FV 6402|2026-11-23T01:00:00Z": {
    "number": "FV 6402",
@@ -108,14 +108,115 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:00:00Z",
-   "actual": "2026-11-23T01:00:00Z"
+   "actual": "2026-11-23T01:12:00Z"
+  },
+  "DP 340|2026-11-23T01:15:00Z": {
+   "number": "DP 340",
+   "airline": "Pobeda",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T01:15:00Z",
+   "actual": "2026-11-23T01:37:00Z"
+  },
+  "UJ 722|2026-11-23T01:20:00Z": {
+   "number": "UJ 722",
+   "airline": "AlMasria",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T01:20:00Z",
+   "actual": "2026-11-23T01:45:00Z"
+  },
+  "U6 737|2026-11-23T01:35:00Z": {
+   "number": "U6 737",
+   "airline": "Ural",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-23T01:35:00Z",
+   "actual": "2026-11-23T01:47:00Z"
+  },
+  "U6 264|2026-11-23T01:50:00Z": {
+   "number": "U6 264",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T01:50:00Z",
+   "actual": "2026-11-23T01:50:00Z"
+  },
+  "DP 404|2026-11-23T01:50:00Z": {
+   "number": "DP 404",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T01:50:00Z",
+   "actual": "2026-11-23T01:50:00Z"
+  },
+  "S7 5018|2026-11-23T01:50:00Z": {
+   "number": "S7 5018",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-23T01:50:00Z",
+   "actual": "2026-11-23T01:55:00Z"
+  },
+  "SU 1417|2026-11-23T02:00:00Z": {
+   "number": "SU 1417",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T02:00:00Z",
+   "actual": "2026-11-23T02:00:00Z"
+  },
+  "SU 2817|2026-11-23T02:00:00Z": {
+   "number": "SU 2817",
+   "airline": "Aeroflot",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T02:00:00Z",
+   "actual": "2026-11-23T02:00:00Z"
+  },
+  "5N 502|2026-11-23T02:15:00Z": {
+   "number": "5N 502",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T02:15:00Z",
+   "actual": "2026-11-23T02:15:00Z"
+  },
+  "U6 2949|2026-11-23T02:30:00Z": {
+   "number": "U6 2949",
+   "airline": "Ural",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T02:30:00Z",
+   "actual": "2026-11-23T02:30:00Z"
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

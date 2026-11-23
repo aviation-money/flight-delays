@@ -48,9 +48,19 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:40:00Z",
-   "actual": "2026-11-23T00:40:00Z"
+   "actual": "2026-11-23T00:32:00Z"
+  },
+  "ATI 6505|2026-11-23T01:30:00Z": {
+   "number": "ATI 6505",
+   "airline": "ATI",
+   "to": "BQG",
+   "to_name": "Bogorodskoye",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-23T01:30:00Z",
+   "actual": "2026-11-23T01:25:00Z"
   }
  },
  "fetched": [
@@ -59,6 +69,7 @@
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

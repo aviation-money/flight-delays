@@ -41,11 +41,22 @@
    "status": "Expected",
    "scheduled": "2026-11-23T00:45:00Z",
    "actual": null
+  },
+  "FV 6112|2026-11-23T02:05:00Z": {
+   "number": "FV 6112",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-23T02:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

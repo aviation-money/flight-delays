@@ -78,9 +78,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:55:00Z",
-   "actual": "2026-11-22T23:55:00Z"
+   "actual": "2026-11-23T00:25:00Z"
   },
   "PI 231|2026-11-23T00:00:00Z": {
    "number": "PI 231",
@@ -88,9 +88,9 @@
    "to": "Moma",
    "to_name": "Moma",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:00:00Z",
-   "actual": "2026-11-23T00:00:00Z"
+   "actual": "2026-11-23T00:28:00Z"
   },
   "PI 9925|2026-11-23T00:20:00Z": {
    "number": "PI 9925",
@@ -98,9 +98,9 @@
    "to": "Zhigansk",
    "to_name": "Zhigansk",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:20:00Z",
-   "actual": "2026-11-23T00:20:00Z"
+   "actual": "2026-11-23T01:00:00Z"
   },
   "S7 5264|2026-11-23T00:35:00Z": {
    "number": "S7 5264",
@@ -108,9 +108,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:35:00Z",
-   "actual": "2026-11-23T00:35:00Z"
+   "actual": "2026-11-23T00:47:00Z"
   },
   "PI 203|2026-11-23T00:40:00Z": {
    "number": "PI 203",
@@ -118,9 +118,9 @@
    "to": "BGN",
    "to_name": "Belaya Gora",
    "model": "An-26",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:40:00Z",
-   "actual": "2026-11-23T00:40:00Z"
+   "actual": "2026-11-23T01:06:00Z"
   },
   "PI 235|2026-11-23T01:00:00Z": {
    "number": "PI 235",
@@ -128,9 +128,29 @@
    "to": "Ust-Kuyga",
    "to_name": "Ust-Kuyga",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:00:00Z",
-   "actual": "2026-11-23T01:00:00Z"
+   "actual": "2026-11-23T01:15:00Z"
+  },
+  "R3 429|2026-11-23T01:30:00Z": {
+   "number": "R3 429",
+   "airline": "Yakutia",
+   "to": "NER",
+   "to_name": "Neryungri",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-23T01:30:00Z",
+   "actual": "2026-11-23T01:31:00Z"
+  },
+  "IO 191|2026-11-22T23:30:00Z": {
+   "number": "IO 191",
+   "airline": "IrAero",
+   "to": "Deputatskiy",
+   "to_name": "Deputatskiy",
+   "model": "An-24",
+   "status": "Departed",
+   "scheduled": "2026-11-22T23:30:00Z",
+   "actual": "2026-11-23T01:47:00Z"
   }
  },
  "fetched": [
@@ -138,6 +158,7 @@
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

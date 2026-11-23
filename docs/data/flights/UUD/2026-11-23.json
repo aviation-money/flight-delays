@@ -41,6 +41,26 @@
    "status": "Departed",
    "scheduled": "2026-11-22T23:00:00Z",
    "actual": "2026-11-22T23:02:00Z"
+  },
+  "SU 1455|2026-11-23T02:05:00Z": {
+   "number": "SU 1455",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T02:05:00Z",
+   "actual": "2026-11-23T02:05:00Z"
+  },
+  "S7 3034|2026-11-23T02:30:00Z": {
+   "number": "S7 3034",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T02:30:00Z",
+   "actual": "2026-11-23T02:05:00Z"
   }
  },
  "fetched": [
@@ -48,6 +68,7 @@
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

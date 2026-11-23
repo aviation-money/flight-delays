@@ -108,7 +108,7 @@
    "to": "Nelkan",
    "to_name": "Nelkan",
    "model": "An-24",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:50:00Z",
    "actual": "2026-11-23T00:10:00Z"
   },
@@ -120,7 +120,7 @@
    "model": "An-24",
    "status": "Delayed",
    "scheduled": "2026-11-22T23:20:00Z",
-   "actual": "2026-11-23T00:10:00Z"
+   "actual": "2026-11-22T23:40:00Z"
   },
   "НИ 419|2026-11-22T22:50:00Z": {
    "number": "НИ 419",
@@ -138,9 +138,9 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:30:00Z",
-   "actual": "2026-11-23T00:30:00Z"
+   "actual": "2026-11-23T00:49:00Z"
   },
   "HZ 5612|2026-11-23T00:55:00Z": {
    "number": "HZ 5612",
@@ -148,9 +148,29 @@
    "to": "GDX",
    "to_name": "Magadan",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:55:00Z",
-   "actual": "2026-11-23T00:55:00Z"
+   "actual": "2026-11-23T00:59:00Z"
+  },
+  "VJ 6889|2026-11-23T01:20:00Z": {
+   "number": "VJ 6889",
+   "airline": "VietJetAir",
+   "to": "Kamran",
+   "to_name": "Kamran",
+   "model": "Airbus A321 NEO",
+   "status": "Canceled",
+   "scheduled": "2026-11-23T01:20:00Z",
+   "actual": "2026-11-23T01:20:00Z"
+  },
+  "НИ 411|2026-11-23T02:50:00Z": {
+   "number": "НИ 411",
+   "airline": "Khabavia",
+   "to": "Chegdomyn",
+   "to_name": "Chegdomyn",
+   "model": "Mil Mi-8",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T02:50:00Z",
+   "actual": "2026-11-23T02:50:00Z"
   }
  },
  "fetched": [
@@ -159,6 +179,7 @@
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

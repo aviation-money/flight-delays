@@ -28,7 +28,7 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:50:00Z",
    "actual": "2026-11-22T23:50:00Z"
   },
@@ -41,10 +41,21 @@
    "status": "Expected",
    "scheduled": "2026-11-23T01:05:00Z",
    "actual": "2026-11-23T01:05:00Z"
+  },
+  "A4 5007|2026-11-23T00:59:00Z": {
+   "number": "A4 5007",
+   "airline": "Azimuth",
+   "to": "Makhachkala",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T00:59:00Z",
+   "actual": "2026-11-23T00:59:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

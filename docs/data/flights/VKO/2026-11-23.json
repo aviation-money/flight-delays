@@ -88,9 +88,9 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:50:00Z",
-   "actual": "2026-11-22T23:50:00Z"
+   "actual": "2026-11-23T00:32:00Z"
   },
   "TK 422|2026-11-22T23:40:00Z": {
    "number": "TK 422",
@@ -98,9 +98,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:40:00Z",
-   "actual": "2026-11-23T00:00:00Z"
+   "actual": "2026-11-23T00:47:00Z"
   },
   "PC 387|2026-11-23T00:10:00Z": {
    "number": "PC 387",
@@ -108,9 +108,9 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Airbus A321 NEO",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:10:00Z",
-   "actual": "2026-11-23T00:10:00Z"
+   "actual": "2026-11-23T01:18:00Z"
   },
   "3F 3324|2026-11-22T23:50:00Z": {
    "number": "3F 3324",
@@ -118,9 +118,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:50:00Z",
-   "actual": "2026-11-23T00:20:00Z"
+   "actual": "2026-11-23T00:55:00Z"
   },
   "UT 715|2026-11-23T01:00:00Z": {
    "number": "UT 715",
@@ -128,13 +128,34 @@
    "to": "DWC",
    "to_name": "Jebel Ali",
    "model": "Boeing 767-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:00:00Z",
-   "actual": "2026-11-23T01:00:00Z"
+   "actual": "2026-11-23T01:37:00Z"
+  },
+  "PC 1577|2026-11-23T01:10:00Z": {
+   "number": "PC 1577",
+   "airline": "Pegasus",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Airbus A320 NEO",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T01:10:00Z",
+   "actual": "2026-11-23T01:15:00Z"
+  },
+  "VF 588|2026-11-23T02:30:00Z": {
+   "number": "VF 588",
+   "airline": "AJet",
+   "to": "ESB",
+   "to_name": "Ankara",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T02:30:00Z",
+   "actual": "2026-11-23T02:30:00Z"
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

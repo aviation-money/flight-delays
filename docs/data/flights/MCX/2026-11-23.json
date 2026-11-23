@@ -8,7 +8,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:00:00Z",
    "actual": null
   },
@@ -21,10 +21,31 @@
    "status": "Expected",
    "scheduled": "2026-11-23T00:20:00Z",
    "actual": null
+  },
+  "DP 596|2026-11-23T01:20:00Z": {
+   "number": "DP 596",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T01:20:00Z",
+   "actual": null
+  },
+  "UT 560|2026-11-23T03:00:00Z": {
+   "number": "UT 560",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

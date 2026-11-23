@@ -58,9 +58,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T00:20:00Z",
-   "actual": "2026-11-23T00:20:00Z"
+   "actual": "2026-11-23T00:50:00Z"
   },
   "АЯ 175|2026-11-23T00:30:00Z": {
    "number": "АЯ 175",
@@ -78,9 +78,29 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320 NEO",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T01:05:00Z",
-   "actual": "2026-11-23T01:05:00Z"
+   "actual": "2026-11-23T01:18:00Z"
+  },
+  "WZ 5086|2026-11-23T02:05:00Z": {
+   "number": "WZ 5086",
+   "airline": "Red Wings",
+   "to": "BAX",
+   "to_name": "Barnaul",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T02:05:00Z",
+   "actual": "2026-11-23T02:05:00Z"
+  },
+  "АЯ 173|2026-11-23T03:00:00Z": {
+   "number": "АЯ 173",
+   "airline": "Aeroservis",
+   "to": "Chita",
+   "to_name": "Chita",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T03:00:00Z",
+   "actual": "2026-11-23T03:00:00Z"
   }
  },
  "fetched": [
@@ -88,6 +108,7 @@
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }

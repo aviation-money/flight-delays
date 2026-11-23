@@ -8,9 +8,9 @@
    "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:30:00Z",
-   "actual": "2026-11-22T23:50:00Z"
+   "actual": "2026-11-23T00:30:00Z"
   },
   "SU 1451|2026-11-22T23:50:00Z": {
    "number": "SU 1451",
@@ -21,12 +21,33 @@
    "status": "Departed",
    "scheduled": "2026-11-22T23:50:00Z",
    "actual": "2026-11-22T23:52:00Z"
+  },
+  "N4 318|2026-11-23T01:10:00Z": {
+   "number": "N4 318",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T01:10:00Z",
+   "actual": "2026-11-23T01:28:00Z"
+  },
+  "SU 1457|2026-11-23T03:00:00Z": {
+   "number": "SU 1457",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T03:00:00Z",
+   "actual": "2026-11-23T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-22T18:07:25Z",
   "2026-11-22T20:07:24Z",
   "2026-11-22T22:07:23Z",
-  "2026-11-23T00:07:28Z"
+  "2026-11-23T00:07:28Z",
+  "2026-11-23T02:07:22Z"
  ]
 }
