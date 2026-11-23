@@ -51,6 +51,26 @@
    "status": "Canceled",
    "scheduled": "2026-11-23T12:35:00Z",
    "actual": "2026-11-23T12:35:00Z"
+  },
+  "WZ 5151|2026-11-23T00:15:00Z": {
+   "number": "WZ 5151",
+   "airline": "Red Wings",
+   "to": "NYA",
+   "to_name": "Nyagan",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T00:15:00Z",
+   "actual": "2026-11-23T14:00:00Z"
+  },
+  "WZ 15|2026-11-23T14:40:00Z": {
+   "number": "WZ 15",
+   "airline": "Red Wings",
+   "to": "TLV",
+   "to_name": "Tel Aviv Yafo",
+   "model": "Tu-204",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T14:40:00Z",
+   "actual": "2026-11-23T14:40:00Z"
   }
  },
  "fetched": [
@@ -61,6 +81,7 @@
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
-  "2026-11-23T12:07:27Z"
+  "2026-11-23T12:07:27Z",
+  "2026-11-23T14:07:30Z"
  ]
 }

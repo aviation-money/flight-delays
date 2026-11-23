@@ -358,9 +358,9 @@
    "to": "IJK",
    "to_name": "Izhevsk",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T12:10:00Z",
-   "actual": "2026-11-23T12:10:00Z"
+   "actual": "2026-11-23T12:31:00Z"
   },
   "MS 730|2026-11-23T12:45:00Z": {
    "number": "MS 730",
@@ -368,9 +368,9 @@
    "to": "CAI",
    "to_name": "Cairo",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T12:45:00Z",
-   "actual": "2026-11-23T12:45:00Z"
+   "actual": "2026-11-23T12:57:00Z"
   },
   "S7 1015|2026-11-23T13:00:00Z": {
    "number": "S7 1015",
@@ -378,9 +378,59 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T13:00:00Z",
-   "actual": "2026-11-23T13:00:00Z"
+   "actual": "2026-11-23T13:25:00Z"
+  },
+  "EK 134|2026-11-23T13:25:00Z": {
+   "number": "EK 134",
+   "airline": "Emirates",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Airbus A380-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T13:25:00Z",
+   "actual": "2026-11-23T13:25:00Z"
+  },
+  "U6 167|2026-11-23T13:55:00Z": {
+   "number": "U6 167",
+   "airline": "Ural",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T13:55:00Z",
+   "actual": "2026-11-23T13:55:00Z"
+  },
+  "S7 1073|2026-11-23T14:15:00Z": {
+   "number": "S7 1073",
+   "airline": "S7",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Airbus A320-200",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T14:15:00Z",
+   "actual": "2026-11-23T14:15:00Z"
+  },
+  "D2 258|2026-11-23T14:15:00Z": {
+   "number": "D2 258",
+   "airline": "Severstal Aircompany",
+   "to": "CEE",
+   "to_name": "Cherepovets",
+   "model": "Bombardier CRJ200",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T14:15:00Z",
+   "actual": "2026-11-23T14:15:00Z"
+  },
+  "U6 267|2026-11-23T14:45:00Z": {
+   "number": "U6 267",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T14:45:00Z",
+   "actual": "2026-11-23T14:45:00Z"
   }
  },
  "fetched": [
@@ -391,6 +441,7 @@
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
-  "2026-11-23T12:07:27Z"
+  "2026-11-23T12:07:27Z",
+  "2026-11-23T14:07:30Z"
  ]
 }

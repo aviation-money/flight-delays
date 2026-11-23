@@ -168,7 +168,7 @@
    "to": "OVS",
    "to_name": "Sovetskiy",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Canceled",
    "scheduled": "2026-11-23T04:30:00Z",
    "actual": "2026-11-23T13:00:00Z"
   },
@@ -238,7 +238,7 @@
    "to": "Yamburg",
    "to_name": "Yamburg",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Canceled",
    "scheduled": "2026-11-23T06:45:00Z",
    "actual": "2026-11-23T11:30:00Z"
   },
@@ -248,7 +248,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T12:35:00Z",
    "actual": "2026-11-23T12:35:00Z"
   },
@@ -258,9 +258,9 @@
    "to": "MCX",
    "to_name": "Makhachkala",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T12:50:00Z",
-   "actual": "2026-11-23T12:50:00Z"
+   "actual": "2026-11-23T13:17:00Z"
   },
   "UT 464|2026-11-23T13:00:00Z": {
    "number": "UT 464",
@@ -268,9 +268,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T13:00:00Z",
-   "actual": "2026-11-23T13:00:00Z"
+   "actual": "2026-11-23T13:24:00Z"
   }
  },
  "fetched": [
@@ -282,6 +282,7 @@
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
-  "2026-11-23T12:07:27Z"
+  "2026-11-23T12:07:27Z",
+  "2026-11-23T14:07:30Z"
  ]
 }

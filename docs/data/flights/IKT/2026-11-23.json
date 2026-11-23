@@ -398,7 +398,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T10:00:00Z",
    "actual": null
   },
@@ -418,7 +418,7 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T11:20:00Z",
    "actual": null
   },
@@ -448,7 +448,7 @@
    "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T11:55:00Z",
    "actual": null
   },
@@ -474,6 +474,7 @@
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
-  "2026-11-23T12:07:27Z"
+  "2026-11-23T12:07:27Z",
+  "2026-11-23T14:07:30Z"
  ]
 }

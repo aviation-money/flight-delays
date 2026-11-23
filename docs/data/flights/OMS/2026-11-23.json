@@ -138,7 +138,7 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T12:00:00Z",
    "actual": "2026-11-23T12:00:00Z"
   },
@@ -148,7 +148,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "EMB170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T13:05:00Z",
    "actual": "2026-11-23T13:05:00Z"
   }
@@ -163,6 +163,7 @@
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
-  "2026-11-23T12:07:27Z"
+  "2026-11-23T12:07:27Z",
+  "2026-11-23T14:07:30Z"
  ]
 }

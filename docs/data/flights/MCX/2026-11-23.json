@@ -85,7 +85,7 @@
   "DP 941|2026-11-23T10:20:00Z": {
    "number": "DP 941",
    "airline": "Pobeda",
-   "to": "IST",
+   "to": "Istanbul",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
    "status": "Unknown",
@@ -118,7 +118,7 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Unknown",
+   "status": "Expected",
    "scheduled": "2026-11-23T12:20:00Z",
    "actual": null
   },
@@ -131,6 +131,16 @@
    "status": "Expected",
    "scheduled": "2026-11-23T13:00:00Z",
    "actual": null
+  },
+  "FV 6066|2026-11-23T13:40:00Z": {
+   "number": "FV 6066",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-23T13:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -141,6 +151,7 @@
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
-  "2026-11-23T12:07:27Z"
+  "2026-11-23T12:07:27Z",
+  "2026-11-23T14:07:30Z"
  ]
 }

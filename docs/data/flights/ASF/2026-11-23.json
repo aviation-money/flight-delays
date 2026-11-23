@@ -147,7 +147,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-23T09:40:00Z",
    "actual": "2026-11-23T09:50:00Z"
@@ -171,6 +171,16 @@
    "status": "Departed",
    "scheduled": "2026-11-23T11:20:00Z",
    "actual": "2026-11-23T11:21:00Z"
+  },
+  "UT 373|2026-11-23T14:30:00Z": {
+   "number": "UT 373",
+   "airline": "UTAir",
+   "to": "Mineralnyye Vody",
+   "to_name": "Mineralnyye Vody",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T14:30:00Z",
+   "actual": "2026-11-23T14:53:00Z"
   }
  },
  "fetched": [
@@ -182,6 +192,7 @@
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
-  "2026-11-23T12:07:27Z"
+  "2026-11-23T12:07:27Z",
+  "2026-11-23T14:07:30Z"
  ]
 }

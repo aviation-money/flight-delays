@@ -77,7 +77,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-23T08:30:00Z",
    "actual": "2026-11-23T10:39:00Z"
@@ -98,9 +98,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T12:10:00Z",
-   "actual": "2026-11-23T12:10:00Z"
+   "actual": "2026-11-23T12:12:00Z"
   },
   "SU 1201|2026-11-23T08:10:00Z": {
    "number": "SU 1201",
@@ -108,9 +108,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T08:10:00Z",
-   "actual": "2026-11-23T12:40:00Z"
+   "actual": "2026-11-23T13:04:00Z"
   },
   "SU 1203|2026-11-23T11:00:00Z": {
    "number": "SU 1203",
@@ -118,9 +118,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T11:00:00Z",
-   "actual": "2026-11-23T13:05:00Z"
+   "actual": "2026-11-23T13:16:00Z"
+  },
+  "FV 6074|2026-11-23T13:25:00Z": {
+   "number": "FV 6074",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T13:25:00Z",
+   "actual": "2026-11-23T13:35:00Z"
   }
  },
  "fetched": [
@@ -132,6 +142,7 @@
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
-  "2026-11-23T12:07:27Z"
+  "2026-11-23T12:07:27Z",
+  "2026-11-23T14:07:30Z"
  ]
 }
