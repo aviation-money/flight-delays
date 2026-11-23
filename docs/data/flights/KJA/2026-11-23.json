@@ -288,9 +288,39 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T11:00:00Z",
    "actual": "2026-11-23T11:00:00Z"
+  },
+  "FV 6476|2026-11-23T11:45:00Z": {
+   "number": "FV 6476",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-23T11:45:00Z",
+   "actual": "2026-11-23T11:45:00Z"
+  },
+  "S7 5312|2026-11-23T12:25:00Z": {
+   "number": "S7 5312",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-23T12:25:00Z",
+   "actual": "2026-11-23T12:25:00Z"
+  },
+  "SU 1487|2026-11-23T13:05:00Z": {
+   "number": "SU 1487",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T13:05:00Z",
+   "actual": "2026-11-23T13:05:00Z"
   }
  },
  "fetched": [
@@ -302,6 +332,7 @@
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
-  "2026-11-23T10:07:25Z"
+  "2026-11-23T10:07:25Z",
+  "2026-11-23T12:07:27Z"
  ]
 }

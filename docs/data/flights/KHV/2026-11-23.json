@@ -278,9 +278,9 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T09:15:00Z",
-   "actual": "2026-11-23T09:15:00Z"
+   "actual": "2026-11-23T10:04:00Z"
   },
   "HZ 5642|2026-11-23T09:25:00Z": {
    "number": "HZ 5642",
@@ -288,9 +288,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T09:25:00Z",
-   "actual": "2026-11-23T09:25:00Z"
+   "actual": "2026-11-23T09:56:00Z"
   },
   "FV 5702|2026-11-23T10:30:00Z": {
    "number": "FV 5702",
@@ -298,9 +298,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T10:30:00Z",
-   "actual": "2026-11-23T10:30:00Z"
+   "actual": "2026-11-23T11:00:00Z"
   },
   "HZ 5456|2026-11-23T10:35:00Z": {
    "number": "HZ 5456",
@@ -308,9 +308,19 @@
    "to": "Harbin",
    "to_name": "Harbin",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T10:35:00Z",
-   "actual": "2026-11-23T10:35:00Z"
+   "actual": "2026-11-23T10:53:00Z"
+  },
+  "HZ 5652|2026-11-23T11:55:00Z": {
+   "number": "HZ 5652",
+   "airline": "Aurora",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-23T11:55:00Z",
+   "actual": "2026-11-23T11:55:00Z"
   }
  },
  "fetched": [
@@ -324,6 +334,7 @@
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
-  "2026-11-23T10:07:25Z"
+  "2026-11-23T10:07:25Z",
+  "2026-11-23T12:07:27Z"
  ]
 }

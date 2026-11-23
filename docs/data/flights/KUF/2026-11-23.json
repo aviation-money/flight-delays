@@ -48,9 +48,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100-95",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-22T23:05:00Z",
-   "actual": "2026-11-23T10:00:00Z"
+   "actual": "2026-11-23T10:19:00Z"
   },
   "WZ 5303|2026-11-22T23:35:00Z": {
    "number": "WZ 5303",
@@ -108,9 +108,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T09:55:00Z",
-   "actual": "2026-11-23T09:55:00Z"
+   "actual": "2026-11-23T10:23:00Z"
   },
   "5N 532|2026-11-23T09:50:00Z": {
    "number": "5N 532",
@@ -118,9 +118,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T09:50:00Z",
-   "actual": "2026-11-23T10:10:00Z"
+   "actual": "2026-11-23T10:26:00Z"
   },
   "SU 1603|2026-11-23T06:25:00Z": {
    "number": "SU 1603",
@@ -128,9 +128,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T06:25:00Z",
-   "actual": "2026-11-23T10:25:00Z"
+   "actual": "2026-11-23T10:38:00Z"
   },
   "FV 6232|2026-11-23T08:00:00Z": {
    "number": "FV 6232",
@@ -138,9 +138,49 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T08:00:00Z",
-   "actual": "2026-11-23T11:00:00Z"
+   "actual": "2026-11-23T11:07:00Z"
+  },
+  "S7 5032|2026-11-23T11:25:00Z": {
+   "number": "S7 5032",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-23T11:25:00Z",
+   "actual": "2026-11-23T11:28:00Z"
+  },
+  "A4 6308|2026-11-23T10:30:00Z": {
+   "number": "A4 6308",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-23T10:30:00Z",
+   "actual": "2026-11-23T11:39:00Z"
+  },
+  "RT 9447|2026-11-23T11:00:00Z": {
+   "number": "RT 9447",
+   "airline": "UVT Aero",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Canadair CRJ 200",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T11:00:00Z",
+   "actual": "2026-11-23T13:00:00Z"
+  },
+  "WZ 5305|2026-11-23T08:50:00Z": {
+   "number": "WZ 5305",
+   "airline": "Red Wings",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T08:50:00Z",
+   "actual": "2026-11-23T13:05:00Z"
   }
  },
  "fetched": [
@@ -151,6 +191,7 @@
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
-  "2026-11-23T10:07:25Z"
+  "2026-11-23T10:07:25Z",
+  "2026-11-23T12:07:27Z"
  ]
 }

@@ -138,9 +138,19 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T10:10:00Z",
-   "actual": "2026-11-23T10:10:00Z"
+   "actual": "2026-11-23T09:53:00Z"
+  },
+  "HZ 4696|2026-11-23T12:40:00Z": {
+   "number": "HZ 4696",
+   "airline": "Aurora",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T12:40:00Z",
+   "actual": "2026-11-23T12:40:00Z"
   }
  },
  "fetched": [
@@ -154,6 +164,7 @@
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
-  "2026-11-23T10:07:25Z"
+  "2026-11-23T10:07:25Z",
+  "2026-11-23T12:07:27Z"
  ]
 }

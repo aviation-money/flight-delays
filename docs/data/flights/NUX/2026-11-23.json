@@ -88,9 +88,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T10:45:00Z",
-   "actual": "2026-11-23T10:45:00Z"
+   "actual": "2026-11-23T10:57:00Z"
   },
   "YC 845|2026-11-23T11:00:00Z": {
    "number": "YC 845",
@@ -98,9 +98,49 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T11:00:00Z",
-   "actual": "2026-11-23T11:00:00Z"
+   "actual": "2026-11-23T11:14:00Z"
+  },
+  "UT 186|2026-11-23T11:30:00Z": {
+   "number": "UT 186",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "Departed",
+   "scheduled": "2026-11-23T11:30:00Z",
+   "actual": "2026-11-23T11:38:00Z"
+  },
+  "YC 89|2026-11-23T11:55:00Z": {
+   "number": "YC 89",
+   "airline": "Yamal",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T11:55:00Z",
+   "actual": "2026-11-23T11:55:00Z"
+  },
+  "WZ 5304|2026-11-23T03:35:00Z": {
+   "number": "WZ 5304",
+   "airline": "Red Wings",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T03:35:00Z",
+   "actual": "2026-11-23T12:20:00Z"
+  },
+  "RT 276|2026-11-23T10:30:00Z": {
+   "number": "RT 276",
+   "airline": "UVT Aero",
+   "to": "RMZ",
+   "to_name": "Tobolsk",
+   "model": "Bombardier CRJ200",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T10:30:00Z",
+   "actual": "2026-11-23T12:20:00Z"
   }
  },
  "fetched": [
@@ -111,6 +151,7 @@
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
-  "2026-11-23T10:07:25Z"
+  "2026-11-23T10:07:25Z",
+  "2026-11-23T12:07:27Z"
  ]
 }

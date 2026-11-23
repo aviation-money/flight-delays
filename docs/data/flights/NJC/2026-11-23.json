@@ -61,6 +61,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-23T05:50:00Z",
    "actual": null
+  },
+  "UT 178|2026-11-23T11:35:00Z": {
+   "number": "UT 178",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-23T11:35:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -71,6 +81,7 @@
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
-  "2026-11-23T10:07:25Z"
+  "2026-11-23T10:07:25Z",
+  "2026-11-23T12:07:27Z"
  ]
 }

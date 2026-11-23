@@ -201,6 +201,46 @@
    "status": "Departed",
    "scheduled": "2026-11-23T08:25:00Z",
    "actual": "2026-11-23T08:24:00Z"
+  },
+  "UT 6429|2026-11-23T12:30:00Z": {
+   "number": "UT 6429",
+   "airline": "UTAir",
+   "to": "GSV",
+   "to_name": "Saratov",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T12:30:00Z",
+   "actual": "2026-11-23T12:30:00Z"
+  },
+  "RT 456|2026-11-23T08:05:00Z": {
+   "number": "RT 456",
+   "airline": "Yuvtaero",
+   "to": "NBC",
+   "to_name": "Nizhnekamsk",
+   "model": "Bombardier CRJ200",
+   "status": "Expected",
+   "scheduled": "2026-11-23T08:05:00Z",
+   "actual": "2026-11-23T12:30:00Z"
+  },
+  "SZ 260|2026-11-23T12:40:00Z": {
+   "number": "SZ 260",
+   "airline": "Somon Air",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T12:40:00Z",
+   "actual": "2026-11-23T12:40:00Z"
+  },
+  "UT 296|2026-11-23T13:00:00Z": {
+   "number": "UT 296",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T13:00:00Z",
+   "actual": "2026-11-23T13:00:00Z"
   }
  },
  "fetched": [
@@ -211,6 +251,7 @@
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
-  "2026-11-23T10:07:25Z"
+  "2026-11-23T10:07:25Z",
+  "2026-11-23T12:07:27Z"
  ]
 }

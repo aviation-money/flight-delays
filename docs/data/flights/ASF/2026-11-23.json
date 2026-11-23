@@ -87,7 +87,7 @@
    "airline": "Pobeda",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-800 (winglets)",
    "status": "Departed",
    "scheduled": "2026-11-23T07:40:00Z",
    "actual": "2026-11-23T08:10:00Z"
@@ -161,6 +161,16 @@
    "status": "Expected",
    "scheduled": "2026-11-23T11:00:00Z",
    "actual": "2026-11-23T11:00:00Z"
+  },
+  "ЛЩ 9657|2026-11-23T11:20:00Z": {
+   "number": "ЛЩ 9657",
+   "airline": "Mars Avia",
+   "to": "BRIZ SPBU",
+   "to_name": "BRIZ SPBU",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-23T11:20:00Z",
+   "actual": "2026-11-23T11:21:00Z"
   }
  },
  "fetched": [
@@ -171,6 +181,7 @@
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
-  "2026-11-23T10:07:25Z"
+  "2026-11-23T10:07:25Z",
+  "2026-11-23T12:07:27Z"
  ]
 }

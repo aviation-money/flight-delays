@@ -45,7 +45,7 @@
   "I8 925|2026-11-23T09:30:00Z": {
    "number": "I8 925",
    "airline": "Izhavia",
-   "to": "LED",
+   "to": "Saint-Petersburg",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
    "status": "Unknown",
@@ -61,6 +61,16 @@
    "status": "Expected",
    "scheduled": "2026-11-23T10:05:00Z",
    "actual": null
+  },
+  "I8 305|2026-11-23T11:30:00Z": {
+   "number": "I8 305",
+   "airline": "Izhavia",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T11:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -71,6 +81,7 @@
   "2026-11-23T04:07:24Z",
   "2026-11-23T06:07:24Z",
   "2026-11-23T08:07:24Z",
-  "2026-11-23T10:07:25Z"
+  "2026-11-23T10:07:25Z",
+  "2026-11-23T12:07:27Z"
  ]
 }
