@@ -111,6 +111,36 @@
    "status": "Delayed",
    "scheduled": "2026-11-23T07:00:00Z",
    "actual": "2026-11-23T14:00:00Z"
+  },
+  "SU 1329|2026-11-23T15:55:00Z": {
+   "number": "SU 1329",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-23T15:55:00Z",
+   "actual": "2026-11-23T15:55:00Z"
+  },
+  "5N 518|2026-11-23T16:15:00Z": {
+   "number": "5N 518",
+   "airline": "Smartavia",
+   "to": "Saint-Petersburg",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T16:15:00Z",
+   "actual": "2026-11-23T16:32:00Z"
+  },
+  "EO 734|2026-11-23T16:20:00Z": {
+   "number": "EO 734",
+   "airline": "Pegas Fly",
+   "to": "Kazan",
+   "to_name": "Kazan",
+   "model": "Embraer 190",
+   "status": "Departed",
+   "scheduled": "2026-11-23T16:20:00Z",
+   "actual": "2026-11-23T16:52:00Z"
   }
  },
  "fetched": [
@@ -122,6 +152,7 @@
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
-  "2026-11-23T14:07:30Z"
+  "2026-11-23T14:07:30Z",
+  "2026-11-23T16:07:29Z"
  ]
 }

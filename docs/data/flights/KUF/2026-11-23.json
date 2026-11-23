@@ -167,10 +167,10 @@
    "airline": "UVT Aero",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Canadair CRJ 200",
-   "status": "GateClosed",
+   "model": "Bombardier CRJ200",
+   "status": "Departed",
    "scheduled": "2026-11-23T11:00:00Z",
-   "actual": "2026-11-23T13:30:00Z"
+   "actual": "2026-11-23T13:58:00Z"
   },
   "WZ 5305|2026-11-23T08:50:00Z": {
    "number": "WZ 5305",
@@ -188,9 +188,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T10:05:00Z",
-   "actual": "2026-11-23T13:30:00Z"
+   "actual": "2026-11-23T14:08:00Z"
   },
   "DP 6582|2026-11-23T13:20:00Z": {
    "number": "DP 6582",
@@ -198,9 +198,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T13:20:00Z",
-   "actual": "2026-11-23T13:55:00Z"
+   "actual": "2026-11-23T14:20:00Z"
   },
   "FV 6392|2026-11-23T13:50:00Z": {
    "number": "FV 6392",
@@ -208,9 +208,39 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T13:50:00Z",
-   "actual": "2026-11-23T14:50:00Z"
+   "actual": "2026-11-23T15:30:00Z"
+  },
+  "S7 1074|2026-11-23T16:50:00Z": {
+   "number": "S7 1074",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T16:50:00Z",
+   "actual": "2026-11-23T16:50:00Z"
+  },
+  "SU 1215|2026-11-23T16:55:00Z": {
+   "number": "SU 1215",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T16:55:00Z",
+   "actual": "2026-11-23T16:55:00Z"
+  },
+  "RT 586|2026-11-23T16:00:00Z": {
+   "number": "RT 586",
+   "airline": "UVT Aero",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Bombardier CRJ200",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T16:00:00Z",
+   "actual": "2026-11-23T17:00:00Z"
   }
  },
  "fetched": [
@@ -223,6 +253,7 @@
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
-  "2026-11-23T14:07:30Z"
+  "2026-11-23T14:07:30Z",
+  "2026-11-23T16:07:29Z"
  ]
 }

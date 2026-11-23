@@ -98,7 +98,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T11:40:00Z",
    "actual": null
   },
@@ -108,7 +108,7 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T11:40:00Z",
    "actual": null
   },
@@ -118,7 +118,7 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T12:20:00Z",
    "actual": null
   },
@@ -141,6 +141,16 @@
    "status": "Expected",
    "scheduled": "2026-11-23T13:40:00Z",
    "actual": null
+  },
+  "SU 1057|2026-11-23T15:20:00Z": {
+   "number": "SU 1057",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-23T15:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -152,6 +162,7 @@
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
-  "2026-11-23T14:07:30Z"
+  "2026-11-23T14:07:30Z",
+  "2026-11-23T16:07:29Z"
  ]
 }

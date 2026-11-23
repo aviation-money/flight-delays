@@ -1,0 +1,19 @@
+{
+ "airport": "HTA",
+ "date": "2026-11-24",
+ "flights": {
+  "HZ 4217|2026-11-23T15:55:00Z": {
+   "number": "HZ 4217",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-23T15:55:00Z",
+   "actual": "2026-11-23T15:55:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-23T16:07:29Z"
+ ]
+}

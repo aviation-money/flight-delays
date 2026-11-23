@@ -1,0 +1,49 @@
+{
+ "airport": "IKT",
+ "date": "2026-11-24",
+ "flights": {
+  "S7 6405|2026-11-23T16:25:00Z": {
+   "number": "S7 6405",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-23T16:25:00Z",
+   "actual": null
+  },
+  "S7 6315|2026-11-23T16:30:00Z": {
+   "number": "S7 6315",
+   "airline": "S7",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T16:30:00Z",
+   "actual": null
+  },
+  "S7 6403|2026-11-23T16:35:00Z": {
+   "number": "S7 6403",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-23T16:35:00Z",
+   "actual": null
+  },
+  "HZ 5653|2026-11-23T16:50:00Z": {
+   "number": "HZ 5653",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-23T16:50:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-23T16:07:29Z"
+ ]
+}

@@ -178,9 +178,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T12:30:00Z",
-   "actual": "2026-11-23T13:50:00Z"
+   "actual": "2026-11-23T14:31:00Z"
   },
   "SU 1313|2026-11-23T12:35:00Z": {
    "number": "SU 1313",
@@ -228,9 +228,9 @@
    "to": "Kirov",
    "to_name": "Kirov",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T13:40:00Z",
-   "actual": "2026-11-23T13:40:00Z"
+   "actual": "2026-11-23T13:51:00Z"
   },
   "SU 1301|2026-11-23T14:05:00Z": {
    "number": "SU 1301",
@@ -238,9 +238,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T14:05:00Z",
-   "actual": "2026-11-23T14:05:00Z"
+   "actual": "2026-11-23T14:20:00Z"
   },
   "A4 6119|2026-11-23T14:20:00Z": {
    "number": "A4 6119",
@@ -248,9 +248,49 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T14:20:00Z",
-   "actual": "2026-11-23T14:20:00Z"
+   "actual": "2026-11-23T14:39:00Z"
+  },
+  "A4 1170|2026-11-23T15:10:00Z": {
+   "number": "A4 1170",
+   "airline": "Azimuth",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-23T15:10:00Z",
+   "actual": "2026-11-23T15:11:00Z"
+  },
+  "S7 2168|2026-11-23T15:10:00Z": {
+   "number": "S7 2168",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-23T15:10:00Z",
+   "actual": "2026-11-23T15:11:00Z"
+  },
+  "SU 1317|2026-11-23T15:40:00Z": {
+   "number": "SU 1317",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-23T15:40:00Z",
+   "actual": "2026-11-23T15:42:00Z"
+  },
+  "DP 6912|2026-11-23T16:35:00Z": {
+   "number": "DP 6912",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T16:35:00Z",
+   "actual": "2026-11-23T16:35:00Z"
   }
  },
  "fetched": [
@@ -262,6 +302,7 @@
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
-  "2026-11-23T14:07:30Z"
+  "2026-11-23T14:07:30Z",
+  "2026-11-23T16:07:29Z"
  ]
 }

@@ -78,9 +78,9 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T05:00:00Z",
-   "actual": "2026-11-23T14:00:00Z"
+   "actual": "2026-11-23T14:30:00Z"
   },
   "NF 967|2026-11-23T05:40:00Z": {
    "number": "NF 967",
@@ -141,6 +141,16 @@
    "status": "Departed",
    "scheduled": "2026-11-23T13:00:00Z",
    "actual": "2026-11-23T13:55:00Z"
+  },
+  "UT 116|2026-11-23T16:00:00Z": {
+   "number": "UT 116",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-23T16:00:00Z",
+   "actual": "2026-11-23T16:00:00Z"
   }
  },
  "fetched": [
@@ -153,6 +163,7 @@
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
-  "2026-11-23T14:07:30Z"
+  "2026-11-23T14:07:30Z",
+  "2026-11-23T16:07:29Z"
  ]
 }

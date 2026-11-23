@@ -547,7 +547,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-23T12:55:00Z",
    "actual": "2026-11-23T13:05:00Z"
@@ -608,29 +608,29 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T13:55:00Z",
-   "actual": "2026-11-23T13:55:00Z"
+   "actual": "2026-11-23T14:38:00Z"
   },
   "U6 266|2026-11-23T14:00:00Z": {
    "number": "U6 266",
    "airline": "Ural",
    "to": "DME",
    "to_name": "Moscow",
-   "model": "Airbus A320",
-   "status": "GateClosed",
+   "model": "Airbus A319",
+   "status": "Departed",
    "scheduled": "2026-11-23T14:00:00Z",
-   "actual": "2026-11-23T14:00:00Z"
+   "actual": "2026-11-23T14:10:00Z"
   },
   "U6 2951|2026-11-23T14:05:00Z": {
    "number": "U6 2951",
    "airline": "Ural",
    "to": "GYD",
    "to_name": "Baku",
-   "model": "Airbus A320",
-   "status": "GateClosed",
+   "model": "Airbus",
+   "status": "Departed",
    "scheduled": "2026-11-23T14:05:00Z",
-   "actual": "2026-11-23T14:05:00Z"
+   "actual": "2026-11-23T14:22:00Z"
   },
   "SU 1403|2026-11-23T14:05:00Z": {
    "number": "SU 1403",
@@ -638,9 +638,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T14:05:00Z",
-   "actual": "2026-11-23T14:05:00Z"
+   "actual": "2026-11-23T14:18:00Z"
   },
   "U6 571|2026-11-23T14:10:00Z": {
    "number": "U6 571",
@@ -648,9 +648,99 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T14:10:00Z",
-   "actual": "2026-11-23T14:10:00Z"
+   "actual": "2026-11-23T14:30:00Z"
+  },
+  "UT 177|2026-11-23T15:10:00Z": {
+   "number": "UT 177",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-23T15:10:00Z",
+   "actual": "2026-11-23T15:18:00Z"
+  },
+  "U6 299|2026-11-23T15:40:00Z": {
+   "number": "U6 299",
+   "airline": "Ural",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-23T15:40:00Z",
+   "actual": "2026-11-23T15:41:00Z"
+  },
+  "U6 2903|2026-11-23T15:55:00Z": {
+   "number": "U6 2903",
+   "airline": "Ural",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T15:55:00Z",
+   "actual": "2026-11-23T15:55:00Z"
+  },
+  "FV 5971|2026-11-23T14:10:00Z": {
+   "number": "FV 5971",
+   "airline": "Rossiya",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T14:10:00Z",
+   "actual": "2026-11-23T16:10:00Z"
+  },
+  "SU 1405|2026-11-23T16:10:00Z": {
+   "number": "SU 1405",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T16:10:00Z",
+   "actual": "2026-11-23T16:10:00Z"
+  },
+  "S7 5020|2026-11-23T16:15:00Z": {
+   "number": "S7 5020",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T16:15:00Z",
+   "actual": "2026-11-23T16:15:00Z"
+  },
+  "DP 6542|2026-11-23T13:45:00Z": {
+   "number": "DP 6542",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T13:45:00Z",
+   "actual": "2026-11-23T16:20:00Z"
+  },
+  "UT 112|2026-11-23T14:00:00Z": {
+   "number": "UT 112",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Delayed",
+   "scheduled": "2026-11-23T14:00:00Z",
+   "actual": "2026-11-23T16:30:00Z"
+  },
+  "UT 1105|2026-11-23T16:30:00Z": {
+   "number": "UT 1105",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T16:30:00Z",
+   "actual": "2026-11-23T16:30:00Z"
   }
  },
  "fetched": [
@@ -663,6 +753,7 @@
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
-  "2026-11-23T14:07:30Z"
+  "2026-11-23T14:07:30Z",
+  "2026-11-23T16:07:29Z"
  ]
 }

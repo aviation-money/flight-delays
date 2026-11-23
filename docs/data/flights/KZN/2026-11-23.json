@@ -270,7 +270,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-23T09:35:00Z",
-   "actual": "2026-11-23T13:10:00Z"
+   "actual": "2026-11-23T13:21:00Z"
   },
   "HY 650|2026-11-23T12:50:00Z": {
    "number": "HY 650",
@@ -298,9 +298,9 @@
    "to": "MCX",
    "to_name": "Makhachkala",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T14:40:00Z",
-   "actual": "2026-11-23T14:40:00Z"
+   "actual": "2026-11-23T14:33:00Z"
   },
   "EO 769|2026-11-23T14:50:00Z": {
    "number": "EO 769",
@@ -308,9 +308,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Embraer 190",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T14:50:00Z",
-   "actual": "2026-11-23T14:50:00Z"
+   "actual": "2026-11-23T14:46:00Z"
   },
   "SU 862|2026-11-23T14:00:00Z": {
    "number": "SU 862",
@@ -318,9 +318,39 @@
    "to": "SYX",
    "to_name": "Sanya",
    "model": "Airbus A330-300",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T14:00:00Z",
-   "actual": "2026-11-23T15:00:00Z"
+   "actual": "2026-11-23T15:17:00Z"
+  },
+  "VJ 6854|2026-11-23T15:10:00Z": {
+   "number": "VJ 6854",
+   "airline": "VietJetAir",
+   "to": "Phy Quoc",
+   "to_name": "Phy Quoc",
+   "model": "Airbus A330",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T15:10:00Z",
+   "actual": "2026-11-23T15:40:00Z"
+  },
+  "5N 538|2026-11-23T16:10:00Z": {
+   "number": "5N 538",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T16:10:00Z",
+   "actual": "2026-11-23T16:10:00Z"
+  },
+  "SU 1283|2026-11-23T16:35:00Z": {
+   "number": "SU 1283",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T16:35:00Z",
+   "actual": "2026-11-23T16:35:00Z"
   }
  },
  "fetched": [
@@ -332,6 +362,7 @@
   "2026-11-23T08:07:24Z",
   "2026-11-23T10:07:25Z",
   "2026-11-23T12:07:27Z",
-  "2026-11-23T14:07:30Z"
+  "2026-11-23T14:07:30Z",
+  "2026-11-23T16:07:29Z"
  ]
 }
