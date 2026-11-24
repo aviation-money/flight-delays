@@ -78,9 +78,29 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T05:00:00Z",
    "actual": "2026-11-24T05:00:00Z"
+  },
+  "IO 306|2026-11-24T05:25:00Z": {
+   "number": "IO 306",
+   "airline": "IrAero",
+   "to": "Nizhneangarsk",
+   "to_name": "Nizhneangarsk",
+   "model": "An-24",
+   "status": "Departed",
+   "scheduled": "2026-11-24T05:25:00Z",
+   "actual": "2026-11-24T05:25:00Z"
+  },
+  "IO 314|2026-11-24T05:05:00Z": {
+   "number": "IO 314",
+   "airline": "IrAero",
+   "to": "Irkutsk",
+   "to_name": "Irkutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T05:05:00Z",
+   "actual": "2026-11-24T06:00:00Z"
   }
  },
  "fetched": [
@@ -90,6 +110,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

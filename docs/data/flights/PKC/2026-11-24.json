@@ -68,9 +68,19 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T05:00:00Z",
-   "actual": "2026-11-24T05:00:00Z"
+   "actual": "2026-11-24T05:05:00Z"
+  },
+  "HZ 5685|2026-11-24T05:45:00Z": {
+   "number": "HZ 5685",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-24T05:45:00Z",
+   "actual": "2026-11-24T05:46:00Z"
   }
  },
  "fetched": [
@@ -82,6 +92,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

@@ -287,7 +287,7 @@
    "airline": "Nordwind",
    "to": "KZN",
    "to_name": "Kazan",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Expected",
    "scheduled": "2026-11-24T02:50:00Z",
    "actual": null
@@ -381,6 +381,46 @@
    "status": "Expected",
    "scheduled": "2026-11-24T05:05:00Z",
    "actual": null
+  },
+  "S7 5230|2026-11-24T05:10:00Z": {
+   "number": "S7 5230",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T05:10:00Z",
+   "actual": null
+  },
+  "6R 572|2026-11-24T05:40:00Z": {
+   "number": "6R 572",
+   "airline": "Alrosa",
+   "to": "MJZ",
+   "to_name": "Mirny",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T05:40:00Z",
+   "actual": null
+  },
+  "СЛ 51|2026-11-24T06:00:00Z": {
+   "number": "СЛ 51",
+   "airline": "Sibirskaya legkaya aviatsiya",
+   "to": "Kazachinskoe",
+   "to_name": "Kazachinskoe",
+   "model": "LET L-410",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T06:00:00Z",
+   "actual": null
+  },
+  "SU 1445|2026-11-24T06:30:00Z": {
+   "number": "SU 1445",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T06:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -390,6 +430,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

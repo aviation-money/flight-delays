@@ -38,9 +38,49 @@
    "to": "WNR",
    "to_name": "Novyy Urengoy",
    "model": null,
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-24T05:00:00Z",
-   "actual": "2026-11-24T05:00:00Z"
+   "actual": "2026-11-24T06:00:00Z"
+  },
+  "YAL 41|2026-11-24T04:00:00Z": {
+   "number": "YAL 41",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "KKQ",
+   "to_name": "Krasnoselkup",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-24T04:00:00Z",
+   "actual": "2026-11-24T04:37:00Z"
+  },
+  "YC 317|2026-11-24T05:25:00Z": {
+   "number": "YC 317",
+   "airline": "Yamal",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-24T05:25:00Z",
+   "actual": "2026-11-24T05:25:00Z"
+  },
+  "WZ 5304|2026-11-24T06:00:00Z": {
+   "number": "WZ 5304",
+   "airline": "Red Wings",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T06:00:00Z",
+   "actual": "2026-11-24T06:00:00Z"
+  },
+  "ЯЛ 41|2026-11-24T07:00:00Z": {
+   "number": "ЯЛ 41",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "KKQ",
+   "to_name": "Krasnoselkup",
+   "model": "Mil Mi-8",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T07:00:00Z",
+   "actual": "2026-11-24T07:00:00Z"
   }
  },
  "fetched": [
@@ -48,6 +88,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

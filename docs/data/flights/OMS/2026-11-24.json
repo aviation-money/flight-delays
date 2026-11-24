@@ -28,9 +28,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:10:00Z",
-   "actual": "2026-11-23T23:10:00Z"
+   "actual": "2026-11-24T04:35:00Z"
   },
   "SU 1763|2026-11-23T23:50:00Z": {
    "number": "SU 1763",
@@ -87,10 +87,10 @@
    "airline": "Qazaq Air",
    "to": "NQZ",
    "to_name": "Astana",
-   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
-   "status": "Expected",
+   "model": "De Havilland Canada DHC-8-400 Dash 8Q",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:00:00Z",
-   "actual": "2026-11-24T04:00:00Z"
+   "actual": "2026-11-24T04:15:00Z"
   }
  },
  "fetched": [
@@ -99,6 +99,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

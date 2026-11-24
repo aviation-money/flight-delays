@@ -48,9 +48,29 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:00:00Z",
-   "actual": "2026-11-24T04:00:00Z"
+   "actual": "2026-11-24T04:06:00Z"
+  },
+  "SU 1603|2026-11-24T06:25:00Z": {
+   "number": "SU 1603",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T06:25:00Z",
+   "actual": "2026-11-24T06:25:00Z"
+  },
+  "DP 332|2026-11-24T07:00:00Z": {
+   "number": "DP 332",
+   "airline": "Pobeda",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T07:00:00Z",
+   "actual": "2026-11-24T07:00:00Z"
   }
  },
  "fetched": [
@@ -58,6 +78,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

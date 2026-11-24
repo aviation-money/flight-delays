@@ -178,9 +178,9 @@
    "to": "Neryungri",
    "to_name": "Neryungri",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:40:00Z",
-   "actual": "2026-11-24T03:40:00Z"
+   "actual": "2026-11-24T04:01:00Z"
   },
   "EU 2922|2026-11-24T03:55:00Z": {
    "number": "EU 2922",
@@ -190,7 +190,7 @@
    "model": "Comac C909/ARJ21-700",
    "status": "Departed",
    "scheduled": "2026-11-24T03:55:00Z",
-   "actual": "2026-11-24T03:40:00Z"
+   "actual": "2026-11-24T03:59:00Z"
   },
   "HZ 5628|2026-11-24T04:00:00Z": {
    "number": "HZ 5628",
@@ -200,7 +200,7 @@
    "model": "Airbus A319",
    "status": "Departed",
    "scheduled": "2026-11-24T04:00:00Z",
-   "actual": "2026-11-24T03:55:00Z"
+   "actual": "2026-11-24T04:15:00Z"
   },
   "FV 6272|2026-11-24T04:15:00Z": {
    "number": "FV 6272",
@@ -208,9 +208,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 747-400",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:15:00Z",
-   "actual": "2026-11-24T04:45:00Z"
+   "actual": "2026-11-24T05:40:00Z"
+  },
+  "HZ 3102|2026-11-24T05:10:00Z": {
+   "number": "HZ 3102",
+   "airline": "Aurora",
+   "to": "Nikolayevsk-na-Amure Airport",
+   "to_name": "Nikolayevsk-na-Amure Airport",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Departed",
+   "scheduled": "2026-11-24T05:10:00Z",
+   "actual": "2026-11-24T05:20:00Z"
   }
  },
  "fetched": [
@@ -221,6 +231,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

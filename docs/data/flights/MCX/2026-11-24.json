@@ -41,12 +41,23 @@
    "status": "Expected",
    "scheduled": "2026-11-24T05:00:00Z",
    "actual": null
+  },
+  "A4 4027|2026-11-24T07:00:00Z": {
+   "number": "A4 4027",
+   "airline": "Azimuth",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T07:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

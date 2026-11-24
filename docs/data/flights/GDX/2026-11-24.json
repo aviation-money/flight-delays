@@ -128,9 +128,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 777-300ER",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:35:00Z",
-   "actual": "2026-11-24T03:35:00Z"
+   "actual": "2026-11-24T03:59:00Z"
   },
   "HZ 5613|2026-11-24T04:50:00Z": {
    "number": "HZ 5613",
@@ -138,9 +138,29 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:50:00Z",
-   "actual": "2026-11-24T04:50:00Z"
+   "actual": "2026-11-24T04:57:00Z"
+  },
+  "IO 9707|2026-11-24T05:30:00Z": {
+   "number": "IO 9707",
+   "airline": "IrAero",
+   "to": "Baimskaya",
+   "to_name": "Baimskaya",
+   "model": null,
+   "status": "Canceled",
+   "scheduled": "2026-11-24T05:30:00Z",
+   "actual": "2026-11-24T05:30:00Z"
+  },
+  "IO 9715|2026-11-24T06:00:00Z": {
+   "number": "IO 9715",
+   "airline": "IrAero",
+   "to": "Baimskaya",
+   "to_name": "Baimskaya",
+   "model": null,
+   "status": "Canceled",
+   "scheduled": "2026-11-24T06:00:00Z",
+   "actual": "2026-11-24T06:00:00Z"
   }
  },
  "fetched": [
@@ -151,6 +171,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

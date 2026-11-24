@@ -178,9 +178,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:10:00Z",
-   "actual": "2026-11-24T04:10:00Z"
+   "actual": "2026-11-24T04:23:00Z"
   },
   "UT 221|2026-11-24T04:30:00Z": {
    "number": "UT 221",
@@ -188,9 +188,19 @@
    "to": "Beloyarskiy",
    "to_name": "Beloyarskiy",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:30:00Z",
-   "actual": "2026-11-24T04:30:00Z"
+   "actual": "2026-11-24T04:38:00Z"
+  },
+  "N4 334|2026-11-24T05:20:00Z": {
+   "number": "N4 334",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T05:20:00Z",
+   "actual": "2026-11-24T05:50:00Z"
   }
  },
  "fetched": [
@@ -198,6 +208,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

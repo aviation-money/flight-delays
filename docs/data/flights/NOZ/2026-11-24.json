@@ -48,9 +48,9 @@
    "to": "KCY",
    "to_name": "Krasnoyarsk",
    "model": "ATR 42-500",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:40:00Z",
-   "actual": "2026-11-24T04:40:00Z"
+   "actual": "2026-11-24T04:36:00Z"
   },
   "S7 7010|2026-11-24T04:45:00Z": {
    "number": "S7 7010",
@@ -58,9 +58,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:45:00Z",
-   "actual": "2026-11-24T04:45:00Z"
+   "actual": "2026-11-24T04:44:00Z"
   },
   "WZ 5092|2026-11-24T04:00:00Z": {
    "number": "WZ 5092",
@@ -68,9 +68,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:00:00Z",
-   "actual": "2026-11-24T05:00:00Z"
+   "actual": "2026-11-24T05:28:00Z"
   }
  },
  "fetched": [
@@ -79,6 +79,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

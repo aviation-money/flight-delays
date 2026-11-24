@@ -118,9 +118,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 777-300ER",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:45:00Z",
-   "actual": "2026-11-24T04:45:00Z"
+   "actual": "2026-11-24T04:46:00Z"
+  },
+  "FV 2458|2026-11-24T05:30:00Z": {
+   "number": "FV 2458",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T05:30:00Z",
+   "actual": "2026-11-24T06:00:00Z"
+  },
+  "HZ 5629|2026-11-24T06:30:00Z": {
+   "number": "HZ 5629",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T06:30:00Z",
+   "actual": "2026-11-24T06:30:00Z"
   }
  },
  "fetched": [
@@ -131,6 +151,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

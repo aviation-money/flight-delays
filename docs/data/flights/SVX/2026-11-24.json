@@ -178,9 +178,9 @@
    "to": "LBD",
    "to_name": "Khudzhand",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:00:00Z",
-   "actual": "2026-11-24T04:00:00Z"
+   "actual": "2026-11-24T04:51:00Z"
   },
   "FZ 998|2026-11-24T03:15:00Z": {
    "number": "FZ 998",
@@ -188,9 +188,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:15:00Z",
-   "actual": "2026-11-24T04:20:00Z"
+   "actual": "2026-11-24T05:20:00Z"
   },
   "U6 272|2026-11-24T04:30:00Z": {
    "number": "U6 272",
@@ -198,9 +198,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:30:00Z",
-   "actual": "2026-11-24T04:30:00Z"
+   "actual": "2026-11-24T05:02:00Z"
   },
   "U6 623|2026-11-24T05:05:00Z": {
    "number": "U6 623",
@@ -208,9 +208,49 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T05:05:00Z",
-   "actual": "2026-11-24T05:05:00Z"
+   "actual": "2026-11-24T05:52:00Z"
+  },
+  "UT 105|2026-11-24T06:20:00Z": {
+   "number": "UT 105",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T06:20:00Z",
+   "actual": "2026-11-24T06:20:00Z"
+  },
+  "3F 3478|2026-11-24T06:30:00Z": {
+   "number": "3F 3478",
+   "airline": "FlyOne Armenia",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T06:30:00Z",
+   "actual": "2026-11-24T06:30:00Z"
+  },
+  "UT 281|2026-11-24T06:50:00Z": {
+   "number": "UT 281",
+   "airline": "UTAir",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T06:50:00Z",
+   "actual": "2026-11-24T06:50:00Z"
+  },
+  "U6 300|2026-11-24T07:00:00Z": {
+   "number": "U6 300",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T07:00:00Z",
+   "actual": "2026-11-24T07:00:00Z"
   }
  },
  "fetched": [
@@ -218,6 +258,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

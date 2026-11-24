@@ -67,10 +67,10 @@
    "airline": "Pobeda",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737",
-   "status": "GateClosed",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-24T01:30:00Z",
-   "actual": "2026-11-24T03:40:00Z"
+   "actual": "2026-11-24T04:20:00Z"
   }
  },
  "fetched": [
@@ -78,6 +78,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

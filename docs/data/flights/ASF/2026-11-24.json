@@ -31,6 +31,26 @@
    "status": "Boarding",
    "scheduled": "2026-11-24T04:30:00Z",
    "actual": "2026-11-24T04:30:00Z"
+  },
+  "ЛЩ 9671|2026-11-24T04:50:00Z": {
+   "number": "ЛЩ 9671",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-1",
+   "to_name": "Filanovskogo-1",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-24T04:50:00Z",
+   "actual": "2026-11-24T04:56:00Z"
+  },
+  "ЛЩ 9673|2026-11-24T06:30:00Z": {
+   "number": "ЛЩ 9673",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-1",
+   "to_name": "Filanovskogo-1",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-24T06:30:00Z",
+   "actual": "2026-11-24T06:30:00Z"
   }
  },
  "fetched": [
@@ -38,6 +58,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

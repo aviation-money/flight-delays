@@ -178,7 +178,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:00:00Z",
    "actual": "2026-11-24T03:10:00Z"
   },
@@ -190,7 +190,7 @@
    "model": "Boeing 747-400",
    "status": "Expected",
    "scheduled": "2026-11-24T03:10:00Z",
-   "actual": "2026-11-24T04:15:00Z"
+   "actual": "2026-11-24T04:21:00Z"
   },
   "SU 5815|2026-11-24T04:10:00Z": {
    "number": "SU 5815",
@@ -200,7 +200,7 @@
    "model": "Airbus A330",
    "status": "Expected",
    "scheduled": "2026-11-24T04:10:00Z",
-   "actual": "2026-11-24T04:25:00Z"
+   "actual": "2026-11-24T04:38:00Z"
   },
   "S7 6261|2026-11-24T04:30:00Z": {
    "number": "S7 6261",
@@ -210,7 +210,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-24T04:30:00Z",
-   "actual": "2026-11-24T04:30:00Z"
+   "actual": "2026-11-24T04:35:00Z"
   },
   "C6 434|2026-11-24T04:40:00Z": {
    "number": "C6 434",
@@ -220,7 +220,37 @@
    "model": "Airbus A320",
    "status": "Expected",
    "scheduled": "2026-11-24T04:40:00Z",
-   "actual": "2026-11-24T04:40:00Z"
+   "actual": "2026-11-24T04:53:00Z"
+  },
+  "S7 6201|2026-11-24T05:20:00Z": {
+   "number": "S7 6201",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T05:20:00Z",
+   "actual": "2026-11-24T05:26:00Z"
+  },
+  "HZ 5602|2026-11-24T06:35:00Z": {
+   "number": "HZ 5602",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T06:35:00Z",
+   "actual": "2026-11-24T06:35:00Z"
+  },
+  "CA 810|2026-11-24T06:45:00Z": {
+   "number": "CA 810",
+   "airline": "Air China",
+   "to": "PEK",
+   "to_name": "Beijing",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-24T06:45:00Z",
+   "actual": "2026-11-24T06:45:00Z"
   }
  },
  "fetched": [
@@ -231,6 +261,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

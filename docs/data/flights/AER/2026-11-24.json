@@ -28,15 +28,56 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-24T04:55:00Z",
    "actual": "2026-11-24T04:55:00Z"
+  },
+  "DP 6946|2026-11-24T05:06:00Z": {
+   "number": "DP 6946",
+   "airline": "Pobeda",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T05:06:00Z",
+   "actual": "2026-11-24T05:06:00Z"
+  },
+  "FV 6203|2026-11-24T05:35:00Z": {
+   "number": "FV 6203",
+   "airline": "Rossiya",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T05:35:00Z",
+   "actual": "2026-11-24T06:00:00Z"
+  },
+  "HY 9826|2026-11-24T06:00:00Z": {
+   "number": "HY 9826",
+   "airline": "Uzbekistan",
+   "to": "NMA",
+   "to_name": "Namangan",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T06:00:00Z",
+   "actual": "2026-11-24T06:10:00Z"
+  },
+  "DP 112|2026-11-24T06:30:00Z": {
+   "number": "DP 112",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T06:30:00Z",
+   "actual": "2026-11-24T06:30:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

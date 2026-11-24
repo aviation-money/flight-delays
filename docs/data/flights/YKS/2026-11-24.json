@@ -151,6 +151,46 @@
    "status": "Departed",
    "scheduled": "2026-11-24T01:20:00Z",
    "actual": "2026-11-24T03:13:00Z"
+  },
+  "R3 415|2026-11-24T05:30:00Z": {
+   "number": "R3 415",
+   "airline": "Yakutia",
+   "to": "Deputatskiy",
+   "to_name": "Deputatskiy",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-24T05:30:00Z",
+   "actual": "2026-11-24T05:30:00Z"
+  },
+  "PI 287|2026-11-24T06:20:00Z": {
+   "number": "PI 287",
+   "airline": "Polar",
+   "to": "Olekminsk",
+   "to_name": "Olekminsk",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-24T06:20:00Z",
+   "actual": "2026-11-24T06:20:00Z"
+  },
+  "PI 243|2026-11-24T06:50:00Z": {
+   "number": "PI 243",
+   "airline": "Polar",
+   "to": "Zhigansk",
+   "to_name": "Zhigansk",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-24T06:50:00Z",
+   "actual": "2026-11-24T06:50:00Z"
+  },
+  "IO 181|2026-11-24T05:00:00Z": {
+   "number": "IO 181",
+   "airline": "IrAero",
+   "to": "ULK",
+   "to_name": "Lensk",
+   "model": "An-24",
+   "status": "Delayed",
+   "scheduled": "2026-11-24T05:00:00Z",
+   "actual": "2026-11-24T07:00:00Z"
   }
  },
  "fetched": [
@@ -160,6 +200,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }

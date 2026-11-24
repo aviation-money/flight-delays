@@ -178,9 +178,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:05:00Z",
-   "actual": "2026-11-24T04:05:00Z"
+   "actual": "2026-11-24T04:11:00Z"
   },
   "4G 272|2026-11-24T04:15:00Z": {
    "number": "4G 272",
@@ -191,6 +191,16 @@
    "status": "Expected",
    "scheduled": "2026-11-24T04:15:00Z",
    "actual": "2026-11-24T04:15:00Z"
+  },
+  "HY 9658|2026-11-24T06:30:00Z": {
+   "number": "HY 9658",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T06:30:00Z",
+   "actual": "2026-11-24T06:30:00Z"
   }
  },
  "fetched": [
@@ -198,6 +208,7 @@
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
-  "2026-11-24T04:07:25Z"
+  "2026-11-24T04:07:25Z",
+  "2026-11-24T06:07:26Z"
  ]
 }
