@@ -37,7 +37,7 @@
    "airline": "S7",
    "to": "OVB",
    "to_name": "Novosibirsk",
-   "model": "Airbus A321",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-23T23:30:00Z",
    "actual": "2026-11-23T23:34:00Z"
@@ -48,9 +48,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:20:00Z",
-   "actual": "2026-11-24T00:20:00Z"
+   "actual": "2026-11-24T00:26:00Z"
   },
   "АЯ 175|2026-11-24T00:30:00Z": {
    "number": "АЯ 175",
@@ -58,9 +58,9 @@
    "to": "Krasnyy Chikoy",
    "to_name": "Krasnyy Chikoy",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:30:00Z",
-   "actual": "2026-11-24T00:30:00Z"
+   "actual": "2026-11-24T00:34:00Z"
   },
   "S7 3046|2026-11-24T01:05:00Z": {
    "number": "S7 3046",
@@ -68,9 +68,19 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320 NEO",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T01:05:00Z",
-   "actual": "2026-11-24T01:05:00Z"
+   "actual": "2026-11-24T01:06:00Z"
+  },
+  "WZ 5060|2026-11-24T03:00:00Z": {
+   "number": "WZ 5060",
+   "airline": "Red Wings",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T03:00:00Z",
+   "actual": "2026-11-24T03:00:00Z"
   }
  },
  "fetched": [
@@ -78,6 +88,7 @@
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

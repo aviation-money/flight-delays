@@ -88,9 +88,9 @@
    "to": "Komsomolsk-na-Amur",
    "to_name": "Komsomolsk-na-Amur",
    "model": "An-24",
-   "status": "Delayed",
+   "status": "Canceled",
    "scheduled": "2026-11-23T23:00:00Z",
-   "actual": "2026-11-23T23:30:00Z"
+   "actual": "2026-11-23T23:00:00Z"
   },
   "HZ 3100|2026-11-23T23:00:00Z": {
    "number": "HZ 3100",
@@ -100,7 +100,7 @@
    "model": "De Havilland DHC-8-400 Dash 8",
    "status": "Departed",
    "scheduled": "2026-11-23T23:00:00Z",
-   "actual": "2026-11-23T23:34:00Z"
+   "actual": "2026-11-24T00:26:00Z"
   },
   "HZ 4106|2026-11-23T23:25:00Z": {
    "number": "HZ 4106",
@@ -108,9 +108,9 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "De Havilland DHC-8-400 Dash 8",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:25:00Z",
-   "actual": "2026-11-23T23:25:00Z"
+   "actual": "2026-11-24T00:11:00Z"
   },
   "НИ 9211|2026-11-23T23:00:00Z": {
    "number": "НИ 9211",
@@ -138,9 +138,9 @@
    "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:10:00Z",
-   "actual": "2026-11-24T00:10:00Z"
+   "actual": "2026-11-24T00:35:00Z"
   },
   "S7 6220|2026-11-24T00:40:00Z": {
    "number": "S7 6220",
@@ -148,9 +148,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus Industrie А320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:40:00Z",
-   "actual": "2026-11-24T00:40:00Z"
+   "actual": "2026-11-24T00:46:00Z"
   },
   "HZ 5612|2026-11-24T00:55:00Z": {
    "number": "HZ 5612",
@@ -158,9 +158,19 @@
    "to": "GDX",
    "to_name": "Magadan",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:55:00Z",
-   "actual": "2026-11-24T00:55:00Z"
+   "actual": "2026-11-24T01:05:00Z"
+  },
+  "HZ 5684|2026-11-24T01:30:00Z": {
+   "number": "HZ 5684",
+   "airline": "Aurora",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:30:00Z",
+   "actual": "2026-11-24T01:45:00Z"
   }
  },
  "fetched": [
@@ -169,6 +179,7 @@
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

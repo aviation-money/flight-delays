@@ -18,9 +18,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-24T00:20:00Z",
-   "actual": "2026-11-24T00:20:00Z"
+   "actual": "2026-11-24T02:10:00Z"
   },
   "UJ 652|2026-11-23T20:30:00Z": {
    "number": "UJ 652",
@@ -28,14 +28,55 @@
    "to": "Sharm el Sheikh",
    "to_name": "Sharm el Sheikh",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-23T20:30:00Z",
-   "actual": "2026-11-24T00:45:00Z"
+   "actual": "2026-11-24T01:30:00Z"
+  },
+  "FV 6130|2026-11-24T00:10:00Z": {
+   "number": "FV 6130",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T00:10:00Z",
+   "actual": "2026-11-24T01:25:00Z"
+  },
+  "SU 1395|2026-11-24T02:20:00Z": {
+   "number": "SU 1395",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T02:20:00Z",
+   "actual": "2026-11-24T02:20:00Z"
+  },
+  "A4 4028|2026-11-24T02:55:00Z": {
+   "number": "A4 4028",
+   "airline": "Azimuth",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T02:55:00Z",
+   "actual": "2026-11-24T02:55:00Z"
+  },
+  "DP 6512|2026-11-24T01:00:00Z": {
+   "number": "DP 6512",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "Delayed",
+   "scheduled": "2026-11-24T01:00:00Z",
+   "actual": "2026-11-24T03:05:00Z"
   }
  },
  "fetched": [
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

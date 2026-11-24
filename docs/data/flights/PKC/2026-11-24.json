@@ -48,9 +48,19 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Yak 40",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:15:00Z",
    "actual": "2026-11-24T01:00:00Z"
+  },
+  "SU 1731|2026-11-24T01:25:00Z": {
+   "number": "SU 1731",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:25:00Z",
+   "actual": "2026-11-24T01:40:00Z"
   }
  },
  "fetched": [
@@ -60,6 +70,7 @@
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

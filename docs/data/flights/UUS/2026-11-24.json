@@ -40,7 +40,7 @@
    "model": null,
    "status": "GateClosed",
    "scheduled": "2026-11-23T23:00:00Z",
-   "actual": "2026-11-24T00:30:00Z"
+   "actual": "2026-11-24T02:30:00Z"
   },
   "HZ 3006|2026-11-24T00:15:00Z": {
    "number": "HZ 3006",
@@ -48,9 +48,9 @@
    "to": "OHH",
    "to_name": "Okha",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:15:00Z",
-   "actual": "2026-11-24T00:15:00Z"
+   "actual": "2026-11-24T00:03:00Z"
   },
   "HZ 5627|2026-11-24T00:40:00Z": {
    "number": "HZ 5627",
@@ -58,9 +58,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:40:00Z",
-   "actual": "2026-11-24T00:40:00Z"
+   "actual": "2026-11-24T00:30:00Z"
   },
   "HZ 3032|2026-11-23T23:30:00Z": {
    "number": "HZ 3032",
@@ -80,7 +80,17 @@
    "model": null,
    "status": "Delayed",
    "scheduled": "2026-11-24T00:00:00Z",
-   "actual": "2026-11-24T01:00:00Z"
+   "actual": "2026-11-24T02:00:00Z"
+  },
+  "ATI 6503|2026-11-24T02:00:00Z": {
+   "number": "ATI 6503",
+   "airline": "ATI",
+   "to": "NGK",
+   "to_name": "Nogliki-Sakhalin Island",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T02:00:00Z",
+   "actual": "2026-11-24T02:00:00Z"
   }
  },
  "fetched": [
@@ -89,6 +99,7 @@
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

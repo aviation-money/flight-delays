@@ -14,7 +14,7 @@
   },
   "A4 6186|2026-11-23T22:25:00Z": {
    "number": "A4 6186",
-   "airline": "Azimut",
+   "airline": "Azimuth",
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Sukhoi Superjet 100",
@@ -38,9 +38,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:50:00Z",
-   "actual": "2026-11-23T23:50:00Z"
+   "actual": "2026-11-24T00:32:00Z"
   },
   "S7 2566|2026-11-24T00:25:00Z": {
    "number": "S7 2566",
@@ -48,9 +48,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:25:00Z",
-   "actual": "2026-11-24T00:25:00Z"
+   "actual": "2026-11-24T00:27:00Z"
   },
   "DP 6522|2026-11-24T01:00:00Z": {
    "number": "DP 6522",
@@ -58,15 +58,36 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T01:00:00Z",
-   "actual": "2026-11-24T01:00:00Z"
+   "actual": "2026-11-24T01:13:00Z"
+  },
+  "N4 308|2026-11-24T01:45:00Z": {
+   "number": "N4 308",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T01:45:00Z",
+   "actual": "2026-11-24T01:45:00Z"
+  },
+  "SU 1639|2026-11-24T02:05:00Z": {
+   "number": "SU 1639",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T02:05:00Z",
+   "actual": "2026-11-24T02:05:00Z"
   }
  },
  "fetched": [
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

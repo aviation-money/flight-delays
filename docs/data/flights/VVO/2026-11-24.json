@@ -130,7 +130,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-24T00:30:00Z",
-   "actual": "2026-11-24T00:30:00Z"
+   "actual": "2026-11-24T00:45:00Z"
   },
   "HZ 5680|2026-11-24T00:40:00Z": {
    "number": "HZ 5680",
@@ -140,7 +140,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-24T00:40:00Z",
-   "actual": "2026-11-24T00:40:00Z"
+   "actual": "2026-11-24T01:01:00Z"
   },
   "SU 644|2026-11-24T00:50:00Z": {
    "number": "SU 644",
@@ -150,7 +150,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-24T00:50:00Z",
-   "actual": "2026-11-24T00:50:00Z"
+   "actual": "2026-11-24T00:54:00Z"
   },
   "FV 5701|2026-11-24T01:00:00Z": {
    "number": "FV 5701",
@@ -160,7 +160,27 @@
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-24T01:00:00Z",
-   "actual": "2026-11-24T01:00:00Z"
+   "actual": "2026-11-24T01:09:00Z"
+  },
+  "SU 1705|2026-11-24T02:05:00Z": {
+   "number": "SU 1705",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-24T02:05:00Z",
+   "actual": "2026-11-24T02:05:00Z"
+  },
+  "S7 6219|2026-11-24T03:00:00Z": {
+   "number": "S7 6219",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-24T03:00:00Z",
+   "actual": "2026-11-24T03:00:00Z"
   }
  },
  "fetched": [
@@ -169,6 +189,7 @@
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

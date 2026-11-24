@@ -225,7 +225,7 @@
   "IO 9151|2026-11-24T00:40:00Z": {
    "number": "IO 9151",
    "airline": "IrAero",
-   "to": "ODO",
+   "to": "Bodaybo",
    "to_name": "Bodaybo",
    "model": "An-26",
    "status": "Unknown",
@@ -241,6 +241,66 @@
    "status": "Unknown",
    "scheduled": "2026-11-24T01:00:00Z",
    "actual": null
+  },
+  "S7 3018|2026-11-24T01:25:00Z": {
+   "number": "S7 3018",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T01:25:00Z",
+   "actual": null
+  },
+  "IO 417|2026-11-24T01:30:00Z": {
+   "number": "IO 417",
+   "airline": "IrAero",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Bombardier CRJ",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T01:30:00Z",
+   "actual": null
+  },
+  "S7 6409|2026-11-24T01:50:00Z": {
+   "number": "S7 6409",
+   "airline": "S7",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T01:50:00Z",
+   "actual": null
+  },
+  "S7 6309|2026-11-24T02:05:00Z": {
+   "number": "S7 6309",
+   "airline": "S7",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T02:05:00Z",
+   "actual": null
+  },
+  "N4 744|2026-11-24T02:50:00Z": {
+   "number": "N4 744",
+   "airline": "Nordwind",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T02:50:00Z",
+   "actual": null
+  },
+  "FV 6732|2026-11-24T03:05:00Z": {
+   "number": "FV 6732",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T03:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -248,6 +308,7 @@
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

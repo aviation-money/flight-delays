@@ -1,9 +1,21 @@
 {
  "airport": "ARH",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "FV 7002|2026-11-24T01:20:00Z": {
+   "number": "FV 7002",
+   "airline": "Rossiya",
+   "to": "S.Peterburg",
+   "to_name": "S.Peterburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Canceled",
+   "scheduled": "2026-11-24T01:20:00Z",
+   "actual": "2026-11-24T01:20:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

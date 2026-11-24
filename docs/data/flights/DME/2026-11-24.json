@@ -48,9 +48,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:50:00Z",
-   "actual": "2026-11-23T23:50:00Z"
+   "actual": "2026-11-24T00:29:00Z"
   },
   "YC 32|2026-11-24T00:05:00Z": {
    "number": "YC 32",
@@ -58,13 +58,14 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:05:00Z",
-   "actual": "2026-11-24T00:05:00Z"
+   "actual": "2026-11-24T00:48:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

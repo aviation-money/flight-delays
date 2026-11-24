@@ -10,7 +10,7 @@
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-23T23:50:00Z",
-   "actual": "2026-11-23T23:45:00Z"
+   "actual": "2026-11-23T23:58:00Z"
   },
   "SZ 332|2026-11-24T00:50:00Z": {
    "number": "SZ 332",
@@ -18,13 +18,24 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:50:00Z",
-   "actual": "2026-11-24T00:50:00Z"
+   "actual": "2026-11-24T01:05:00Z"
+  },
+  "U6 2131|2026-11-24T03:00:00Z": {
+   "number": "U6 2131",
+   "airline": "Ural",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T03:00:00Z",
+   "actual": "2026-11-24T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

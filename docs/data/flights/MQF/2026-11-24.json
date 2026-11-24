@@ -1,10 +1,32 @@
 {
  "airport": "MQF",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "SU 1429|2026-11-24T01:15:00Z": {
+   "number": "SU 1429",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:15:00Z",
+   "actual": "2026-11-24T01:15:00Z"
+  },
+  "A4 6204|2026-11-24T02:35:00Z": {
+   "number": "A4 6204",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T02:35:00Z",
+   "actual": "2026-11-24T02:35:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

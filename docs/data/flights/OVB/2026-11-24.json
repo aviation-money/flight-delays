@@ -208,7 +208,7 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T22:50:00Z",
    "actual": "2026-11-23T23:01:00Z"
   },
@@ -258,9 +258,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:55:00Z",
-   "actual": "2026-11-23T23:55:00Z"
+   "actual": "2026-11-24T00:01:00Z"
   },
   "S7 5711|2026-11-24T00:05:00Z": {
    "number": "S7 5711",
@@ -268,7 +268,7 @@
    "to": "HKT",
    "to_name": "Phuket",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:05:00Z",
    "actual": "2026-11-24T00:05:00Z"
   },
@@ -278,19 +278,19 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:25:00Z",
-   "actual": "2026-11-24T00:25:00Z"
+   "actual": "2026-11-24T00:30:00Z"
   },
   "SU 1463|2026-11-24T00:30:00Z": {
    "number": "SU 1463",
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
-   "status": "Boarding",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:30:00Z",
-   "actual": "2026-11-24T00:30:00Z"
+   "actual": "2026-11-24T00:49:00Z"
   },
   "FV 6542|2026-11-24T00:30:00Z": {
    "number": "FV 6542",
@@ -298,9 +298,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:30:00Z",
-   "actual": "2026-11-24T00:30:00Z"
+   "actual": "2026-11-24T00:47:00Z"
   },
   "SU 650|2026-11-23T23:45:00Z": {
    "number": "SU 650",
@@ -308,9 +308,9 @@
    "to": "BKK",
    "to_name": "Bangkok",
    "model": "Airbus A330-300",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:45:00Z",
-   "actual": "2026-11-24T00:45:00Z"
+   "actual": "2026-11-24T01:00:00Z"
   },
   "DP 6526|2026-11-24T00:50:00Z": {
    "number": "DP 6526",
@@ -318,9 +318,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:50:00Z",
-   "actual": "2026-11-24T00:50:00Z"
+   "actual": "2026-11-24T01:07:00Z"
   },
   "S7 5305|2026-11-24T01:05:00Z": {
    "number": "S7 5305",
@@ -328,15 +328,86 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T01:05:00Z",
    "actual": "2026-11-24T01:05:00Z"
+  },
+  "S7 7083|2026-11-24T01:20:00Z": {
+   "number": "S7 7083",
+   "airline": "S7",
+   "to": "NYM",
+   "to_name": "Nadym",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:20:00Z",
+   "actual": "2026-11-24T01:23:00Z"
+  },
+  "S7 7087|2026-11-24T01:25:00Z": {
+   "number": "S7 7087",
+   "airline": "S7",
+   "to": "NOJ",
+   "to_name": "Noyabrsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:25:00Z",
+   "actual": "2026-11-24T01:32:00Z"
+  },
+  "S7 2504|2026-11-24T01:30:00Z": {
+   "number": "S7 2504",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:30:00Z",
+   "actual": "2026-11-24T01:34:00Z"
+  },
+  "S7 5347|2026-11-24T01:30:00Z": {
+   "number": "S7 5347",
+   "airline": "S7",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:30:00Z",
+   "actual": "2026-11-24T01:36:00Z"
+  },
+  "S7 5115|2026-11-24T01:20:00Z": {
+   "number": "S7 5115",
+   "airline": "S7",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:20:00Z",
+   "actual": "2026-11-24T01:38:00Z"
+  },
+  "S7 5231|2026-11-24T02:10:00Z": {
+   "number": "S7 5231",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T02:10:00Z",
+   "actual": "2026-11-24T02:23:00Z"
+  },
+  "S7 7001|2026-11-24T03:05:00Z": {
+   "number": "S7 7001",
+   "airline": "S7",
+   "to": "BAX",
+   "to_name": "Barnaul",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T03:05:00Z",
+   "actual": "2026-11-24T03:05:00Z"
   }
  },
  "fetched": [
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

@@ -1,9 +1,21 @@
 {
  "airport": "SCW",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "A4 6046|2026-11-24T01:15:00Z": {
+   "number": "A4 6046",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "SSJ 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:15:00Z",
+   "actual": "2026-11-24T01:15:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

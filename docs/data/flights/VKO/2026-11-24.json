@@ -98,9 +98,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Airbus A330-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:05:00Z",
-   "actual": "2026-11-24T00:05:00Z"
+   "actual": "2026-11-24T01:25:00Z"
   },
   "TK 422|2026-11-23T23:40:00Z": {
    "number": "TK 422",
@@ -108,9 +108,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:40:00Z",
-   "actual": "2026-11-24T00:00:00Z"
+   "actual": "2026-11-24T00:31:00Z"
   },
   "DP 433B|2026-11-23T23:25:00Z": {
    "number": "DP 433B",
@@ -118,9 +118,9 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Boarding",
    "scheduled": "2026-11-23T23:25:00Z",
-   "actual": "2026-11-24T00:00:00Z"
+   "actual": "2026-11-24T02:10:00Z"
   },
   "DP 1435B|2026-11-24T00:15:00Z": {
    "number": "DP 1435B",
@@ -128,9 +128,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:15:00Z",
-   "actual": "2026-11-24T00:15:00Z"
+   "actual": "2026-11-24T00:59:00Z"
   },
   "DP 1435|2026-11-23T21:50:00Z": {
    "number": "DP 1435",
@@ -138,9 +138,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-800",
-   "status": "Canceled",
+   "status": "Departed",
    "scheduled": "2026-11-23T21:50:00Z",
-   "actual": "2026-11-24T00:15:00Z"
+   "actual": "2026-11-24T00:59:00Z"
   },
   "ZF 4311|2026-11-24T00:20:00Z": {
    "number": "ZF 4311",
@@ -148,9 +148,9 @@
    "to": "HRI",
    "to_name": "Hambantota",
    "model": "Boeing 767-300",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:20:00Z",
-   "actual": "2026-11-24T00:20:00Z"
+   "actual": "2026-11-24T00:55:00Z"
   },
   "VF 276|2026-11-23T23:50:00Z": {
    "number": "VF 276",
@@ -158,9 +158,9 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:50:00Z",
-   "actual": "2026-11-24T00:25:00Z"
+   "actual": "2026-11-24T01:08:00Z"
   },
   "RT 302|2026-11-23T23:20:00Z": {
    "number": "RT 302",
@@ -168,13 +168,44 @@
    "to": "UUA",
    "to_name": "Bugulma",
    "model": "Bombardier CRJ200",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:20:00Z",
-   "actual": "2026-11-24T00:35:00Z"
+   "actual": "2026-11-24T00:28:00Z"
+  },
+  "PC 1577|2026-11-24T01:10:00Z": {
+   "number": "PC 1577",
+   "airline": "Pegasus",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Airbus A320 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-24T01:10:00Z",
+   "actual": "2026-11-24T01:28:00Z"
+  },
+  "PC 387|2026-11-24T00:10:00Z": {
+   "number": "PC 387",
+   "airline": "Pegasus",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Airbus A321 NEO",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T00:10:00Z",
+   "actual": "2026-11-24T02:40:00Z"
+  },
+  "VF 588|2026-11-24T02:30:00Z": {
+   "number": "VF 588",
+   "airline": "AJet",
+   "to": "ESB",
+   "to_name": "Ankara",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T02:30:00Z",
+   "actual": "2026-11-24T02:50:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

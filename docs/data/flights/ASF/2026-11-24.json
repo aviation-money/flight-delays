@@ -5,17 +5,28 @@
   "A4 5048|2026-11-23T21:40:00Z": {
    "number": "A4 5048",
    "airline": "Azimuth",
-   "to": "AER",
-   "to_name": "Sochi",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-23T21:40:00Z",
    "actual": "2026-11-23T21:44:00Z"
+  },
+  "SU 1173|2026-11-24T03:00:00Z": {
+   "number": "SU 1173",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T03:00:00Z",
+   "actual": "2026-11-24T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }

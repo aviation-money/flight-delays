@@ -18,9 +18,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T00:30:00Z",
-   "actual": "2026-11-24T00:30:00Z"
+   "actual": "2026-11-24T00:52:00Z"
   },
   "KV 247|2026-11-24T00:45:00Z": {
    "number": "KV 247",
@@ -28,15 +28,46 @@
    "to": "SWT",
    "to_name": "Strezhevoy",
    "model": "ATR 42-500",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-24T00:45:00Z",
-   "actual": "2026-11-24T00:45:00Z"
+   "actual": "2026-11-24T01:45:00Z"
+  },
+  "SU 1531|2026-11-24T02:00:00Z": {
+   "number": "SU 1531",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T02:00:00Z",
+   "actual": "2026-11-24T02:00:00Z"
+  },
+  "PR 51|2026-11-24T02:30:00Z": {
+   "number": "PR 51",
+   "airline": "Philippine",
+   "to": "Kedrovyy",
+   "to_name": "Kedrovyy",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T02:30:00Z",
+   "actual": "2026-11-24T02:30:00Z"
+  },
+  "RT 548|2026-11-24T02:30:00Z": {
+   "number": "RT 548",
+   "airline": "UVT Aero",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Bombardier CRJ200",
+   "status": "Expected",
+   "scheduled": "2026-11-24T02:30:00Z",
+   "actual": "2026-11-24T02:30:00Z"
   }
  },
  "fetched": [
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
-  "2026-11-24T00:07:28Z"
+  "2026-11-24T00:07:28Z",
+  "2026-11-24T02:07:23Z"
  ]
 }
