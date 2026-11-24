@@ -18,14 +18,55 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T22:25:00Z",
-   "actual": "2026-11-23T22:25:00Z"
+   "actual": "2026-11-23T22:40:00Z"
+  },
+  "FV 6472|2026-11-23T23:10:00Z": {
+   "number": "FV 6472",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-23T23:10:00Z",
+   "actual": "2026-11-23T23:10:00Z"
+  },
+  "SU 1763|2026-11-23T23:50:00Z": {
+   "number": "SU 1763",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-23T23:50:00Z",
+   "actual": "2026-11-23T23:50:00Z"
+  },
+  "S7 2566|2026-11-24T00:25:00Z": {
+   "number": "S7 2566",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-24T00:25:00Z",
+   "actual": "2026-11-24T00:25:00Z"
+  },
+  "DP 6522|2026-11-24T01:00:00Z": {
+   "number": "DP 6522",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T01:00:00Z",
+   "actual": "2026-11-24T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

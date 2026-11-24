@@ -1,9 +1,21 @@
 {
  "airport": "HMA",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "UT 300|2026-11-24T00:25:00Z": {
+   "number": "UT 300",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T00:25:00Z",
+   "actual": "2026-11-24T00:25:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

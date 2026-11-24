@@ -1,8 +1,30 @@
 {
  "airport": "MCX",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "FZ 994|2026-11-24T00:20:00Z": {
+   "number": "FZ 994",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-24T00:20:00Z",
+   "actual": null
+  },
+  "DP 1505|2026-11-24T01:00:00Z": {
+   "number": "DP 1505",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T01:00:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

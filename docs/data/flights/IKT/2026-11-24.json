@@ -191,12 +191,63 @@
    "status": "Expected",
    "scheduled": "2026-11-23T23:00:00Z",
    "actual": null
+  },
+  "S7 6443|2026-11-23T23:30:00Z": {
+   "number": "S7 6443",
+   "airline": "S7",
+   "to": "BTK",
+   "to_name": "Bratsk",
+   "model": "Embraer 170",
+   "status": "Unknown",
+   "scheduled": "2026-11-23T23:30:00Z",
+   "actual": null
+  },
+  "IO 147|2026-11-24T00:20:00Z": {
+   "number": "IO 147",
+   "airline": "IrAero",
+   "to": "Nizhneangarsk",
+   "to_name": "Nizhneangarsk",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T00:20:00Z",
+   "actual": null
+  },
+  "S7 5232|2026-11-24T00:30:00Z": {
+   "number": "S7 5232",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-24T00:30:00Z",
+   "actual": null
+  },
+  "IO 9151|2026-11-24T00:40:00Z": {
+   "number": "IO 9151",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-26",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T00:40:00Z",
+   "actual": null
+  },
+  "IO 85|2026-11-24T01:00:00Z": {
+   "number": "IO 85",
+   "airline": "IrAero",
+   "to": "ERG",
+   "to_name": "Erbogachen",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T01:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

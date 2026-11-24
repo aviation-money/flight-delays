@@ -10,7 +10,7 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-23T22:30:00Z",
-   "actual": "2026-11-23T22:30:00Z"
+   "actual": "2026-11-23T23:30:00Z"
   },
   "АЯ 83|2026-11-23T22:55:00Z": {
    "number": "АЯ 83",
@@ -18,9 +18,9 @@
    "to": "Seymchan",
    "to_name": "Seymchan",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T22:55:00Z",
-   "actual": "2026-11-23T22:55:00Z"
+   "actual": "2026-11-23T23:16:00Z"
   },
   "IO 133|2026-11-23T23:00:00Z": {
    "number": "IO 133",
@@ -28,9 +28,69 @@
    "to": "KPW",
    "to_name": "Keperveem",
    "model": "An-24",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-23T23:00:00Z",
-   "actual": "2026-11-23T23:00:00Z"
+   "actual": "2026-11-23T23:30:00Z"
+  },
+  "IO 9713|2026-11-23T23:15:00Z": {
+   "number": "IO 9713",
+   "airline": "IrAero",
+   "to": "Baimskaya",
+   "to_name": "Baimskaya",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T23:15:00Z",
+   "actual": "2026-11-23T23:15:00Z"
+  },
+  "S7 5220|2026-11-23T23:10:00Z": {
+   "number": "S7 5220",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-23T23:10:00Z",
+   "actual": "2026-11-23T23:23:00Z"
+  },
+  "IO 9701|2026-11-23T23:30:00Z": {
+   "number": "IO 9701",
+   "airline": "IrAero",
+   "to": "Keperveem",
+   "to_name": "Keperveem",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-23T23:30:00Z",
+   "actual": "2026-11-24T00:01:00Z"
+  },
+  "IO 9703|2026-11-24T00:05:00Z": {
+   "number": "IO 9703",
+   "airline": "IrAero",
+   "to": "Keperveem",
+   "to_name": "Keperveem",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T00:05:00Z",
+   "actual": "2026-11-24T00:05:00Z"
+  },
+  "IO 9705|2026-11-24T00:30:00Z": {
+   "number": "IO 9705",
+   "airline": "IrAero",
+   "to": "Keperveem",
+   "to_name": "Keperveem",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T00:30:00Z",
+   "actual": "2026-11-24T00:30:00Z"
+  },
+  "IO 9131|2026-11-24T01:00:00Z": {
+   "number": "IO 9131",
+   "airline": "IrAero",
+   "to": "Keperveem",
+   "to_name": "Keperveem",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T01:00:00Z",
+   "actual": "2026-11-24T01:00:00Z"
   }
  },
  "fetched": [
@@ -38,6 +98,7 @@
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

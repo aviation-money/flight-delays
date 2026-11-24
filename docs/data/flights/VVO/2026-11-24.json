@@ -68,7 +68,7 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T21:05:00Z",
    "actual": "2026-11-23T21:25:00Z"
   },
@@ -80,7 +80,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-23T21:45:00Z",
-   "actual": "2026-11-23T21:55:00Z"
+   "actual": "2026-11-23T22:00:00Z"
   },
   "HZ 5600|2026-11-23T22:00:00Z": {
    "number": "HZ 5600",
@@ -88,9 +88,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-23T22:00:00Z",
-   "actual": "2026-11-23T22:20:00Z"
+   "actual": "2026-11-23T22:24:00Z"
   },
   "U6 572|2026-11-23T22:20:00Z": {
    "number": "U6 572",
@@ -100,7 +100,7 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-23T22:20:00Z",
-   "actual": "2026-11-23T22:20:00Z"
+   "actual": "2026-11-23T22:37:00Z"
   },
   "S7 5204|2026-11-23T22:50:00Z": {
    "number": "S7 5204",
@@ -110,7 +110,57 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-23T22:50:00Z",
-   "actual": "2026-11-23T22:50:00Z"
+   "actual": "2026-11-23T22:52:00Z"
+  },
+  "HZ 523|2026-11-23T23:25:00Z": {
+   "number": "HZ 523",
+   "airline": "Aurora",
+   "to": "NEI",
+   "to_name": "Terney",
+   "model": "De Havilland Canada DHC-6 Twin Otter",
+   "status": "Expected",
+   "scheduled": "2026-11-23T23:25:00Z",
+   "actual": "2026-11-23T23:29:00Z"
+  },
+  "HZ 5616|2026-11-24T00:30:00Z": {
+   "number": "HZ 5616",
+   "airline": "Aurora",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T00:30:00Z",
+   "actual": "2026-11-24T00:30:00Z"
+  },
+  "HZ 5680|2026-11-24T00:40:00Z": {
+   "number": "HZ 5680",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T00:40:00Z",
+   "actual": "2026-11-24T00:40:00Z"
+  },
+  "SU 644|2026-11-24T00:50:00Z": {
+   "number": "SU 644",
+   "airline": "Aeroflot",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T00:50:00Z",
+   "actual": "2026-11-24T00:50:00Z"
+  },
+  "FV 5701|2026-11-24T01:00:00Z": {
+   "number": "FV 5701",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T01:00:00Z",
+   "actual": "2026-11-24T01:00:00Z"
   }
  },
  "fetched": [
@@ -118,6 +168,7 @@
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

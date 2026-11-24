@@ -8,14 +8,25 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T22:45:00Z",
-   "actual": "2026-11-23T22:45:00Z"
+   "actual": "2026-11-23T23:08:00Z"
+  },
+  "S7 2602|2026-11-24T00:50:00Z": {
+   "number": "S7 2602",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T00:50:00Z",
+   "actual": "2026-11-24T00:50:00Z"
   }
  },
  "fetched": [
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

@@ -28,15 +28,26 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T23:00:00Z",
-   "actual": "2026-11-23T23:00:00Z"
+   "actual": "2026-11-23T23:10:00Z"
+  },
+  "WZ 5038|2026-11-24T00:25:00Z": {
+   "number": "WZ 5038",
+   "airline": "Red Wings",
+   "to": "NOZ",
+   "to_name": "Novokuznetsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T00:25:00Z",
+   "actual": "2026-11-24T00:25:00Z"
   }
  },
  "fetched": [
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

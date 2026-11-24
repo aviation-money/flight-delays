@@ -8,9 +8,9 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-23T22:00:00Z",
-   "actual": "2026-11-23T22:00:00Z"
+   "actual": "2026-11-23T22:07:00Z"
   },
   "DP 6846|2026-11-23T22:05:00Z": {
    "number": "DP 6846",
@@ -28,9 +28,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T22:10:00Z",
-   "actual": "2026-11-23T22:10:00Z"
+   "actual": "2026-11-23T22:55:00Z"
   },
   "RT 547|2026-11-23T22:20:00Z": {
    "number": "RT 547",
@@ -38,12 +38,43 @@
    "to": "TOF",
    "to_name": "Tomsk",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-23T22:20:00Z",
-   "actual": "2026-11-23T22:50:00Z"
+   "actual": "2026-11-23T22:47:00Z"
+  },
+  "DP 6846|2026-11-23T22:35:00Z": {
+   "number": "DP 6846",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800(sv)",
+   "status": "Departed",
+   "scheduled": "2026-11-23T22:35:00Z",
+   "actual": "2026-11-23T22:30:00Z"
+  },
+  "NE 659|2026-11-24T00:20:00Z": {
+   "number": "NE 659",
+   "airline": "Nesma",
+   "to": "Sharm El Sheikh",
+   "to_name": "Sharm El Sheikh",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T00:20:00Z",
+   "actual": "2026-11-24T00:20:00Z"
+  },
+  "N4 1515|2026-11-23T21:45:00Z": {
+   "number": "N4 1515",
+   "airline": "Nordwind",
+   "to": "NQZ",
+   "to_name": "Astana",
+   "model": "Boeing 737-900",
+   "status": "Boarding",
+   "scheduled": "2026-11-23T21:45:00Z",
+   "actual": "2026-11-24T00:35:00Z"
   }
  },
  "fetched": [
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

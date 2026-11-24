@@ -18,9 +18,9 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T21:30:00Z",
-   "actual": "2026-11-23T21:45:00Z"
+   "actual": "2026-11-23T22:00:00Z"
   },
   "PTK 107|2026-11-23T22:00:00Z": {
    "number": "PTK 107",
@@ -28,9 +28,29 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "An-26",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-23T22:00:00Z",
-   "actual": "2026-11-23T22:00:00Z"
+   "actual": "2026-11-23T22:43:00Z"
+  },
+  "S7 5250|2026-11-23T23:30:00Z": {
+   "number": "S7 5250",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T23:30:00Z",
+   "actual": "2026-11-23T23:41:00Z"
+  },
+  "PTK 251|2026-11-23T23:15:00Z": {
+   "number": "PTK 251",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Yak 40",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T23:15:00Z",
+   "actual": "2026-11-24T01:00:00Z"
   }
  },
  "fetched": [
@@ -39,6 +59,7 @@
   "2026-11-23T16:07:29Z",
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

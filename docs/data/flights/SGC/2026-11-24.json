@@ -4,13 +4,13 @@
  "flights": {
   "RT 334|2026-11-23T19:40:00Z": {
    "number": "RT 334",
-   "airline": "UVT Aero",
+   "airline": "Yuvtaero",
    "to": "UUA",
    "to_name": "Bugulma",
    "model": "Bombardier CRJ200",
    "status": "Expected",
    "scheduled": "2026-11-23T19:40:00Z",
-   "actual": "2026-11-23T19:40:00Z"
+   "actual": "2026-11-24T00:10:00Z"
   },
   "UT 409|2026-11-23T22:10:00Z": {
    "number": "UT 409",
@@ -21,10 +21,51 @@
    "status": "Expected",
    "scheduled": "2026-11-23T22:10:00Z",
    "actual": "2026-11-23T22:10:00Z"
+  },
+  "АЬ 776|2026-11-23T23:15:00Z": {
+   "number": "АЬ 776",
+   "airline": "Ikar",
+   "to": "Kazan Osnovnoy",
+   "to_name": "Kazan Osnovnoy",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T23:15:00Z",
+   "actual": "2026-11-23T23:15:00Z"
+  },
+  "DP 502|2026-11-24T00:05:00Z": {
+   "number": "DP 502",
+   "airline": "Pobeda",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T00:05:00Z",
+   "actual": "2026-11-24T00:05:00Z"
+  },
+  "FV 6442|2026-11-24T00:10:00Z": {
+   "number": "FV 6442",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T00:10:00Z",
+   "actual": "2026-11-24T00:10:00Z"
+  },
+  "SU 1511|2026-11-23T23:30:00Z": {
+   "number": "SU 1511",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-23T23:30:00Z",
+   "actual": "2026-11-24T00:40:00Z"
   }
  },
  "fetched": [
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

@@ -11,10 +11,31 @@
    "status": "Departed",
    "scheduled": "2026-11-23T21:50:00Z",
    "actual": "2026-11-23T21:50:00Z"
+  },
+  "DP 570|2026-11-24T00:20:00Z": {
+   "number": "DP 570",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-24T00:20:00Z",
+   "actual": "2026-11-24T00:20:00Z"
+  },
+  "UJ 652|2026-11-23T20:30:00Z": {
+   "number": "UJ 652",
+   "airline": "Al Masriya Yuniversal Airlaynz",
+   "to": "Sharm el Sheikh",
+   "to_name": "Sharm el Sheikh",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-23T20:30:00Z",
+   "actual": "2026-11-24T00:45:00Z"
   }
  },
  "fetched": [
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

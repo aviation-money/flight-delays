@@ -1,8 +1,30 @@
 {
  "airport": "ZIA",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "SZ 376|2026-11-23T23:50:00Z": {
+   "number": "SZ 376",
+   "airline": "Somon Air",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T23:50:00Z",
+   "actual": "2026-11-23T23:45:00Z"
+  },
+  "SZ 332|2026-11-24T00:50:00Z": {
+   "number": "SZ 332",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T00:50:00Z",
+   "actual": "2026-11-24T00:50:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

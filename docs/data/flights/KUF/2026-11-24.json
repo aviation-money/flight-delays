@@ -27,14 +27,25 @@
    "airline": "UTAir",
    "to": "SGC",
    "to_name": "Surgut",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-500 (winglets)",
    "status": "Departed",
    "scheduled": "2026-11-23T21:35:00Z",
    "actual": "2026-11-23T21:54:00Z"
+  },
+  "0E 9161|2026-11-24T00:15:00Z": {
+   "number": "0E 9161",
+   "airline": "Aircompany North-West",
+   "to": "Sabetta",
+   "to_name": "Sabetta",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T00:15:00Z",
+   "actual": "2026-11-24T00:15:00Z"
   }
  },
  "fetched": [
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

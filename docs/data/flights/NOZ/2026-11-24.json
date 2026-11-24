@@ -21,11 +21,32 @@
    "status": "Departed",
    "scheduled": "2026-11-23T21:10:00Z",
    "actual": "2026-11-23T21:07:00Z"
+  },
+  "N4 322|2026-11-23T23:15:00Z": {
+   "number": "N4 322",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-23T23:15:00Z",
+   "actual": "2026-11-23T23:23:00Z"
+  },
+  "SU 1459|2026-11-24T01:05:00Z": {
+   "number": "SU 1459",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T01:05:00Z",
+   "actual": "2026-11-24T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-23T18:07:28Z",
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }

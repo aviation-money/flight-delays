@@ -21,10 +21,31 @@
    "status": "Unknown",
    "scheduled": "2026-11-23T22:35:00Z",
    "actual": null
+  },
+  "FV 6452|2026-11-24T00:45:00Z": {
+   "number": "FV 6452",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T00:45:00Z",
+   "actual": "2026-11-24T00:45:00Z"
+  },
+  "UT 125|2026-11-24T01:05:00Z": {
+   "number": "UT 125",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T01:05:00Z",
+   "actual": "2026-11-24T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-23T20:07:29Z",
-  "2026-11-23T22:07:25Z"
+  "2026-11-23T22:07:25Z",
+  "2026-11-24T00:07:28Z"
  ]
 }
