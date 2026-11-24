@@ -78,9 +78,59 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T07:40:00Z",
-   "actual": "2026-11-24T09:00:00Z"
+   "actual": "2026-11-24T08:55:00Z"
+  },
+  "ЛЩ 9673|2026-11-24T08:00:00Z": {
+   "number": "ЛЩ 9673",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-1",
+   "to_name": "Filanovskogo-1",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-24T08:00:00Z",
+   "actual": "2026-11-24T08:00:00Z"
+  },
+  "ЛЩ 9677|2026-11-24T09:25:00Z": {
+   "number": "ЛЩ 9677",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-1",
+   "to_name": "Filanovskogo-1",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-24T09:25:00Z",
+   "actual": "2026-11-24T09:27:00Z"
+  },
+  "SU 1679|2026-11-24T09:40:00Z": {
+   "number": "SU 1679",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-24T09:40:00Z",
+   "actual": "2026-11-24T09:44:00Z"
+  },
+  "ЛЩ 9679|2026-11-24T10:30:00Z": {
+   "number": "ЛЩ 9679",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-1",
+   "to_name": "Filanovskogo-1",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-24T10:30:00Z",
+   "actual": "2026-11-24T10:30:00Z"
+  },
+  "ЛЩ 9651|2026-11-24T11:00:00Z": {
+   "number": "ЛЩ 9651",
+   "airline": "Mars Avia",
+   "to": "Korchagina-MLSP",
+   "to_name": "Korchagina-MLSP",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T11:00:00Z",
+   "actual": "2026-11-24T11:00:00Z"
   }
  },
  "fetched": [
@@ -90,6 +140,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

@@ -228,9 +228,9 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus Industrie А320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:30:00Z",
-   "actual": "2026-11-24T08:30:00Z"
+   "actual": "2026-11-24T08:37:00Z"
   },
   "HZ 5601|2026-11-24T09:00:00Z": {
    "number": "HZ 5601",
@@ -248,9 +248,49 @@
    "to": "YKS",
    "to_name": "Yakutsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T09:05:00Z",
-   "actual": "2026-11-24T09:05:00Z"
+   "actual": "2026-11-24T09:23:00Z"
+  },
+  "HZ 5642|2026-11-24T09:25:00Z": {
+   "number": "HZ 5642",
+   "airline": "Aurora",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T09:25:00Z",
+   "actual": "2026-11-24T09:25:00Z"
+  },
+  "EU 2926|2026-11-24T09:15:00Z": {
+   "number": "EU 2926",
+   "airline": "Chengdu",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": "Comac C909/ARJ21-700",
+   "status": "Departed",
+   "scheduled": "2026-11-24T09:15:00Z",
+   "actual": "2026-11-24T09:28:00Z"
+  },
+  "HZ 5624|2026-11-24T10:00:00Z": {
+   "number": "HZ 5624",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T10:00:00Z",
+   "actual": "2026-11-24T10:00:00Z"
+  },
+  "HZ 5640|2026-11-24T10:40:00Z": {
+   "number": "HZ 5640",
+   "airline": "Aurora",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T10:40:00Z",
+   "actual": "2026-11-24T10:40:00Z"
   }
  },
  "fetched": [
@@ -263,6 +303,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

@@ -208,9 +208,9 @@
    "to": "Igrim",
    "to_name": "Igrim",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:15:00Z",
-   "actual": "2026-11-24T08:00:00Z"
+   "actual": "2026-11-24T09:05:00Z"
   },
   "4G 452|2026-11-24T07:35:00Z": {
    "number": "4G 452",
@@ -218,9 +218,9 @@
    "to": "Ufa",
    "to_name": "Ufa",
    "model": null,
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-24T07:35:00Z",
-   "actual": "2026-11-24T08:20:00Z"
+   "actual": "2026-11-24T09:00:00Z"
   },
   "SU 1505|2026-11-24T08:25:00Z": {
    "number": "SU 1505",
@@ -228,9 +228,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:25:00Z",
-   "actual": "2026-11-24T08:25:00Z"
+   "actual": "2026-11-24T08:33:00Z"
   },
   "S7 6438|2026-11-24T08:30:00Z": {
    "number": "S7 6438",
@@ -238,9 +238,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:30:00Z",
-   "actual": "2026-11-24T08:30:00Z"
+   "actual": "2026-11-24T08:50:00Z"
   }
  },
  "fetched": [
@@ -250,6 +250,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

@@ -298,9 +298,19 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:05:00Z",
    "actual": "2026-11-24T08:05:00Z"
+  },
+  "A4 9127|2026-11-24T10:10:00Z": {
+   "number": "A4 9127",
+   "airline": "Azimuth",
+   "to": "Neryungri",
+   "to_name": "Neryungri",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Delayed",
+   "scheduled": "2026-11-24T10:10:00Z",
+   "actual": "2026-11-24T11:00:00Z"
   }
  },
  "fetched": [
@@ -311,6 +321,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

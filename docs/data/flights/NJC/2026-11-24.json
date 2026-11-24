@@ -48,7 +48,7 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T05:50:00Z",
    "actual": null
   },
@@ -58,7 +58,7 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Bombardier CRJ200",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T07:05:00Z",
    "actual": null
   }
@@ -70,6 +70,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

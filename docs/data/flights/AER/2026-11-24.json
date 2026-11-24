@@ -88,19 +88,79 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T07:20:00Z",
-   "actual": "2026-11-24T07:50:00Z"
+   "actual": "2026-11-24T08:13:00Z"
   },
   "A4 5069|2026-11-24T05:30:00Z": {
    "number": "A4 5069",
    "airline": "Azimuth",
-   "to": "IST",
+   "to": "Istanbul",
    "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T05:30:00Z",
-   "actual": "2026-11-24T08:30:00Z"
+   "actual": "2026-11-24T08:28:00Z"
+  },
+  "FV 6643|2026-11-24T05:10:00Z": {
+   "number": "FV 6643",
+   "airline": "Rossiya",
+   "to": "GOJ",
+   "to_name": "Nizhniy Novgorod",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T05:10:00Z",
+   "actual": "2026-11-24T09:12:00Z"
+  },
+  "SU 1123|2026-11-24T09:41:00Z": {
+   "number": "SU 1123",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T09:41:00Z",
+   "actual": "2026-11-24T09:41:00Z"
+  },
+  "FV 6729|2026-11-24T10:00:00Z": {
+   "number": "FV 6729",
+   "airline": "Rossiya",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T10:00:00Z",
+   "actual": "2026-11-24T10:00:00Z"
+  },
+  "SU 1137|2026-11-24T10:20:00Z": {
+   "number": "SU 1137",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T10:20:00Z",
+   "actual": "2026-11-24T10:20:00Z"
+  },
+  "S7 5104|2026-11-24T10:10:00Z": {
+   "number": "S7 5104",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T10:10:00Z",
+   "actual": "2026-11-24T10:20:00Z"
+  },
+  "DP 331|2026-11-24T11:00:00Z": {
+   "number": "DP 331",
+   "airline": "Pobeda",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T11:00:00Z",
+   "actual": "2026-11-24T11:00:00Z"
   }
  },
  "fetched": [
@@ -109,6 +169,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

@@ -88,9 +88,19 @@
    "to": "KCY",
    "to_name": "Krasnoyarsk",
    "model": "ATR 42-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T06:25:00Z",
-   "actual": "2026-11-24T06:25:00Z"
+   "actual": "2026-11-24T09:45:00Z"
+  },
+  "WZ 5004|2026-11-24T07:10:00Z": {
+   "number": "WZ 5004",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T07:10:00Z",
+   "actual": "2026-11-24T10:00:00Z"
   }
  },
  "fetched": [
@@ -101,6 +111,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

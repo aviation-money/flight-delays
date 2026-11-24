@@ -178,9 +178,29 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:25:00Z",
-   "actual": "2026-11-24T08:25:00Z"
+   "actual": "2026-11-24T08:31:00Z"
+  },
+  "UT 709|2026-11-24T09:45:00Z": {
+   "number": "UT 709",
+   "airline": "UTAir",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T09:45:00Z",
+   "actual": "2026-11-24T09:55:00Z"
+  },
+  "UT 6437|2026-11-24T10:10:00Z": {
+   "number": "UT 6437",
+   "airline": "UTAir",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-500",
+   "status": "Expected",
+   "scheduled": "2026-11-24T10:10:00Z",
+   "actual": "2026-11-24T10:10:00Z"
   }
  },
  "fetched": [
@@ -190,6 +210,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

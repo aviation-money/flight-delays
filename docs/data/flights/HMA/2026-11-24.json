@@ -78,9 +78,29 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:00:00Z",
-   "actual": "2026-11-24T08:00:00Z"
+   "actual": "2026-11-24T08:27:00Z"
+  },
+  "NF 8924|2026-11-24T08:00:00Z": {
+   "number": "NF 8924",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "Departed",
+   "scheduled": "2026-11-24T08:00:00Z",
+   "actual": "2026-11-24T08:04:00Z"
+  },
+  "WZ 4540|2026-11-24T10:40:00Z": {
+   "number": "WZ 4540",
+   "airline": "Red Wings",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-24T10:40:00Z",
+   "actual": "2026-11-24T10:40:00Z"
   }
  },
  "fetched": [
@@ -90,6 +110,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

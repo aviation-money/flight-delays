@@ -155,7 +155,7 @@
   "YK 884|2026-11-24T07:25:00Z": {
    "number": "YK 884",
    "airline": "Avia Traffic Company",
-   "to": "BSZ",
+   "to": "Bishkek",
    "to_name": "Bishkek",
    "model": "Airbus A320-200",
    "status": "CheckIn",
@@ -168,9 +168,9 @@
    "to": "OSS",
    "to_name": "Osh",
    "model": "Boeing 737-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T07:45:00Z",
-   "actual": "2026-11-24T07:45:00Z"
+   "actual": "2026-11-24T08:36:00Z"
   },
   "U6 1387|2026-11-24T07:15:00Z": {
    "number": "U6 1387",
@@ -188,9 +188,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Airbus A320-200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:00:00Z",
-   "actual": "2026-11-24T08:00:00Z"
+   "actual": "2026-11-24T08:39:00Z"
   },
   "MS 728|2026-11-24T08:00:00Z": {
    "number": "MS 728",
@@ -208,9 +208,9 @@
    "to": "VOG",
    "to_name": "Volgograd",
    "model": "Airbus A320-200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:05:00Z",
-   "actual": "2026-11-24T08:05:00Z"
+   "actual": "2026-11-24T08:37:00Z"
   },
   "S7 2505|2026-11-24T08:15:00Z": {
    "number": "S7 2505",
@@ -218,9 +218,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:15:00Z",
-   "actual": "2026-11-24T08:15:00Z"
+   "actual": "2026-11-24T09:31:00Z"
   },
   "HY 604|2026-11-24T08:20:00Z": {
    "number": "HY 604",
@@ -228,9 +228,9 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Boeing 767-300",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:20:00Z",
-   "actual": "2026-11-24T08:20:00Z"
+   "actual": "2026-11-24T09:33:00Z"
   },
   "S7 3021|2026-11-24T09:05:00Z": {
    "number": "S7 3021",
@@ -238,9 +238,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T09:05:00Z",
-   "actual": "2026-11-24T09:05:00Z"
+   "actual": "2026-11-24T09:44:00Z"
   },
   "S7 2153|2026-11-24T09:05:00Z": {
    "number": "S7 2153",
@@ -248,9 +248,79 @@
    "to": "OGZ",
    "to_name": "Vladikavkaz",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T09:05:00Z",
-   "actual": "2026-11-24T09:05:00Z"
+   "actual": "2026-11-24T09:42:00Z"
+  },
+  "B2 958|2026-11-24T09:20:00Z": {
+   "number": "B2 958",
+   "airline": "Belavia",
+   "to": "MSQ",
+   "to_name": "Minsk",
+   "model": "Boeing 737-300",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T09:20:00Z",
+   "actual": "2026-11-24T09:20:00Z"
+  },
+  "S7 2501|2026-11-24T09:35:00Z": {
+   "number": "S7 2501",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320-200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T09:35:00Z",
+   "actual": "2026-11-24T09:35:00Z"
+  },
+  "D2 253|2026-11-24T09:45:00Z": {
+   "number": "D2 253",
+   "airline": "Severstal Aircompany",
+   "to": "PES",
+   "to_name": "Petrozavodsk",
+   "model": "Bombardier CRJ200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T09:45:00Z",
+   "actual": "2026-11-24T09:45:00Z"
+  },
+  "Y7 404|2026-11-24T10:10:00Z": {
+   "number": "Y7 404",
+   "airline": "NordStar",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T10:10:00Z",
+   "actual": "2026-11-24T10:10:00Z"
+  },
+  "S7 2507|2026-11-24T10:40:00Z": {
+   "number": "S7 2507",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T10:40:00Z",
+   "actual": "2026-11-24T10:40:00Z"
+  },
+  "U6 299|2026-11-24T10:40:00Z": {
+   "number": "U6 299",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320-200",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T10:40:00Z",
+   "actual": "2026-11-24T10:40:00Z"
+  },
+  "S7 2167|2026-11-24T10:50:00Z": {
+   "number": "S7 2167",
+   "airline": "S7",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T10:50:00Z",
+   "actual": "2026-11-24T10:50:00Z"
   }
  },
  "fetched": [
@@ -259,6 +329,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

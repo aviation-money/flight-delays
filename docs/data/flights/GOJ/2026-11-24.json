@@ -28,9 +28,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T08:40:00Z",
-   "actual": "2026-11-24T08:40:00Z"
+   "actual": "2026-11-24T08:58:00Z"
   },
   "FV 6106|2026-11-24T09:00:00Z": {
    "number": "FV 6106",
@@ -38,9 +38,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T09:00:00Z",
-   "actual": "2026-11-24T09:00:00Z"
+   "actual": "2026-11-24T09:18:00Z"
   }
  },
  "fetched": [
@@ -49,6 +49,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }

@@ -78,9 +78,9 @@
    "to": "KKQ",
    "to_name": "Krasnoselkup",
    "model": "Mil Mi-8",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-24T07:00:00Z",
-   "actual": "2026-11-24T08:25:00Z"
+   "actual": "2026-11-24T08:48:00Z"
   },
   "4G 260|2026-11-24T07:50:00Z": {
    "number": "4G 260",
@@ -91,6 +91,16 @@
    "status": "Expected",
    "scheduled": "2026-11-24T07:50:00Z",
    "actual": "2026-11-24T07:50:00Z"
+  },
+  "YAL 41Д|2026-11-24T08:00:00Z": {
+   "number": "YAL 41Д",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "KKQ",
+   "to_name": "Krasnoselkup",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-24T08:00:00Z",
+   "actual": "2026-11-24T08:10:00Z"
   }
  },
  "fetched": [
@@ -100,6 +110,7 @@
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
-  "2026-11-24T08:07:24Z"
+  "2026-11-24T08:07:24Z",
+  "2026-11-24T10:07:35Z"
  ]
 }
