@@ -40,7 +40,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-24T19:50:00Z",
-   "actual": "2026-11-24T20:45:00Z"
+   "actual": "2026-11-24T21:37:00Z"
   },
   "S7 6241|2026-11-24T20:50:00Z": {
    "number": "S7 6241",
@@ -50,7 +50,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-24T20:50:00Z",
-   "actual": "2026-11-24T20:50:00Z"
+   "actual": "2026-11-24T21:05:00Z"
   },
   "FV 2461|2026-11-24T21:05:00Z": {
    "number": "FV 2461",
@@ -60,13 +60,64 @@
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-24T21:05:00Z",
-   "actual": "2026-11-24T21:05:00Z"
+   "actual": "2026-11-24T21:32:00Z"
+  },
+  "HZ 5614|2026-11-24T21:10:00Z": {
+   "number": "HZ 5614",
+   "airline": "Aurora",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T21:10:00Z",
+   "actual": "2026-11-24T21:29:00Z"
+  },
+  "S7 6404|2026-11-24T21:45:00Z": {
+   "number": "S7 6404",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T21:45:00Z",
+   "actual": "2026-11-24T21:47:00Z"
+  },
+  "HZ 5600|2026-11-24T22:00:00Z": {
+   "number": "HZ 5600",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T22:00:00Z",
+   "actual": "2026-11-24T22:00:00Z"
+  },
+  "U6 572|2026-11-24T22:20:00Z": {
+   "number": "U6 572",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T22:20:00Z",
+   "actual": "2026-11-24T22:20:00Z"
+  },
+  "S7 5204|2026-11-24T22:50:00Z": {
+   "number": "S7 5204",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T22:50:00Z",
+   "actual": "2026-11-24T22:50:00Z"
   }
  },
  "fetched": [
   "2026-11-24T14:07:26Z",
   "2026-11-24T16:07:28Z",
   "2026-11-24T18:07:36Z",
-  "2026-11-24T20:07:35Z"
+  "2026-11-24T20:07:35Z",
+  "2026-11-24T22:07:26Z"
  ]
 }

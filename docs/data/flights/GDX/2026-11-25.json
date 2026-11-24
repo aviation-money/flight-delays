@@ -8,15 +8,56 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T20:35:00Z",
-   "actual": "2026-11-24T20:35:00Z"
+   "actual": "2026-11-24T21:07:00Z"
+  },
+  "СЛ 1095|2026-11-24T22:00:00Z": {
+   "number": "СЛ 1095",
+   "airline": "Sila",
+   "to": "Susuman",
+   "to_name": "Susuman",
+   "model": "An-28",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T22:00:00Z",
+   "actual": "2026-11-24T22:00:00Z"
+  },
+  "PTK 9449|2026-11-24T22:30:00Z": {
+   "number": "PTK 9449",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "Keperveem",
+   "to_name": "Keperveem",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T22:30:00Z",
+   "actual": "2026-11-24T22:30:00Z"
+  },
+  "IO 133|2026-11-24T23:00:00Z": {
+   "number": "IO 133",
+   "airline": "IrAero",
+   "to": "KPW",
+   "to_name": "Keperveem",
+   "model": "An-24",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T23:00:00Z",
+   "actual": "2026-11-24T23:00:00Z"
+  },
+  "IO 133В|2026-11-24T23:00:00Z": {
+   "number": "IO 133В",
+   "airline": "IrAero",
+   "to": "Keperveem",
+   "to_name": "Keperveem",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T23:00:00Z",
+   "actual": "2026-11-24T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T14:07:26Z",
   "2026-11-24T16:07:28Z",
   "2026-11-24T18:07:36Z",
-  "2026-11-24T20:07:35Z"
+  "2026-11-24T20:07:35Z",
+  "2026-11-24T22:07:26Z"
  ]
 }

@@ -1,10 +1,42 @@
 {
  "airport": "UUD",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "S7 6430|2026-11-24T21:40:00Z": {
+   "number": "S7 6430",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T21:40:00Z",
+   "actual": "2026-11-24T21:40:00Z"
+  },
+  "S7 5256|2026-11-24T21:15:00Z": {
+   "number": "S7 5256",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-24T21:15:00Z",
+   "actual": "2026-11-24T21:45:00Z"
+  },
+  "S7 3032|2026-11-24T23:00:00Z": {
+   "number": "S7 3032",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T23:00:00Z",
+   "actual": "2026-11-24T23:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-24T16:07:28Z",
   "2026-11-24T18:07:36Z",
-  "2026-11-24T20:07:35Z"
+  "2026-11-24T20:07:35Z",
+  "2026-11-24T22:07:26Z"
  ]
 }

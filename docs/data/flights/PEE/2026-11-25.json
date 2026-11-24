@@ -1,8 +1,20 @@
 {
  "airport": "PEE",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "C6 482|2026-11-24T21:15:00Z": {
+   "number": "C6 482",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-24T21:15:00Z",
+   "actual": "2026-11-24T21:15:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-24T20:07:35Z"
+  "2026-11-24T20:07:35Z",
+  "2026-11-24T22:07:26Z"
  ]
 }

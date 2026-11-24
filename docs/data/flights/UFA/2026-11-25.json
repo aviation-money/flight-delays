@@ -8,12 +8,33 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737 MAX 8",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T20:05:00Z",
-   "actual": "2026-11-24T20:05:00Z"
+   "actual": "2026-11-24T20:52:00Z"
+  },
+  "Y7 912|2026-11-24T22:15:00Z": {
+   "number": "Y7 912",
+   "airline": "NordStar",
+   "to": "NSK",
+   "to_name": "Norilsk",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T22:15:00Z",
+   "actual": "2026-11-24T22:15:00Z"
+  },
+  "KV 9411|2026-11-24T23:05:00Z": {
+   "number": "KV 9411",
+   "airline": "KrasAvia",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Yak 42",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T23:05:00Z",
+   "actual": "2026-11-24T23:05:00Z"
   }
  },
  "fetched": [
-  "2026-11-24T20:07:35Z"
+  "2026-11-24T20:07:35Z",
+  "2026-11-24T22:07:26Z"
  ]
 }

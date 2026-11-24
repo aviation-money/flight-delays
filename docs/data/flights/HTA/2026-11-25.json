@@ -18,14 +18,35 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T20:45:00Z",
-   "actual": "2026-11-24T21:00:00Z"
+   "actual": "2026-11-24T21:07:00Z"
+  },
+  "IO 105|2026-11-24T22:00:00Z": {
+   "number": "IO 105",
+   "airline": "IrAero",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T22:00:00Z",
+   "actual": "2026-11-24T22:00:00Z"
+  },
+  "U6 623|2026-11-24T23:00:00Z": {
+   "number": "U6 623",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T23:00:00Z",
+   "actual": "2026-11-24T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T16:07:28Z",
   "2026-11-24T18:07:36Z",
-  "2026-11-24T20:07:35Z"
+  "2026-11-24T20:07:35Z",
+  "2026-11-24T22:07:26Z"
  ]
 }

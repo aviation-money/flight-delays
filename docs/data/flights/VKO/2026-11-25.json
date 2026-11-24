@@ -1,0 +1,139 @@
+{
+ "airport": "VKO",
+ "date": "2026-11-25",
+ "flights": {
+  "TK 410|2026-11-24T21:35:00Z": {
+   "number": "TK 410",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T21:35:00Z",
+   "actual": "2026-11-24T21:55:00Z"
+  },
+  "HY 606|2026-11-24T22:00:00Z": {
+   "number": "HY 606",
+   "airline": "Uzbekistan",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-24T22:00:00Z",
+   "actual": "2026-11-24T22:00:00Z"
+  },
+  "J2 810|2026-11-24T21:55:00Z": {
+   "number": "J2 810",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T21:55:00Z",
+   "actual": "2026-11-24T22:05:00Z"
+  },
+  "DP 1435|2026-11-24T21:15:00Z": {
+   "number": "DP 1435",
+   "airline": "Pobeda",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T21:15:00Z",
+   "actual": "2026-11-24T22:05:00Z"
+  },
+  "DV 3415|2026-11-24T22:30:00Z": {
+   "number": "DV 3415",
+   "airline": "SCAT",
+   "to": "ALA",
+   "to_name": "Almaty",
+   "model": "Boeing 737 MAX 9",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T22:30:00Z",
+   "actual": "2026-11-24T22:30:00Z"
+  },
+  "DP 6567|2026-11-24T21:05:00Z": {
+   "number": "DP 6567",
+   "airline": "Pobeda",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T21:05:00Z",
+   "actual": "2026-11-24T22:30:00Z"
+  },
+  "UT 571B|2026-11-24T23:00:00Z": {
+   "number": "UT 571B",
+   "airline": "UTAir",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T23:00:00Z",
+   "actual": "2026-11-24T23:00:00Z"
+  },
+  "FZ 952|2026-11-24T21:25:00Z": {
+   "number": "FZ 952",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T21:25:00Z",
+   "actual": "2026-11-24T23:00:00Z"
+  },
+  "UT 399B|2026-11-24T23:00:00Z": {
+   "number": "UT 399B",
+   "airline": "UTAir",
+   "to": "GRV",
+   "to_name": "Grozny",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T23:00:00Z",
+   "actual": "2026-11-24T23:00:00Z"
+  },
+  "UT 453B|2026-11-24T22:00:00Z": {
+   "number": "UT 453B",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T22:00:00Z",
+   "actual": "2026-11-24T23:00:00Z"
+  },
+  "UT 355|2026-11-24T22:10:00Z": {
+   "number": "UT 355",
+   "airline": "UTAir",
+   "to": "GRV",
+   "to_name": "Grozny",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T22:10:00Z",
+   "actual": "2026-11-24T23:00:00Z"
+  },
+  "UT 559B|2026-11-24T23:00:00Z": {
+   "number": "UT 559B",
+   "airline": "UTAir",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T23:00:00Z",
+   "actual": "2026-11-24T23:00:00Z"
+  },
+  "TK 412|2026-11-24T23:05:00Z": {
+   "number": "TK 412",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 777-300ER",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T23:05:00Z",
+   "actual": "2026-11-24T23:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-24T22:07:26Z"
+ ]
+}

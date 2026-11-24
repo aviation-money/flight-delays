@@ -1,0 +1,19 @@
+{
+ "airport": "MRV",
+ "date": "2026-11-25",
+ "flights": {
+  "A4 6023|2026-11-24T22:10:00Z": {
+   "number": "A4 6023",
+   "airline": "Azimuth",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T22:10:00Z",
+   "actual": "2026-11-24T22:10:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-24T22:07:26Z"
+ ]
+}

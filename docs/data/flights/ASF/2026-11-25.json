@@ -1,8 +1,20 @@
 {
  "airport": "ASF",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "DP 1192|2026-11-24T23:00:00Z": {
+   "number": "DP 1192",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T23:00:00Z",
+   "actual": "2026-11-24T23:00:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-24T20:07:35Z"
+  "2026-11-24T20:07:35Z",
+  "2026-11-24T22:07:26Z"
  ]
 }

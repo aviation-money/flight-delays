@@ -1,0 +1,39 @@
+{
+ "airport": "KZN",
+ "date": "2026-11-25",
+ "flights": {
+  "2S 24|2026-11-24T21:05:00Z": {
+   "number": "2S 24",
+   "airline": "Southwind",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T21:05:00Z",
+   "actual": "2026-11-24T21:35:00Z"
+  },
+  "EO 759|2026-11-24T22:00:00Z": {
+   "number": "EO 759",
+   "airline": "Pegas Fly",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Embraer 190",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T22:00:00Z",
+   "actual": "2026-11-24T22:00:00Z"
+  },
+  "FZ 974|2026-11-24T22:10:00Z": {
+   "number": "FZ 974",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T22:10:00Z",
+   "actual": "2026-11-24T22:10:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-24T22:07:26Z"
+ ]
+}
