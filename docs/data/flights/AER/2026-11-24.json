@@ -35,7 +35,7 @@
   "DP 6946|2026-11-24T05:06:00Z": {
    "number": "DP 6946",
    "airline": "Pobeda",
-   "to": "Moscow",
+   "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Departed",
@@ -48,9 +48,9 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T05:35:00Z",
-   "actual": "2026-11-24T06:00:00Z"
+   "actual": "2026-11-24T05:58:00Z"
   },
   "HY 9826|2026-11-24T06:00:00Z": {
    "number": "HY 9826",
@@ -58,7 +58,7 @@
    "to": "NMA",
    "to_name": "Namangan",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T06:00:00Z",
    "actual": "2026-11-24T06:10:00Z"
   },
@@ -71,6 +71,36 @@
    "status": "Expected",
    "scheduled": "2026-11-24T06:30:00Z",
    "actual": "2026-11-24T06:30:00Z"
+  },
+  "DP 112|2026-11-24T06:29:00Z": {
+   "number": "DP 112",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T06:29:00Z",
+   "actual": "2026-11-24T06:29:00Z"
+  },
+  "UT 514|2026-11-24T07:20:00Z": {
+   "number": "UT 514",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T07:20:00Z",
+   "actual": "2026-11-24T07:50:00Z"
+  },
+  "A4 5069|2026-11-24T05:30:00Z": {
+   "number": "A4 5069",
+   "airline": "Azimuth",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T05:30:00Z",
+   "actual": "2026-11-24T08:30:00Z"
   }
  },
  "fetched": [
@@ -78,6 +108,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

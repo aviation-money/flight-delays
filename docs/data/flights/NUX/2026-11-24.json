@@ -38,9 +38,9 @@
    "to": "WNR",
    "to_name": "Novyy Urengoy",
    "model": null,
-   "status": "Delayed",
+   "status": "Canceled",
    "scheduled": "2026-11-24T05:00:00Z",
-   "actual": "2026-11-24T06:00:00Z"
+   "actual": "2026-11-24T05:00:00Z"
   },
   "YAL 41|2026-11-24T04:00:00Z": {
    "number": "YAL 41",
@@ -78,9 +78,19 @@
    "to": "KKQ",
    "to_name": "Krasnoselkup",
    "model": "Mil Mi-8",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-24T07:00:00Z",
-   "actual": "2026-11-24T07:00:00Z"
+   "actual": "2026-11-24T08:25:00Z"
+  },
+  "4G 260|2026-11-24T07:50:00Z": {
+   "number": "4G 260",
+   "airline": "Gazpromavia",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T07:50:00Z",
+   "actual": "2026-11-24T07:50:00Z"
   }
  },
  "fetched": [
@@ -89,6 +99,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

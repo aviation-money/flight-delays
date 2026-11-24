@@ -221,6 +221,36 @@
    "status": "Departed",
    "scheduled": "2026-11-24T05:10:00Z",
    "actual": "2026-11-24T05:20:00Z"
+  },
+  "S7 6513|2026-11-24T08:30:00Z": {
+   "number": "S7 6513",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus Industrie А320",
+   "status": "Expected",
+   "scheduled": "2026-11-24T08:30:00Z",
+   "actual": "2026-11-24T08:30:00Z"
+  },
+  "HZ 5601|2026-11-24T09:00:00Z": {
+   "number": "HZ 5601",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T09:00:00Z",
+   "actual": "2026-11-24T09:00:00Z"
+  },
+  "R3 296|2026-11-24T09:05:00Z": {
+   "number": "R3 296",
+   "airline": "Yakutia",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T09:05:00Z",
+   "actual": "2026-11-24T09:05:00Z"
   }
  },
  "fetched": [
@@ -232,6 +262,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

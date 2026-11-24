@@ -18,9 +18,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "SSJ 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T06:15:00Z",
    "actual": "2026-11-24T06:15:00Z"
+  },
+  "FV 6588|2026-11-24T07:35:00Z": {
+   "number": "FV 6588",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "SSJ 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-24T07:35:00Z",
+   "actual": "2026-11-24T07:35:00Z"
   }
  },
  "fetched": [
@@ -28,6 +38,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

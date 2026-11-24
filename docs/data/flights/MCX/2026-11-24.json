@@ -28,7 +28,7 @@
    "to": "BHK",
    "to_name": "Bukhara",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:30:00Z",
    "actual": null
   },
@@ -51,6 +51,26 @@
    "status": "Expected",
    "scheduled": "2026-11-24T07:00:00Z",
    "actual": null
+  },
+  "DP 192|2026-11-24T07:40:00Z": {
+   "number": "DP 192",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T07:40:00Z",
+   "actual": null
+  },
+  "DP 761|2026-11-24T08:50:00Z": {
+   "number": "DP 761",
+   "airline": "Pobeda",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T08:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -58,6 +78,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

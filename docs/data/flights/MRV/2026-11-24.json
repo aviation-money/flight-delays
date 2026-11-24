@@ -65,12 +65,12 @@
   "A4 5048|2026-11-24T01:00:00Z": {
    "number": "A4 5048",
    "airline": "Azimuth",
-   "to": "Sochi",
+   "to": "AER",
    "to_name": "Sochi",
-   "model": null,
-   "status": "GateClosed",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
    "scheduled": "2026-11-24T01:00:00Z",
-   "actual": "2026-11-24T05:30:00Z"
+   "actual": "2026-11-24T06:10:00Z"
   },
   "A4 6217|2026-11-24T03:50:00Z": {
    "number": "A4 6217",
@@ -108,7 +108,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-24T06:45:00Z",
    "actual": "2026-11-24T06:45:00Z"
   },
@@ -118,8 +118,18 @@
    "to": "Sharm el Sheikh",
    "to_name": "Sharm el Sheikh",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-24T06:50:00Z",
+   "actual": "2026-11-24T06:50:00Z"
+  },
+  "A4 6071|2026-11-24T07:10:00Z": {
+   "number": "A4 6071",
+   "airline": "Azimuth",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T07:10:00Z",
    "actual": "2026-11-24T06:50:00Z"
   }
  },
@@ -128,6 +138,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

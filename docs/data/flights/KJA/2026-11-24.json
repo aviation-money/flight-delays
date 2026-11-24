@@ -245,7 +245,7 @@
   "FV 6795|2026-11-24T16:00:00Z": {
    "number": "FV 6795",
    "airline": "Rossiya",
-   "to": "BSZ",
+   "to": "Bishkek",
    "to_name": "Bishkek",
    "model": "Boeing 737-800",
    "status": "Departed",
@@ -258,7 +258,7 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T06:00:00Z",
    "actual": "2026-11-24T06:00:00Z"
   },
@@ -268,7 +268,7 @@
    "to": "Igarka",
    "to_name": "Igarka",
    "model": "An-74",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T06:05:00Z",
    "actual": "2026-11-24T06:05:00Z"
   },
@@ -278,9 +278,29 @@
    "to": "IAA",
    "to_name": "Igarka",
    "model": "Yak 42",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T06:20:00Z",
    "actual": "2026-11-24T06:20:00Z"
+  },
+  "S7 5308|2026-11-24T07:50:00Z": {
+   "number": "S7 5308",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-24T07:50:00Z",
+   "actual": "2026-11-24T07:50:00Z"
+  },
+  "FV 6841|2026-11-24T08:05:00Z": {
+   "number": "FV 6841",
+   "airline": "Rossiya",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-24T08:05:00Z",
+   "actual": "2026-11-24T08:05:00Z"
   }
  },
  "fetched": [
@@ -290,6 +310,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

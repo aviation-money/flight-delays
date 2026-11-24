@@ -1,12 +1,34 @@
 {
  "airport": "CSY",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "DP 6808|2026-11-24T07:10:00Z": {
+   "number": "DP 6808",
+   "airline": "Pobeda",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-24T07:10:00Z",
+   "actual": null
+  },
+  "S7 7062|2026-11-24T08:10:00Z": {
+   "number": "S7 7062",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-24T08:10:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

@@ -21,6 +21,26 @@
    "status": "Departed",
    "scheduled": "2026-11-24T04:00:00Z",
    "actual": "2026-11-24T04:15:00Z"
+  },
+  "D2 52|2026-11-24T08:00:00Z": {
+   "number": "D2 52",
+   "airline": "Severstal Aircompany",
+   "to": "ARH",
+   "to_name": "Arkhangelsk",
+   "model": "Bombardier CRJ200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T08:00:00Z",
+   "actual": "2026-11-24T08:00:00Z"
+  },
+  "SU 1319|2026-11-24T08:40:00Z": {
+   "number": "SU 1319",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T08:40:00Z",
+   "actual": "2026-11-24T08:40:00Z"
   }
  },
  "fetched": [
@@ -28,6 +48,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

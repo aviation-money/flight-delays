@@ -48,9 +48,39 @@
    "to": "Filanovskogo-1",
    "to_name": "Filanovskogo-1",
    "model": null,
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-24T06:30:00Z",
    "actual": "2026-11-24T06:30:00Z"
+  },
+  "ЛЩ 9675|2026-11-24T07:00:00Z": {
+   "number": "ЛЩ 9675",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-1",
+   "to_name": "Filanovskogo-1",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T07:00:00Z",
+   "actual": "2026-11-24T07:00:00Z"
+  },
+  "ЛЩ 9677|2026-11-24T08:00:00Z": {
+   "number": "ЛЩ 9677",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-1",
+   "to_name": "Filanovskogo-1",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-24T08:00:00Z",
+   "actual": "2026-11-24T08:00:00Z"
+  },
+  "DP 6962|2026-11-24T07:40:00Z": {
+   "number": "DP 6962",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T07:40:00Z",
+   "actual": "2026-11-24T09:00:00Z"
   }
  },
  "fetched": [
@@ -59,6 +89,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

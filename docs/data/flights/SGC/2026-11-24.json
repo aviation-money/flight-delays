@@ -150,17 +150,37 @@
    "model": "Embraer 170",
    "status": "Departed",
    "scheduled": "2026-11-24T03:55:00Z",
-   "actual": "2026-11-24T03:55:00Z"
+   "actual": "2026-11-24T04:00:00Z"
   },
   "UT 103|2026-11-24T04:20:00Z": {
    "number": "UT 103",
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737",
-   "status": "GateClosed",
+   "model": "Boeing 737-400",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:20:00Z",
-   "actual": "2026-11-24T04:20:00Z"
+   "actual": "2026-11-24T04:27:00Z"
+  },
+  "UT 153|2026-11-24T07:10:00Z": {
+   "number": "UT 153",
+   "airline": "UTAir",
+   "to": "Beloyarskiy",
+   "to_name": "Beloyarskiy",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-24T07:10:00Z",
+   "actual": "2026-11-24T07:13:00Z"
+  },
+  "UT 139|2026-11-24T08:25:00Z": {
+   "number": "UT 139",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T08:25:00Z",
+   "actual": "2026-11-24T08:25:00Z"
   }
  },
  "fetched": [
@@ -169,6 +189,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

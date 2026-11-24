@@ -228,7 +228,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T05:20:00Z",
    "actual": "2026-11-24T05:26:00Z"
   },
@@ -238,9 +238,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T06:35:00Z",
-   "actual": "2026-11-24T06:35:00Z"
+   "actual": "2026-11-24T06:36:00Z"
   },
   "CA 810|2026-11-24T06:45:00Z": {
    "number": "CA 810",
@@ -250,7 +250,27 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-24T06:45:00Z",
-   "actual": "2026-11-24T06:45:00Z"
+   "actual": "2026-11-24T06:47:00Z"
+  },
+  "S7 6207|2026-11-24T08:30:00Z": {
+   "number": "S7 6207",
+   "airline": "S7",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T08:30:00Z",
+   "actual": "2026-11-24T08:30:00Z"
+  },
+  "FV 2446|2026-11-24T08:55:00Z": {
+   "number": "FV 2446",
+   "airline": "Rossiya",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T08:55:00Z",
+   "actual": "2026-11-24T08:55:00Z"
   }
  },
  "fetched": [
@@ -262,6 +282,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

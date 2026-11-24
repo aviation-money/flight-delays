@@ -75,8 +75,8 @@
   "WZ 5060|2026-11-24T03:00:00Z": {
    "number": "WZ 5060",
    "airline": "Red Wings",
-   "to": "TOF",
-   "to_name": "Tomsk",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-24T03:00:00Z",
@@ -98,9 +98,19 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T06:35:00Z",
-   "actual": "2026-11-24T06:35:00Z"
+   "actual": "2026-11-24T06:57:00Z"
+  },
+  "FV 6798|2026-11-24T07:15:00Z": {
+   "number": "FV 6798",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-24T07:15:00Z",
+   "actual": "2026-11-24T07:20:00Z"
   }
  },
  "fetched": [
@@ -111,6 +121,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }

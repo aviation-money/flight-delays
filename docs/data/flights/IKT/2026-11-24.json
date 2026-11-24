@@ -308,7 +308,7 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:15:00Z",
    "actual": null
   },
@@ -338,7 +338,7 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T04:10:00Z",
    "actual": null
   },
@@ -421,6 +421,16 @@
    "status": "Expected",
    "scheduled": "2026-11-24T06:30:00Z",
    "actual": null
+  },
+  "S7 6321|2026-11-24T07:30:00Z": {
+   "number": "S7 6321",
+   "airline": "S7",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T07:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -431,6 +441,7 @@
   "2026-11-24T00:07:28Z",
   "2026-11-24T02:07:23Z",
   "2026-11-24T04:07:25Z",
-  "2026-11-24T06:07:26Z"
+  "2026-11-24T06:07:26Z",
+  "2026-11-24T08:07:24Z"
  ]
 }
