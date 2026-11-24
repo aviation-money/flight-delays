@@ -1,0 +1,19 @@
+{
+ "airport": "BAX",
+ "date": "2026-11-25",
+ "flights": {
+  "VJ 6861|2026-11-24T19:05:00Z": {
+   "number": "VJ 6861",
+   "airline": "VietJetAir",
+   "to": "Kamran",
+   "to_name": "Kamran",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T19:05:00Z",
+   "actual": "2026-11-24T19:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-24T18:07:36Z"
+ ]
+}

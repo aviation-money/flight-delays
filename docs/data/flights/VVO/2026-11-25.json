@@ -21,10 +21,21 @@
    "status": "Expected",
    "scheduled": "2026-11-24T15:50:00Z",
    "actual": "2026-11-24T15:50:00Z"
+  },
+  "SU 638|2026-11-24T18:55:00Z": {
+   "number": "SU 638",
+   "airline": "Aeroflot",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-24T18:55:00Z",
+   "actual": "2026-11-24T18:55:00Z"
   }
  },
  "fetched": [
   "2026-11-24T14:07:26Z",
-  "2026-11-24T16:07:28Z"
+  "2026-11-24T16:07:28Z",
+  "2026-11-24T18:07:36Z"
  ]
 }

@@ -308,9 +308,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T15:10:00Z",
-   "actual": "2026-11-24T15:30:00Z"
+   "actual": "2026-11-24T15:32:00Z"
   },
   "A4 1170|2026-11-24T15:10:00Z": {
    "number": "A4 1170",
@@ -328,9 +328,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T15:40:00Z",
-   "actual": "2026-11-24T15:40:00Z"
+   "actual": "2026-11-24T15:49:00Z"
   },
   "A4 6075|2026-11-24T15:40:00Z": {
    "number": "A4 6075",
@@ -348,9 +348,39 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T16:35:00Z",
-   "actual": "2026-11-24T16:35:00Z"
+   "actual": "2026-11-24T17:22:00Z"
+  },
+  "A4 6011|2026-11-24T17:10:00Z": {
+   "number": "A4 6011",
+   "airline": "Azimuth",
+   "to": "Makhachkala",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T17:10:00Z",
+   "actual": "2026-11-24T17:10:00Z"
+  },
+  "UJ 122|2026-11-24T18:00:00Z": {
+   "number": "UJ 122",
+   "airline": "Al Masria",
+   "to": "Sharm el Sheikh",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T18:00:00Z",
+   "actual": "2026-11-24T18:00:00Z"
+  },
+  "A4 6067|2026-11-24T18:40:00Z": {
+   "number": "A4 6067",
+   "airline": "Azimuth",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T18:40:00Z",
+   "actual": "2026-11-24T18:40:00Z"
   }
  },
  "fetched": [
@@ -363,6 +393,7 @@
   "2026-11-24T10:07:35Z",
   "2026-11-24T12:07:27Z",
   "2026-11-24T14:07:26Z",
-  "2026-11-24T16:07:28Z"
+  "2026-11-24T16:07:28Z",
+  "2026-11-24T18:07:36Z"
  ]
 }

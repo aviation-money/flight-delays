@@ -8,12 +8,13 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T16:20:00Z",
-   "actual": "2026-11-24T16:20:00Z"
+   "actual": "2026-11-24T16:23:00Z"
   }
  },
  "fetched": [
-  "2026-11-24T16:07:28Z"
+  "2026-11-24T16:07:28Z",
+  "2026-11-24T18:07:36Z"
  ]
 }

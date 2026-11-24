@@ -1,0 +1,19 @@
+{
+ "airport": "OMS",
+ "date": "2026-11-25",
+ "flights": {
+  "WZ 5072|2026-11-24T18:50:00Z": {
+   "number": "WZ 5072",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T18:50:00Z",
+   "actual": "2026-11-24T18:50:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-24T18:07:36Z"
+ ]
+}

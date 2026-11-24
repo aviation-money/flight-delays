@@ -168,14 +168,14 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T13:40:00Z",
    "actual": null
   },
   "N4 228|2026-11-24T15:00:00Z": {
    "number": "N4 228",
    "airline": "Nordwind",
-   "to": "LED",
+   "to": "Saint-Petersburg",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
    "status": "Unknown",
@@ -191,6 +191,16 @@
    "status": "Expected",
    "scheduled": "2026-11-24T15:20:00Z",
    "actual": null
+  },
+  "DP 6922|2026-11-24T17:50:00Z": {
+   "number": "DP 6922",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T17:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -203,6 +213,7 @@
   "2026-11-24T10:07:35Z",
   "2026-11-24T12:07:27Z",
   "2026-11-24T14:07:26Z",
-  "2026-11-24T16:07:28Z"
+  "2026-11-24T16:07:28Z",
+  "2026-11-24T18:07:36Z"
  ]
 }
