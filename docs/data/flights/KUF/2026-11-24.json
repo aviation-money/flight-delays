@@ -141,6 +141,36 @@
    "status": "Departed",
    "scheduled": "2026-11-24T11:25:00Z",
    "actual": "2026-11-24T11:26:00Z"
+  },
+  "N4 856|2026-11-24T13:25:00Z": {
+   "number": "N4 856",
+   "airline": "Nordwind",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T13:25:00Z",
+   "actual": "2026-11-24T13:27:00Z"
+  },
+  "SZ 212|2026-11-24T14:00:00Z": {
+   "number": "SZ 212",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T14:00:00Z",
+   "actual": "2026-11-24T14:00:00Z"
+  },
+  "DP 5582|2026-11-24T14:40:00Z": {
+   "number": "DP 5582",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T14:40:00Z",
+   "actual": "2026-11-24T14:40:00Z"
   }
  },
  "fetched": [
@@ -152,6 +182,7 @@
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
   "2026-11-24T10:07:35Z",
-  "2026-11-24T12:07:27Z"
+  "2026-11-24T12:07:27Z",
+  "2026-11-24T14:07:26Z"
  ]
 }

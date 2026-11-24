@@ -308,9 +308,9 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T12:10:00Z",
-   "actual": "2026-11-24T12:10:00Z"
+   "actual": "2026-11-24T12:19:00Z"
   },
   "DP 6502|2026-11-24T12:50:00Z": {
    "number": "DP 6502",
@@ -318,9 +318,49 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T12:50:00Z",
-   "actual": "2026-11-24T12:50:00Z"
+   "actual": "2026-11-24T12:53:00Z"
+  },
+  "RT 236|2026-11-24T12:40:00Z": {
+   "number": "RT 236",
+   "airline": "UVT Aero",
+   "to": "USK",
+   "to_name": "Usinsk",
+   "model": "Bombardier CRJ2",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T12:40:00Z",
+   "actual": "2026-11-24T14:00:00Z"
+  },
+  "UT 1106|2026-11-24T14:00:00Z": {
+   "number": "UT 1106",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T14:00:00Z",
+   "actual": "2026-11-24T14:00:00Z"
+  },
+  "SU 1243|2026-11-24T14:40:00Z": {
+   "number": "SU 1243",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T14:40:00Z",
+   "actual": "2026-11-24T14:40:00Z"
+  },
+  "S7 5048|2026-11-24T14:55:00Z": {
+   "number": "S7 5048",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T14:55:00Z",
+   "actual": "2026-11-24T14:55:00Z"
   }
  },
  "fetched": [
@@ -332,6 +372,7 @@
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
   "2026-11-24T10:07:35Z",
-  "2026-11-24T12:07:27Z"
+  "2026-11-24T12:07:27Z",
+  "2026-11-24T14:07:26Z"
  ]
 }

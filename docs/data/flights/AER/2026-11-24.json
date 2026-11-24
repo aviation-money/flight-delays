@@ -165,7 +165,7 @@
   "FV 6729|2026-11-24T09:58:00Z": {
    "number": "FV 6729",
    "airline": "Rossiya",
-   "to": "IST",
+   "to": "Istanbul",
    "to_name": "Istanbul",
    "model": "Airbus A319",
    "status": "Departed",
@@ -217,7 +217,7 @@
    "airline": "Nesma",
    "to": "Hurghada",
    "to_name": "Hurghada",
-   "model": null,
+   "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-24T11:32:00Z",
    "actual": "2026-11-24T11:32:00Z"
@@ -241,6 +241,46 @@
    "status": "Expected",
    "scheduled": "2026-11-24T13:05:00Z",
    "actual": "2026-11-24T13:05:00Z"
+  },
+  "FV 6570|2026-11-24T12:21:00Z": {
+   "number": "FV 6570",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-24T12:21:00Z",
+   "actual": "2026-11-24T12:21:00Z"
+  },
+  "SU 1151|2026-11-24T13:11:00Z": {
+   "number": "SU 1151",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T13:11:00Z",
+   "actual": "2026-11-24T13:11:00Z"
+  },
+  "SU 1125|2026-11-24T14:05:00Z": {
+   "number": "SU 1125",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T14:05:00Z",
+   "actual": "2026-11-24T14:10:00Z"
+  },
+  "A4 5051|2026-11-24T12:30:00Z": {
+   "number": "A4 5051",
+   "airline": "Azimuth",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T12:30:00Z",
+   "actual": "2026-11-24T14:15:00Z"
   }
  },
  "fetched": [
@@ -251,6 +291,7 @@
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
   "2026-11-24T10:07:35Z",
-  "2026-11-24T12:07:27Z"
+  "2026-11-24T12:07:27Z",
+  "2026-11-24T14:07:26Z"
  ]
 }

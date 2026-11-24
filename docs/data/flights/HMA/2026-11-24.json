@@ -118,9 +118,19 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T13:00:00Z",
-   "actual": "2026-11-24T13:00:00Z"
+   "actual": "2026-11-24T13:34:00Z"
+  },
+  "A2 113|2026-11-24T09:10:00Z": {
+   "number": "A2 113",
+   "airline": "A2",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "An-24",
+   "status": "Delayed",
+   "scheduled": "2026-11-24T09:10:00Z",
+   "actual": "2026-11-24T13:37:00Z"
   }
  },
  "fetched": [
@@ -132,6 +142,7 @@
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
   "2026-11-24T10:07:35Z",
-  "2026-11-24T12:07:27Z"
+  "2026-11-24T12:07:27Z",
+  "2026-11-24T14:07:26Z"
  ]
 }
