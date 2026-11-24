@@ -171,6 +171,46 @@
    "status": "Departed",
    "scheduled": "2026-11-24T01:30:00Z",
    "actual": "2026-11-24T01:45:00Z"
+  },
+  "FV 2467|2026-11-24T03:40:00Z": {
+   "number": "FV 2467",
+   "airline": "Rossiya",
+   "to": "Neryungri",
+   "to_name": "Neryungri",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T03:40:00Z",
+   "actual": "2026-11-24T03:40:00Z"
+  },
+  "EU 2922|2026-11-24T03:55:00Z": {
+   "number": "EU 2922",
+   "airline": "Chengdu",
+   "to": "JMU",
+   "to_name": "Jiamusi",
+   "model": "Comac C909/ARJ21-700",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:55:00Z",
+   "actual": "2026-11-24T03:40:00Z"
+  },
+  "HZ 5628|2026-11-24T04:00:00Z": {
+   "number": "HZ 5628",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-24T04:00:00Z",
+   "actual": "2026-11-24T03:55:00Z"
+  },
+  "FV 6272|2026-11-24T04:15:00Z": {
+   "number": "FV 6272",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 747-400",
+   "status": "Delayed",
+   "scheduled": "2026-11-24T04:15:00Z",
+   "actual": "2026-11-24T04:45:00Z"
   }
  },
  "fetched": [
@@ -180,6 +220,7 @@
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

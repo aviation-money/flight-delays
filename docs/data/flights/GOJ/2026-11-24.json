@@ -1,10 +1,22 @@
 {
  "airport": "GOJ",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "N4 860|2026-11-24T04:40:00Z": {
+   "number": "N4 860",
+   "airline": "Nordwind",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:40:00Z",
+   "actual": "2026-11-24T04:40:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

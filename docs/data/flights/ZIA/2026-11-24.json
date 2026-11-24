@@ -28,14 +28,15 @@
    "to": "SKD",
    "to_name": "Samarkand",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:00:00Z",
-   "actual": "2026-11-24T03:00:00Z"
+   "actual": "2026-11-24T03:36:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

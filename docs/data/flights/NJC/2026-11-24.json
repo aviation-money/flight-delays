@@ -31,12 +31,23 @@
    "status": "Expected",
    "scheduled": "2026-11-24T02:05:00Z",
    "actual": null
+  },
+  "SU 726|2026-11-24T04:25:00Z": {
+   "number": "SU 726",
+   "airline": "Aeroflot",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-24T04:25:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

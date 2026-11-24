@@ -388,9 +388,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T02:10:00Z",
-   "actual": "2026-11-24T02:23:00Z"
+   "actual": "2026-11-24T02:27:00Z"
   },
   "S7 7001|2026-11-24T03:05:00Z": {
    "number": "S7 7001",
@@ -398,9 +398,139 @@
    "to": "BAX",
    "to_name": "Barnaul",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:05:00Z",
-   "actual": "2026-11-24T03:05:00Z"
+   "actual": "2026-11-24T03:11:00Z"
+  },
+  "S7 7009|2026-11-24T03:15:00Z": {
+   "number": "S7 7009",
+   "airline": "S7",
+   "to": "NOZ",
+   "to_name": "Novokuznetsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:15:00Z",
+   "actual": "2026-11-24T03:18:00Z"
+  },
+  "SU 1307|2026-11-24T03:15:00Z": {
+   "number": "SU 1307",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:15:00Z",
+   "actual": "2026-11-24T03:28:00Z"
+  },
+  "S7 5117|2026-11-24T03:25:00Z": {
+   "number": "S7 5117",
+   "airline": "S7",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:25:00Z",
+   "actual": "2026-11-24T03:36:00Z"
+  },
+  "S7 7061|2026-11-24T03:55:00Z": {
+   "number": "S7 7061",
+   "airline": "S7",
+   "to": "CSY",
+   "to_name": "Cheboksary",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:55:00Z",
+   "actual": "2026-11-24T03:55:00Z"
+  },
+  "S7 5103|2026-11-24T03:45:00Z": {
+   "number": "S7 5103",
+   "airline": "S7",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:45:00Z",
+   "actual": "2026-11-24T03:57:00Z"
+  },
+  "S7 7013|2026-11-24T03:50:00Z": {
+   "number": "S7 7013",
+   "airline": "S7",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:50:00Z",
+   "actual": "2026-11-24T03:59:00Z"
+  },
+  "S7 7023|2026-11-24T04:00:00Z": {
+   "number": "S7 7023",
+   "airline": "S7",
+   "to": "RGK",
+   "to_name": "Gorno-Altaysk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T04:00:00Z",
+   "actual": "2026-11-24T04:00:00Z"
+  },
+  "S7 2512|2026-11-24T04:05:00Z": {
+   "number": "S7 2512",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T04:05:00Z",
+   "actual": "2026-11-24T04:05:00Z"
+  },
+  "А4 1127|2026-11-24T04:25:00Z": {
+   "number": "А4 1127",
+   "airline": "Azimut",
+   "to": "Mineralnye Vody",
+   "to_name": "Mineralnye Vody",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-24T04:25:00Z",
+   "actual": "2026-11-24T04:25:00Z"
+  },
+  "S7 5003|2026-11-24T04:25:00Z": {
+   "number": "S7 5003",
+   "airline": "S7",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T04:25:00Z",
+   "actual": "2026-11-24T04:31:00Z"
+  },
+  "S7 5501|2026-11-24T04:45:00Z": {
+   "number": "S7 5501",
+   "airline": "S7",
+   "to": "ALA",
+   "to_name": "Almaty",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:45:00Z",
+   "actual": "2026-11-24T04:45:00Z"
+  },
+  "UT 138|2026-11-24T05:00:00Z": {
+   "number": "UT 138",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T05:00:00Z",
+   "actual": "2026-11-24T05:00:00Z"
+  },
+  "S7 5515|2026-11-24T05:05:00Z": {
+   "number": "S7 5515",
+   "airline": "S7",
+   "to": "NQZ",
+   "to_name": "Astana",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T05:05:00Z",
+   "actual": "2026-11-24T05:05:00Z"
   }
  },
  "fetched": [
@@ -408,6 +538,7 @@
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

@@ -1,10 +1,32 @@
 {
  "airport": "KGD",
  "date": "2026-11-24",
- "flights": {},
+ "flights": {
+  "SU 1009|2026-11-24T04:10:00Z": {
+   "number": "SU 1009",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T04:10:00Z",
+   "actual": "2026-11-24T04:10:00Z"
+  },
+  "SM 926|2026-11-24T05:05:00Z": {
+   "number": "SM 926",
+   "airline": "Air Cairo",
+   "to": "Sharm el-Sheikh",
+   "to_name": "Sharm el-Sheikh",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T05:05:00Z",
+   "actual": "2026-11-24T05:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

@@ -47,7 +47,7 @@
    "airline": "flydubai",
    "to": "DXB",
    "to_name": "Dubai",
-   "model": "Boeing 737",
+   "model": "Boeing 737 MAX 8",
    "status": "Departed",
    "scheduled": "2026-11-24T00:30:00Z",
    "actual": "2026-11-24T00:54:00Z"
@@ -65,17 +65,38 @@
   "A4 5048|2026-11-24T01:00:00Z": {
    "number": "A4 5048",
    "airline": "Azimuth",
-   "to": "Sochi",
+   "to": "AER",
    "to_name": "Sochi",
-   "model": null,
+   "model": "Sukhoi Superjet 100",
    "status": "Delayed",
    "scheduled": "2026-11-24T01:00:00Z",
-   "actual": "2026-11-24T03:00:00Z"
+   "actual": "2026-11-24T05:00:00Z"
+  },
+  "A4 6217|2026-11-24T03:50:00Z": {
+   "number": "A4 6217",
+   "airline": "Azimuth",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T03:50:00Z",
+   "actual": "2026-11-24T04:20:00Z"
+  },
+  "A4 6029|2026-11-24T04:25:00Z": {
+   "number": "A4 6029",
+   "airline": "Azimuth",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T04:25:00Z",
+   "actual": "2026-11-24T04:25:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

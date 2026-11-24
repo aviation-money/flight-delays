@@ -8,9 +8,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T02:50:00Z",
-   "actual": "2026-11-24T02:50:00Z"
+   "actual": "2026-11-24T03:17:00Z"
   },
   "YC 189|2026-11-24T03:05:00Z": {
    "number": "YC 189",
@@ -18,15 +18,36 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:05:00Z",
-   "actual": "2026-11-24T03:05:00Z"
+   "actual": "2026-11-24T03:11:00Z"
+  },
+  "S7 2572|2026-11-24T03:20:00Z": {
+   "number": "S7 2572",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:20:00Z",
+   "actual": "2026-11-24T03:31:00Z"
+  },
+  "4G 9847|2026-11-24T05:00:00Z": {
+   "number": "4G 9847",
+   "airline": "Gazpromavia",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T05:00:00Z",
+   "actual": "2026-11-24T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

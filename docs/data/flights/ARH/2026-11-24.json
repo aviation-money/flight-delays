@@ -11,11 +11,32 @@
    "status": "Canceled",
    "scheduled": "2026-11-24T01:20:00Z",
    "actual": "2026-11-24T01:20:00Z"
+  },
+  "SU 1335|2026-11-24T03:50:00Z": {
+   "number": "SU 1335",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T03:50:00Z",
+   "actual": "2026-11-24T03:50:00Z"
+  },
+  "А2 9713|2026-11-24T04:30:00Z": {
+   "number": "А2 9713",
+   "airline": "A247",
+   "to": "Varandey",
+   "to_name": "Varandey",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-24T04:30:00Z",
+   "actual": "2026-11-24T04:30:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

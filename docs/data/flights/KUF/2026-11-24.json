@@ -41,12 +41,23 @@
    "status": "Departed",
    "scheduled": "2026-11-24T00:15:00Z",
    "actual": "2026-11-24T00:40:00Z"
+  },
+  "WZ 1034|2026-11-24T04:00:00Z": {
+   "number": "WZ 1034",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T04:00:00Z",
+   "actual": "2026-11-24T04:00:00Z"
   }
  },
  "fetched": [
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

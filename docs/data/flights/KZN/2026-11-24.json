@@ -78,14 +78,35 @@
    "to": "Sharm El Sheikh",
    "to_name": "Sharm El Sheikh",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T02:00:00Z",
-   "actual": "2026-11-24T02:30:00Z"
+   "actual": "2026-11-24T03:00:00Z"
+  },
+  "SU 1279|2026-11-24T03:50:00Z": {
+   "number": "SU 1279",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T03:50:00Z",
+   "actual": "2026-11-24T03:46:00Z"
+  },
+  "HY 9652|2026-11-24T04:40:00Z": {
+   "number": "HY 9652",
+   "airline": "Uzbekistan",
+   "to": "FEG",
+   "to_name": "Fergana",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:40:00Z",
+   "actual": "2026-11-24T04:40:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

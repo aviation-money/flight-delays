@@ -41,6 +41,36 @@
    "status": "Departed",
    "scheduled": "2026-11-24T01:05:00Z",
    "actual": "2026-11-24T01:06:00Z"
+  },
+  "KV 106|2026-11-24T04:40:00Z": {
+   "number": "KV 106",
+   "airline": "KrasAvia",
+   "to": "KCY",
+   "to_name": "Krasnoyarsk",
+   "model": "ATR 42-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T04:40:00Z",
+   "actual": "2026-11-24T04:40:00Z"
+  },
+  "S7 7010|2026-11-24T04:45:00Z": {
+   "number": "S7 7010",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:45:00Z",
+   "actual": "2026-11-24T04:45:00Z"
+  },
+  "WZ 5092|2026-11-24T04:00:00Z": {
+   "number": "WZ 5092",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:00:00Z",
+   "actual": "2026-11-24T05:00:00Z"
   }
  },
  "fetched": [
@@ -48,6 +78,7 @@
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

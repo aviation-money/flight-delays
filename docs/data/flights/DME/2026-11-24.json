@@ -61,11 +61,32 @@
    "status": "Departed",
    "scheduled": "2026-11-24T00:05:00Z",
    "actual": "2026-11-24T00:48:00Z"
+  },
+  "HH 706|2026-11-24T03:40:00Z": {
+   "number": "HH 706",
+   "airline": "Taban",
+   "to": "NMA",
+   "to_name": "Namangan",
+   "model": "Airbus A320-200",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:40:00Z",
+   "actual": "2026-11-24T03:54:00Z"
+  },
+  "U6 2127|2026-11-24T04:00:00Z": {
+   "number": "U6 2127",
+   "airline": "Ural",
+   "to": "KSQ",
+   "to_name": "Khanabad",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T04:00:00Z",
+   "actual": "2026-11-24T04:00:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

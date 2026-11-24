@@ -218,14 +218,175 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:00:00Z",
-   "actual": "2026-11-24T03:00:00Z"
+   "actual": "2026-11-24T02:50:00Z"
+  },
+  "SM 902|2026-11-24T03:10:00Z": {
+   "number": "SM 902",
+   "airline": "Air Cairo",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Airbus A320 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:10:00Z",
+   "actual": "2026-11-24T03:07:00Z"
+  },
+  "TK 406|2026-11-24T03:25:00Z": {
+   "number": "TK 406",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:25:00Z",
+   "actual": "2026-11-24T03:19:00Z"
+  },
+  "FV 6559|2026-11-24T03:30:00Z": {
+   "number": "FV 6559",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-24T03:30:00Z",
+   "actual": "2026-11-24T03:21:00Z"
+  },
+  "FV 6051|2026-11-24T04:00:00Z": {
+   "number": "FV 6051",
+   "airline": "Rossiya",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T04:00:00Z",
+   "actual": "2026-11-24T04:00:00Z"
+  },
+  "DP 529|2026-11-24T04:10:00Z": {
+   "number": "DP 529",
+   "airline": "Pobeda",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T04:10:00Z",
+   "actual": "2026-11-24T04:10:00Z"
+  },
+  "FV 6808|2026-11-24T04:25:00Z": {
+   "number": "FV 6808",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:25:00Z",
+   "actual": "2026-11-24T04:25:00Z"
+  },
+  "FV 6587|2026-11-24T04:25:00Z": {
+   "number": "FV 6587",
+   "airline": "Rossiya",
+   "to": "SCW",
+   "to_name": "Syktyvkar",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:25:00Z",
+   "actual": "2026-11-24T04:25:00Z"
+  },
+  "FV 6231|2026-11-24T04:35:00Z": {
+   "number": "FV 6231",
+   "airline": "Rossiya",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:35:00Z",
+   "actual": "2026-11-24T04:35:00Z"
+  },
+  "FV 6303|2026-11-24T04:45:00Z": {
+   "number": "FV 6303",
+   "airline": "Rossiya",
+   "to": "ARH",
+   "to_name": "Arkhangelsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:45:00Z",
+   "actual": "2026-11-24T04:45:00Z"
+  },
+  "FV 6323|2026-11-24T04:45:00Z": {
+   "number": "FV 6323",
+   "airline": "Rossiya",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:45:00Z",
+   "actual": "2026-11-24T04:45:00Z"
+  },
+  "FV 6475|2026-11-24T04:50:00Z": {
+   "number": "FV 6475",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:50:00Z",
+   "actual": "2026-11-24T04:50:00Z"
+  },
+  "FV 6593|2026-11-24T04:55:00Z": {
+   "number": "FV 6593",
+   "airline": "Rossiya",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:55:00Z",
+   "actual": "2026-11-24T04:55:00Z"
+  },
+  "FV 6317|2026-11-24T04:55:00Z": {
+   "number": "FV 6317",
+   "airline": "Rossiya",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T04:55:00Z",
+   "actual": "2026-11-24T04:55:00Z"
+  },
+  "D2 323|2026-11-24T05:00:00Z": {
+   "number": "D2 323",
+   "airline": "Severstal Aircompany",
+   "to": "UCT",
+   "to_name": "Ukhta",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T05:00:00Z",
+   "actual": "2026-11-24T05:00:00Z"
+  },
+  "FV 6003|2026-11-24T05:00:00Z": {
+   "number": "FV 6003",
+   "airline": "Rossiya",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T05:00:00Z",
+   "actual": "2026-11-24T05:00:00Z"
+  },
+  "FV 6952|2026-11-24T05:00:00Z": {
+   "number": "FV 6952",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T05:00:00Z",
+   "actual": "2026-11-24T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }

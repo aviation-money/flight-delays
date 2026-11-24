@@ -78,9 +78,19 @@
    "to": "TOF",
    "to_name": "Tomsk",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T03:00:00Z",
-   "actual": "2026-11-24T03:00:00Z"
+   "actual": "2026-11-24T03:10:00Z"
+  },
+  "IO 176|2026-11-24T04:15:00Z": {
+   "number": "IO 176",
+   "airline": "IrAero",
+   "to": "Chara",
+   "to_name": "Chara",
+   "model": "An-24",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T04:15:00Z",
+   "actual": "2026-11-24T04:15:00Z"
   }
  },
  "fetched": [
@@ -89,6 +99,7 @@
   "2026-11-23T20:07:29Z",
   "2026-11-23T22:07:25Z",
   "2026-11-24T00:07:28Z",
-  "2026-11-24T02:07:23Z"
+  "2026-11-24T02:07:23Z",
+  "2026-11-24T04:07:25Z"
  ]
 }
