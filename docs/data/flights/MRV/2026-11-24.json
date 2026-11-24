@@ -268,9 +268,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T14:00:00Z",
-   "actual": "2026-11-24T14:00:00Z"
+   "actual": "2026-11-24T14:53:00Z"
   },
   "SU 1301|2026-11-24T14:05:00Z": {
    "number": "SU 1301",
@@ -278,9 +278,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T14:05:00Z",
-   "actual": "2026-11-24T14:05:00Z"
+   "actual": "2026-11-24T14:07:00Z"
   },
   "Y7 403|2026-11-24T14:45:00Z": {
    "number": "Y7 403",
@@ -288,9 +288,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T14:45:00Z",
-   "actual": "2026-11-24T14:45:00Z"
+   "actual": "2026-11-24T15:13:00Z"
   },
   "U6 206|2026-11-24T15:05:00Z": {
    "number": "U6 206",
@@ -298,9 +298,59 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T15:05:00Z",
-   "actual": "2026-11-24T15:05:00Z"
+   "actual": "2026-11-24T15:06:00Z"
+  },
+  "S7 2168|2026-11-24T15:10:00Z": {
+   "number": "S7 2168",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T15:10:00Z",
+   "actual": "2026-11-24T15:30:00Z"
+  },
+  "A4 1170|2026-11-24T15:10:00Z": {
+   "number": "A4 1170",
+   "airline": "Azimuth",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T15:10:00Z",
+   "actual": "2026-11-24T15:30:00Z"
+  },
+  "SU 1317|2026-11-24T15:40:00Z": {
+   "number": "SU 1317",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T15:40:00Z",
+   "actual": "2026-11-24T15:40:00Z"
+  },
+  "A4 6075|2026-11-24T15:40:00Z": {
+   "number": "A4 6075",
+   "airline": "Azimuth",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T15:40:00Z",
+   "actual": "2026-11-24T15:40:00Z"
+  },
+  "DP 6912|2026-11-24T16:35:00Z": {
+   "number": "DP 6912",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T16:35:00Z",
+   "actual": "2026-11-24T16:35:00Z"
   }
  },
  "fetched": [
@@ -312,6 +362,7 @@
   "2026-11-24T08:07:24Z",
   "2026-11-24T10:07:35Z",
   "2026-11-24T12:07:27Z",
-  "2026-11-24T14:07:26Z"
+  "2026-11-24T14:07:26Z",
+  "2026-11-24T16:07:28Z"
  ]
 }

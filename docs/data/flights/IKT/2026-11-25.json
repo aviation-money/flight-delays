@@ -1,0 +1,29 @@
+{
+ "airport": "IKT",
+ "date": "2026-11-25",
+ "flights": {
+  "S7 6425|2026-11-24T16:30:00Z": {
+   "number": "S7 6425",
+   "airline": "S7",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-24T16:30:00Z",
+   "actual": null
+  },
+  "S7 6403|2026-11-24T16:35:00Z": {
+   "number": "S7 6403",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T16:35:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-24T16:07:28Z"
+ ]
+}

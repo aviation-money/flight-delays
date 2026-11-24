@@ -147,7 +147,7 @@
    "airline": "Nordwind",
    "to": "KGD",
    "to_name": "Kaliningrad",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-24T13:25:00Z",
    "actual": "2026-11-24T13:27:00Z"
@@ -158,9 +158,9 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T14:00:00Z",
-   "actual": "2026-11-24T14:00:00Z"
+   "actual": "2026-11-24T14:29:00Z"
   },
   "DP 5582|2026-11-24T14:40:00Z": {
    "number": "DP 5582",
@@ -168,9 +168,59 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T14:40:00Z",
    "actual": "2026-11-24T14:40:00Z"
+  },
+  "UT 410|2026-11-24T15:40:00Z": {
+   "number": "UT 410",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T15:40:00Z",
+   "actual": "2026-11-24T15:40:00Z"
+  },
+  "FV 6392|2026-11-24T13:50:00Z": {
+   "number": "FV 6392",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-24T13:50:00Z",
+   "actual": "2026-11-24T16:20:00Z"
+  },
+  "WZ 919|2026-11-24T16:00:00Z": {
+   "number": "WZ 919",
+   "airline": "Red Wings",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-24T16:00:00Z",
+   "actual": "2026-11-24T16:20:00Z"
+  },
+  "S7 1074|2026-11-24T16:50:00Z": {
+   "number": "S7 1074",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T16:50:00Z",
+   "actual": "2026-11-24T16:50:00Z"
+  },
+  "SU 1215|2026-11-24T16:55:00Z": {
+   "number": "SU 1215",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T16:55:00Z",
+   "actual": "2026-11-24T16:55:00Z"
   }
  },
  "fetched": [
@@ -183,6 +233,7 @@
   "2026-11-24T08:07:24Z",
   "2026-11-24T10:07:35Z",
   "2026-11-24T12:07:27Z",
-  "2026-11-24T14:07:26Z"
+  "2026-11-24T14:07:26Z",
+  "2026-11-24T16:07:28Z"
  ]
 }

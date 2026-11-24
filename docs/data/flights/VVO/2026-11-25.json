@@ -1,8 +1,30 @@
 {
  "airport": "VVO",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "SU 7316|2026-11-24T14:00:00Z": {
+   "number": "SU 7316",
+   "airline": "Aeroflot",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T14:00:00Z",
+   "actual": "2026-11-24T14:00:00Z"
+  },
+  "HZ 5472|2026-11-24T15:50:00Z": {
+   "number": "HZ 5472",
+   "airline": "Aurora",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T15:50:00Z",
+   "actual": "2026-11-24T15:50:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-24T14:07:26Z"
+  "2026-11-24T14:07:26Z",
+  "2026-11-24T16:07:28Z"
  ]
 }

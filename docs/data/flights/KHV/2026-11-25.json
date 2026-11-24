@@ -1,8 +1,20 @@
 {
  "airport": "KHV",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "SU 850|2026-11-24T15:30:00Z": {
+   "number": "SU 850",
+   "airline": "Aeroflot",
+   "to": "SYX",
+   "to_name": "Sanya",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T15:30:00Z",
+   "actual": "2026-11-24T15:50:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-24T14:07:26Z"
+  "2026-11-24T14:07:26Z",
+  "2026-11-24T16:07:28Z"
  ]
 }

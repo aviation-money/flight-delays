@@ -91,6 +91,26 @@
    "status": "Departed",
    "scheduled": "2026-11-24T12:10:00Z",
    "actual": "2026-11-24T12:47:00Z"
+  },
+  "5N 518|2026-11-24T15:15:00Z": {
+   "number": "5N 518",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-24T15:15:00Z",
+   "actual": "2026-11-24T15:26:00Z"
+  },
+  "SU 1329|2026-11-24T15:55:00Z": {
+   "number": "SU 1329",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T15:55:00Z",
+   "actual": "2026-11-24T16:25:00Z"
   }
  },
  "fetched": [
@@ -102,6 +122,7 @@
   "2026-11-24T08:07:24Z",
   "2026-11-24T10:07:35Z",
   "2026-11-24T12:07:27Z",
-  "2026-11-24T14:07:26Z"
+  "2026-11-24T14:07:26Z",
+  "2026-11-24T16:07:28Z"
  ]
 }
