@@ -7,13 +7,14 @@
    "airline": "VietJetAir",
    "to": "Kamran",
    "to_name": "Kamran",
-   "model": null,
-   "status": "CheckIn",
+   "model": "Airbus A321 NEO",
+   "status": "Departed",
    "scheduled": "2026-11-24T19:05:00Z",
-   "actual": "2026-11-24T19:05:00Z"
+   "actual": "2026-11-24T19:40:00Z"
   }
  },
  "fetched": [
-  "2026-11-24T18:07:36Z"
+  "2026-11-24T18:07:36Z",
+  "2026-11-24T20:07:35Z"
  ]
 }

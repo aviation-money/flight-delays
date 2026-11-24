@@ -128,9 +128,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T17:40:00Z",
-   "actual": "2026-11-24T17:40:00Z"
+   "actual": "2026-11-24T18:15:00Z"
   },
   "FV 6308|2026-11-24T18:00:00Z": {
    "number": "FV 6308",
@@ -138,9 +138,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T18:00:00Z",
-   "actual": "2026-11-24T18:00:00Z"
+   "actual": "2026-11-24T18:43:00Z"
   }
  },
  "fetched": [
@@ -154,6 +154,7 @@
   "2026-11-24T12:07:27Z",
   "2026-11-24T14:07:26Z",
   "2026-11-24T16:07:28Z",
-  "2026-11-24T18:07:36Z"
+  "2026-11-24T18:07:36Z",
+  "2026-11-24T20:07:35Z"
  ]
 }

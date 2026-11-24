@@ -1,0 +1,19 @@
+{
+ "airport": "TJM",
+ "date": "2026-11-25",
+ "flights": {
+  "UT 6418|2026-11-24T19:10:00Z": {
+   "number": "UT 6418",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-24T19:10:00Z",
+   "actual": "2026-11-24T19:13:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-24T20:07:35Z"
+ ]
+}

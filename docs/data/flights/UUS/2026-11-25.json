@@ -1,10 +1,22 @@
 {
  "airport": "UUS",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "HZ 4698|2026-11-24T21:05:00Z": {
+   "number": "HZ 4698",
+   "airline": "Aurora",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T21:05:00Z",
+   "actual": "2026-11-24T21:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-24T14:07:26Z",
   "2026-11-24T16:07:28Z",
-  "2026-11-24T18:07:36Z"
+  "2026-11-24T18:07:36Z",
+  "2026-11-24T20:07:35Z"
  ]
 }

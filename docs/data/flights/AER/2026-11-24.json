@@ -307,7 +307,7 @@
    "airline": "Rossiya",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Airbus A320",
+   "model": "Airbus A319",
    "status": "Departed",
    "scheduled": "2026-11-24T15:33:00Z",
    "actual": "2026-11-24T15:33:00Z"
@@ -347,7 +347,7 @@
    "airline": "Uzbekistan",
    "to": "TAS",
    "to_name": "Tashkent",
-   "model": "Airbus A320",
+   "model": "Airbus A320 NEO",
    "status": "Departed",
    "scheduled": "2026-11-24T17:00:00Z",
    "actual": "2026-11-24T17:00:00Z"
@@ -391,6 +391,16 @@
    "status": "Departed",
    "scheduled": "2026-11-24T17:08:00Z",
    "actual": "2026-11-24T17:08:00Z"
+  },
+  "FV 6121|2026-11-24T15:10:00Z": {
+   "number": "FV 6121",
+   "airline": "Rossiya",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T15:10:00Z",
+   "actual": "2026-11-24T19:53:00Z"
   }
  },
  "fetched": [
@@ -404,6 +414,7 @@
   "2026-11-24T12:07:27Z",
   "2026-11-24T14:07:26Z",
   "2026-11-24T16:07:28Z",
-  "2026-11-24T18:07:36Z"
+  "2026-11-24T18:07:36Z",
+  "2026-11-24T20:07:35Z"
  ]
 }

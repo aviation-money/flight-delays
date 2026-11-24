@@ -7,7 +7,7 @@
    "airline": "Aeroflot",
    "to": "SYX",
    "to_name": "Sanya",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-8LJ",
    "status": "Departed",
    "scheduled": "2026-11-24T15:30:00Z",
    "actual": "2026-11-24T15:50:00Z"
@@ -18,14 +18,35 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus Industrie А330-300",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T18:40:00Z",
-   "actual": "2026-11-24T18:40:00Z"
+   "actual": "2026-11-24T18:49:00Z"
+  },
+  "R3 2105|2026-11-24T20:10:00Z": {
+   "number": "R3 2105",
+   "airline": "Yakutia",
+   "to": "DYR",
+   "to_name": "Anadyr",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T20:10:00Z",
+   "actual": "2026-11-24T20:10:00Z"
+  },
+  "S7 5240|2026-11-24T20:45:00Z": {
+   "number": "S7 5240",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus Industrie А320",
+   "status": "Expected",
+   "scheduled": "2026-11-24T20:45:00Z",
+   "actual": "2026-11-24T20:45:00Z"
   }
  },
  "fetched": [
   "2026-11-24T14:07:26Z",
   "2026-11-24T16:07:28Z",
-  "2026-11-24T18:07:36Z"
+  "2026-11-24T18:07:36Z",
+  "2026-11-24T20:07:35Z"
  ]
 }

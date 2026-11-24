@@ -1,0 +1,49 @@
+{
+ "airport": "SVX",
+ "date": "2026-11-25",
+ "flights": {
+  "HY 9662|2026-11-24T19:30:00Z": {
+   "number": "HY 9662",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-24T19:30:00Z",
+   "actual": "2026-11-24T19:42:00Z"
+  },
+  "U6 775|2026-11-24T19:50:00Z": {
+   "number": "U6 775",
+   "airline": "Ural",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T19:50:00Z",
+   "actual": "2026-11-24T19:50:00Z"
+  },
+  "SU 1021|2026-11-24T19:50:00Z": {
+   "number": "SU 1021",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T19:50:00Z",
+   "actual": "2026-11-24T20:05:00Z"
+  },
+  "UJ 668|2026-11-24T20:20:00Z": {
+   "number": "UJ 668",
+   "airline": "AlMasria",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T20:20:00Z",
+   "actual": "2026-11-24T20:20:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-24T20:07:35Z"
+ ]
+}
