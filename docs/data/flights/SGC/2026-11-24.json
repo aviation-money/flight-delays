@@ -187,7 +187,7 @@
    "airline": "UTAir",
    "to": "TAS",
    "to_name": "Tashkent",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-500 (winglets)",
    "status": "Departed",
    "scheduled": "2026-11-24T09:45:00Z",
    "actual": "2026-11-24T09:55:00Z"
@@ -198,9 +198,29 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Boeing 737-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T10:10:00Z",
-   "actual": "2026-11-24T10:10:00Z"
+   "actual": "2026-11-24T10:13:00Z"
+  },
+  "FV 6842|2026-11-24T11:15:00Z": {
+   "number": "FV 6842",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-24T11:15:00Z",
+   "actual": "2026-11-24T11:31:00Z"
+  },
+  "UT 296|2026-11-24T13:00:00Z": {
+   "number": "UT 296",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T13:00:00Z",
+   "actual": "2026-11-24T13:00:00Z"
   }
  },
  "fetched": [
@@ -211,6 +231,7 @@
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
-  "2026-11-24T10:07:35Z"
+  "2026-11-24T10:07:35Z",
+  "2026-11-24T12:07:27Z"
  ]
 }

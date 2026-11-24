@@ -98,9 +98,29 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T10:40:00Z",
-   "actual": "2026-11-24T10:40:00Z"
+   "actual": "2026-11-24T10:52:00Z"
+  },
+  "NF 9924|2026-11-24T08:00:00Z": {
+   "number": "NF 9924",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "Departed",
+   "scheduled": "2026-11-24T08:00:00Z",
+   "actual": "2026-11-24T08:04:00Z"
+  },
+  "UT 352|2026-11-24T13:00:00Z": {
+   "number": "UT 352",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T13:00:00Z",
+   "actual": "2026-11-24T13:00:00Z"
   }
  },
  "fetched": [
@@ -111,6 +131,7 @@
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
-  "2026-11-24T10:07:35Z"
+  "2026-11-24T10:07:35Z",
+  "2026-11-24T12:07:27Z"
  ]
 }

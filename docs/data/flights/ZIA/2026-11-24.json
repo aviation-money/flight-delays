@@ -37,7 +37,7 @@
    "airline": "Ural",
    "to": "DYU",
    "to_name": "Dushanbe",
-   "model": "Airbus A321",
+   "model": "Airbus A320-200",
    "status": "Departed",
    "scheduled": "2026-11-24T08:00:00Z",
    "actual": "2026-11-24T09:55:00Z"
@@ -48,9 +48,29 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-900",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-24T09:00:00Z",
-   "actual": "2026-11-24T10:00:00Z"
+   "actual": "2026-11-24T10:19:00Z"
+  },
+  "WZ 4591|2026-11-24T12:30:00Z": {
+   "number": "WZ 4591",
+   "airline": "Red Wings",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T12:30:00Z",
+   "actual": "2026-11-24T12:30:00Z"
+  },
+  "B2 954|2026-11-24T12:35:00Z": {
+   "number": "B2 954",
+   "airline": "Belavia",
+   "to": "MSQ",
+   "to_name": "Minsk",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T12:35:00Z",
+   "actual": "2026-11-24T12:35:00Z"
   }
  },
  "fetched": [
@@ -60,6 +80,7 @@
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
-  "2026-11-24T10:07:35Z"
+  "2026-11-24T10:07:35Z",
+  "2026-11-24T12:07:27Z"
  ]
 }

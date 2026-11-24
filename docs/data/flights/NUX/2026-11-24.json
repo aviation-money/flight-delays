@@ -68,9 +68,9 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T06:00:00Z",
-   "actual": "2026-11-24T06:00:00Z"
+   "actual": "2026-11-24T11:28:00Z"
   },
   "ЯЛ 41|2026-11-24T07:00:00Z": {
    "number": "ЯЛ 41",
@@ -101,6 +101,46 @@
    "status": "Departed",
    "scheduled": "2026-11-24T08:00:00Z",
    "actual": "2026-11-24T08:10:00Z"
+  },
+  "UT 542|2026-11-24T07:30:00Z": {
+   "number": "UT 542",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T07:30:00Z",
+   "actual": "2026-11-24T11:30:00Z"
+  },
+  "UT 186|2026-11-24T11:30:00Z": {
+   "number": "UT 186",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "Departed",
+   "scheduled": "2026-11-24T11:30:00Z",
+   "actual": "2026-11-24T11:42:00Z"
+  },
+  "YC 146|2026-11-24T11:45:00Z": {
+   "number": "YC 146",
+   "airline": "Yamal",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-24T11:45:00Z",
+   "actual": "2026-11-24T11:49:00Z"
+  },
+  "YC 89|2026-11-24T11:55:00Z": {
+   "number": "YC 89",
+   "airline": "Yamal",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T11:55:00Z",
+   "actual": "2026-11-24T11:55:00Z"
   }
  },
  "fetched": [
@@ -111,6 +151,7 @@
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
-  "2026-11-24T10:07:35Z"
+  "2026-11-24T10:07:35Z",
+  "2026-11-24T12:07:27Z"
  ]
 }

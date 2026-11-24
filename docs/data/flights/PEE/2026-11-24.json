@@ -118,9 +118,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T11:00:00Z",
-   "actual": "2026-11-24T11:00:00Z"
+   "actual": "2026-11-24T11:08:00Z"
+  },
+  "A4 6018|2026-11-24T10:50:00Z": {
+   "number": "A4 6018",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-24T10:50:00Z",
+   "actual": "2026-11-24T11:43:00Z"
+  },
+  "S7 5040|2026-11-24T12:10:00Z": {
+   "number": "S7 5040",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T12:10:00Z",
+   "actual": "2026-11-24T12:10:00Z"
   }
  },
  "fetched": [
@@ -131,6 +151,7 @@
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
-  "2026-11-24T10:07:35Z"
+  "2026-11-24T10:07:35Z",
+  "2026-11-24T12:07:27Z"
  ]
 }

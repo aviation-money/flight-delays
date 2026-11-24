@@ -308,9 +308,69 @@
    "to": "Neryungri",
    "to_name": "Neryungri",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-24T10:10:00Z",
    "actual": "2026-11-24T11:00:00Z"
+  },
+  "FV 6476|2026-11-24T11:45:00Z": {
+   "number": "FV 6476",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-24T11:45:00Z",
+   "actual": "2026-11-24T11:45:00Z"
+  },
+  "S7 5312|2026-11-24T12:25:00Z": {
+   "number": "S7 5312",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-24T12:25:00Z",
+   "actual": "2026-11-24T12:25:00Z"
+  },
+  "FV 6635|2026-11-24T12:25:00Z": {
+   "number": "FV 6635",
+   "airline": "Rossiya",
+   "to": "Kharbin",
+   "to_name": "Kharbin",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-24T12:25:00Z",
+   "actual": "2026-11-24T12:25:00Z"
+  },
+  "FV 6637|2026-11-24T12:35:00Z": {
+   "number": "FV 6637",
+   "airline": "Rossiya",
+   "to": "CAN",
+   "to_name": "Guangzhou",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T12:35:00Z",
+   "actual": "2026-11-24T12:35:00Z"
+  },
+  "FV 6799|2026-11-24T12:50:00Z": {
+   "number": "FV 6799",
+   "airline": "Rossiya",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T12:50:00Z",
+   "actual": "2026-11-24T12:50:00Z"
+  },
+  "SU 1487|2026-11-24T13:05:00Z": {
+   "number": "SU 1487",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T13:05:00Z",
+   "actual": "2026-11-24T13:05:00Z"
   }
  },
  "fetched": [
@@ -322,6 +382,7 @@
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
-  "2026-11-24T10:07:35Z"
+  "2026-11-24T10:07:35Z",
+  "2026-11-24T12:07:27Z"
  ]
 }

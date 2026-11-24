@@ -648,9 +648,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100-95",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T09:30:00Z",
-   "actual": "2026-11-24T09:30:00Z"
+   "actual": "2026-11-24T10:09:00Z"
   },
   "DV 1010|2026-11-24T09:35:00Z": {
    "number": "DV 1010",
@@ -658,9 +658,9 @@
    "to": "NQZ",
    "to_name": "Astana",
    "model": "Boeing 737 MAX 8",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T09:35:00Z",
-   "actual": "2026-11-24T09:50:00Z"
+   "actual": "2026-11-24T10:20:00Z"
   },
   "J2 808|2026-11-24T09:20:00Z": {
    "number": "J2 808",
@@ -668,9 +668,9 @@
    "to": "GYD",
    "to_name": "Baku",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T09:20:00Z",
-   "actual": "2026-11-24T09:55:00Z"
+   "actual": "2026-11-24T10:38:00Z"
   },
   "DP 203|2026-11-24T09:30:00Z": {
    "number": "DP 203",
@@ -678,9 +678,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T09:30:00Z",
-   "actual": "2026-11-24T10:20:00Z"
+   "actual": "2026-11-24T10:45:00Z"
   },
   "DP 465|2026-11-24T10:30:00Z": {
    "number": "DP 465",
@@ -688,9 +688,9 @@
    "to": "ULV",
    "to_name": "Ulyanovsk",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-24T10:30:00Z",
-   "actual": "2026-11-24T10:30:00Z"
+   "actual": "2026-11-24T12:00:00Z"
   },
   "DP 467|2026-11-24T10:40:00Z": {
    "number": "DP 467",
@@ -698,9 +698,9 @@
    "to": "GSV",
    "to_name": "Saratov",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T10:40:00Z",
-   "actual": "2026-11-24T10:40:00Z"
+   "actual": "2026-11-24T11:18:00Z"
   },
   "TK 414|2026-11-24T11:00:00Z": {
    "number": "TK 414",
@@ -708,9 +708,69 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Airbus A330-300",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T11:00:00Z",
-   "actual": "2026-11-24T11:00:00Z"
+   "actual": "2026-11-24T11:29:00Z"
+  },
+  "FV 6026|2026-11-24T11:30:00Z": {
+   "number": "FV 6026",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T11:30:00Z",
+   "actual": "2026-11-24T11:30:00Z"
+  },
+  "A9 925|2026-11-24T11:30:00Z": {
+   "number": "A9 925",
+   "airline": "Georgian",
+   "to": "TBS",
+   "to_name": "Tbilisi",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T11:30:00Z",
+   "actual": "2026-11-24T11:30:00Z"
+  },
+  "5G 510|2026-11-24T11:35:00Z": {
+   "number": "5G 510",
+   "airline": "Shirak Avia",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T11:35:00Z",
+   "actual": "2026-11-24T11:35:00Z"
+  },
+  "FZ 990|2026-11-24T12:00:00Z": {
+   "number": "FZ 990",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T12:00:00Z",
+   "actual": "2026-11-24T12:00:00Z"
+  },
+  "FV 6028|2026-11-24T12:30:00Z": {
+   "number": "FV 6028",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Canceled",
+   "scheduled": "2026-11-24T12:30:00Z",
+   "actual": "2026-11-24T12:30:00Z"
+  },
+  "6R 544|2026-11-24T12:45:00Z": {
+   "number": "6R 544",
+   "airline": "Alrosa",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T12:45:00Z",
+   "actual": "2026-11-24T12:45:00Z"
   }
  },
  "fetched": [
@@ -720,6 +780,7 @@
   "2026-11-24T04:07:25Z",
   "2026-11-24T06:07:26Z",
   "2026-11-24T08:07:24Z",
-  "2026-11-24T10:07:35Z"
+  "2026-11-24T10:07:35Z",
+  "2026-11-24T12:07:27Z"
  ]
 }
