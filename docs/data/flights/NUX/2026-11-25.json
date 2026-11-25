@@ -18,9 +18,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:20:00Z",
-   "actual": "2026-11-25T03:20:00Z"
+   "actual": "2026-11-25T04:12:00Z"
   },
   "RT 336|2026-11-25T03:50:00Z": {
    "number": "RT 336",
@@ -58,9 +58,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Bombardier CRJ200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:05:00Z",
-   "actual": "2026-11-25T04:05:00Z"
+   "actual": "2026-11-25T04:16:00Z"
   },
   "4G 260|2026-11-25T04:20:00Z": {
    "number": "4G 260",
@@ -68,9 +68,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:20:00Z",
-   "actual": "2026-11-25T04:20:00Z"
+   "actual": "2026-11-25T05:08:00Z"
   },
   "4G 9814|2026-11-25T03:30:00Z": {
    "number": "4G 9814",
@@ -78,9 +78,9 @@
    "to": "Bovanenkovo",
    "to_name": "Bovanenkovo",
    "model": null,
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:30:00Z",
-   "actual": "2026-11-25T04:30:00Z"
+   "actual": "2026-11-25T04:51:00Z"
   },
   "YC 845|2026-11-25T04:40:00Z": {
    "number": "YC 845",
@@ -88,9 +88,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:40:00Z",
-   "actual": "2026-11-25T04:40:00Z"
+   "actual": "2026-11-25T05:17:00Z"
   },
   "4G 9847|2026-11-25T05:00:00Z": {
    "number": "4G 9847",
@@ -98,9 +98,59 @@
    "to": "WNR",
    "to_name": "Novyy Urengoy",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T05:00:00Z",
-   "actual": "2026-11-25T05:00:00Z"
+   "actual": "2026-11-25T05:29:00Z"
+  },
+  "YAL 24128|2026-11-25T04:20:00Z": {
+   "number": "YAL 24128",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-25T04:20:00Z",
+   "actual": "2026-11-25T04:24:00Z"
+  },
+  "YC 222|2026-11-25T05:25:00Z": {
+   "number": "YC 222",
+   "airline": "Yamal",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-25T05:25:00Z",
+   "actual": "2026-11-25T05:25:00Z"
+  },
+  "YAL 25150|2026-11-25T05:30:00Z": {
+   "number": "YAL 25150",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-25T05:30:00Z",
+   "actual": "2026-11-25T05:32:00Z"
+  },
+  "YC 22|2026-11-25T06:40:00Z": {
+   "number": "YC 22",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T06:40:00Z",
+   "actual": "2026-11-25T06:40:00Z"
+  },
+  "U6 9444|2026-11-25T05:10:00Z": {
+   "number": "U6 9444",
+   "airline": "Ural",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Airbus A321",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T05:10:00Z",
+   "actual": "2026-11-25T06:40:00Z"
   }
  },
  "fetched": [
@@ -108,6 +158,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

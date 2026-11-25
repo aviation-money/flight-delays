@@ -90,7 +90,7 @@
    "model": "ATR 42-500",
    "status": "Delayed",
    "scheduled": "2026-11-25T00:30:00Z",
-   "actual": "2026-11-25T04:30:00Z"
+   "actual": "2026-11-25T06:15:00Z"
   },
   "SU 1481|2026-11-25T00:15:00Z": {
    "number": "SU 1481",
@@ -137,10 +137,10 @@
    "airline": "Rossiya",
    "to": "TJM",
    "to_name": "Tyumen",
-   "model": "Sukhoi Superjet 100-95",
-   "status": "Delayed",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:05:00Z",
-   "actual": "2026-11-25T03:20:00Z"
+   "actual": "2026-11-25T04:05:00Z"
   },
   "FV 6881|2026-11-25T01:20:00Z": {
    "number": "FV 6881",
@@ -188,7 +188,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:00:00Z",
    "actual": "2026-11-25T03:35:00Z"
   },
@@ -208,7 +208,7 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:35:00Z",
    "actual": "2026-11-25T03:05:00Z"
   },
@@ -238,7 +238,7 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:10:00Z",
    "actual": "2026-11-25T03:10:00Z"
   },
@@ -248,7 +248,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:50:00Z",
    "actual": "2026-11-25T03:50:00Z"
   },
@@ -258,9 +258,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:05:00Z",
    "actual": "2026-11-25T04:50:00Z"
+  },
+  "KV 9251|2026-11-25T04:30:00Z": {
+   "number": "KV 9251",
+   "airline": "KrasAvia",
+   "to": "Tura",
+   "to_name": "Tura",
+   "model": "An-24",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T04:30:00Z",
+   "actual": "2026-11-25T06:30:00Z"
+  },
+  "KV 161|2026-11-25T07:00:00Z": {
+   "number": "KV 161",
+   "airline": "KrasAvia",
+   "to": "VEO",
+   "to_name": "Severo-Yeniseysk",
+   "model": "ATR 42-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T07:00:00Z",
+   "actual": "2026-11-25T07:00:00Z"
   }
  },
  "fetched": [
@@ -269,6 +289,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

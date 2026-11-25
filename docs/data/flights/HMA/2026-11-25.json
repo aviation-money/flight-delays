@@ -27,7 +27,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-25T01:50:00Z",
    "actual": "2026-11-25T02:58:00Z"
@@ -48,9 +48,9 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "Mil Mi",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:30:00Z",
-   "actual": "2026-11-25T04:30:00Z"
+   "actual": "2026-11-25T04:50:00Z"
   },
   "UT 309|2026-11-25T05:00:00Z": {
    "number": "UT 309",
@@ -58,9 +58,29 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T05:00:00Z",
-   "actual": "2026-11-25T05:00:00Z"
+   "actual": "2026-11-25T05:04:00Z"
+  },
+  "NF 969|2026-11-25T03:30:00Z": {
+   "number": "NF 969",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T03:30:00Z",
+   "actual": "2026-11-25T06:00:00Z"
+  },
+  "NF 967|2026-11-25T05:40:00Z": {
+   "number": "NF 967",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T05:40:00Z",
+   "actual": "2026-11-25T07:00:00Z"
   }
  },
  "fetched": [
@@ -68,6 +88,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

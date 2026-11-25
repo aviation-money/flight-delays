@@ -108,9 +108,9 @@
    "to": "SYS",
    "to_name": "Saskylakh",
    "model": "An-24",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:00:00Z",
-   "actual": "2026-11-25T03:50:00Z"
+   "actual": "2026-11-25T04:36:00Z"
   },
   "IO 9127|2026-11-25T01:10:00Z": {
    "number": "IO 9127",
@@ -137,7 +137,7 @@
    "airline": "Yakutia",
    "to": "VKO",
    "to_name": "Moscow",
-   "model": "Boeing 737-700",
+   "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-25T01:40:00Z",
    "actual": "2026-11-25T01:50:00Z"
@@ -171,6 +171,16 @@
    "status": "Departed",
    "scheduled": "2026-11-25T03:30:00Z",
    "actual": "2026-11-25T03:40:00Z"
+  },
+  "PI 271|2026-11-25T04:00:00Z": {
+   "number": "PI 271",
+   "airline": "Polar",
+   "to": "IKS",
+   "to_name": "Tiksi",
+   "model": "An-24",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T04:00:00Z",
+   "actual": "2026-11-25T06:00:00Z"
   }
  },
  "fetched": [
@@ -180,6 +190,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

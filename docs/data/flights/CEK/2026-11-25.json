@@ -17,7 +17,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
+   "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-25T01:05:00Z",
    "actual": "2026-11-25T01:58:00Z"
@@ -47,7 +47,7 @@
    "airline": "Air Cairo",
    "to": "Sharm el Sheikh",
    "to_name": "Sharm el Sheikh",
-   "model": "Airbus",
+   "model": "Airbus A320 NEO",
    "status": "Departed",
    "scheduled": "2026-11-25T02:45:00Z",
    "actual": "2026-11-25T02:55:00Z"
@@ -58,9 +58,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:40:00Z",
-   "actual": "2026-11-25T03:35:00Z"
+   "actual": "2026-11-25T03:54:00Z"
   },
   "DP 6572|2026-11-25T01:00:00Z": {
    "number": "DP 6572",
@@ -68,9 +68,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:00:00Z",
-   "actual": "2026-11-25T04:35:00Z"
+   "actual": "2026-11-25T05:23:00Z"
   },
   "UJ 698|2026-11-25T04:45:00Z": {
    "number": "UJ 698",
@@ -78,9 +78,9 @@
    "to": "Sharm el Sheikh",
    "to_name": "Sharm el Sheikh",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:45:00Z",
-   "actual": "2026-11-25T04:45:00Z"
+   "actual": "2026-11-25T05:42:00Z"
   }
  },
  "fetched": [
@@ -88,6 +88,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

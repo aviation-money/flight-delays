@@ -125,10 +125,10 @@
   "EO 759|2026-11-25T03:20:00Z": {
    "number": "EO 759",
    "airline": "Pegas Fly",
-   "to": "Omsk",
+   "to": "OMS",
    "to_name": "Omsk",
-   "model": null,
-   "status": "GateClosed",
+   "model": "Embraer 190",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:20:00Z",
    "actual": "2026-11-25T03:30:00Z"
   },
@@ -138,9 +138,9 @@
    "to": "Beloyarskiy",
    "to_name": "Beloyarskiy",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:40:00Z",
-   "actual": "2026-11-25T03:40:00Z"
+   "actual": "2026-11-25T04:05:00Z"
   },
   "DP 6562|2026-11-25T01:20:00Z": {
    "number": "DP 6562",
@@ -148,9 +148,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:20:00Z",
-   "actual": "2026-11-25T03:45:00Z"
+   "actual": "2026-11-25T04:12:00Z"
   },
   "UT 167|2026-11-25T04:35:00Z": {
    "number": "UT 167",
@@ -158,9 +158,9 @@
    "to": "TOF",
    "to_name": "Tomsk",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:35:00Z",
-   "actual": "2026-11-25T04:35:00Z"
+   "actual": "2026-11-25T04:39:00Z"
   },
   "UT 225|2026-11-25T04:50:00Z": {
    "number": "UT 225",
@@ -168,9 +168,29 @@
    "to": "URJ",
    "to_name": "Uray",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:50:00Z",
-   "actual": "2026-11-25T04:50:00Z"
+   "actual": "2026-11-25T04:58:00Z"
+  },
+  "4G 489|2026-11-25T05:30:00Z": {
+   "number": "4G 489",
+   "airline": "Gazpromavia",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T05:30:00Z",
+   "actual": "2026-11-25T05:30:00Z"
+  },
+  "N4 334|2026-11-25T05:40:00Z": {
+   "number": "N4 334",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T05:40:00Z",
+   "actual": "2026-11-25T05:40:00Z"
   }
  },
  "fetched": [
@@ -178,6 +198,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

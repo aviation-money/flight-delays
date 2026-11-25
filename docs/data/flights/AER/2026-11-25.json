@@ -48,15 +48,36 @@
    "to": "TBS",
    "to_name": "Tbilisi",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:40:00Z",
    "actual": "2026-11-25T03:40:00Z"
+  },
+  "FV 6605|2026-11-25T05:10:00Z": {
+   "number": "FV 6605",
+   "airline": "Rossiya",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T05:10:00Z",
+   "actual": "2026-11-25T05:45:00Z"
+  },
+  "FV 6201|2026-11-25T05:25:00Z": {
+   "number": "FV 6201",
+   "airline": "Rossiya",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T05:25:00Z",
+   "actual": "2026-11-25T06:15:00Z"
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

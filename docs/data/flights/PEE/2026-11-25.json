@@ -17,7 +17,7 @@
    "airline": "Pobeda",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737",
+   "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-25T01:00:00Z",
    "actual": "2026-11-25T03:16:00Z"
@@ -51,6 +51,16 @@
    "status": "Departed",
    "scheduled": "2026-11-25T00:20:00Z",
    "actual": "2026-11-25T02:56:00Z"
+  },
+  "DP 434|2026-11-25T00:50:00Z": {
+   "number": "DP 434",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T00:50:00Z",
+   "actual": "2026-11-25T05:50:00Z"
   }
  },
  "fetched": [
@@ -58,6 +68,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

@@ -48,9 +48,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:05:00Z",
-   "actual": "2026-11-25T01:05:00Z"
+   "actual": "2026-11-25T05:30:00Z"
   },
   "EO 760|2026-11-25T01:25:00Z": {
    "number": "EO 760",
@@ -58,7 +58,7 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Embraer 190",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-25T01:25:00Z",
    "actual": "2026-11-25T01:25:00Z"
   },
@@ -88,9 +88,9 @@
    "to": "NQZ",
    "to_name": "Astana",
    "model": "Bombardier Dash 8 Q400 / DHC-8-400",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:00:00Z",
-   "actual": "2026-11-25T04:00:00Z"
+   "actual": "2026-11-25T04:19:00Z"
   }
  },
  "fetched": [
@@ -99,6 +99,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

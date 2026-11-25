@@ -88,9 +88,9 @@
    "to": "Okhotsk",
    "to_name": "Okhotsk",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:10:00Z",
-   "actual": "2026-11-25T04:10:00Z"
+   "actual": "2026-11-25T04:21:00Z"
   },
   "IO 9801|2026-11-25T00:15:00Z": {
    "number": "IO 9801",
@@ -148,9 +148,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 777-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:35:00Z",
-   "actual": "2026-11-25T03:35:00Z"
+   "actual": "2026-11-25T04:34:00Z"
   },
   "HZ 5613|2026-11-25T04:50:00Z": {
    "number": "HZ 5613",
@@ -158,9 +158,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:50:00Z",
-   "actual": "2026-11-25T04:50:00Z"
+   "actual": "2026-11-25T05:04:00Z"
   }
  },
  "fetched": [
@@ -171,6 +171,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }

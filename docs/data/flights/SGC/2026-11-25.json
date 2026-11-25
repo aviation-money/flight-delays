@@ -108,19 +108,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:00:00Z",
-   "actual": "2026-11-25T03:00:00Z"
+   "actual": "2026-11-25T04:15:00Z"
   },
   "UT 435|2026-11-25T03:40:00Z": {
    "number": "UT 435",
    "airline": "UTAir",
    "to": "KRR",
    "to_name": "Krasnodar",
-   "model": "Boeing 737-800",
-   "status": "Expected",
+   "model": "Boeing 737-500 (winglets)",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:40:00Z",
-   "actual": "2026-11-25T03:40:00Z"
+   "actual": "2026-11-25T04:04:00Z"
   },
   "UT 511|2026-11-25T03:50:00Z": {
    "number": "UT 511",
@@ -128,9 +128,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:50:00Z",
-   "actual": "2026-11-25T03:50:00Z"
+   "actual": "2026-11-25T04:10:00Z"
   },
   "UT 1155|2026-11-25T03:45:00Z": {
    "number": "UT 1155",
@@ -148,7 +148,7 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-25T04:40:00Z",
    "actual": "2026-11-25T04:40:00Z"
   },
@@ -158,9 +158,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-25T03:55:00Z",
    "actual": "2026-11-25T04:50:00Z"
+  },
+  "UT 103|2026-11-25T04:20:00Z": {
+   "number": "UT 103",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T04:20:00Z",
+   "actual": "2026-11-25T07:00:00Z"
   }
  },
  "fetched": [
@@ -168,6 +178,7 @@
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
-  "2026-11-25T04:07:30Z"
+  "2026-11-25T04:07:30Z",
+  "2026-11-25T06:07:25Z"
  ]
 }
