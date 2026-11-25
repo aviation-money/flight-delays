@@ -38,9 +38,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:05:00Z",
-   "actual": "2026-11-25T03:05:00Z"
+   "actual": "2026-11-25T03:20:00Z"
   },
   "S7 3034|2026-11-25T02:30:00Z": {
    "number": "S7 3034",
@@ -48,9 +48,19 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:30:00Z",
-   "actual": "2026-11-25T03:05:00Z"
+   "actual": "2026-11-25T03:40:00Z"
+  },
+  "IO 309|2026-11-25T05:00:00Z": {
+   "number": "IO 309",
+   "airline": "IrAero",
+   "to": "Taksimo",
+   "to_name": "Taksimo",
+   "model": "An-24",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T05:00:00Z",
+   "actual": "2026-11-25T04:30:00Z"
   }
  },
  "fetched": [
@@ -59,6 +69,7 @@
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

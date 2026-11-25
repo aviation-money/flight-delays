@@ -28,15 +28,46 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:50:00Z",
-   "actual": "2026-11-25T02:50:00Z"
+   "actual": "2026-11-25T02:58:00Z"
+  },
+  "UT 301|2026-11-25T03:30:00Z": {
+   "number": "UT 301",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-25T03:30:00Z",
+   "actual": "2026-11-25T03:30:00Z"
+  },
+  "NF 963|2026-11-25T04:30:00Z": {
+   "number": "NF 963",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T04:30:00Z",
+   "actual": "2026-11-25T04:30:00Z"
+  },
+  "UT 309|2026-11-25T05:00:00Z": {
+   "number": "UT 309",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T05:00:00Z",
+   "actual": "2026-11-25T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

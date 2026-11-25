@@ -18,9 +18,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:00:00Z",
-   "actual": "2026-11-25T02:30:00Z"
+   "actual": "2026-11-25T03:24:00Z"
   },
   "PR 51|2026-11-25T02:30:00Z": {
    "number": "PR 51",
@@ -30,7 +30,17 @@
    "model": null,
    "status": "Delayed",
    "scheduled": "2026-11-25T02:30:00Z",
-   "actual": "2026-11-25T03:00:00Z"
+   "actual": "2026-11-25T05:00:00Z"
+  },
+  "4G 9644|2026-11-25T04:50:00Z": {
+   "number": "4G 9644",
+   "airline": "Gazpromavia",
+   "to": "Nadym",
+   "to_name": "Nadym",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T04:50:00Z",
+   "actual": "2026-11-25T04:50:00Z"
   }
  },
  "fetched": [
@@ -38,6 +48,7 @@
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

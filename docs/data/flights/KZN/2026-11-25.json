@@ -81,11 +81,32 @@
    "status": "Canceled",
    "scheduled": "2026-11-25T00:50:00Z",
    "actual": "2026-11-25T00:50:00Z"
+  },
+  "SU 1279|2026-11-25T03:50:00Z": {
+   "number": "SU 1279",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T03:50:00Z",
+   "actual": "2026-11-25T03:50:00Z"
+  },
+  "WZ 1068|2026-11-25T04:25:00Z": {
+   "number": "WZ 1068",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T04:25:00Z",
+   "actual": "2026-11-25T04:25:00Z"
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

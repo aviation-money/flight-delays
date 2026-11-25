@@ -41,11 +41,22 @@
    "status": "Departed",
    "scheduled": "2026-11-24T22:26:00Z",
    "actual": "2026-11-24T22:26:00Z"
+  },
+  "WZ 557|2026-11-25T03:40:00Z": {
+   "number": "WZ 557",
+   "airline": "Red Wings",
+   "to": "TBS",
+   "to_name": "Tbilisi",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-25T03:40:00Z",
+   "actual": "2026-11-25T03:40:00Z"
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

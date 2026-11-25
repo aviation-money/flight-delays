@@ -78,9 +78,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "CheckIn",
    "scheduled": "2026-11-25T01:25:00Z",
-   "actual": "2026-11-25T02:30:00Z"
+   "actual": "2026-11-25T04:35:00Z"
   },
   "YC 188|2026-11-25T01:45:00Z": {
    "number": "YC 188",
@@ -88,9 +88,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "CheckIn",
    "scheduled": "2026-11-25T01:45:00Z",
-   "actual": "2026-11-25T02:45:00Z"
+   "actual": "2026-11-25T04:30:00Z"
   },
   "UT 1426|2026-11-25T02:20:00Z": {
    "number": "UT 1426",
@@ -120,7 +120,7 @@
    "model": "Boeing 737-800",
    "status": "CheckIn",
    "scheduled": "2026-11-25T03:00:00Z",
-   "actual": "2026-11-25T03:00:00Z"
+   "actual": "2026-11-25T05:00:00Z"
   },
   "DP 436|2026-11-25T02:00:00Z": {
    "number": "DP 436",
@@ -130,7 +130,7 @@
    "model": "Boeing 737-800",
    "status": "CheckIn",
    "scheduled": "2026-11-25T02:00:00Z",
-   "actual": "2026-11-25T03:00:00Z"
+   "actual": "2026-11-25T05:05:00Z"
   },
   "DP 344|2026-11-25T01:35:00Z": {
    "number": "DP 344",
@@ -140,13 +140,14 @@
    "model": "Boeing 737-800",
    "status": "CheckIn",
    "scheduled": "2026-11-25T01:35:00Z",
-   "actual": "2026-11-25T03:05:00Z"
+   "actual": "2026-11-25T05:05:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

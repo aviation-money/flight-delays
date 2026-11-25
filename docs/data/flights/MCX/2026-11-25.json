@@ -7,7 +7,7 @@
    "airline": "flydubai",
    "to": "DXB",
    "to_name": "Dubai",
-   "model": "Boeing 737",
+   "model": "Boeing 737 MAX 8",
    "status": "Expected",
    "scheduled": "2026-11-25T00:20:00Z",
    "actual": null
@@ -21,11 +21,22 @@
    "status": "Expected",
    "scheduled": "2026-11-25T03:00:00Z",
    "actual": null
+  },
+  "DP 6926|2026-11-25T05:00:00Z": {
+   "number": "DP 6926",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T05:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

@@ -18,9 +18,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:00:00Z",
-   "actual": "2026-11-25T02:35:00Z"
+   "actual": "2026-11-25T03:16:00Z"
   },
   "FV 6582|2026-11-25T01:30:00Z": {
    "number": "FV 6582",
@@ -38,9 +38,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:20:00Z",
-   "actual": "2026-11-25T02:20:00Z"
+   "actual": "2026-11-25T02:25:00Z"
   },
   "DP 570|2026-11-25T00:20:00Z": {
    "number": "DP 570",
@@ -48,15 +48,16 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:20:00Z",
-   "actual": "2026-11-25T02:45:00Z"
+   "actual": "2026-11-25T02:56:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

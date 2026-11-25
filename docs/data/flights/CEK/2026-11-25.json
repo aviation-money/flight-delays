@@ -18,9 +18,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:05:00Z",
-   "actual": "2026-11-25T01:35:00Z"
+   "actual": "2026-11-25T01:58:00Z"
   },
   "FV 6462|2026-11-25T01:25:00Z": {
    "number": "FV 6462",
@@ -38,9 +38,9 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:25:00Z",
-   "actual": "2026-11-25T02:25:00Z"
+   "actual": "2026-11-25T02:27:00Z"
   },
   "SM 912|2026-11-25T02:45:00Z": {
    "number": "SM 912",
@@ -48,15 +48,46 @@
    "to": "Sharm el Sheikh",
    "to_name": "Sharm el Sheikh",
    "model": "Airbus",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:45:00Z",
-   "actual": "2026-11-25T02:45:00Z"
+   "actual": "2026-11-25T02:55:00Z"
+  },
+  "DP 550|2026-11-25T00:40:00Z": {
+   "number": "DP 550",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T00:40:00Z",
+   "actual": "2026-11-25T03:35:00Z"
+  },
+  "DP 6572|2026-11-25T01:00:00Z": {
+   "number": "DP 6572",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T01:00:00Z",
+   "actual": "2026-11-25T04:35:00Z"
+  },
+  "UJ 698|2026-11-25T04:45:00Z": {
+   "number": "UJ 698",
+   "airline": "AlMasria",
+   "to": "Sharm el Sheikh",
+   "to_name": "Sharm el Sheikh",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T04:45:00Z",
+   "actual": "2026-11-25T04:45:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

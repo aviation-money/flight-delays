@@ -58,7 +58,7 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Embraer 190",
-   "status": "GateClosed",
+   "status": "Expected",
    "scheduled": "2026-11-25T01:25:00Z",
    "actual": "2026-11-25T01:25:00Z"
   },
@@ -68,9 +68,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:05:00Z",
-   "actual": "2026-11-25T02:05:00Z"
+   "actual": "2026-11-25T03:46:00Z"
   },
   "N4 308|2026-11-25T02:50:00Z": {
    "number": "N4 308",
@@ -81,6 +81,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-25T02:50:00Z",
    "actual": null
+  },
+  "IQ 522|2026-11-25T04:00:00Z": {
+   "number": "IQ 522",
+   "airline": "Qazaq Air",
+   "to": "NQZ",
+   "to_name": "Astana",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "Expected",
+   "scheduled": "2026-11-25T04:00:00Z",
+   "actual": "2026-11-25T04:00:00Z"
   }
  },
  "fetched": [
@@ -88,6 +98,7 @@
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

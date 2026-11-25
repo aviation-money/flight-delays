@@ -78,14 +78,35 @@
    "to": "TMJ",
    "to_name": "Termez",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:30:00Z",
-   "actual": "2026-11-25T02:30:00Z"
+   "actual": "2026-11-25T03:35:00Z"
+  },
+  "U6 2141|2026-11-25T03:40:00Z": {
+   "number": "U6 2141",
+   "airline": "Ural",
+   "to": "FEG",
+   "to_name": "Fergana",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T03:40:00Z",
+   "actual": "2026-11-25T03:40:00Z"
+  },
+  "U6 2127|2026-11-25T04:00:00Z": {
+   "number": "U6 2127",
+   "airline": "Ural",
+   "to": "KSQ",
+   "to_name": "Khanabad",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T04:00:00Z",
+   "actual": "2026-11-25T04:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

@@ -8,15 +8,106 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:05:00Z",
-   "actual": "2026-11-25T03:05:00Z"
+   "actual": "2026-11-25T03:38:00Z"
+  },
+  "S7 2572|2026-11-25T03:20:00Z": {
+   "number": "S7 2572",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T03:20:00Z",
+   "actual": "2026-11-25T03:20:00Z"
+  },
+  "RT 336|2026-11-25T03:50:00Z": {
+   "number": "RT 336",
+   "airline": "UVT Aero",
+   "to": "UUA",
+   "to_name": "Bugulma",
+   "model": "Bombardier CRJ200",
+   "status": "Departed",
+   "scheduled": "2026-11-25T03:50:00Z",
+   "actual": "2026-11-25T03:50:00Z"
+  },
+  "S7 5336|2026-11-25T02:50:00Z": {
+   "number": "S7 5336",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-25T02:50:00Z",
+   "actual": "2026-11-25T03:54:00Z"
+  },
+  "YAL 24128|2026-11-25T03:00:00Z": {
+   "number": "YAL 24128",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T03:00:00Z",
+   "actual": "2026-11-25T04:00:00Z"
+  },
+  "RT 556|2026-11-25T04:05:00Z": {
+   "number": "RT 556",
+   "airline": "UVT Aero",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Bombardier CRJ200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T04:05:00Z",
+   "actual": "2026-11-25T04:05:00Z"
+  },
+  "4G 260|2026-11-25T04:20:00Z": {
+   "number": "4G 260",
+   "airline": "Gazpromavia",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T04:20:00Z",
+   "actual": "2026-11-25T04:20:00Z"
+  },
+  "4G 9814|2026-11-25T03:30:00Z": {
+   "number": "4G 9814",
+   "airline": "Gazpromavia",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-25T03:30:00Z",
+   "actual": "2026-11-25T04:30:00Z"
+  },
+  "YC 845|2026-11-25T04:40:00Z": {
+   "number": "YC 845",
+   "airline": "Yamal",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T04:40:00Z",
+   "actual": "2026-11-25T04:40:00Z"
+  },
+  "4G 9847|2026-11-25T05:00:00Z": {
+   "number": "4G 9847",
+   "airline": "Gazpromavia",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T05:00:00Z",
+   "actual": "2026-11-25T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

@@ -11,11 +11,22 @@
    "status": "Departed",
    "scheduled": "2026-11-24T23:55:00Z",
    "actual": "2026-11-25T00:06:00Z"
+  },
+  "RT 9776|2026-11-25T04:00:00Z": {
+   "number": "RT 9776",
+   "airline": "UVT Aero",
+   "to": "Naryan Mar",
+   "to_name": "Naryan Mar",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T04:00:00Z",
+   "actual": "2026-11-25T04:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

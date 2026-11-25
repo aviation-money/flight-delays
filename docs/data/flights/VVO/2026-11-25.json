@@ -117,7 +117,7 @@
    "airline": "VietJetAir",
    "to": "CXR",
    "to_name": "Nha Trang",
-   "model": null,
+   "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-24T23:50:00Z",
    "actual": "2026-11-25T01:03:00Z"
@@ -128,7 +128,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:40:00Z",
    "actual": "2026-11-25T01:10:00Z"
   },
@@ -138,7 +138,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:00:00Z",
    "actual": "2026-11-25T01:15:00Z"
   },
@@ -151,6 +151,46 @@
    "status": "Expected",
    "scheduled": "2026-11-25T02:30:00Z",
    "actual": "2026-11-25T02:30:00Z"
+  },
+  "IO 106|2026-11-25T03:55:00Z": {
+   "number": "IO 106",
+   "airline": "IrAero",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-25T03:55:00Z",
+   "actual": "2026-11-25T03:55:00Z"
+  },
+  "JS 272|2026-11-25T04:05:00Z": {
+   "number": "JS 272",
+   "airline": "Air Koryo",
+   "to": "FNJ",
+   "to_name": "Pyongyang-si",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T04:05:00Z",
+   "actual": "2026-11-25T04:05:00Z"
+  },
+  "JS 372|2026-11-25T04:40:00Z": {
+   "number": "JS 372",
+   "airline": "Air Koryo",
+   "to": "FNJ",
+   "to_name": "Pyongyang-si",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T04:40:00Z",
+   "actual": "2026-11-25T04:40:00Z"
+  },
+  "SU 1703|2026-11-25T03:40:00Z": {
+   "number": "SU 1703",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-25T03:40:00Z",
+   "actual": "2026-11-25T04:40:00Z"
   }
  },
  "fetched": [
@@ -160,6 +200,7 @@
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }

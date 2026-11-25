@@ -98,9 +98,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:40:00Z",
-   "actual": "2026-11-25T00:40:00Z"
+   "actual": "2026-11-25T01:05:00Z"
   },
   "PI 207|2026-11-25T01:00:00Z": {
    "number": "PI 207",
@@ -108,9 +108,9 @@
    "to": "SYS",
    "to_name": "Saskylakh",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-25T01:00:00Z",
-   "actual": "2026-11-25T01:00:00Z"
+   "actual": "2026-11-25T03:50:00Z"
   },
   "IO 9127|2026-11-25T01:10:00Z": {
    "number": "IO 9127",
@@ -118,9 +118,9 @@
    "to": "Irkutsk",
    "to_name": "Irkutsk",
    "model": "An-26",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:10:00Z",
-   "actual": "2026-11-25T01:10:00Z"
+   "actual": "2026-11-25T01:54:00Z"
   },
   "IO 103|2026-11-25T01:20:00Z": {
    "number": "IO 103",
@@ -128,9 +128,9 @@
    "to": "IKS",
    "to_name": "Tiksi",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:20:00Z",
-   "actual": "2026-11-25T01:20:00Z"
+   "actual": "2026-11-25T02:34:00Z"
   },
   "R3 479|2026-11-25T01:40:00Z": {
    "number": "R3 479",
@@ -138,9 +138,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-700",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T01:40:00Z",
-   "actual": "2026-11-25T01:40:00Z"
+   "actual": "2026-11-25T01:50:00Z"
   },
   "6R 9977|2026-11-25T02:00:00Z": {
    "number": "6R 9977",
@@ -148,9 +148,9 @@
    "to": "Molodo",
    "to_name": "Molodo",
    "model": "An-38",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:00:00Z",
-   "actual": "2026-11-25T02:00:00Z"
+   "actual": "2026-11-25T02:03:00Z"
   },
   "6R 520|2026-11-25T02:40:00Z": {
    "number": "6R 520",
@@ -158,9 +158,19 @@
    "to": "MJZ",
    "to_name": "Mirny",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T02:40:00Z",
-   "actual": "2026-11-25T02:40:00Z"
+   "actual": "2026-11-25T02:46:00Z"
+  },
+  "PI 9901|2026-11-25T03:30:00Z": {
+   "number": "PI 9901",
+   "airline": "Polar",
+   "to": "Neryungri",
+   "to_name": "Neryungri",
+   "model": "An-24",
+   "status": "Departed",
+   "scheduled": "2026-11-25T03:30:00Z",
+   "actual": "2026-11-25T03:40:00Z"
   }
  },
  "fetched": [
@@ -169,6 +179,7 @@
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
   "2026-11-25T00:07:24Z",
-  "2026-11-25T02:07:25Z"
+  "2026-11-25T02:07:25Z",
+  "2026-11-25T04:07:30Z"
  ]
 }
