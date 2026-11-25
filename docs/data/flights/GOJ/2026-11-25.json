@@ -67,10 +67,20 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
-   "status": "CheckIn",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
    "scheduled": "2026-11-25T16:25:00Z",
-   "actual": "2026-11-25T16:25:00Z"
+   "actual": "2026-11-25T16:57:00Z"
+  },
+  "FV 6108|2026-11-25T17:15:00Z": {
+   "number": "FV 6108",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-25T17:15:00Z",
+   "actual": "2026-11-25T17:24:00Z"
   }
  },
  "fetched": [
@@ -83,6 +93,7 @@
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
-  "2026-11-25T16:07:43Z"
+  "2026-11-25T16:07:43Z",
+  "2026-11-25T18:07:32Z"
  ]
 }

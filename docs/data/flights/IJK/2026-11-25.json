@@ -111,6 +111,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-25T16:30:00Z",
    "actual": null
+  },
+  "FV 6886|2026-11-25T18:30:00Z": {
+   "number": "FV 6886",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T18:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -124,6 +134,7 @@
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
-  "2026-11-25T16:07:43Z"
+  "2026-11-25T16:07:43Z",
+  "2026-11-25T18:07:32Z"
  ]
 }

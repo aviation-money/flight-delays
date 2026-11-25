@@ -8,9 +8,9 @@
    "to": "HRG",
    "to_name": "Hurghada",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:35:00Z",
-   "actual": "2026-11-25T15:45:00Z"
+   "actual": "2026-11-25T16:24:00Z"
   },
   "UT 478|2026-11-24T21:35:00Z": {
    "number": "UT 478",
@@ -168,9 +168,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T10:05:00Z",
-   "actual": "2026-11-25T16:15:00Z"
+   "actual": "2026-11-25T16:31:00Z"
   },
   "S7 1074|2026-11-25T16:50:00Z": {
    "number": "S7 1074",
@@ -178,9 +178,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T16:50:00Z",
-   "actual": "2026-11-25T16:50:00Z"
+   "actual": "2026-11-25T17:08:00Z"
   },
   "RT 246|2026-11-25T17:05:00Z": {
    "number": "RT 246",
@@ -188,9 +188,29 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T17:05:00Z",
-   "actual": "2026-11-25T17:05:00Z"
+   "actual": "2026-11-25T17:18:00Z"
+  },
+  "SU 1215|2026-11-25T16:55:00Z": {
+   "number": "SU 1215",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T16:55:00Z",
+   "actual": "2026-11-25T17:32:00Z"
+  },
+  "DP 572|2026-11-25T17:40:00Z": {
+   "number": "DP 572",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T17:40:00Z",
+   "actual": "2026-11-25T17:40:00Z"
   }
  },
  "fetched": [
@@ -204,6 +224,7 @@
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
-  "2026-11-25T16:07:43Z"
+  "2026-11-25T16:07:43Z",
+  "2026-11-25T18:07:32Z"
  ]
 }

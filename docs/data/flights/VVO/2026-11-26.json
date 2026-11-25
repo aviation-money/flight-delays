@@ -8,7 +8,7 @@
    "to": "PVG",
    "to_name": "Shanghai",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T14:10:00Z",
    "actual": "2026-11-25T14:13:00Z"
   },
@@ -41,10 +41,31 @@
    "status": "Expected",
    "scheduled": "2026-11-25T16:55:00Z",
    "actual": "2026-11-25T16:55:00Z"
+  },
+  "S7 6215|2026-11-25T17:10:00Z": {
+   "number": "S7 6215",
+   "airline": "S7",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T17:10:00Z",
+   "actual": "2026-11-25T17:10:00Z"
+  },
+  "FV 6645|2026-11-25T19:05:00Z": {
+   "number": "FV 6645",
+   "airline": "Rossiya",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T19:05:00Z",
+   "actual": "2026-11-25T19:05:00Z"
   }
  },
  "fetched": [
   "2026-11-25T14:07:25Z",
-  "2026-11-25T16:07:43Z"
+  "2026-11-25T16:07:43Z",
+  "2026-11-25T18:07:32Z"
  ]
 }

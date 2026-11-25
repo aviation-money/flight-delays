@@ -1,0 +1,59 @@
+{
+ "airport": "OVB",
+ "date": "2026-11-26",
+ "flights": {
+  "S7 5277|2026-11-25T17:05:00Z": {
+   "number": "S7 5277",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-25T17:05:00Z",
+   "actual": "2026-11-25T17:11:00Z"
+  },
+  "S7 5503|2026-11-25T17:30:00Z": {
+   "number": "S7 5503",
+   "airline": "S7",
+   "to": "ALA",
+   "to_name": "Almaty",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-25T17:30:00Z",
+   "actual": "2026-11-25T17:33:00Z"
+  },
+  "S7 5245|2026-11-25T17:40:00Z": {
+   "number": "S7 5245",
+   "airline": "S7",
+   "to": "NER",
+   "to_name": "Neryungri",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T17:40:00Z",
+   "actual": "2026-11-25T17:40:00Z"
+  },
+  "S7 5255|2026-11-25T17:45:00Z": {
+   "number": "S7 5255",
+   "airline": "S7",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T17:45:00Z",
+   "actual": "2026-11-25T17:45:00Z"
+  },
+  "SU 636|2026-11-25T18:10:00Z": {
+   "number": "SU 636",
+   "airline": "Aeroflot",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 777-300ER",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T18:10:00Z",
+   "actual": "2026-11-25T18:10:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T18:07:32Z"
+ ]
+}

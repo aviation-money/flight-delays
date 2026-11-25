@@ -48,9 +48,19 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T15:40:00Z",
-   "actual": "2026-11-25T15:40:00Z"
+   "actual": "2026-11-25T17:35:00Z"
+  },
+  "FV 6408|2026-11-25T17:50:00Z": {
+   "number": "FV 6408",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "SSJ 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-25T17:50:00Z",
+   "actual": "2026-11-25T17:50:00Z"
   }
  },
  "fetched": [
@@ -63,6 +73,7 @@
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
-  "2026-11-25T16:07:43Z"
+  "2026-11-25T16:07:43Z",
+  "2026-11-25T18:07:32Z"
  ]
 }

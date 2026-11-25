@@ -38,9 +38,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T15:55:00Z",
-   "actual": "2026-11-25T15:55:00Z"
+   "actual": "2026-11-25T16:43:00Z"
   },
   "WZ 5048|2026-11-25T16:10:00Z": {
    "number": "WZ 5048",
@@ -48,9 +48,19 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T16:10:00Z",
-   "actual": "2026-11-25T16:10:00Z"
+   "actual": "2026-11-25T16:52:00Z"
+  },
+  "DP 578|2026-11-25T17:55:00Z": {
+   "number": "DP 578",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T17:55:00Z",
+   "actual": "2026-11-25T18:20:00Z"
   }
  },
  "fetched": [
@@ -63,6 +73,7 @@
   "2026-11-25T08:07:27Z",
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
-  "2026-11-25T16:07:43Z"
+  "2026-11-25T16:07:43Z",
+  "2026-11-25T18:07:32Z"
  ]
 }

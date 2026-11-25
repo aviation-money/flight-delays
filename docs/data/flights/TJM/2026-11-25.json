@@ -338,9 +338,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T15:45:00Z",
-   "actual": "2026-11-25T16:00:00Z"
+   "actual": "2026-11-25T16:32:00Z"
   },
   "UT 102|2026-11-25T16:30:00Z": {
    "number": "UT 102",
@@ -348,9 +348,19 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T16:30:00Z",
-   "actual": "2026-11-25T16:30:00Z"
+   "actual": "2026-11-25T16:38:00Z"
+  },
+  "UT 299|2026-11-25T17:35:00Z": {
+   "number": "UT 299",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-25T17:35:00Z",
+   "actual": "2026-11-25T17:35:00Z"
   }
  },
  "fetched": [
@@ -364,6 +374,7 @@
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
-  "2026-11-25T16:07:43Z"
+  "2026-11-25T16:07:43Z",
+  "2026-11-25T18:07:32Z"
  ]
 }
