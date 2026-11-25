@@ -18,9 +18,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:25:00Z",
-   "actual": "2026-11-24T21:25:00Z"
+   "actual": "2026-11-24T21:30:00Z"
   },
   "R3 401|2026-11-24T21:35:00Z": {
    "number": "R3 401",
@@ -28,9 +28,9 @@
    "to": "CYX",
    "to_name": "Cherskiy",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:35:00Z",
-   "actual": "2026-11-24T21:35:00Z"
+   "actual": "2026-11-24T22:31:00Z"
   },
   "IO 9195|2026-11-24T22:00:00Z": {
    "number": "IO 9195",
@@ -38,9 +38,9 @@
    "to": "Belaya Gora",
    "to_name": "Belaya Gora",
    "model": "An-26",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:00:00Z",
-   "actual": "2026-11-24T22:00:00Z"
+   "actual": "2026-11-24T22:10:00Z"
   },
   "PI 213|2026-11-24T22:20:00Z": {
    "number": "PI 213",
@@ -48,15 +48,76 @@
    "to": "BQJ",
    "to_name": "Batagay",
    "model": "Dhc8-300",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:20:00Z",
-   "actual": "2026-11-24T22:20:00Z"
+   "actual": "2026-11-24T22:22:00Z"
+  },
+  "S7 5262|2026-11-24T22:10:00Z": {
+   "number": "S7 5262",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Delayed",
+   "scheduled": "2026-11-24T22:10:00Z",
+   "actual": "2026-11-24T23:10:00Z"
+  },
+  "PI 235|2026-11-24T23:40:00Z": {
+   "number": "PI 235",
+   "airline": "Polar",
+   "to": "Ust-Kuyga",
+   "to_name": "Ust-Kuyga",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-24T23:40:00Z",
+   "actual": "2026-11-24T23:40:00Z"
+  },
+  "SU 1751|2026-11-24T23:55:00Z": {
+   "number": "SU 1751",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-24T23:55:00Z",
+   "actual": "2026-11-24T23:55:00Z"
+  },
+  "PI 9925|2026-11-25T00:20:00Z": {
+   "number": "PI 9925",
+   "airline": "Polar",
+   "to": "Zhigansk",
+   "to_name": "Zhigansk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T00:20:00Z",
+   "actual": "2026-11-25T00:20:00Z"
+  },
+  "S7 6208|2026-11-25T00:40:00Z": {
+   "number": "S7 6208",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T00:40:00Z",
+   "actual": "2026-11-25T00:40:00Z"
+  },
+  "PI 207|2026-11-25T01:00:00Z": {
+   "number": "PI 207",
+   "airline": "Polar",
+   "to": "SYS",
+   "to_name": "Saskylakh",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-25T01:00:00Z",
+   "actual": "2026-11-25T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T16:07:28Z",
   "2026-11-24T18:07:36Z",
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

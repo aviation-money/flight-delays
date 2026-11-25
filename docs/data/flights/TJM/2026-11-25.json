@@ -11,10 +11,31 @@
    "status": "Departed",
    "scheduled": "2026-11-24T19:10:00Z",
    "actual": "2026-11-24T19:13:00Z"
+  },
+  "NE 483|2026-11-24T23:10:00Z": {
+   "number": "NE 483",
+   "airline": "Nesma",
+   "to": "Sharm el Sheikh",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-24T23:10:00Z",
+   "actual": "2026-11-24T23:35:00Z"
+  },
+  "FV 6452|2026-11-25T00:45:00Z": {
+   "number": "FV 6452",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T00:45:00Z",
+   "actual": "2026-11-25T00:45:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

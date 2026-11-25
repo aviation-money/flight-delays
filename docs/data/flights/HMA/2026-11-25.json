@@ -1,9 +1,31 @@
 {
  "airport": "HMA",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "UT 300|2026-11-25T00:25:00Z": {
+   "number": "UT 300",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T00:25:00Z",
+   "actual": "2026-11-25T00:25:00Z"
+  },
+  "S7 7092|2026-11-24T23:45:00Z": {
+   "number": "S7 7092",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T23:45:00Z",
+   "actual": "2026-11-25T00:35:00Z"
+  }
+ },
  "fetched": [
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

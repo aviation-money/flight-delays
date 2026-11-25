@@ -8,13 +8,44 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:50:00Z",
-   "actual": "2026-11-24T22:50:00Z"
+   "actual": "2026-11-24T22:58:00Z"
+  },
+  "DP 502|2026-11-25T00:05:00Z": {
+   "number": "DP 502",
+   "airline": "Pobeda",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T00:05:00Z",
+   "actual": "2026-11-25T00:05:00Z"
+  },
+  "FV 6442|2026-11-25T00:10:00Z": {
+   "number": "FV 6442",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T00:10:00Z",
+   "actual": "2026-11-25T00:10:00Z"
+  },
+  "SU 1511|2026-11-24T23:30:00Z": {
+   "number": "SU 1511",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T23:30:00Z",
+   "actual": "2026-11-25T00:20:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

@@ -1,9 +1,21 @@
 {
  "airport": "REN",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "SU 1245|2026-11-25T01:05:00Z": {
+   "number": "SU 1245",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T01:05:00Z",
+   "actual": "2026-11-25T01:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

@@ -58,7 +58,7 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:05:00Z",
    "actual": "2026-11-24T21:32:00Z"
   },
@@ -88,9 +88,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:00:00Z",
-   "actual": "2026-11-24T22:00:00Z"
+   "actual": "2026-11-24T22:14:00Z"
   },
   "U6 572|2026-11-24T22:20:00Z": {
    "number": "U6 572",
@@ -100,7 +100,7 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-24T22:20:00Z",
-   "actual": "2026-11-24T22:20:00Z"
+   "actual": "2026-11-24T22:46:00Z"
   },
   "S7 5204|2026-11-24T22:50:00Z": {
    "number": "S7 5204",
@@ -110,7 +110,37 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-24T22:50:00Z",
-   "actual": "2026-11-24T22:50:00Z"
+   "actual": "2026-11-24T23:34:00Z"
+  },
+  "VJ 5217|2026-11-24T23:50:00Z": {
+   "number": "VJ 5217",
+   "airline": "VietJetAir",
+   "to": "CXR",
+   "to_name": "Nha Trang",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-24T23:50:00Z",
+   "actual": "2026-11-25T00:40:00Z"
+  },
+  "HZ 5680|2026-11-25T00:40:00Z": {
+   "number": "HZ 5680",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-25T00:40:00Z",
+   "actual": "2026-11-25T00:40:00Z"
+  },
+  "FV 5701|2026-11-25T01:00:00Z": {
+   "number": "FV 5701",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-25T01:00:00Z",
+   "actual": "2026-11-25T01:00:00Z"
   }
  },
  "fetched": [
@@ -118,6 +148,7 @@
   "2026-11-24T16:07:28Z",
   "2026-11-24T18:07:36Z",
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

@@ -1,8 +1,20 @@
 {
  "airport": "GRV",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "UT 733|2026-11-25T00:05:00Z": {
+   "number": "UT 733",
+   "airline": "UTAir",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T00:05:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

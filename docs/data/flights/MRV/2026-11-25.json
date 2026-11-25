@@ -8,12 +8,33 @@
    "to": "CEK",
    "to_name": "Chelyabinsk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:10:00Z",
-   "actual": "2026-11-24T22:10:00Z"
+   "actual": "2026-11-24T22:45:00Z"
+  },
+  "FZ 978|2026-11-25T00:30:00Z": {
+   "number": "FZ 978",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T00:30:00Z",
+   "actual": "2026-11-25T00:30:00Z"
+  },
+  "A4 6307|2026-11-24T22:45:00Z": {
+   "number": "A4 6307",
+   "airline": "Azimuth",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-24T22:45:00Z",
+   "actual": "2026-11-25T00:45:00Z"
   }
  },
  "fetched": [
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

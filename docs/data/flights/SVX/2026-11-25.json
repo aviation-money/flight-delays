@@ -47,7 +47,7 @@
    "airline": "AZAL Azerbaijan",
    "to": "GYD",
    "to_name": "Baku",
-   "model": "Airbus A320",
+   "model": "Airbus A319",
    "status": "Departed",
    "scheduled": "2026-11-24T21:50:00Z",
    "actual": "2026-11-24T21:51:00Z"
@@ -57,7 +57,7 @@
    "airline": "flydubai",
    "to": "DXB",
    "to_name": "Dubai",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737 MAX 8",
    "status": "Departed",
    "scheduled": "2026-11-24T21:20:00Z",
    "actual": "2026-11-24T22:03:00Z"
@@ -68,13 +68,64 @@
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
    "model": "Bombardier CRJ",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:25:00Z",
-   "actual": "2026-11-24T22:25:00Z"
+   "actual": "2026-11-24T22:47:00Z"
+  },
+  "4S 332|2026-11-24T23:50:00Z": {
+   "number": "4S 332",
+   "airline": "Solar Cargo",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T23:50:00Z",
+   "actual": "2026-11-24T23:50:00Z"
+  },
+  "FV 6122|2026-11-25T00:05:00Z": {
+   "number": "FV 6122",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T00:05:00Z",
+   "actual": "2026-11-25T00:20:00Z"
+  },
+  "SU 674|2026-11-25T00:45:00Z": {
+   "number": "SU 674",
+   "airline": "Aeroflot",
+   "to": "GOI",
+   "to_name": "Vasco da Gama",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T00:45:00Z",
+   "actual": "2026-11-25T00:45:00Z"
+  },
+  "FV 6402|2026-11-25T01:00:00Z": {
+   "number": "FV 6402",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T01:00:00Z",
+   "actual": "2026-11-25T01:00:00Z"
+  },
+  "DP 563|2026-11-25T00:50:00Z": {
+   "number": "DP 563",
+   "airline": "Pobeda",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T00:50:00Z",
+   "actual": "2026-11-25T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

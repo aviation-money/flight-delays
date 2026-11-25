@@ -88,9 +88,9 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:10:00Z",
-   "actual": "2026-11-24T22:10:00Z"
+   "actual": "2026-11-24T22:09:00Z"
   },
   "5N 501|2026-11-24T22:25:00Z": {
    "number": "5N 501",
@@ -98,9 +98,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:25:00Z",
-   "actual": "2026-11-24T22:25:00Z"
+   "actual": "2026-11-24T22:24:00Z"
   },
   "FV 6979|2026-11-24T22:55:00Z": {
    "number": "FV 6979",
@@ -108,12 +108,83 @@
    "to": "SKD",
    "to_name": "Samarkand",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:55:00Z",
-   "actual": "2026-11-24T22:55:00Z"
+   "actual": "2026-11-24T23:17:00Z"
+  },
+  "TK 404|2026-11-24T23:10:00Z": {
+   "number": "TK 404",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-24T23:10:00Z",
+   "actual": "2026-11-24T23:09:00Z"
+  },
+  "PC 397|2026-11-24T23:30:00Z": {
+   "number": "PC 397",
+   "airline": "Pegasus",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Airbus A321 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-24T23:30:00Z",
+   "actual": "2026-11-24T23:31:00Z"
+  },
+  "NE 691|2026-11-24T23:35:00Z": {
+   "number": "NE 691",
+   "airline": "Nesma",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-24T23:35:00Z",
+   "actual": "2026-11-24T23:35:00Z"
+  },
+  "UJ 772|2026-11-24T22:20:00Z": {
+   "number": "UJ 772",
+   "airline": "AlMasria",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T22:20:00Z",
+   "actual": "2026-11-24T23:40:00Z"
+  },
+  "UJ 626|2026-11-24T21:05:00Z": {
+   "number": "UJ 626",
+   "airline": "AlMasria",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T21:05:00Z",
+   "actual": "2026-11-25T00:05:00Z"
+  },
+  "YC 846|2026-11-25T00:20:00Z": {
+   "number": "YC 846",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T00:20:00Z",
+   "actual": "2026-11-25T00:20:00Z"
+  },
+  "VF 292|2026-11-25T00:35:00Z": {
+   "number": "VF 292",
+   "airline": "AJet",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T00:35:00Z",
+   "actual": "2026-11-25T00:35:00Z"
   }
  },
  "fetched": [
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

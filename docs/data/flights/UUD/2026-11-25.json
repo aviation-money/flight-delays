@@ -8,9 +8,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:40:00Z",
-   "actual": "2026-11-24T21:40:00Z"
+   "actual": "2026-11-24T22:15:00Z"
   },
   "S7 5256|2026-11-24T21:15:00Z": {
    "number": "S7 5256",
@@ -28,15 +28,16 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:00:00Z",
-   "actual": "2026-11-24T23:00:00Z"
+   "actual": "2026-11-24T23:21:00Z"
   }
  },
  "fetched": [
   "2026-11-24T16:07:28Z",
   "2026-11-24T18:07:36Z",
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

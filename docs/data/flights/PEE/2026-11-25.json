@@ -11,10 +11,21 @@
    "status": "Departed",
    "scheduled": "2026-11-24T21:15:00Z",
    "actual": "2026-11-24T21:15:00Z"
+  },
+  "DP 6512|2026-11-25T01:00:00Z": {
+   "number": "DP 6512",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T01:00:00Z",
+   "actual": "2026-11-25T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }

@@ -18,9 +18,9 @@
    "to": "NSK",
    "to_name": "Norilsk",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:15:00Z",
-   "actual": "2026-11-24T22:15:00Z"
+   "actual": "2026-11-24T22:38:00Z"
   },
   "KV 9411|2026-11-24T23:05:00Z": {
    "number": "KV 9411",
@@ -28,13 +28,54 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Yak 42",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:05:00Z",
-   "actual": "2026-11-24T23:05:00Z"
+   "actual": "2026-11-24T23:17:00Z"
+  },
+  "UT 6109|2026-11-24T23:40:00Z": {
+   "number": "UT 6109",
+   "airline": "UTAir",
+   "to": "IAA",
+   "to_name": "Igarka",
+   "model": "Boeing 737-400",
+   "status": "Canceled",
+   "scheduled": "2026-11-24T23:40:00Z",
+   "actual": "2026-11-24T23:40:00Z"
+  },
+  "UT 6111|2026-11-24T23:10:00Z": {
+   "number": "UT 6111",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Boeing 737-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T23:10:00Z",
+   "actual": "2026-11-25T00:10:00Z"
+  },
+  "FV 5975|2026-11-24T21:55:00Z": {
+   "number": "FV 5975",
+   "airline": "Rossiya",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-24T21:55:00Z",
+   "actual": "2026-11-25T00:15:00Z"
+  },
+  "FV 6412|2026-11-25T00:30:00Z": {
+   "number": "FV 6412",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T00:30:00Z",
+   "actual": "2026-11-25T00:30:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
-  "2026-11-24T22:07:26Z"
+  "2026-11-24T22:07:26Z",
+  "2026-11-25T00:07:24Z"
  ]
 }
