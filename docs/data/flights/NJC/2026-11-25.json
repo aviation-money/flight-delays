@@ -91,6 +91,26 @@
    "status": "Unknown",
    "scheduled": "2026-11-25T09:35:00Z",
    "actual": null
+  },
+  "UT 316|2026-11-25T11:30:00Z": {
+   "number": "UT 316",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-25T11:30:00Z",
+   "actual": null
+  },
+  "U6 8737|2026-11-25T12:35:00Z": {
+   "number": "U6 8737",
+   "airline": "Ural",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-25T12:35:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -101,6 +121,7 @@
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
-  "2026-11-25T10:07:26Z"
+  "2026-11-25T10:07:26Z",
+  "2026-11-25T12:07:25Z"
  ]
 }

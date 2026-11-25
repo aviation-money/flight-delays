@@ -178,9 +178,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T05:40:00Z",
-   "actual": "2026-11-25T09:45:00Z"
+   "actual": "2026-11-25T10:01:00Z"
   },
   "4G 489|2026-11-25T10:10:00Z": {
    "number": "4G 489",
@@ -198,9 +198,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Yak 42",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T10:30:00Z",
-   "actual": "2026-11-25T10:30:00Z"
+   "actual": "2026-11-25T10:43:00Z"
   },
   "YAL 25977|2026-11-25T10:40:00Z": {
    "number": "YAL 25977",
@@ -211,6 +211,46 @@
    "status": "Expected",
    "scheduled": "2026-11-25T10:40:00Z",
    "actual": "2026-11-25T10:40:00Z"
+  },
+  "YAL 25977|2026-11-25T10:50:00Z": {
+   "number": "YAL 25977",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "TQL",
+   "to_name": "Tarko-Sale",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T10:50:00Z",
+   "actual": "2026-11-25T10:50:00Z"
+  },
+  "4G 489|2026-11-25T11:00:00Z": {
+   "number": "4G 489",
+   "airline": "Gazpromavia",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T11:00:00Z",
+   "actual": "2026-11-25T11:10:00Z"
+  },
+  "UT 186|2026-11-25T11:30:00Z": {
+   "number": "UT 186",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T11:30:00Z",
+   "actual": "2026-11-25T11:30:00Z"
+  },
+  "YC 146|2026-11-25T11:45:00Z": {
+   "number": "YC 146",
+   "airline": "Yamal",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T11:45:00Z",
+   "actual": "2026-11-25T11:45:00Z"
   }
  },
  "fetched": [
@@ -221,6 +261,7 @@
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
-  "2026-11-25T10:07:26Z"
+  "2026-11-25T10:07:26Z",
+  "2026-11-25T12:07:25Z"
  ]
 }

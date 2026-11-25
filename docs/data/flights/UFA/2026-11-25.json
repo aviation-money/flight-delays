@@ -168,7 +168,7 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "Boeing 737-500",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T08:10:00Z",
    "actual": "2026-11-25T11:00:00Z"
   },
@@ -188,16 +188,16 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T09:45:00Z",
-   "actual": "2026-11-25T09:45:00Z"
+   "actual": "2026-11-25T10:14:00Z"
   },
   "SU 1237|2026-11-25T07:45:00Z": {
    "number": "SU 1237",
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-25T07:45:00Z",
    "actual": "2026-11-25T09:47:00Z"
@@ -218,9 +218,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:05:00Z",
-   "actual": "2026-11-25T10:10:00Z"
+   "actual": "2026-11-25T11:02:00Z"
   },
   "B2 962|2026-11-25T10:10:00Z": {
    "number": "B2 962",
@@ -228,7 +228,7 @@
    "to": "MSQ",
    "to_name": "Minsk",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T10:10:00Z",
    "actual": "2026-11-25T10:10:00Z"
   },
@@ -248,9 +248,39 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T10:55:00Z",
-   "actual": "2026-11-25T10:55:00Z"
+   "actual": "2026-11-25T11:18:00Z"
+  },
+  "FV 6606|2026-11-25T09:30:00Z": {
+   "number": "FV 6606",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-25T09:30:00Z",
+   "actual": "2026-11-25T11:26:00Z"
+  },
+  "S7 5046|2026-11-25T11:25:00Z": {
+   "number": "S7 5046",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-25T11:25:00Z",
+   "actual": "2026-11-25T11:38:00Z"
+  },
+  "SU 1235|2026-11-25T11:35:00Z": {
+   "number": "SU 1235",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T11:35:00Z",
+   "actual": "2026-11-25T11:56:00Z"
   }
  },
  "fetched": [
@@ -261,6 +291,7 @@
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
-  "2026-11-25T10:07:26Z"
+  "2026-11-25T10:07:26Z",
+  "2026-11-25T12:07:25Z"
  ]
 }

@@ -35,9 +35,9 @@
   "DP 941|2026-11-25T08:30:00Z": {
    "number": "DP 941",
    "airline": "Pobeda",
-   "to": "IST",
+   "to": "Istanbul",
    "to_name": "Istanbul",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Unknown",
    "scheduled": "2026-11-25T08:30:00Z",
    "actual": null
@@ -55,7 +55,7 @@
   "DP 6922|2026-11-25T09:50:00Z": {
    "number": "DP 6922",
    "airline": "Pobeda",
-   "to": "SVO",
+   "to": "Moscow",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Unknown",
@@ -81,6 +81,46 @@
    "status": "Expected",
    "scheduled": "2026-11-25T10:25:00Z",
    "actual": null
+  },
+  "A4 5008|2026-11-25T11:20:00Z": {
+   "number": "A4 5008",
+   "airline": "Azimuth",
+   "to": "Sochi",
+   "to_name": "Sochi",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T11:20:00Z",
+   "actual": null
+  },
+  "SU 1055|2026-11-25T11:40:00Z": {
+   "number": "SU 1055",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-25T11:40:00Z",
+   "actual": null
+  },
+  "U6 1344|2026-11-25T12:20:00Z": {
+   "number": "U6 1344",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T12:20:00Z",
+   "actual": null
+  },
+  "DP 6924|2026-11-25T13:00:00Z": {
+   "number": "DP 6924",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T13:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -90,6 +130,7 @@
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
-  "2026-11-25T10:07:26Z"
+  "2026-11-25T10:07:26Z",
+  "2026-11-25T12:07:25Z"
  ]
 }

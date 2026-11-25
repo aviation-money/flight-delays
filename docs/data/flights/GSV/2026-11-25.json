@@ -1,7 +1,28 @@
 {
  "airport": "GSV",
  "date": "2026-11-25",
- "flights": {},
+ "flights": {
+  "SU 1357|2026-11-25T07:55:00Z": {
+   "number": "SU 1357",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T07:55:00Z",
+   "actual": "2026-11-25T10:59:00Z"
+  },
+  "DP 330|2026-11-25T06:35:00Z": {
+   "number": "DP 330",
+   "airline": "Pobeda",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-25T06:35:00Z",
+   "actual": "2026-11-25T11:37:00Z"
+  }
+ },
  "fetched": [
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
@@ -9,6 +30,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T12:07:25Z"
  ]
 }
