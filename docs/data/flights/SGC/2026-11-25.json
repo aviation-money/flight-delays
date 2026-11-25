@@ -178,9 +178,19 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T08:25:00Z",
    "actual": "2026-11-25T08:25:00Z"
+  },
+  "WZ 1018|2026-11-25T10:25:00Z": {
+   "number": "WZ 1018",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T10:25:00Z",
+   "actual": "2026-11-25T10:25:00Z"
   }
  },
  "fetched": [
@@ -190,6 +200,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }

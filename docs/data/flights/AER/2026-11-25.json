@@ -75,7 +75,7 @@
   "A4 5069|2026-11-25T07:27:00Z": {
    "number": "A4 5069",
    "airline": "Azimuth",
-   "to": "IST",
+   "to": "Istanbul",
    "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
@@ -88,9 +88,79 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T08:05:00Z",
-   "actual": "2026-11-25T08:20:00Z"
+   "actual": "2026-11-25T08:28:00Z"
+  },
+  "A4 6110|2026-11-25T09:01:00Z": {
+   "number": "A4 6110",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-25T09:01:00Z",
+   "actual": "2026-11-25T09:01:00Z"
+  },
+  "SU 1123|2026-11-25T09:28:00Z": {
+   "number": "SU 1123",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-25T09:28:00Z",
+   "actual": "2026-11-25T09:28:00Z"
+  },
+  "FV 6560|2026-11-25T09:05:00Z": {
+   "number": "FV 6560",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-25T09:05:00Z",
+   "actual": "2026-11-25T09:53:00Z"
+  },
+  "UT 512|2026-11-25T09:50:00Z": {
+   "number": "UT 512",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T09:50:00Z",
+   "actual": "2026-11-25T10:10:00Z"
+  },
+  "EY 858|2026-11-25T10:25:00Z": {
+   "number": "EY 858",
+   "airline": "Etihad",
+   "to": "AUH",
+   "to_name": "Abu Dhabi",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T10:25:00Z",
+   "actual": "2026-11-25T10:25:00Z"
+  },
+  "S7 5104|2026-11-25T10:10:00Z": {
+   "number": "S7 5104",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T10:10:00Z",
+   "actual": "2026-11-25T10:40:00Z"
+  },
+  "SU 1137|2026-11-25T10:20:00Z": {
+   "number": "SU 1137",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-25T10:20:00Z",
+   "actual": "2026-11-25T11:00:00Z"
   }
  },
  "fetched": [
@@ -99,6 +169,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }

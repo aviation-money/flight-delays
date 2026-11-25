@@ -218,7 +218,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T06:15:00Z",
    "actual": "2026-11-25T06:58:00Z"
   },
@@ -238,7 +238,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T06:50:00Z",
    "actual": "2026-11-25T06:58:00Z"
   },
@@ -250,7 +250,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-25T07:00:00Z",
-   "actual": "2026-11-25T07:50:00Z"
+   "actual": "2026-11-25T08:00:00Z"
   },
   "S7 6219|2026-11-25T08:30:00Z": {
    "number": "S7 6219",
@@ -258,9 +258,19 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T08:30:00Z",
-   "actual": "2026-11-25T08:30:00Z"
+   "actual": "2026-11-25T08:35:00Z"
+  },
+  "FV 7701|2026-11-25T09:30:00Z": {
+   "number": "FV 7701",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T09:30:00Z",
+   "actual": "2026-11-25T09:45:00Z"
   }
  },
  "fetched": [
@@ -273,6 +283,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }

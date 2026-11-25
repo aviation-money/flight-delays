@@ -268,7 +268,7 @@
    "to": "Tura",
    "to_name": "Tura",
    "model": "An-24",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:30:00Z",
    "actual": "2026-11-25T08:30:00Z"
   },
@@ -288,9 +288,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T07:50:00Z",
    "actual": "2026-11-25T07:50:00Z"
+  },
+  "UT 572|2026-11-25T00:10:00Z": {
+   "number": "UT 572",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T00:10:00Z",
+   "actual": "2026-11-25T10:50:00Z"
   }
  },
  "fetched": [
@@ -301,6 +311,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }

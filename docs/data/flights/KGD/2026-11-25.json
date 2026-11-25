@@ -48,19 +48,19 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T08:20:00Z",
-   "actual": "2026-11-25T08:20:00Z"
+   "actual": "2026-11-25T08:25:00Z"
   },
   "N4 884|2026-11-25T08:45:00Z": {
    "number": "N4 884",
    "airline": "Nordwind",
    "to": "PEE",
    "to_name": "Perm",
-   "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-25T08:45:00Z",
-   "actual": "2026-11-25T08:45:00Z"
+   "actual": "2026-11-25T08:49:00Z"
   },
   "N4 855|2026-11-25T08:50:00Z": {
    "number": "N4 855",
@@ -77,10 +77,10 @@
    "airline": "Rossiya",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-900",
-   "status": "CheckIn",
+   "model": "Boeing 737",
+   "status": "GateClosed",
    "scheduled": "2026-11-25T08:55:00Z",
-   "actual": "2026-11-25T08:55:00Z"
+   "actual": "2026-11-25T09:05:00Z"
   },
   "5N 506|2026-11-25T09:00:00Z": {
    "number": "5N 506",
@@ -88,9 +88,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T09:00:00Z",
-   "actual": "2026-11-25T09:00:00Z"
+   "actual": "2026-11-25T09:31:00Z"
   },
   "LUK 9623|2026-11-25T09:00:00Z": {
    "number": "LUK 9623",
@@ -101,6 +101,46 @@
    "status": "Expected",
    "scheduled": "2026-11-25T09:00:00Z",
    "actual": "2026-11-25T09:00:00Z"
+  },
+  "DP 6836|2026-11-25T09:25:00Z": {
+   "number": "DP 6836",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-25T09:25:00Z",
+   "actual": "2026-11-25T10:00:00Z"
+  },
+  "U6 372|2026-11-25T10:00:00Z": {
+   "number": "U6 372",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T10:00:00Z",
+   "actual": "2026-11-25T10:20:00Z"
+  },
+  "DP 530|2026-11-25T06:40:00Z": {
+   "number": "DP 530",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T06:40:00Z",
+   "actual": "2026-11-25T10:50:00Z"
+  },
+  "N4 282|2026-11-25T10:20:00Z": {
+   "number": "N4 282",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T10:20:00Z",
+   "actual": "2026-11-25T11:05:00Z"
   }
  },
  "fetched": [
@@ -109,6 +149,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }

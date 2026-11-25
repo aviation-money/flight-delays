@@ -58,9 +58,9 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T08:30:00Z",
-   "actual": "2026-11-25T08:30:00Z"
+   "actual": "2026-11-25T08:34:00Z"
   },
   "UT 157|2026-11-25T09:05:00Z": {
    "number": "UT 157",
@@ -68,7 +68,7 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T09:05:00Z",
    "actual": "2026-11-25T09:05:00Z"
   }
@@ -81,6 +81,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }

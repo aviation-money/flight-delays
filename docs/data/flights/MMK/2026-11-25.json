@@ -48,9 +48,39 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T08:40:00Z",
-   "actual": "2026-11-25T08:40:00Z"
+   "actual": "2026-11-25T09:39:00Z"
+  },
+  "5N 508|2026-11-25T09:40:00Z": {
+   "number": "5N 508",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T09:40:00Z",
+   "actual": "2026-11-25T09:40:00Z"
+  },
+  "FV 6344|2026-11-25T09:10:00Z": {
+   "number": "FV 6344",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T09:10:00Z",
+   "actual": "2026-11-25T09:55:00Z"
+  },
+  "SU 1323|2026-11-25T10:15:00Z": {
+   "number": "SU 1323",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T10:15:00Z",
+   "actual": "2026-11-25T11:00:00Z"
   }
  },
  "fetched": [
@@ -59,6 +89,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }

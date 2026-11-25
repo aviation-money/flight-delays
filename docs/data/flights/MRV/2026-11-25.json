@@ -91,6 +91,56 @@
    "status": "Departed",
    "scheduled": "2026-11-25T07:00:00Z",
    "actual": "2026-11-25T07:26:00Z"
+  },
+  "SU 1311|2026-11-25T09:10:00Z": {
+   "number": "SU 1311",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T09:10:00Z",
+   "actual": "2026-11-25T09:25:00Z"
+  },
+  "A4 6153|2026-11-25T09:45:00Z": {
+   "number": "A4 6153",
+   "airline": "Azimuth",
+   "to": "TBS",
+   "to_name": "Tbilisi",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T09:45:00Z",
+   "actual": "2026-11-25T09:45:00Z"
+  },
+  "A4 1128|2026-11-25T10:35:00Z": {
+   "number": "A4 1128",
+   "airline": "Azimuth",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-25T10:35:00Z",
+   "actual": "2026-11-25T10:35:00Z"
+  },
+  "A4 6069|2026-11-25T11:00:00Z": {
+   "number": "A4 6069",
+   "airline": "Azimuth",
+   "to": "Istanbul",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T11:00:00Z",
+   "actual": "2026-11-25T11:00:00Z"
+  },
+  "FV 6356|2026-11-25T10:20:00Z": {
+   "number": "FV 6356",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T10:20:00Z",
+   "actual": "2026-11-25T11:05:00Z"
   }
  },
  "fetched": [
@@ -99,6 +149,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }

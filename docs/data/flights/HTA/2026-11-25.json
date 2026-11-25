@@ -108,9 +108,19 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T07:15:00Z",
-   "actual": "2026-11-25T08:00:00Z"
+   "actual": "2026-11-25T08:01:00Z"
+  },
+  "IO 106|2026-11-25T09:50:00Z": {
+   "number": "IO 106",
+   "airline": "IrAero",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T09:50:00Z",
+   "actual": "2026-11-25T10:20:00Z"
   }
  },
  "fetched": [
@@ -122,6 +132,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }

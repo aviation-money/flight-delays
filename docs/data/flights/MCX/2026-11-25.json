@@ -41,6 +41,46 @@
    "status": "Unknown",
    "scheduled": "2026-11-25T08:30:00Z",
    "actual": null
+  },
+  "SU 1053|2026-11-25T09:20:00Z": {
+   "number": "SU 1053",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-25T09:20:00Z",
+   "actual": null
+  },
+  "DP 6922|2026-11-25T09:50:00Z": {
+   "number": "DP 6922",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T09:50:00Z",
+   "actual": null
+  },
+  "A4 6012|2026-11-25T09:55:00Z": {
+   "number": "A4 6012",
+   "airline": "Azimuth",
+   "to": "Mineralnyye Vody",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T09:55:00Z",
+   "actual": null
+  },
+  "DP 505|2026-11-25T10:25:00Z": {
+   "number": "DP 505",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T10:25:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -49,6 +89,7 @@
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
   "2026-11-25T06:07:25Z",
-  "2026-11-25T08:07:27Z"
+  "2026-11-25T08:07:27Z",
+  "2026-11-25T10:07:26Z"
  ]
 }
