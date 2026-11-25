@@ -1,0 +1,29 @@
+{
+ "airport": "AER",
+ "date": "2026-11-26",
+ "flights": {
+  "A4 5007|2026-11-25T21:10:00Z": {
+   "number": "A4 5007",
+   "airline": "Azimuth",
+   "to": "Makhachkala",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-25T21:10:00Z",
+   "actual": "2026-11-25T21:47:00Z"
+  },
+  "SU 1133|2026-11-25T22:30:00Z": {
+   "number": "SU 1133",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T22:30:00Z",
+   "actual": "2026-11-25T22:30:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T22:07:26Z"
+ ]
+}

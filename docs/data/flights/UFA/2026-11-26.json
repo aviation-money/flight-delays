@@ -18,12 +18,23 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T20:05:00Z",
-   "actual": "2026-11-25T20:15:00Z"
+   "actual": "2026-11-25T21:11:00Z"
+  },
+  "Y7 4011|2026-11-25T22:15:00Z": {
+   "number": "Y7 4011",
+   "airline": "NordStar",
+   "to": "NSK",
+   "to_name": "Norilsk",
+   "model": "Boeing 737-800",
+   "status": "Canceled",
+   "scheduled": "2026-11-25T22:15:00Z",
+   "actual": "2026-11-25T22:15:00Z"
   }
  },
  "fetched": [
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

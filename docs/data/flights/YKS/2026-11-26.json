@@ -8,14 +8,35 @@
    "to": "Srednekolymsk",
    "to_name": "Srednekolymsk",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:00:00Z",
-   "actual": "2026-11-25T21:00:00Z"
+   "actual": "2026-11-25T21:19:00Z"
+  },
+  "S7 6402|2026-11-25T21:25:00Z": {
+   "number": "S7 6402",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Boeing 737-800",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T21:25:00Z",
+   "actual": "2026-11-25T21:45:00Z"
+  },
+  "S7 5262|2026-11-25T22:10:00Z": {
+   "number": "S7 5262",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T22:10:00Z",
+   "actual": "2026-11-25T22:30:00Z"
   }
  },
  "fetched": [
   "2026-11-25T16:07:43Z",
   "2026-11-25T18:07:32Z",
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

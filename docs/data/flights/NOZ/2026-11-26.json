@@ -8,9 +8,9 @@
    "to": "CXR",
    "to_name": "Nha Trang",
    "model": "Airbus A321 NEO",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T19:15:00Z",
-   "actual": "2026-11-25T19:15:00Z"
+   "actual": "2026-11-25T19:11:00Z"
   },
   "WZ 5092|2026-11-25T20:05:00Z": {
    "number": "WZ 5092",
@@ -18,13 +18,14 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T20:05:00Z",
-   "actual": "2026-11-25T20:05:00Z"
+   "actual": "2026-11-25T20:14:00Z"
   }
  },
  "fetched": [
   "2026-11-25T18:07:32Z",
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

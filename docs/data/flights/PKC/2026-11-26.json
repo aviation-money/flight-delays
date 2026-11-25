@@ -1,12 +1,54 @@
 {
  "airport": "PKC",
  "date": "2026-11-26",
- "flights": {},
+ "flights": {
+  "HZ 5617|2026-11-25T21:30:00Z": {
+   "number": "HZ 5617",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-25T21:30:00Z",
+   "actual": "2026-11-25T21:38:00Z"
+  },
+  "S7 6216|2026-11-25T21:35:00Z": {
+   "number": "S7 6216",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-25T21:35:00Z",
+   "actual": "2026-11-25T21:45:00Z"
+  },
+  "PTK 173|2026-11-25T22:00:00Z": {
+   "number": "PTK 173",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Yak 40",
+   "status": "Canceled",
+   "scheduled": "2026-11-25T22:00:00Z",
+   "actual": "2026-11-25T22:00:00Z"
+  },
+  "TGA 2653|2026-11-25T22:20:00Z": {
+   "number": "TGA 2653",
+   "airline": "Taiga",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-25T22:20:00Z",
+   "actual": "2026-11-25T23:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
   "2026-11-25T16:07:43Z",
   "2026-11-25T18:07:32Z",
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

@@ -8,12 +8,13 @@
    "to": "Norilsk",
    "to_name": "Norilsk",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T20:30:00Z",
-   "actual": "2026-11-25T21:00:00Z"
+   "actual": "2026-11-25T21:35:00Z"
   }
  },
  "fetched": [
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

@@ -1,0 +1,29 @@
+{
+ "airport": "MRV",
+ "date": "2026-11-26",
+ "flights": {
+  "A4 6185|2026-11-25T21:40:00Z": {
+   "number": "A4 6185",
+   "airline": "Azimuth",
+   "to": "Omsk",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T21:40:00Z",
+   "actual": "2026-11-25T21:40:00Z"
+  },
+  "A4 6081|2026-11-25T21:20:00Z": {
+   "number": "A4 6081",
+   "airline": "Azimuth",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T21:20:00Z",
+   "actual": "2026-11-25T21:50:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T22:07:26Z"
+ ]
+}

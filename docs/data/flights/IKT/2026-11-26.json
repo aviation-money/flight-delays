@@ -48,7 +48,7 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T17:15:00Z",
    "actual": null
   },
@@ -131,11 +131,102 @@
    "status": "Expected",
    "scheduled": "2026-11-25T21:00:00Z",
    "actual": null
+  },
+  "IO 183|2026-11-25T21:20:00Z": {
+   "number": "IO 183",
+   "airline": "IrAero",
+   "to": "Chara",
+   "to_name": "Chara",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T21:20:00Z",
+   "actual": null
+  },
+  "IO 180|2026-11-25T21:30:00Z": {
+   "number": "IO 180",
+   "airline": "IrAero",
+   "to": "ULK",
+   "to_name": "Lensk",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T21:30:00Z",
+   "actual": null
+  },
+  "IO 1141|2026-11-25T21:55:00Z": {
+   "number": "IO 1141",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-25T21:55:00Z",
+   "actual": null
+  },
+  "S7 5228|2026-11-25T22:15:00Z": {
+   "number": "S7 5228",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-25T22:15:00Z",
+   "actual": null
+  },
+  "IO 311|2026-11-25T22:30:00Z": {
+   "number": "IO 311",
+   "airline": "IrAero",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-25T22:30:00Z",
+   "actual": null
+  },
+  "IO 382|2026-11-25T22:30:00Z": {
+   "number": "IO 382",
+   "airline": "IrAero",
+   "to": "Mama",
+   "to_name": "Mama",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T22:30:00Z",
+   "actual": null
+  },
+  "UT 165|2026-11-25T22:45:00Z": {
+   "number": "UT 165",
+   "airline": "UTAir",
+   "to": "UKX",
+   "to_name": "Ust-Kut",
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T22:45:00Z",
+   "actual": null
+  },
+  "IO 117|2026-11-25T22:55:00Z": {
+   "number": "IO 117",
+   "airline": "IrAero",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-25T22:55:00Z",
+   "actual": null
+  },
+  "IO 151|2026-11-25T23:00:00Z": {
+   "number": "IO 151",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-25T23:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-25T16:07:43Z",
   "2026-11-25T18:07:32Z",
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

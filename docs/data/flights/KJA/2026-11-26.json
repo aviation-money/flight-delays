@@ -18,7 +18,7 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T20:00:00Z",
    "actual": "2026-11-25T20:00:00Z"
   },
@@ -28,13 +28,54 @@
    "to": "BAX",
    "to_name": "Barnaul",
    "model": "ATR 42-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T20:30:00Z",
    "actual": "2026-11-25T20:30:00Z"
+  },
+  "FV 6877|2026-11-25T21:45:00Z": {
+   "number": "FV 6877",
+   "airline": "Rossiya",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T21:45:00Z",
+   "actual": "2026-11-25T21:45:00Z"
+  },
+  "KV 105|2026-11-25T21:50:00Z": {
+   "number": "KV 105",
+   "airline": "KrasAvia",
+   "to": "NOZ",
+   "to_name": "Novokuznetsk",
+   "model": "ATR 42-500",
+   "status": "Expected",
+   "scheduled": "2026-11-25T21:50:00Z",
+   "actual": "2026-11-25T21:50:00Z"
+  },
+  "S7 5310|2026-11-25T21:15:00Z": {
+   "number": "S7 5310",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T21:15:00Z",
+   "actual": "2026-11-25T22:00:00Z"
+  },
+  "VJ 6852|2026-11-25T22:00:00Z": {
+   "number": "VJ 6852",
+   "airline": "VietJetAir",
+   "to": "Fukuok",
+   "to_name": "Fukuok",
+   "model": "Airbus A330-300",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T22:00:00Z",
+   "actual": "2026-11-25T22:50:00Z"
   }
  },
  "fetched": [
   "2026-11-25T18:07:32Z",
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

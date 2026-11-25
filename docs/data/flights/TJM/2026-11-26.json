@@ -18,12 +18,13 @@
    "to": "Moscow",
    "to_name": "Moscow",
    "model": "125",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T20:40:00Z",
-   "actual": "2026-11-25T20:40:00Z"
+   "actual": "2026-11-25T21:44:00Z"
   }
  },
  "fetched": [
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

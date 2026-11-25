@@ -1,0 +1,79 @@
+{
+ "airport": "VKO",
+ "date": "2026-11-26",
+ "flights": {
+  "FZ 952|2026-11-25T21:25:00Z": {
+   "number": "FZ 952",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T21:25:00Z",
+   "actual": "2026-11-25T21:25:00Z"
+  },
+  "TK 410|2026-11-25T21:35:00Z": {
+   "number": "TK 410",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T21:35:00Z",
+   "actual": "2026-11-25T21:40:00Z"
+  },
+  "J2 810|2026-11-25T21:55:00Z": {
+   "number": "J2 810",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Boeing 767-300",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T21:55:00Z",
+   "actual": "2026-11-25T21:55:00Z"
+  },
+  "DP 743D|2026-11-25T21:05:00Z": {
+   "number": "DP 743D",
+   "airline": "Pobeda",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T21:05:00Z",
+   "actual": "2026-11-25T21:55:00Z"
+  },
+  "HY 606|2026-11-25T22:00:00Z": {
+   "number": "HY 606",
+   "airline": "Uzbekistan",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T22:00:00Z",
+   "actual": "2026-11-25T22:00:00Z"
+  },
+  "DP 997D|2026-11-25T22:10:00Z": {
+   "number": "DP 997D",
+   "airline": "Pobeda",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T22:10:00Z",
+   "actual": "2026-11-25T22:10:00Z"
+  },
+  "TK 412|2026-11-25T23:05:00Z": {
+   "number": "TK 412",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A330-300",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T23:05:00Z",
+   "actual": "2026-11-25T23:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T22:07:26Z"
+ ]
+}

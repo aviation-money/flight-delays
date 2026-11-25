@@ -8,9 +8,9 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T20:00:00Z",
-   "actual": "2026-11-25T20:00:00Z"
+   "actual": "2026-11-25T20:26:00Z"
   },
   "UT 431|2026-11-25T21:00:00Z": {
    "number": "UT 431",
@@ -18,12 +18,13 @@
    "to": "TLK",
    "to_name": "Talakan",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:00:00Z",
-   "actual": "2026-11-25T21:00:00Z"
+   "actual": "2026-11-25T21:47:00Z"
   }
  },
  "fetched": [
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

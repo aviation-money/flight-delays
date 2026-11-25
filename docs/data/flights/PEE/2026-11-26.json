@@ -18,12 +18,23 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T20:00:00Z",
-   "actual": "2026-11-25T20:00:00Z"
+   "actual": "2026-11-25T20:11:00Z"
+  },
+  "NE 421|2026-11-25T21:50:00Z": {
+   "number": "NE 421",
+   "airline": "Nesma",
+   "to": "Hurghada",
+   "to_name": "Hurghada",
+   "model": "Airbus",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T21:50:00Z",
+   "actual": "2026-11-25T21:50:00Z"
   }
  },
  "fetched": [
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }

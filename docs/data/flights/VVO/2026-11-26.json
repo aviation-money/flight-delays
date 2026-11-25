@@ -38,7 +38,7 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T16:55:00Z",
    "actual": "2026-11-25T17:24:00Z"
   },
@@ -48,7 +48,7 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T17:10:00Z",
    "actual": "2026-11-25T17:34:00Z"
   },
@@ -60,7 +60,7 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-25T19:05:00Z",
-   "actual": "2026-11-25T19:50:00Z"
+   "actual": "2026-11-25T20:28:00Z"
   },
   "S7 5202|2026-11-25T19:50:00Z": {
    "number": "S7 5202",
@@ -70,7 +70,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-25T19:50:00Z",
-   "actual": "2026-11-25T19:50:00Z"
+   "actual": "2026-11-25T20:40:00Z"
   },
   "CZ 8326|2026-11-25T20:15:00Z": {
    "number": "CZ 8326",
@@ -80,13 +80,44 @@
    "model": "Airbus A320 NEO",
    "status": "Expected",
    "scheduled": "2026-11-25T20:15:00Z",
-   "actual": "2026-11-25T20:15:00Z"
+   "actual": "2026-11-25T20:30:00Z"
+  },
+  "HZ 5600|2026-11-25T22:00:00Z": {
+   "number": "HZ 5600",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-25T22:00:00Z",
+   "actual": "2026-11-25T22:00:00Z"
+  },
+  "HZ 517|2026-11-25T23:00:00Z": {
+   "number": "HZ 517",
+   "airline": "Aurora",
+   "to": "KVR",
+   "to_name": "Kavalerovo",
+   "model": "De Havilland Canada DHC-6 Twin Otter",
+   "status": "Expected",
+   "scheduled": "2026-11-25T23:00:00Z",
+   "actual": "2026-11-25T23:00:00Z"
+  },
+  "S7 6203|2026-11-25T23:05:00Z": {
+   "number": "S7 6203",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T23:05:00Z",
+   "actual": "2026-11-25T23:05:00Z"
   }
  },
  "fetched": [
   "2026-11-25T14:07:25Z",
   "2026-11-25T16:07:43Z",
   "2026-11-25T18:07:32Z",
-  "2026-11-25T20:07:27Z"
+  "2026-11-25T20:07:27Z",
+  "2026-11-25T22:07:26Z"
  ]
 }
