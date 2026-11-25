@@ -298,7 +298,7 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:10:00Z",
    "actual": "2026-11-25T11:40:00Z"
   },
@@ -328,7 +328,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T12:25:00Z",
    "actual": "2026-11-25T12:25:00Z"
   },
@@ -338,7 +338,7 @@
    "to": "PVG",
    "to_name": "Shanghai",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T12:50:00Z",
    "actual": "2026-11-25T12:50:00Z"
   },
@@ -348,9 +348,69 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T13:05:00Z",
    "actual": "2026-11-25T13:05:00Z"
+  },
+  "FV 6621|2026-11-25T13:15:00Z": {
+   "number": "FV 6621",
+   "airline": "Rossiya",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-25T13:15:00Z",
+   "actual": "2026-11-25T13:15:00Z"
+  },
+  "S7 6432|2026-11-25T13:40:00Z": {
+   "number": "S7 6432",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-25T13:40:00Z",
+   "actual": "2026-11-25T13:40:00Z"
+  },
+  "FV 6685|2026-11-25T14:25:00Z": {
+   "number": "FV 6685",
+   "airline": "Rossiya",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-25T14:25:00Z",
+   "actual": "2026-11-25T14:25:00Z"
+  },
+  "VJ 6852|2026-11-25T14:55:00Z": {
+   "number": "VJ 6852",
+   "airline": "VietJetAir",
+   "to": "Fukuok",
+   "to_name": "Fukuok",
+   "model": "Airbus A330-300",
+   "status": "Expected",
+   "scheduled": "2026-11-25T14:55:00Z",
+   "actual": "2026-11-25T14:55:00Z"
+  },
+  "UT 9046|2026-11-25T15:00:00Z": {
+   "number": "UT 9046",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-500",
+   "status": "Expected",
+   "scheduled": "2026-11-25T15:00:00Z",
+   "actual": "2026-11-25T15:00:00Z"
+  },
+  "S7 5320|2026-11-25T15:00:00Z": {
+   "number": "S7 5320",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T15:00:00Z",
+   "actual": "2026-11-25T15:00:00Z"
   }
  },
  "fetched": [
@@ -363,6 +423,7 @@
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
-  "2026-11-25T12:07:25Z"
+  "2026-11-25T12:07:25Z",
+  "2026-11-25T14:07:25Z"
  ]
 }

@@ -10,7 +10,7 @@
    "model": null,
    "status": "Delayed",
    "scheduled": "2026-11-24T21:35:00Z",
-   "actual": "2026-11-25T03:00:00Z"
+   "actual": "2026-11-25T14:30:00Z"
   },
   "UT 478|2026-11-24T21:35:00Z": {
    "number": "UT 478",
@@ -107,7 +107,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-25T06:25:00Z",
    "actual": "2026-11-25T11:26:00Z"
@@ -138,9 +138,29 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T10:40:00Z",
-   "actual": "2026-11-25T11:55:00Z"
+   "actual": "2026-11-25T12:29:00Z"
+  },
+  "S7 5032|2026-11-25T11:25:00Z": {
+   "number": "S7 5032",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T11:25:00Z",
+   "actual": "2026-11-25T14:05:00Z"
+  },
+  "FV 6392|2026-11-25T13:50:00Z": {
+   "number": "FV 6392",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T13:50:00Z",
+   "actual": "2026-11-25T14:30:00Z"
   }
  },
  "fetched": [
@@ -152,6 +172,7 @@
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
-  "2026-11-25T12:07:25Z"
+  "2026-11-25T12:07:25Z",
+  "2026-11-25T14:07:25Z"
  ]
 }

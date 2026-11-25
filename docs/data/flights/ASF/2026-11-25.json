@@ -148,9 +148,59 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T09:40:00Z",
+   "actual": "2026-11-25T12:20:00Z"
+  },
+  "ЛЩ 9653|2026-11-25T10:00:00Z": {
+   "number": "ЛЩ 9653",
+   "airline": "Mars Avia",
+   "to": "Korchagina-MLSP",
+   "to_name": "Korchagina-MLSP",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-25T10:00:00Z",
+   "actual": "2026-11-25T10:07:00Z"
+  },
+  "ЛЩ 9655|2026-11-25T11:15:00Z": {
+   "number": "ЛЩ 9655",
+   "airline": "Mars Avia",
+   "to": "Korchagina-MLSP",
+   "to_name": "Korchagina-MLSP",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-25T11:15:00Z",
+   "actual": "2026-11-25T11:25:00Z"
+  },
+  "ЛЩ 9691|2026-11-25T12:00:00Z": {
+   "number": "ЛЩ 9691",
+   "airline": "Mars Avia",
+   "to": "Makhachkala",
+   "to_name": "Makhachkala",
+   "model": null,
+   "status": "Canceled",
+   "scheduled": "2026-11-25T12:00:00Z",
    "actual": "2026-11-25T12:00:00Z"
+  },
+  "DP 6964|2026-11-25T11:55:00Z": {
+   "number": "DP 6964",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-25T11:55:00Z",
+   "actual": "2026-11-25T13:32:00Z"
+  },
+  "SU 1643|2026-11-25T14:35:00Z": {
+   "number": "SU 1643",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-25T14:35:00Z",
+   "actual": "2026-11-25T14:35:00Z"
   }
  },
  "fetched": [
@@ -162,6 +212,7 @@
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
-  "2026-11-25T12:07:25Z"
+  "2026-11-25T12:07:25Z",
+  "2026-11-25T14:07:25Z"
  ]
 }

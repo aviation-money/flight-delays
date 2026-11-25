@@ -118,9 +118,39 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T12:10:00Z",
-   "actual": "2026-11-25T12:50:00Z"
+   "actual": "2026-11-25T13:40:00Z"
+  },
+  "N4 883|2026-11-25T13:25:00Z": {
+   "number": "N4 883",
+   "airline": "Nordwind",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-25T13:25:00Z",
+   "actual": "2026-11-25T13:31:00Z"
+  },
+  "5G 777|2026-11-25T13:15:00Z": {
+   "number": "5G 777",
+   "airline": "Shirak Avia",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-25T13:15:00Z",
+   "actual": "2026-11-25T13:35:00Z"
+  },
+  "RT 245|2026-11-25T15:00:00Z": {
+   "number": "RT 245",
+   "airline": "UVT Aero",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Bombardier",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T15:00:00Z",
+   "actual": "2026-11-25T15:00:00Z"
   }
  },
  "fetched": [
@@ -132,6 +162,7 @@
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
-  "2026-11-25T12:07:25Z"
+  "2026-11-25T12:07:25Z",
+  "2026-11-25T14:07:25Z"
  ]
 }

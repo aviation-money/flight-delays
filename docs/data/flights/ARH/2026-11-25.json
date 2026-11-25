@@ -57,7 +57,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-25T10:00:00Z",
    "actual": "2026-11-25T11:39:00Z"
@@ -68,9 +68,19 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T13:00:00Z",
-   "actual": "2026-11-25T13:00:00Z"
+   "actual": "2026-11-25T13:36:00Z"
+  },
+  "FV 6306|2026-11-25T13:20:00Z": {
+   "number": "FV 6306",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T13:20:00Z",
+   "actual": "2026-11-25T13:20:00Z"
   }
  },
  "fetched": [
@@ -81,6 +91,7 @@
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
-  "2026-11-25T12:07:25Z"
+  "2026-11-25T12:07:25Z",
+  "2026-11-25T14:07:25Z"
  ]
 }

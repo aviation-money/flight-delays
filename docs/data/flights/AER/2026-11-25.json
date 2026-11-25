@@ -218,9 +218,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T05:40:00Z",
-   "actual": "2026-11-25T11:50:00Z"
+   "actual": "2026-11-25T12:01:00Z"
   },
   "FV 6570|2026-11-25T12:35:00Z": {
    "number": "FV 6570",
@@ -231,6 +231,86 @@
    "status": "GateClosed",
    "scheduled": "2026-11-25T12:35:00Z",
    "actual": "2026-11-25T12:35:00Z"
+  },
+  "FV 6570|2026-11-25T12:28:00Z": {
+   "number": "FV 6570",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T12:28:00Z",
+   "actual": "2026-11-25T12:28:00Z"
+  },
+  "UT 268|2026-11-25T12:10:00Z": {
+   "number": "UT 268",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-25T12:10:00Z",
+   "actual": "2026-11-25T13:14:00Z"
+  },
+  "Y7 401|2026-11-25T13:35:00Z": {
+   "number": "Y7 401",
+   "airline": "NordStar",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T13:35:00Z",
+   "actual": "2026-11-25T13:58:00Z"
+  },
+  "SU 1151|2026-11-25T13:05:00Z": {
+   "number": "SU 1151",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T13:05:00Z",
+   "actual": "2026-11-25T14:05:00Z"
+  },
+  "SU 1125|2026-11-25T14:05:00Z": {
+   "number": "SU 1125",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T14:05:00Z",
+   "actual": "2026-11-25T14:25:00Z"
+  },
+  "A4 5051|2026-11-25T14:30:00Z": {
+   "number": "A4 5051",
+   "airline": "Azimuth",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T14:30:00Z",
+   "actual": "2026-11-25T14:30:00Z"
+  },
+  "YC 186|2026-11-25T14:20:00Z": {
+   "number": "YC 186",
+   "airline": "Yamal",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T14:20:00Z",
+   "actual": "2026-11-25T14:35:00Z"
+  },
+  "DP 337|2026-11-25T10:35:00Z": {
+   "number": "DP 337",
+   "airline": "Pobeda",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T10:35:00Z",
+   "actual": "2026-11-25T15:00:00Z"
   }
  },
  "fetched": [
@@ -241,6 +321,7 @@
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
-  "2026-11-25T12:07:25Z"
+  "2026-11-25T12:07:25Z",
+  "2026-11-25T14:07:25Z"
  ]
 }

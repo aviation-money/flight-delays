@@ -105,7 +105,7 @@
   "U6 1344|2026-11-25T12:20:00Z": {
    "number": "U6 1344",
    "airline": "Ural",
-   "to": "DME",
+   "to": "Moscow",
    "to_name": "Moscow",
    "model": "Airbus A320",
    "status": "Unknown",
@@ -121,6 +121,16 @@
    "status": "Expected",
    "scheduled": "2026-11-25T13:00:00Z",
    "actual": null
+  },
+  "FV 6066|2026-11-25T13:40:00Z": {
+   "number": "FV 6066",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-25T13:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -131,6 +141,7 @@
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
-  "2026-11-25T12:07:25Z"
+  "2026-11-25T12:07:25Z",
+  "2026-11-25T14:07:25Z"
  ]
 }

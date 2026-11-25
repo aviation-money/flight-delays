@@ -111,6 +111,26 @@
    "status": "Departed",
    "scheduled": "2026-11-25T09:50:00Z",
    "actual": "2026-11-25T09:50:00Z"
+  },
+  "UT 352|2026-11-25T13:00:00Z": {
+   "number": "UT 352",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-500",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T13:00:00Z",
+   "actual": "2026-11-25T13:44:00Z"
+  },
+  "UT 315|2026-11-25T13:40:00Z": {
+   "number": "UT 315",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-25T13:40:00Z",
+   "actual": "2026-11-25T13:56:00Z"
   }
  },
  "fetched": [
@@ -122,6 +142,7 @@
   "2026-11-25T06:07:25Z",
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
-  "2026-11-25T12:07:25Z"
+  "2026-11-25T12:07:25Z",
+  "2026-11-25T14:07:25Z"
  ]
 }
