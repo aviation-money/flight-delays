@@ -18,9 +18,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:30:00Z",
-   "actual": "2026-11-25T00:30:00Z"
+   "actual": "2026-11-25T01:19:00Z"
   },
   "A4 6307|2026-11-24T22:45:00Z": {
    "number": "A4 6307",
@@ -28,13 +28,14 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-24T22:45:00Z",
-   "actual": "2026-11-25T00:45:00Z"
+   "actual": "2026-11-25T01:45:00Z"
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

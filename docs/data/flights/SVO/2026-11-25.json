@@ -100,7 +100,7 @@
    "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-24T21:15:00Z",
-   "actual": "2026-11-24T23:15:00Z"
+   "actual": "2026-11-25T00:30:00Z"
   },
   "SU 1382|2026-11-24T21:45:00Z": {
    "number": "SU 1382",
@@ -168,9 +168,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:55:00Z",
-   "actual": "2026-11-24T23:55:00Z"
+   "actual": "2026-11-25T00:11:00Z"
   },
   "SU 1894|2026-11-24T22:00:00Z": {
    "number": "SU 1894",
@@ -280,14 +280,14 @@
    "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-24T22:45:00Z",
-   "actual": "2026-11-24T23:16:00Z"
+   "actual": "2026-11-25T01:26:00Z"
   },
   "2S 86|2026-11-24T21:50:00Z": {
    "number": "2S 86",
    "airline": "Southwind",
    "to": "IST",
    "to_name": "Istanbul",
-   "model": "Boeing 737 MAX 8",
+   "model": "Boeing 737 MAX",
    "status": "Departed",
    "scheduled": "2026-11-24T21:50:00Z",
    "actual": "2026-11-24T23:26:00Z"
@@ -298,9 +298,9 @@
    "to": "DWC",
    "to_name": "Jebel Ali",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:05:00Z",
-   "actual": "2026-11-24T23:45:00Z"
+   "actual": "2026-11-25T00:14:00Z"
   },
   "AT 223|2026-11-24T22:35:00Z": {
    "number": "AT 223",
@@ -320,11 +320,42 @@
    "model": "Airbus A330",
    "status": "Departed",
    "scheduled": "2026-11-24T23:35:00Z",
-   "actual": "2026-11-24T23:40:00Z"
+   "actual": "2026-11-24T23:35:00Z"
+  },
+  "SM 944|2026-11-25T01:25:00Z": {
+   "number": "SM 944",
+   "airline": "Air Cairo",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Airbus A320 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-25T01:25:00Z",
+   "actual": "2026-11-25T02:01:00Z"
+  },
+  "SU 1264|2026-11-25T02:40:00Z": {
+   "number": "SU 1264",
+   "airline": "Aeroflot",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T02:40:00Z",
+   "actual": "2026-11-25T02:40:00Z"
+  },
+  "FV 6039|2026-11-25T03:00:00Z": {
+   "number": "FV 6039",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Canceled",
+   "scheduled": "2026-11-25T03:00:00Z",
+   "actual": "2026-11-25T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

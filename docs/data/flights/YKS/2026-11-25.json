@@ -58,9 +58,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A321",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:10:00Z",
-   "actual": "2026-11-24T23:10:00Z"
+   "actual": "2026-11-25T00:28:00Z"
   },
   "PI 235|2026-11-24T23:40:00Z": {
    "number": "PI 235",
@@ -68,9 +68,9 @@
    "to": "Ust-Kuyga",
    "to_name": "Ust-Kuyga",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:40:00Z",
-   "actual": "2026-11-24T23:40:00Z"
+   "actual": "2026-11-24T23:42:00Z"
   },
   "SU 1751|2026-11-24T23:55:00Z": {
    "number": "SU 1751",
@@ -78,9 +78,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:55:00Z",
-   "actual": "2026-11-24T23:55:00Z"
+   "actual": "2026-11-25T00:09:00Z"
   },
   "PI 9925|2026-11-25T00:20:00Z": {
    "number": "PI 9925",
@@ -88,9 +88,9 @@
    "to": "Zhigansk",
    "to_name": "Zhigansk",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:20:00Z",
-   "actual": "2026-11-25T00:20:00Z"
+   "actual": "2026-11-25T00:30:00Z"
   },
   "S7 6208|2026-11-25T00:40:00Z": {
    "number": "S7 6208",
@@ -111,6 +111,56 @@
    "status": "Expected",
    "scheduled": "2026-11-25T01:00:00Z",
    "actual": "2026-11-25T01:00:00Z"
+  },
+  "IO 9127|2026-11-25T01:10:00Z": {
+   "number": "IO 9127",
+   "airline": "IrAero",
+   "to": "Irkutsk",
+   "to_name": "Irkutsk",
+   "model": "An-26",
+   "status": "Expected",
+   "scheduled": "2026-11-25T01:10:00Z",
+   "actual": "2026-11-25T01:10:00Z"
+  },
+  "IO 103|2026-11-25T01:20:00Z": {
+   "number": "IO 103",
+   "airline": "IrAero",
+   "to": "IKS",
+   "to_name": "Tiksi",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-25T01:20:00Z",
+   "actual": "2026-11-25T01:20:00Z"
+  },
+  "R3 479|2026-11-25T01:40:00Z": {
+   "number": "R3 479",
+   "airline": "Yakutia",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-700",
+   "status": "Expected",
+   "scheduled": "2026-11-25T01:40:00Z",
+   "actual": "2026-11-25T01:40:00Z"
+  },
+  "6R 9977|2026-11-25T02:00:00Z": {
+   "number": "6R 9977",
+   "airline": "Alrosa",
+   "to": "Molodo",
+   "to_name": "Molodo",
+   "model": "An-38",
+   "status": "Expected",
+   "scheduled": "2026-11-25T02:00:00Z",
+   "actual": "2026-11-25T02:00:00Z"
+  },
+  "6R 520|2026-11-25T02:40:00Z": {
+   "number": "6R 520",
+   "airline": "Alrosa",
+   "to": "MJZ",
+   "to_name": "Mirny",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-25T02:40:00Z",
+   "actual": "2026-11-25T02:40:00Z"
   }
  },
  "fetched": [
@@ -118,6 +168,7 @@
   "2026-11-24T18:07:36Z",
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

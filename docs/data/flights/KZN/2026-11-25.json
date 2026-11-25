@@ -28,9 +28,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737 MAX 8",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:10:00Z",
-   "actual": "2026-11-24T23:10:00Z"
+   "actual": "2026-11-24T23:42:00Z"
   },
   "DP 6992|2026-11-24T23:55:00Z": {
    "number": "DP 6992",
@@ -38,9 +38,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:55:00Z",
-   "actual": "2026-11-24T23:55:00Z"
+   "actual": "2026-11-24T23:25:00Z"
   },
   "N4 248|2026-11-25T18:20:00Z": {
    "number": "N4 248",
@@ -68,9 +68,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Canadair CRJ 200",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:05:00Z",
-   "actual": "2026-11-25T00:05:00Z"
+   "actual": "2026-11-24T23:54:00Z"
   },
   "NE 651|2026-11-25T00:50:00Z": {
    "number": "NE 651",
@@ -85,6 +85,7 @@
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

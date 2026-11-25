@@ -8,9 +8,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:30:00Z",
-   "actual": "2026-11-25T00:30:00Z"
+   "actual": "2026-11-25T00:57:00Z"
   },
   "SU 1093|2026-11-25T01:05:00Z": {
    "number": "SU 1093",
@@ -18,14 +18,45 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-25T01:05:00Z",
-   "actual": "2026-11-25T01:05:00Z"
+   "actual": "2026-11-25T01:35:00Z"
+  },
+  "FV 6462|2026-11-25T01:25:00Z": {
+   "number": "FV 6462",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-25T01:25:00Z",
+   "actual": "2026-11-25T01:33:00Z"
+  },
+  "A4 6024|2026-11-25T02:25:00Z": {
+   "number": "A4 6024",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T02:25:00Z",
+   "actual": "2026-11-25T02:25:00Z"
+  },
+  "SM 912|2026-11-25T02:45:00Z": {
+   "number": "SM 912",
+   "airline": "Air Cairo",
+   "to": "Sharm el Sheikh",
+   "to_name": "Sharm el Sheikh",
+   "model": "Airbus",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T02:45:00Z",
+   "actual": "2026-11-25T02:45:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

@@ -8,14 +8,35 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-25T01:05:00Z",
-   "actual": "2026-11-25T01:05:00Z"
+   "actual": "2026-11-25T01:50:00Z"
+  },
+  "FV 6454|2026-11-25T01:25:00Z": {
+   "number": "FV 6454",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T01:25:00Z",
+   "actual": "2026-11-25T01:45:00Z"
+  },
+  "UJ 758|2026-11-24T23:50:00Z": {
+   "number": "UJ 758",
+   "airline": "AlMasria",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-24T23:50:00Z",
+   "actual": "2026-11-25T01:45:00Z"
   }
  },
  "fetched": [
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

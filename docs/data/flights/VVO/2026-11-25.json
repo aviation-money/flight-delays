@@ -68,7 +68,7 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:10:00Z",
    "actual": "2026-11-24T21:29:00Z"
   },
@@ -120,7 +120,7 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-24T23:50:00Z",
-   "actual": "2026-11-25T00:40:00Z"
+   "actual": "2026-11-25T01:03:00Z"
   },
   "HZ 5680|2026-11-25T00:40:00Z": {
    "number": "HZ 5680",
@@ -130,7 +130,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-25T00:40:00Z",
-   "actual": "2026-11-25T00:40:00Z"
+   "actual": "2026-11-25T01:10:00Z"
   },
   "FV 5701|2026-11-25T01:00:00Z": {
    "number": "FV 5701",
@@ -140,7 +140,17 @@
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-25T01:00:00Z",
-   "actual": "2026-11-25T01:00:00Z"
+   "actual": "2026-11-25T01:15:00Z"
+  },
+  "JS 472|2026-11-25T02:30:00Z": {
+   "number": "JS 472",
+   "airline": "Air Koryo",
+   "to": "FNJ",
+   "to_name": "Pyongyang-si",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T02:30:00Z",
+   "actual": "2026-11-25T02:30:00Z"
   }
  },
  "fetched": [
@@ -149,6 +159,7 @@
   "2026-11-24T18:07:36Z",
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

@@ -68,13 +68,24 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:05:00Z",
-   "actual": "2026-11-25T00:05:00Z"
+   "actual": "2026-11-25T00:59:00Z"
+  },
+  "HH 714|2026-11-25T02:30:00Z": {
+   "number": "HH 714",
+   "airline": "Taban",
+   "to": "TMJ",
+   "to_name": "Termez",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T02:30:00Z",
+   "actual": "2026-11-25T02:30:00Z"
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

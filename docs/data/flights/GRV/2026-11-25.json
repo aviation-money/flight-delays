@@ -5,16 +5,27 @@
   "UT 733|2026-11-25T00:05:00Z": {
    "number": "UT 733",
    "airline": "UTAir",
-   "to": "DWC",
-   "to_name": "Jebel Ali",
+   "to": "Dubai",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T00:05:00Z",
+   "actual": null
+  },
+  "UT 356|2026-11-25T02:45:00Z": {
+   "number": "UT 356",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Expected",
-   "scheduled": "2026-11-25T00:05:00Z",
+   "scheduled": "2026-11-25T02:45:00Z",
    "actual": null
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

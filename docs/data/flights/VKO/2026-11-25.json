@@ -8,9 +8,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:35:00Z",
-   "actual": "2026-11-24T23:20:00Z"
+   "actual": "2026-11-24T23:35:00Z"
   },
   "HY 606|2026-11-24T22:00:00Z": {
    "number": "HY 606",
@@ -38,9 +38,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:15:00Z",
-   "actual": "2026-11-24T23:10:00Z"
+   "actual": "2026-11-24T23:30:00Z"
   },
   "DV 3415|2026-11-24T22:30:00Z": {
    "number": "DV 3415",
@@ -58,9 +58,9 @@
    "to": "CEK",
    "to_name": "Chelyabinsk",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T21:05:00Z",
-   "actual": "2026-11-24T23:20:00Z"
+   "actual": "2026-11-25T01:49:00Z"
   },
   "UT 571B|2026-11-24T23:00:00Z": {
    "number": "UT 571B",
@@ -70,7 +70,7 @@
    "model": "Boeing 737-800",
    "status": "Boarding",
    "scheduled": "2026-11-24T23:00:00Z",
-   "actual": "2026-11-25T01:00:00Z"
+   "actual": "2026-11-25T03:00:00Z"
   },
   "FZ 952|2026-11-24T21:25:00Z": {
    "number": "FZ 952",
@@ -78,9 +78,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737 MAX 8",
-   "status": "GateClosed",
+   "status": "Boarding",
    "scheduled": "2026-11-24T21:25:00Z",
-   "actual": "2026-11-24T23:25:00Z"
+   "actual": "2026-11-25T02:30:00Z"
   },
   "UT 399B|2026-11-24T23:00:00Z": {
    "number": "UT 399B",
@@ -90,7 +90,7 @@
    "model": "Boeing 737-800",
    "status": "Boarding",
    "scheduled": "2026-11-24T23:00:00Z",
-   "actual": "2026-11-25T01:00:00Z"
+   "actual": "2026-11-25T03:00:00Z"
   },
   "UT 453B|2026-11-24T22:00:00Z": {
    "number": "UT 453B",
@@ -100,7 +100,7 @@
    "model": "Boeing 737-800",
    "status": "Boarding",
    "scheduled": "2026-11-24T22:00:00Z",
-   "actual": "2026-11-25T01:00:00Z"
+   "actual": "2026-11-25T03:00:00Z"
   },
   "UT 355|2026-11-24T22:10:00Z": {
    "number": "UT 355",
@@ -110,7 +110,7 @@
    "model": "Boeing 737-800",
    "status": "CheckIn",
    "scheduled": "2026-11-24T22:10:00Z",
-   "actual": "2026-11-25T01:00:00Z"
+   "actual": "2026-11-25T03:00:00Z"
   },
   "UT 559B|2026-11-24T23:00:00Z": {
    "number": "UT 559B",
@@ -120,17 +120,17 @@
    "model": "Boeing 737-800",
    "status": "Boarding",
    "scheduled": "2026-11-24T23:00:00Z",
-   "actual": "2026-11-25T01:00:00Z"
+   "actual": "2026-11-25T03:00:00Z"
   },
   "TK 412|2026-11-24T23:05:00Z": {
    "number": "TK 412",
    "airline": "Turkish",
    "to": "IST",
    "to_name": "Istanbul",
-   "model": "Airbus A321",
-   "status": "GateClosed",
+   "model": "Boeing 777-300ER",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:05:00Z",
-   "actual": "2026-11-25T00:05:00Z"
+   "actual": "2026-11-25T01:51:00Z"
   },
   "DP 403B|2026-11-24T23:10:00Z": {
    "number": "DP 403B",
@@ -138,9 +138,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:10:00Z",
-   "actual": "2026-11-25T00:00:00Z"
+   "actual": "2026-11-25T01:41:00Z"
   },
   "VF 276|2026-11-24T23:50:00Z": {
    "number": "VF 276",
@@ -148,9 +148,9 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:50:00Z",
-   "actual": "2026-11-25T00:00:00Z"
+   "actual": "2026-11-25T01:45:00Z"
   },
   "TK 422|2026-11-24T23:40:00Z": {
    "number": "TK 422",
@@ -158,9 +158,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:40:00Z",
-   "actual": "2026-11-25T00:00:00Z"
+   "actual": "2026-11-25T00:21:00Z"
   },
   "PC 387|2026-11-25T00:10:00Z": {
    "number": "PC 387",
@@ -168,9 +168,9 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Airbus A321 NEO",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:10:00Z",
-   "actual": "2026-11-25T00:10:00Z"
+   "actual": "2026-11-25T01:24:00Z"
   },
   "DP 731|2026-11-25T00:15:00Z": {
    "number": "DP 731",
@@ -178,13 +178,74 @@
    "to": "NCU",
    "to_name": "Nukus",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:15:00Z",
-   "actual": "2026-11-25T00:15:00Z"
+   "actual": "2026-11-25T01:57:00Z"
+  },
+  "PC 1577|2026-11-25T01:10:00Z": {
+   "number": "PC 1577",
+   "airline": "Pegasus",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Airbus A320 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-25T01:10:00Z",
+   "actual": "2026-11-25T01:43:00Z"
+  },
+  "PC 1521|2026-11-25T01:10:00Z": {
+   "number": "PC 1521",
+   "airline": "Pegasus",
+   "to": "ADB",
+   "to_name": "İzmir",
+   "model": "Airbus A320 NEO",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T01:10:00Z",
+   "actual": "2026-11-25T02:10:00Z"
+  },
+  "DP 433B|2026-11-25T00:40:00Z": {
+   "number": "DP 433B",
+   "airline": "Pobeda",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T00:40:00Z",
+   "actual": "2026-11-25T02:10:00Z"
+  },
+  "DP 997B|2026-11-25T01:40:00Z": {
+   "number": "DP 997B",
+   "airline": "Pobeda",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T01:40:00Z",
+   "actual": "2026-11-25T02:15:00Z"
+  },
+  "VF 588|2026-11-25T02:30:00Z": {
+   "number": "VF 588",
+   "airline": "AJet",
+   "to": "ESB",
+   "to_name": "Ankara",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T02:30:00Z",
+   "actual": "2026-11-25T02:30:00Z"
+  },
+  "UT 355B|2026-11-25T01:00:00Z": {
+   "number": "UT 355B",
+   "airline": "UTAir",
+   "to": "GRV",
+   "to_name": "Grozny",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T01:00:00Z",
+   "actual": "2026-11-25T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }

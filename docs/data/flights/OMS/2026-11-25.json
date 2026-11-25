@@ -28,9 +28,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-24T23:50:00Z",
-   "actual": "2026-11-24T23:50:00Z"
+   "actual": "2026-11-25T00:33:00Z"
   },
   "S7 2566|2026-11-25T00:25:00Z": {
    "number": "S7 2566",
@@ -38,9 +38,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T00:25:00Z",
-   "actual": "2026-11-25T00:25:00Z"
+   "actual": "2026-11-25T00:38:00Z"
   },
   "DP 6522|2026-11-25T01:05:00Z": {
    "number": "DP 6522",
@@ -51,12 +51,43 @@
    "status": "Expected",
    "scheduled": "2026-11-25T01:05:00Z",
    "actual": "2026-11-25T01:05:00Z"
+  },
+  "EO 760|2026-11-25T01:25:00Z": {
+   "number": "EO 760",
+   "airline": "Pegas Fly",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Embraer 190",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T01:25:00Z",
+   "actual": "2026-11-25T01:25:00Z"
+  },
+  "SU 1639|2026-11-25T02:05:00Z": {
+   "number": "SU 1639",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-25T02:05:00Z",
+   "actual": "2026-11-25T02:05:00Z"
+  },
+  "N4 308|2026-11-25T02:50:00Z": {
+   "number": "N4 308",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T02:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-24T18:07:36Z",
   "2026-11-24T20:07:35Z",
   "2026-11-24T22:07:26Z",
-  "2026-11-25T00:07:24Z"
+  "2026-11-25T00:07:24Z",
+  "2026-11-25T02:07:25Z"
  ]
 }
