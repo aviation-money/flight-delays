@@ -278,9 +278,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T17:55:00Z",
-   "actual": "2026-11-25T18:05:00Z"
+   "actual": "2026-11-25T18:14:00Z"
   },
   "N4 288|2026-11-25T18:20:00Z": {
    "number": "N4 288",
@@ -288,7 +288,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T18:20:00Z",
    "actual": "2026-11-25T18:20:00Z"
   },
@@ -301,6 +301,16 @@
    "status": "Expected",
    "scheduled": "2026-11-25T18:55:00Z",
    "actual": "2026-11-25T18:55:00Z"
+  },
+  "N4 865|2026-11-25T19:55:00Z": {
+   "number": "N4 865",
+   "airline": "Nordwind",
+   "to": "Tyumen",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T19:55:00Z",
+   "actual": "2026-11-25T19:55:00Z"
   }
  },
  "fetched": [
@@ -314,6 +324,7 @@
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
   "2026-11-25T16:07:43Z",
-  "2026-11-25T18:07:32Z"
+  "2026-11-25T18:07:32Z",
+  "2026-11-25T20:07:27Z"
  ]
 }

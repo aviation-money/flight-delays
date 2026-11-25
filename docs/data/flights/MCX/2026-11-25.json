@@ -137,7 +137,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Expected",
    "scheduled": "2026-11-25T15:20:00Z",
    "actual": null
@@ -150,6 +150,16 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-25T17:45:00Z",
+   "actual": null
+  },
+  "DP 501|2026-11-25T19:10:00Z": {
+   "number": "DP 501",
+   "airline": "Pobeda",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T19:10:00Z",
    "actual": null
   }
  },
@@ -164,6 +174,7 @@
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
   "2026-11-25T16:07:43Z",
-  "2026-11-25T18:07:32Z"
+  "2026-11-25T18:07:32Z",
+  "2026-11-25T20:07:27Z"
  ]
 }

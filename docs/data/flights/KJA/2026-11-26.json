@@ -11,9 +11,30 @@
    "status": "Departed",
    "scheduled": "2026-11-26T15:00:00Z",
    "actual": "2026-11-25T17:10:00Z"
+  },
+  "HY 9684|2026-11-25T20:00:00Z": {
+   "number": "HY 9684",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:00:00Z",
+   "actual": "2026-11-25T20:00:00Z"
+  },
+  "KV 103|2026-11-25T20:30:00Z": {
+   "number": "KV 103",
+   "airline": "KrasAvia",
+   "to": "BAX",
+   "to_name": "Barnaul",
+   "model": "ATR 42-500",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:30:00Z",
+   "actual": "2026-11-25T20:30:00Z"
   }
  },
  "fetched": [
-  "2026-11-25T18:07:32Z"
+  "2026-11-25T18:07:32Z",
+  "2026-11-25T20:07:27Z"
  ]
 }

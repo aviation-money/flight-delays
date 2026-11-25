@@ -1,0 +1,29 @@
+{
+ "airport": "PEE",
+ "date": "2026-11-26",
+ "flights": {
+  "RT 542|2026-11-25T19:25:00Z": {
+   "number": "RT 542",
+   "airline": "UVT Aero",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Bombardier",
+   "status": "Departed",
+   "scheduled": "2026-11-25T19:25:00Z",
+   "actual": "2026-11-25T19:25:00Z"
+  },
+  "2S 125|2026-11-25T20:00:00Z": {
+   "number": "2S 125",
+   "airline": "Southwind",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:00:00Z",
+   "actual": "2026-11-25T20:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T20:07:27Z"
+ ]
+}

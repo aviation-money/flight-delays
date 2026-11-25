@@ -81,10 +81,61 @@
    "status": "Expected",
    "scheduled": "2026-11-25T17:40:00Z",
    "actual": null
+  },
+  "SU 658|2026-11-25T19:50:00Z": {
+   "number": "SU 658",
+   "airline": "Aeroflot",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T19:50:00Z",
+   "actual": null
+  },
+  "S7 5278|2026-11-25T20:05:00Z": {
+   "number": "S7 5278",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:05:00Z",
+   "actual": null
+  },
+  "SU 1565|2026-11-25T20:10:00Z": {
+   "number": "SU 1565",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320 NEO",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:10:00Z",
+   "actual": null
+  },
+  "S7 6429|2026-11-25T20:20:00Z": {
+   "number": "S7 6429",
+   "airline": "S7",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:20:00Z",
+   "actual": null
+  },
+  "S7 6307|2026-11-25T21:00:00Z": {
+   "number": "S7 6307",
+   "airline": "S7",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T21:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-25T16:07:43Z",
-  "2026-11-25T18:07:32Z"
+  "2026-11-25T18:07:32Z",
+  "2026-11-25T20:07:27Z"
  ]
 }

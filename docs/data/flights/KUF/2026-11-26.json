@@ -1,0 +1,19 @@
+{
+ "airport": "KUF",
+ "date": "2026-11-26",
+ "flights": {
+  "FZ 996|2026-11-25T20:40:00Z": {
+   "number": "FZ 996",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T20:40:00Z",
+   "actual": "2026-11-25T20:40:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T20:07:27Z"
+ ]
+}

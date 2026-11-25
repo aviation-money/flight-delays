@@ -81,6 +81,16 @@
    "status": "Expected",
    "scheduled": "2026-11-25T16:30:00Z",
    "actual": null
+  },
+  "C6 458|2026-11-25T20:05:00Z": {
+   "number": "C6 458",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320 NEO",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -94,6 +104,7 @@
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
   "2026-11-25T16:07:43Z",
-  "2026-11-25T18:07:32Z"
+  "2026-11-25T18:07:32Z",
+  "2026-11-25T20:07:27Z"
  ]
 }

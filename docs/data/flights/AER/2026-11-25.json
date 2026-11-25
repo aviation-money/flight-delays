@@ -298,7 +298,7 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T14:20:00Z",
    "actual": "2026-11-25T17:39:00Z"
   },
@@ -398,7 +398,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T15:00:00Z",
    "actual": "2026-11-25T17:40:00Z"
   },
@@ -408,9 +408,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T17:10:00Z",
-   "actual": "2026-11-25T18:00:00Z"
+   "actual": "2026-11-25T17:53:00Z"
   }
  },
  "fetched": [
@@ -424,6 +424,7 @@
   "2026-11-25T12:07:25Z",
   "2026-11-25T14:07:25Z",
   "2026-11-25T16:07:43Z",
-  "2026-11-25T18:07:32Z"
+  "2026-11-25T18:07:32Z",
+  "2026-11-25T20:07:27Z"
  ]
 }

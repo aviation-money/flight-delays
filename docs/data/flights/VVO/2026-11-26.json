@@ -28,9 +28,9 @@
    "to": "YKS",
    "to_name": "Yakutsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T16:20:00Z",
-   "actual": "2026-11-25T16:20:00Z"
+   "actual": "2026-11-25T16:33:00Z"
   },
   "HZ 5616|2026-11-25T16:55:00Z": {
    "number": "HZ 5616",
@@ -40,7 +40,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-25T16:55:00Z",
-   "actual": "2026-11-25T16:55:00Z"
+   "actual": "2026-11-25T17:24:00Z"
   },
   "S7 6215|2026-11-25T17:10:00Z": {
    "number": "S7 6215",
@@ -50,7 +50,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-25T17:10:00Z",
-   "actual": "2026-11-25T17:10:00Z"
+   "actual": "2026-11-25T17:34:00Z"
   },
   "FV 6645|2026-11-25T19:05:00Z": {
    "number": "FV 6645",
@@ -60,12 +60,33 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-25T19:05:00Z",
-   "actual": "2026-11-25T19:05:00Z"
+   "actual": "2026-11-25T19:50:00Z"
+  },
+  "S7 5202|2026-11-25T19:50:00Z": {
+   "number": "S7 5202",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T19:50:00Z",
+   "actual": "2026-11-25T19:50:00Z"
+  },
+  "CZ 8326|2026-11-25T20:15:00Z": {
+   "number": "CZ 8326",
+   "airline": "China Southern",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": "Airbus A320 NEO",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:15:00Z",
+   "actual": "2026-11-25T20:15:00Z"
   }
  },
  "fetched": [
   "2026-11-25T14:07:25Z",
   "2026-11-25T16:07:43Z",
-  "2026-11-25T18:07:32Z"
+  "2026-11-25T18:07:32Z",
+  "2026-11-25T20:07:27Z"
  ]
 }

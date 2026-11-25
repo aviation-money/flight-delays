@@ -1,9 +1,21 @@
 {
  "airport": "YKS",
  "date": "2026-11-26",
- "flights": {},
+ "flights": {
+  "PI 217|2026-11-25T21:00:00Z": {
+   "number": "PI 217",
+   "airline": "Polar",
+   "to": "Srednekolymsk",
+   "to_name": "Srednekolymsk",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-25T21:00:00Z",
+   "actual": "2026-11-25T21:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-25T16:07:43Z",
-  "2026-11-25T18:07:32Z"
+  "2026-11-25T18:07:32Z",
+  "2026-11-25T20:07:27Z"
  ]
 }

@@ -1,10 +1,42 @@
 {
  "airport": "KHV",
  "date": "2026-11-26",
- "flights": {},
+ "flights": {
+  "S7 6511|2026-11-25T19:10:00Z": {
+   "number": "S7 6511",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus Industrie А320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T19:10:00Z",
+   "actual": "2026-11-25T19:45:00Z"
+  },
+  "SU 1725|2026-11-25T20:00:00Z": {
+   "number": "SU 1725",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:00:00Z",
+   "actual": "2026-11-25T20:00:00Z"
+  },
+  "S7 6406|2026-11-25T20:55:00Z": {
+   "number": "S7 6406",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "del2",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:55:00Z",
+   "actual": "2026-11-25T20:55:00Z"
+  }
+ },
  "fetched": [
   "2026-11-25T14:07:25Z",
   "2026-11-25T16:07:43Z",
-  "2026-11-25T18:07:32Z"
+  "2026-11-25T18:07:32Z",
+  "2026-11-25T20:07:27Z"
  ]
 }

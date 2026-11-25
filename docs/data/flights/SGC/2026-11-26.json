@@ -1,0 +1,29 @@
+{
+ "airport": "SGC",
+ "date": "2026-11-26",
+ "flights": {
+  "UT 6419|2026-11-25T20:00:00Z": {
+   "number": "UT 6419",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T20:00:00Z",
+   "actual": "2026-11-25T20:00:00Z"
+  },
+  "UT 431|2026-11-25T21:00:00Z": {
+   "number": "UT 431",
+   "airline": "UTAir",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T21:00:00Z",
+   "actual": "2026-11-25T21:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T20:07:27Z"
+ ]
+}

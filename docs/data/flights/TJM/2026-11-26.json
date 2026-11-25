@@ -1,0 +1,29 @@
+{
+ "airport": "TJM",
+ "date": "2026-11-26",
+ "flights": {
+  "DV 1032|2026-11-25T19:05:00Z": {
+   "number": "DV 1032",
+   "airline": "SCAT",
+   "to": "CIT",
+   "to_name": "Shymkent",
+   "model": "Boeing 737-900",
+   "status": "Departed",
+   "scheduled": "2026-11-25T19:05:00Z",
+   "actual": "2026-11-25T19:30:00Z"
+  },
+  "RA 2772|2026-11-25T20:40:00Z": {
+   "number": "RA 2772",
+   "airline": "Nepal",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "125",
+   "status": "Expected",
+   "scheduled": "2026-11-25T20:40:00Z",
+   "actual": "2026-11-25T20:40:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T20:07:27Z"
+ ]
+}

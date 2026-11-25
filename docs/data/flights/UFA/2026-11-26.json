@@ -1,0 +1,29 @@
+{
+ "airport": "UFA",
+ "date": "2026-11-26",
+ "flights": {
+  "HY 9858|2026-11-25T19:35:00Z": {
+   "number": "HY 9858",
+   "airline": "Uzbekistan",
+   "to": "NMA",
+   "to_name": "Namangan",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T19:35:00Z",
+   "actual": "2026-11-25T19:43:00Z"
+  },
+  "FZ 986|2026-11-25T20:05:00Z": {
+   "number": "FZ 986",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T20:05:00Z",
+   "actual": "2026-11-25T20:15:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T20:07:27Z"
+ ]
+}

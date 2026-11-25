@@ -1,0 +1,19 @@
+{
+ "airport": "CEK",
+ "date": "2026-11-26",
+ "flights": {
+  "Y7 908|2026-11-25T20:30:00Z": {
+   "number": "Y7 908",
+   "airline": "NordStar",
+   "to": "Norilsk",
+   "to_name": "Norilsk",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T20:30:00Z",
+   "actual": "2026-11-25T21:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T20:07:27Z"
+ ]
+}

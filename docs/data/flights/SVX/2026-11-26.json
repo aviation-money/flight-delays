@@ -1,0 +1,69 @@
+{
+ "airport": "SVX",
+ "date": "2026-11-26",
+ "flights": {
+  "U6 775|2026-11-25T19:50:00Z": {
+   "number": "U6 775",
+   "airline": "Ural",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T19:50:00Z",
+   "actual": "2026-11-25T19:50:00Z"
+  },
+  "WZ 1439|2026-11-25T19:25:00Z": {
+   "number": "WZ 1439",
+   "airline": "Red Wings",
+   "to": "BHK",
+   "to_name": "Bukhara",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T19:25:00Z",
+   "actual": "2026-11-25T19:55:00Z"
+  },
+  "SU 1021|2026-11-25T19:50:00Z": {
+   "number": "SU 1021",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T19:50:00Z",
+   "actual": "2026-11-25T20:00:00Z"
+  },
+  "U6 2953|2026-11-25T20:20:00Z": {
+   "number": "U6 2953",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T20:20:00Z",
+   "actual": "2026-11-25T20:20:00Z"
+  },
+  "WZ 5003|2026-11-25T20:25:00Z": {
+   "number": "WZ 5003",
+   "airline": "Red Wings",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T20:25:00Z",
+   "actual": "2026-11-25T20:25:00Z"
+  },
+  "2S 126|2026-11-25T20:25:00Z": {
+   "number": "2S 126",
+   "airline": "Southwind",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-25T20:25:00Z",
+   "actual": "2026-11-25T20:55:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-25T20:07:27Z"
+ ]
+}
