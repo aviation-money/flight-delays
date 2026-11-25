@@ -51,6 +51,26 @@
    "status": "Departed",
    "scheduled": "2026-11-25T06:50:00Z",
    "actual": "2026-11-25T13:31:00Z"
+  },
+  "SU 1187|2026-11-25T15:10:00Z": {
+   "number": "SU 1187",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T15:10:00Z",
+   "actual": "2026-11-25T15:50:00Z"
+  },
+  "DP 518|2026-11-25T12:10:00Z": {
+   "number": "DP 518",
+   "airline": "Pobeda",
+   "to": "St Petersburg",
+   "to_name": "St Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T12:10:00Z",
+   "actual": "2026-11-25T16:20:00Z"
   }
  },
  "fetched": [
@@ -62,6 +82,7 @@
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
-  "2026-11-25T14:07:25Z"
+  "2026-11-25T14:07:25Z",
+  "2026-11-25T16:07:43Z"
  ]
 }

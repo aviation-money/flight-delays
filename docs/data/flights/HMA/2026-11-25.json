@@ -118,9 +118,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-500",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T13:00:00Z",
-   "actual": "2026-11-25T13:44:00Z"
+   "actual": "2026-11-25T14:05:00Z"
   },
   "UT 315|2026-11-25T13:40:00Z": {
    "number": "UT 315",
@@ -131,6 +131,26 @@
    "status": "Departed",
    "scheduled": "2026-11-25T13:40:00Z",
    "actual": "2026-11-25T13:56:00Z"
+  },
+  "UT 320|2026-11-25T15:15:00Z": {
+   "number": "UT 320",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-25T15:15:00Z",
+   "actual": "2026-11-25T15:15:00Z"
+  },
+  "UT 116|2026-11-25T16:00:00Z": {
+   "number": "UT 116",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T16:00:00Z",
+   "actual": "2026-11-25T16:00:00Z"
   }
  },
  "fetched": [
@@ -143,6 +163,7 @@
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
-  "2026-11-25T14:07:25Z"
+  "2026-11-25T14:07:25Z",
+  "2026-11-25T16:07:43Z"
  ]
 }

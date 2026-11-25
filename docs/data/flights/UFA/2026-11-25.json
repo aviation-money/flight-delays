@@ -318,9 +318,9 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T14:25:00Z",
-   "actual": "2026-11-25T14:25:00Z"
+   "actual": "2026-11-25T14:33:00Z"
   },
   "SU 1233|2026-11-25T14:40:00Z": {
    "number": "SU 1233",
@@ -328,9 +328,49 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T14:40:00Z",
-   "actual": "2026-11-25T14:40:00Z"
+   "actual": "2026-11-25T15:08:00Z"
+  },
+  "UT 104|2026-11-25T15:45:00Z": {
+   "number": "UT 104",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T15:45:00Z",
+   "actual": "2026-11-25T15:45:00Z"
+  },
+  "S7 5048|2026-11-25T14:55:00Z": {
+   "number": "S7 5048",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-25T14:55:00Z",
+   "actual": "2026-11-25T15:51:00Z"
+  },
+  "UT 151|2026-11-25T16:00:00Z": {
+   "number": "UT 151",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T16:00:00Z",
+   "actual": "2026-11-25T16:00:00Z"
+  },
+  "N4 341|2026-11-25T16:10:00Z": {
+   "number": "N4 341",
+   "airline": "Nordwind",
+   "to": "MQF",
+   "to_name": "Magnitogorsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T16:10:00Z",
+   "actual": "2026-11-25T16:10:00Z"
   }
  },
  "fetched": [
@@ -343,6 +383,7 @@
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
-  "2026-11-25T14:07:25Z"
+  "2026-11-25T14:07:25Z",
+  "2026-11-25T16:07:43Z"
  ]
 }

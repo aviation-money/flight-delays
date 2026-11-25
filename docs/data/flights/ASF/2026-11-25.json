@@ -147,7 +147,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320-214",
    "status": "Departed",
    "scheduled": "2026-11-25T09:40:00Z",
    "actual": "2026-11-25T12:20:00Z"
@@ -198,9 +198,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T14:35:00Z",
-   "actual": "2026-11-25T14:35:00Z"
+   "actual": "2026-11-25T14:55:00Z"
+  },
+  "SU 1175|2026-11-25T16:20:00Z": {
+   "number": "SU 1175",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-25T16:20:00Z",
+   "actual": "2026-11-25T16:20:00Z"
   }
  },
  "fetched": [
@@ -213,6 +223,7 @@
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
-  "2026-11-25T14:07:25Z"
+  "2026-11-25T14:07:25Z",
+  "2026-11-25T16:07:43Z"
  ]
 }

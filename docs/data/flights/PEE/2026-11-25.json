@@ -148,9 +148,19 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Bombardier",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T15:00:00Z",
-   "actual": "2026-11-25T15:00:00Z"
+   "actual": "2026-11-25T15:26:00Z"
+  },
+  "SU 1769|2026-11-25T15:25:00Z": {
+   "number": "SU 1769",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T15:25:00Z",
+   "actual": "2026-11-25T15:45:00Z"
   }
  },
  "fetched": [
@@ -163,6 +173,7 @@
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
-  "2026-11-25T14:07:25Z"
+  "2026-11-25T14:07:25Z",
+  "2026-11-25T16:07:43Z"
  ]
 }

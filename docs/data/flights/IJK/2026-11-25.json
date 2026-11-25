@@ -88,8 +88,28 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A319",
-   "status": "Unknown",
+   "status": "Expected",
    "scheduled": "2026-11-25T14:55:00Z",
+   "actual": null
+  },
+  "FV 6376|2026-11-25T15:55:00Z": {
+   "number": "FV 6376",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "Expected",
+   "scheduled": "2026-11-25T15:55:00Z",
+   "actual": null
+  },
+  "I8 307|2026-11-25T16:30:00Z": {
+   "number": "I8 307",
+   "airline": "Izhavia",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-25T16:30:00Z",
    "actual": null
   }
  },
@@ -103,6 +123,7 @@
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
-  "2026-11-25T14:07:25Z"
+  "2026-11-25T14:07:25Z",
+  "2026-11-25T16:07:43Z"
  ]
 }

@@ -100,7 +100,27 @@
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-25T12:10:00Z",
-   "actual": "2026-11-25T15:05:00Z"
+   "actual": "2026-11-25T15:46:00Z"
+  },
+  "5N 518|2026-11-25T15:15:00Z": {
+   "number": "5N 518",
+   "airline": "Smartavia",
+   "to": "Saint-Petersburg",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T15:15:00Z",
+   "actual": "2026-11-25T15:15:00Z"
+  },
+  "SU 1329|2026-11-25T15:55:00Z": {
+   "number": "SU 1329",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T15:55:00Z",
+   "actual": "2026-11-25T15:55:00Z"
   }
  },
  "fetched": [
@@ -112,6 +132,7 @@
   "2026-11-25T08:07:27Z",
   "2026-11-25T10:07:26Z",
   "2026-11-25T12:07:25Z",
-  "2026-11-25T14:07:25Z"
+  "2026-11-25T14:07:25Z",
+  "2026-11-25T16:07:43Z"
  ]
 }

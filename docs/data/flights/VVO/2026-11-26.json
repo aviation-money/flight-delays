@@ -10,7 +10,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-25T14:10:00Z",
-   "actual": "2026-11-25T14:10:00Z"
+   "actual": "2026-11-25T14:13:00Z"
   },
   "HZ 5468|2026-11-25T14:30:00Z": {
    "number": "HZ 5468",
@@ -20,10 +20,31 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-25T14:30:00Z",
-   "actual": "2026-11-25T14:30:00Z"
+   "actual": "2026-11-25T14:32:00Z"
+  },
+  "R3 492|2026-11-25T16:20:00Z": {
+   "number": "R3 492",
+   "airline": "Yakutia",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-25T16:20:00Z",
+   "actual": "2026-11-25T16:20:00Z"
+  },
+  "HZ 5616|2026-11-25T16:55:00Z": {
+   "number": "HZ 5616",
+   "airline": "Aurora",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-25T16:55:00Z",
+   "actual": "2026-11-25T16:55:00Z"
   }
  },
  "fetched": [
-  "2026-11-25T14:07:25Z"
+  "2026-11-25T14:07:25Z",
+  "2026-11-25T16:07:43Z"
  ]
 }
