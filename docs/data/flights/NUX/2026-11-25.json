@@ -138,9 +138,9 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T06:40:00Z",
-   "actual": "2026-11-25T06:40:00Z"
+   "actual": "2026-11-25T06:45:00Z"
   },
   "U6 9444|2026-11-25T05:10:00Z": {
    "number": "U6 9444",
@@ -148,9 +148,29 @@
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
    "model": "Airbus A321",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T05:10:00Z",
-   "actual": "2026-11-25T06:40:00Z"
+   "actual": "2026-11-25T06:52:00Z"
+  },
+  "YAL 44|2026-11-25T05:30:00Z": {
+   "number": "YAL 44",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "APU",
+   "to_name": "Apucarana",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-25T05:30:00Z",
+   "actual": "2026-11-25T06:00:00Z"
+  },
+  "UT 542|2026-11-25T07:30:00Z": {
+   "number": "UT 542",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "Canceled",
+   "scheduled": "2026-11-25T07:30:00Z",
+   "actual": "2026-11-25T07:30:00Z"
   }
  },
  "fetched": [
@@ -159,6 +179,7 @@
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
-  "2026-11-25T06:07:25Z"
+  "2026-11-25T06:07:25Z",
+  "2026-11-25T08:07:27Z"
  ]
 }

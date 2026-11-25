@@ -28,9 +28,9 @@
    "to": "MJZ",
    "to_name": "Mirny",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-24T22:40:00Z",
-   "actual": "2026-11-25T06:30:00Z"
+   "actual": "2026-11-25T07:26:00Z"
   },
   "0E 9161|2026-11-25T04:05:00Z": {
    "number": "0E 9161",
@@ -38,9 +38,39 @@
    "to": "Sabetta",
    "to_name": "Sabetta",
    "model": null,
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:05:00Z",
-   "actual": "2026-11-25T06:00:00Z"
+   "actual": "2026-11-25T06:41:00Z"
+  },
+  "WZ 1034|2026-11-25T04:00:00Z": {
+   "number": "WZ 1034",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T04:00:00Z",
+   "actual": "2026-11-25T08:00:00Z"
+  },
+  "FV 5963|2026-11-24T23:50:00Z": {
+   "number": "FV 5963",
+   "airline": "Rossiya",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": "Boeing 737-800",
+   "status": "Delayed",
+   "scheduled": "2026-11-24T23:50:00Z",
+   "actual": "2026-11-25T08:10:00Z"
+  },
+  "A4 4047|2026-11-25T02:30:00Z": {
+   "number": "A4 4047",
+   "airline": "Azimuth",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Canceled",
+   "scheduled": "2026-11-25T02:30:00Z",
+   "actual": "2026-11-25T08:35:00Z"
   }
  },
  "fetched": [
@@ -49,6 +79,7 @@
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
-  "2026-11-25T06:07:25Z"
+  "2026-11-25T06:07:25Z",
+  "2026-11-25T08:07:27Z"
  ]
 }

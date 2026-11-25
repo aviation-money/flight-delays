@@ -158,7 +158,7 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:55:00Z",
    "actual": "2026-11-25T04:42:00Z"
   },
@@ -190,7 +190,7 @@
    "model": "Boeing 777-300ER",
    "status": "Expected",
    "scheduled": "2026-11-25T03:40:00Z",
-   "actual": "2026-11-25T06:10:00Z"
+   "actual": "2026-11-25T06:50:00Z"
   },
   "S7 6201|2026-11-25T05:20:00Z": {
    "number": "S7 6201",
@@ -198,7 +198,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T05:20:00Z",
    "actual": "2026-11-25T05:24:00Z"
   },
@@ -210,7 +210,7 @@
    "model": "Airbus A330-300",
    "status": "Expected",
    "scheduled": "2026-11-25T06:05:00Z",
-   "actual": "2026-11-25T06:15:00Z"
+   "actual": "2026-11-25T06:23:00Z"
   },
   "HZ 5606|2026-11-25T06:15:00Z": {
    "number": "HZ 5606",
@@ -220,7 +220,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-25T06:15:00Z",
-   "actual": "2026-11-25T06:30:00Z"
+   "actual": "2026-11-25T06:58:00Z"
   },
   "HZ 5602|2026-11-25T06:35:00Z": {
    "number": "HZ 5602",
@@ -228,9 +228,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T06:35:00Z",
-   "actual": "2026-11-25T06:35:00Z"
+   "actual": "2026-11-25T06:42:00Z"
   },
   "CA 810|2026-11-25T06:50:00Z": {
    "number": "CA 810",
@@ -240,7 +240,27 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-25T06:50:00Z",
-   "actual": "2026-11-25T06:50:00Z"
+   "actual": "2026-11-25T06:58:00Z"
+  },
+  "FV 5752|2026-11-25T07:00:00Z": {
+   "number": "FV 5752",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-25T07:00:00Z",
+   "actual": "2026-11-25T07:50:00Z"
+  },
+  "S7 6219|2026-11-25T08:30:00Z": {
+   "number": "S7 6219",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T08:30:00Z",
+   "actual": "2026-11-25T08:30:00Z"
   }
  },
  "fetched": [
@@ -252,6 +272,7 @@
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
-  "2026-11-25T06:07:25Z"
+  "2026-11-25T06:07:25Z",
+  "2026-11-25T08:07:27Z"
  ]
 }

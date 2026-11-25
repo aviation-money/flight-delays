@@ -218,9 +218,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus Industrie А330-300",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:35:00Z",
-   "actual": "2026-11-25T05:35:00Z"
+   "actual": "2026-11-25T07:41:00Z"
   },
   "HZ 3102|2026-11-25T05:10:00Z": {
    "number": "HZ 3102",
@@ -228,9 +228,9 @@
    "to": "Nikolayevsk-na-Amure Airport",
    "to_name": "Nikolayevsk-na-Amure Airport",
    "model": "De Havilland DHC-8-400 Dash 8",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T05:10:00Z",
-   "actual": "2026-11-25T06:00:00Z"
+   "actual": "2026-11-25T06:30:00Z"
   },
   "FV 6280|2026-11-25T06:30:00Z": {
    "number": "FV 6280",
@@ -238,9 +238,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 777-300",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T06:30:00Z",
-   "actual": "2026-11-25T07:00:00Z"
+   "actual": "2026-11-25T07:38:00Z"
+  },
+  "R3 2101|2026-11-25T07:50:00Z": {
+   "number": "R3 2101",
+   "airline": "Yakutia",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-25T07:50:00Z",
+   "actual": "2026-11-25T07:50:00Z"
+  },
+  "HZ 5601|2026-11-25T09:00:00Z": {
+   "number": "HZ 5601",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-25T09:00:00Z",
+   "actual": "2026-11-25T09:00:00Z"
   }
  },
  "fetched": [
@@ -252,6 +272,7 @@
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
-  "2026-11-25T06:07:25Z"
+  "2026-11-25T06:07:25Z",
+  "2026-11-25T08:07:27Z"
  ]
 }

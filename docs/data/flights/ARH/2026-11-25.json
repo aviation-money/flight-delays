@@ -28,9 +28,29 @@
    "to": "Amderma-2",
    "to_name": "Amderma-2",
    "model": "Yak 42",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-25T07:00:00Z",
    "actual": "2026-11-25T07:00:00Z"
+  },
+  "FV 6304|2026-11-25T07:20:00Z": {
+   "number": "FV 6304",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-25T07:20:00Z",
+   "actual": "2026-11-25T07:29:00Z"
+  },
+  "5N 145|2026-11-25T08:15:00Z": {
+   "number": "5N 145",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T08:15:00Z",
+   "actual": "2026-11-25T08:15:00Z"
   }
  },
  "fetched": [
@@ -38,6 +58,7 @@
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
-  "2026-11-25T06:07:25Z"
+  "2026-11-25T06:07:25Z",
+  "2026-11-25T08:07:27Z"
  ]
 }

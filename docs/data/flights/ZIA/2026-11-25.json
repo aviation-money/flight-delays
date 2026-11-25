@@ -21,6 +21,26 @@
    "status": "Departed",
    "scheduled": "2026-11-25T03:30:00Z",
    "actual": "2026-11-25T04:14:00Z"
+  },
+  "U6 2427|2026-11-25T08:00:00Z": {
+   "number": "U6 2427",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T08:00:00Z",
+   "actual": "2026-11-25T08:00:00Z"
+  },
+  "SZ 338|2026-11-25T09:00:00Z": {
+   "number": "SZ 338",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-900",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T09:00:00Z",
+   "actual": "2026-11-25T09:00:00Z"
   }
  },
  "fetched": [
@@ -28,6 +48,7 @@
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
-  "2026-11-25T06:07:25Z"
+  "2026-11-25T06:07:25Z",
+  "2026-11-25T08:07:27Z"
  ]
 }

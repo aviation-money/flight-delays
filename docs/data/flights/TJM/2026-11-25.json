@@ -178,9 +178,9 @@
    "to": "Bovanenkovo",
    "to_name": "Bovanenkovo",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T05:30:00Z",
-   "actual": "2026-11-25T05:30:00Z"
+   "actual": "2026-11-25T05:39:00Z"
   },
   "N4 334|2026-11-25T05:40:00Z": {
    "number": "N4 334",
@@ -188,9 +188,59 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T05:40:00Z",
-   "actual": "2026-11-25T05:40:00Z"
+   "actual": "2026-11-25T05:43:00Z"
+  },
+  "UT 541|2026-11-25T04:10:00Z": {
+   "number": "UT 541",
+   "airline": "UTAir",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Boeing 737-500",
+   "status": "Canceled",
+   "scheduled": "2026-11-25T04:10:00Z",
+   "actual": "2026-11-25T08:00:00Z"
+  },
+  "4G 254|2026-11-25T08:00:00Z": {
+   "number": "4G 254",
+   "airline": "Gazpromavia",
+   "to": "Yamburg",
+   "to_name": "Yamburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T08:00:00Z",
+   "actual": "2026-11-25T08:00:00Z"
+  },
+  "FV 6822|2026-11-25T05:00:00Z": {
+   "number": "FV 6822",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T05:00:00Z",
+   "actual": "2026-11-25T08:20:00Z"
+  },
+  "SU 1505|2026-11-25T08:25:00Z": {
+   "number": "SU 1505",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-25T08:25:00Z",
+   "actual": "2026-11-25T08:25:00Z"
+  },
+  "YC 9741|2026-11-25T08:30:00Z": {
+   "number": "YC 9741",
+   "airline": "Yamal",
+   "to": "Sabetta",
+   "to_name": "Sabetta",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-25T08:30:00Z",
+   "actual": "2026-11-25T08:30:00Z"
   }
  },
  "fetched": [
@@ -199,6 +249,7 @@
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
-  "2026-11-25T06:07:25Z"
+  "2026-11-25T06:07:25Z",
+  "2026-11-25T08:07:27Z"
  ]
 }

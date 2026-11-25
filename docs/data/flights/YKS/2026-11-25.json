@@ -178,9 +178,29 @@
    "to": "IKS",
    "to_name": "Tiksi",
    "model": "An-24",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:00:00Z",
-   "actual": "2026-11-25T06:00:00Z"
+   "actual": "2026-11-25T06:13:00Z"
+  },
+  "FV 2456|2026-11-25T07:15:00Z": {
+   "number": "FV 2456",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T07:15:00Z",
+   "actual": "2026-11-25T07:51:00Z"
+  },
+  "R3 443|2026-11-25T08:50:00Z": {
+   "number": "R3 443",
+   "airline": "Yakutia",
+   "to": "CKH",
+   "to_name": "Chokurdah",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T08:50:00Z",
+   "actual": "2026-11-25T08:50:00Z"
   }
  },
  "fetched": [
@@ -191,6 +211,7 @@
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
-  "2026-11-25T06:07:25Z"
+  "2026-11-25T06:07:25Z",
+  "2026-11-25T08:07:27Z"
  ]
 }

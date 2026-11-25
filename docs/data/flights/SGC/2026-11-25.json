@@ -148,9 +148,9 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:40:00Z",
-   "actual": "2026-11-25T04:40:00Z"
+   "actual": "2026-11-25T04:55:00Z"
   },
   "S7 5348|2026-11-25T03:55:00Z": {
    "number": "S7 5348",
@@ -158,9 +158,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T03:55:00Z",
-   "actual": "2026-11-25T04:50:00Z"
+   "actual": "2026-11-25T05:02:00Z"
   },
   "UT 103|2026-11-25T04:20:00Z": {
    "number": "UT 103",
@@ -168,9 +168,19 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T04:20:00Z",
-   "actual": "2026-11-25T07:00:00Z"
+   "actual": "2026-11-25T07:18:00Z"
+  },
+  "UT 139|2026-11-25T08:25:00Z": {
+   "number": "UT 139",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T08:25:00Z",
+   "actual": "2026-11-25T08:25:00Z"
   }
  },
  "fetched": [
@@ -179,6 +189,7 @@
   "2026-11-25T00:07:24Z",
   "2026-11-25T02:07:25Z",
   "2026-11-25T04:07:30Z",
-  "2026-11-25T06:07:25Z"
+  "2026-11-25T06:07:25Z",
+  "2026-11-25T08:07:27Z"
  ]
 }
