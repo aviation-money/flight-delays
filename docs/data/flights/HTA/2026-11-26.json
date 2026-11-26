@@ -1,11 +1,63 @@
 {
  "airport": "HTA",
  "date": "2026-11-26",
- "flights": {},
+ "flights": {
+  "U6 623|2026-11-25T23:00:00Z": {
+   "number": "U6 623",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T23:00:00Z",
+   "actual": "2026-11-25T23:44:00Z"
+  },
+  "S7 5224|2026-11-25T23:30:00Z": {
+   "number": "S7 5224",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T23:30:00Z",
+   "actual": "2026-11-26T00:30:00Z"
+  },
+  "U6 94|2026-11-26T00:20:00Z": {
+   "number": "U6 94",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:20:00Z",
+   "actual": "2026-11-26T00:50:00Z"
+  },
+  "IO 311|2026-11-26T00:55:00Z": {
+   "number": "IO 311",
+   "airline": "IrAero",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:55:00Z",
+   "actual": "2026-11-26T00:55:00Z"
+  },
+  "S7 3046|2026-11-26T01:05:00Z": {
+   "number": "S7 3046",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320 NEO",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T01:05:00Z",
+   "actual": "2026-11-26T01:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-25T16:07:43Z",
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

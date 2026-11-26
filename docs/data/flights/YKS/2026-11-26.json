@@ -18,9 +18,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:25:00Z",
-   "actual": "2026-11-25T21:45:00Z"
+   "actual": "2026-11-25T22:03:00Z"
   },
   "S7 5262|2026-11-25T22:10:00Z": {
    "number": "S7 5262",
@@ -30,13 +30,84 @@
    "model": "Airbus A320",
    "status": "Delayed",
    "scheduled": "2026-11-25T22:10:00Z",
-   "actual": "2026-11-25T22:30:00Z"
+   "actual": "2026-11-26T00:20:00Z"
+  },
+  "R3 417|2026-11-25T23:30:00Z": {
+   "number": "R3 417",
+   "airline": "Yakutia",
+   "to": "Ust-Nera",
+   "to_name": "Ust-Nera",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-25T23:30:00Z",
+   "actual": "2026-11-25T23:30:00Z"
+  },
+  "S7 3008|2026-11-25T23:15:00Z": {
+   "number": "S7 3008",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T23:15:00Z",
+   "actual": "2026-11-25T23:45:00Z"
+  },
+  "PI 285|2026-11-25T23:00:00Z": {
+   "number": "PI 285",
+   "airline": "Polar",
+   "to": "ZKP",
+   "to_name": "Zyryanka",
+   "model": "An-24",
+   "status": "Delayed",
+   "scheduled": "2026-11-25T23:00:00Z",
+   "actual": "2026-11-25T23:45:00Z"
+  },
+  "SU 1751|2026-11-25T23:55:00Z": {
+   "number": "SU 1751",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T23:55:00Z",
+   "actual": "2026-11-25T23:55:00Z"
+  },
+  "R3 501|2026-11-26T00:20:00Z": {
+   "number": "R3 501",
+   "airline": "Yakutia",
+   "to": "Kharbin",
+   "to_name": "Kharbin",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:20:00Z",
+   "actual": "2026-11-26T00:20:00Z"
+  },
+  "PI 9847|2026-11-26T00:35:00Z": {
+   "number": "PI 9847",
+   "airline": "Polar",
+   "to": "Batagay",
+   "to_name": "Batagay",
+   "model": "An-26",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:35:00Z",
+   "actual": "2026-11-26T00:35:00Z"
+  },
+  "IO 8245|2026-11-26T00:50:00Z": {
+   "number": "IO 8245",
+   "airline": "IrAero",
+   "to": "Ust-Nera",
+   "to_name": "Ust-Nera",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:50:00Z",
+   "actual": "2026-11-26T00:50:00Z"
   }
  },
  "fetched": [
   "2026-11-25T16:07:43Z",
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

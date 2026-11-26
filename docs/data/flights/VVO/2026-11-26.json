@@ -88,9 +88,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T22:00:00Z",
-   "actual": "2026-11-25T22:00:00Z"
+   "actual": "2026-11-25T22:04:00Z"
   },
   "HZ 517|2026-11-25T23:00:00Z": {
    "number": "HZ 517",
@@ -100,7 +100,7 @@
    "model": "De Havilland Canada DHC-6 Twin Otter",
    "status": "Expected",
    "scheduled": "2026-11-25T23:00:00Z",
-   "actual": "2026-11-25T23:00:00Z"
+   "actual": "2026-11-26T00:05:00Z"
   },
   "S7 6203|2026-11-25T23:05:00Z": {
    "number": "S7 6203",
@@ -110,7 +110,47 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-25T23:05:00Z",
-   "actual": "2026-11-25T23:05:00Z"
+   "actual": "2026-11-25T23:41:00Z"
+  },
+  "S7 6404|2026-11-25T21:45:00Z": {
+   "number": "S7 6404",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-25T21:45:00Z",
+   "actual": "2026-11-25T23:35:00Z"
+  },
+  "S7 5204|2026-11-25T22:50:00Z": {
+   "number": "S7 5204",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-25T22:50:00Z",
+   "actual": "2026-11-25T23:50:00Z"
+  },
+  "U6 572|2026-11-25T22:20:00Z": {
+   "number": "U6 572",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-25T22:20:00Z",
+   "actual": "2026-11-25T23:50:00Z"
+  },
+  "HZ 5680|2026-11-26T00:40:00Z": {
+   "number": "HZ 5680",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:40:00Z",
+   "actual": "2026-11-26T00:40:00Z"
   }
  },
  "fetched": [
@@ -118,6 +158,7 @@
   "2026-11-25T16:07:43Z",
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

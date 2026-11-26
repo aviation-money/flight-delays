@@ -21,10 +21,51 @@
    "status": "Departed",
    "scheduled": "2026-11-25T21:00:00Z",
    "actual": "2026-11-25T21:47:00Z"
+  },
+  "SU 1511|2026-11-25T23:30:00Z": {
+   "number": "SU 1511",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-25T23:30:00Z",
+   "actual": "2026-11-25T23:30:00Z"
+  },
+  "FV 6442|2026-11-26T00:10:00Z": {
+   "number": "FV 6442",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:10:00Z",
+   "actual": "2026-11-26T00:10:00Z"
+  },
+  "DP 502|2026-11-26T00:05:00Z": {
+   "number": "DP 502",
+   "airline": "Pobeda",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:05:00Z",
+   "actual": "2026-11-26T00:50:00Z"
+  },
+  "UT 1427|2026-11-26T00:55:00Z": {
+   "number": "UT 1427",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:55:00Z",
+   "actual": "2026-11-26T00:55:00Z"
   }
  },
  "fetched": [
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

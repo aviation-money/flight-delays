@@ -8,9 +8,9 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:55:00Z",
-   "actual": "2026-11-25T21:55:00Z"
+   "actual": "2026-11-25T22:33:00Z"
   },
   "YC 90|2026-11-25T22:30:00Z": {
    "number": "YC 90",
@@ -18,9 +18,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T22:30:00Z",
-   "actual": "2026-11-25T22:30:00Z"
+   "actual": "2026-11-25T23:13:00Z"
   },
   "S7 2571|2026-11-25T22:40:00Z": {
    "number": "S7 2571",
@@ -28,12 +28,63 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T22:40:00Z",
-   "actual": "2026-11-25T22:40:00Z"
+   "actual": "2026-11-25T23:16:00Z"
+  },
+  "HH 716|2026-11-25T23:10:00Z": {
+   "number": "HH 716",
+   "airline": "Taban",
+   "to": "Tashkent",
+   "to_name": "Tashkent",
+   "model": "Airbus A320-200",
+   "status": "Canceled",
+   "scheduled": "2026-11-25T23:10:00Z",
+   "actual": "2026-11-25T23:10:00Z"
+  },
+  "3F 1316|2026-11-25T23:50:00Z": {
+   "number": "3F 1316",
+   "airline": "FlyOne Armenia",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T23:50:00Z",
+   "actual": "2026-11-25T23:50:00Z"
+  },
+  "YC 32|2026-11-26T00:05:00Z": {
+   "number": "YC 32",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T00:05:00Z",
+   "actual": "2026-11-26T00:05:00Z"
+  },
+  "HH 704|2026-11-26T00:30:00Z": {
+   "number": "HH 704",
+   "airline": "Taban",
+   "to": "FEG",
+   "to_name": "Fergana",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:30:00Z",
+   "actual": "2026-11-26T00:30:00Z"
+  },
+  "YC 173|2026-11-26T00:45:00Z": {
+   "number": "YC 173",
+   "airline": "Yamal",
+   "to": "NYM",
+   "to_name": "Nadym",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:45:00Z",
+   "actual": "2026-11-26T00:45:00Z"
   }
  },
  "fetched": [
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

@@ -21,11 +21,42 @@
    "status": "Departed",
    "scheduled": "2026-11-25T20:05:00Z",
    "actual": "2026-11-25T20:14:00Z"
+  },
+  "N4 322|2026-11-25T23:25:00Z": {
+   "number": "N4 322",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-25T23:25:00Z",
+   "actual": "2026-11-25T23:16:00Z"
+  },
+  "KV 106|2026-11-26T00:20:00Z": {
+   "number": "KV 106",
+   "airline": "KrasAvia",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "ATR 42-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T00:20:00Z",
+   "actual": "2026-11-26T00:20:00Z"
+  },
+  "SU 1459|2026-11-26T01:05:00Z": {
+   "number": "SU 1459",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T01:05:00Z",
+   "actual": "2026-11-26T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

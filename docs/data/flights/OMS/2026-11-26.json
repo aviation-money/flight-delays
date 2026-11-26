@@ -1,10 +1,62 @@
 {
  "airport": "OMS",
  "date": "2026-11-26",
- "flights": {},
+ "flights": {
+  "FV 6472|2026-11-25T23:10:00Z": {
+   "number": "FV 6472",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-25T23:10:00Z",
+   "actual": "2026-11-25T23:38:00Z"
+  },
+  "SU 1763|2026-11-25T23:50:00Z": {
+   "number": "SU 1763",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-25T23:50:00Z",
+   "actual": "2026-11-25T23:50:00Z"
+  },
+  "N4 308|2026-11-26T00:15:00Z": {
+   "number": "N4 308",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T00:15:00Z",
+   "actual": "2026-11-26T00:15:00Z"
+  },
+  "S7 2566|2026-11-26T00:25:00Z": {
+   "number": "S7 2566",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:25:00Z",
+   "actual": "2026-11-26T00:25:00Z"
+  },
+  "DP 6522|2026-11-26T01:05:00Z": {
+   "number": "DP 6522",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T01:05:00Z",
+   "actual": "2026-11-26T01:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

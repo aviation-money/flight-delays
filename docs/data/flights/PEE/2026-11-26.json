@@ -28,13 +28,24 @@
    "to": "Hurghada",
    "to_name": "Hurghada",
    "model": "Airbus",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:50:00Z",
-   "actual": "2026-11-25T21:50:00Z"
+   "actual": "2026-11-25T22:07:00Z"
+  },
+  "DP 570|2026-11-26T00:20:00Z": {
+   "number": "DP 570",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T00:20:00Z",
+   "actual": "2026-11-26T00:20:00Z"
   }
  },
  "fetched": [
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

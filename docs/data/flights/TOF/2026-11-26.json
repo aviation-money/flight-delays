@@ -1,10 +1,22 @@
 {
  "airport": "TOF",
  "date": "2026-11-26",
- "flights": {},
+ "flights": {
+  "WZ 5004|2026-11-25T23:55:00Z": {
+   "number": "WZ 5004",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T23:55:00Z",
+   "actual": "2026-11-25T23:55:00Z"
+  }
+ },
  "fetched": [
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

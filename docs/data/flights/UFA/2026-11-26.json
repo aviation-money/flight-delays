@@ -31,10 +31,61 @@
    "status": "Canceled",
    "scheduled": "2026-11-25T22:15:00Z",
    "actual": "2026-11-25T22:15:00Z"
+  },
+  "UT 6107|2026-11-25T23:40:00Z": {
+   "number": "UT 6107",
+   "airline": "UTAir",
+   "to": "IAA",
+   "to_name": "Igarka",
+   "model": "Boeing 737-400",
+   "status": "Canceled",
+   "scheduled": "2026-11-25T23:40:00Z",
+   "actual": "2026-11-25T23:40:00Z"
+  },
+  "FV 6412|2026-11-26T00:30:00Z": {
+   "number": "FV 6412",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:30:00Z",
+   "actual": "2026-11-26T00:30:00Z"
+  },
+  "UT 6577|2026-11-26T00:20:00Z": {
+   "number": "UT 6577",
+   "airline": "UTAir",
+   "to": "KGP",
+   "to_name": "Kogalym",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:20:00Z",
+   "actual": "2026-11-26T00:40:00Z"
+  },
+  "UT 6123|2026-11-26T00:45:00Z": {
+   "number": "UT 6123",
+   "airline": "UTAir",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:45:00Z",
+   "actual": "2026-11-26T00:45:00Z"
+  },
+  "UT 422F|2026-11-25T19:25:00Z": {
+   "number": "UT 422F",
+   "airline": "UTAir",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-25T19:25:00Z",
+   "actual": "2026-11-26T00:45:00Z"
   }
  },
  "fetched": [
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

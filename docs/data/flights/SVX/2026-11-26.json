@@ -58,19 +58,19 @@
    "to": "AYT",
    "to_name": "Antalya",
    "model": null,
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T20:25:00Z",
-   "actual": "2026-11-25T22:10:00Z"
+   "actual": "2026-11-25T23:29:00Z"
   },
   "N4 3435|2026-11-25T21:50:00Z": {
    "number": "N4 3435",
    "airline": "Nordwind",
    "to": "HKT",
    "to_name": "Phuket",
-   "model": "Airbus A330-300",
-   "status": "GateClosed",
+   "model": "Airbus A330",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:50:00Z",
-   "actual": "2026-11-25T21:50:00Z"
+   "actual": "2026-11-25T22:47:00Z"
   },
   "7R 815|2026-11-25T22:25:00Z": {
    "number": "7R 815",
@@ -78,9 +78,9 @@
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
    "model": "Bombardier CRJ",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-25T22:25:00Z",
-   "actual": "2026-11-25T22:25:00Z"
+   "actual": "2026-11-25T22:58:00Z"
   },
   "FZ 980|2026-11-25T21:20:00Z": {
    "number": "FZ 980",
@@ -88,13 +88,34 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "GateClosed",
    "scheduled": "2026-11-25T21:20:00Z",
-   "actual": "2026-11-25T22:25:00Z"
+   "actual": "2026-11-26T00:15:00Z"
+  },
+  "FV 6122|2026-11-26T00:05:00Z": {
+   "number": "FV 6122",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T00:05:00Z",
+   "actual": "2026-11-26T00:05:00Z"
+  },
+  "FV 6402|2026-11-26T01:00:00Z": {
+   "number": "FV 6402",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T01:00:00Z",
+   "actual": "2026-11-26T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

@@ -8,9 +8,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:30:00Z",
-   "actual": "2026-11-25T21:30:00Z"
+   "actual": "2026-11-25T21:29:00Z"
   },
   "HZ 3004|2026-11-25T22:00:00Z": {
    "number": "HZ 3004",
@@ -18,9 +18,9 @@
    "to": "NGK",
    "to_name": "Nogliki-Sakhalin Island",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T22:00:00Z",
-   "actual": "2026-11-25T22:00:00Z"
+   "actual": "2026-11-25T21:47:00Z"
   },
   "S7 5258|2026-11-25T22:45:00Z": {
    "number": "S7 5258",
@@ -28,9 +28,49 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T22:45:00Z",
-   "actual": "2026-11-25T22:45:00Z"
+   "actual": "2026-11-25T22:36:00Z"
+  },
+  "HZ 3032|2026-11-25T23:30:00Z": {
+   "number": "HZ 3032",
+   "airline": "Aurora",
+   "to": "DEE",
+   "to_name": "Kunashir Island",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T23:30:00Z",
+   "actual": "2026-11-25T23:30:00Z"
+  },
+  "ATI 6501|2026-11-26T00:00:00Z": {
+   "number": "ATI 6501",
+   "airline": "ATI",
+   "to": "NGK",
+   "to_name": "Nogliki-Sakhalin Island",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T00:00:00Z",
+   "actual": "2026-11-26T00:00:00Z"
+  },
+  "HZ 4026|2026-11-26T00:20:00Z": {
+   "number": "HZ 4026",
+   "airline": "Aurora",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T00:20:00Z",
+   "actual": "2026-11-26T00:20:00Z"
+  },
+  "HZ 5627|2026-11-26T00:40:00Z": {
+   "number": "HZ 5627",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:40:00Z",
+   "actual": "2026-11-26T00:40:00Z"
   }
  },
  "fetched": [
@@ -38,6 +78,7 @@
   "2026-11-25T16:07:43Z",
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

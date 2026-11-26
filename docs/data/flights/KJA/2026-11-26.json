@@ -38,7 +38,7 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:45:00Z",
    "actual": "2026-11-25T21:45:00Z"
   },
@@ -48,7 +48,7 @@
    "to": "NOZ",
    "to_name": "Novokuznetsk",
    "model": "ATR 42-500",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:50:00Z",
    "actual": "2026-11-25T21:50:00Z"
   },
@@ -58,7 +58,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-25T21:15:00Z",
    "actual": "2026-11-25T22:00:00Z"
   },
@@ -71,11 +71,72 @@
    "status": "Delayed",
    "scheduled": "2026-11-25T22:00:00Z",
    "actual": "2026-11-25T22:50:00Z"
+  },
+  "FV 6590|2026-11-25T23:50:00Z": {
+   "number": "FV 6590",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-25T23:50:00Z",
+   "actual": "2026-11-25T23:50:00Z"
+  },
+  "DP 6548|2026-11-26T00:05:00Z": {
+   "number": "DP 6548",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:05:00Z",
+   "actual": "2026-11-26T00:05:00Z"
+  },
+  "UT 572|2026-11-26T00:10:00Z": {
+   "number": "UT 572",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:10:00Z",
+   "actual": "2026-11-26T00:10:00Z"
+  },
+  "SU 1481|2026-11-26T00:15:00Z": {
+   "number": "SU 1481",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:15:00Z",
+   "actual": "2026-11-26T00:15:00Z"
+  },
+  "KV 111|2026-11-26T00:30:00Z": {
+   "number": "KV 111",
+   "airline": "KrasAvia",
+   "to": "KYZ",
+   "to_name": "Kyzyl",
+   "model": "ATR 42-500",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:30:00Z",
+   "actual": "2026-11-26T00:30:00Z"
+  },
+  "KV 203S|2026-11-26T00:45:00Z": {
+   "number": "KV 203S",
+   "airline": "KrasAvia",
+   "to": "Olekminsk",
+   "to_name": "Olekminsk",
+   "model": "ATR 42-500",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:45:00Z",
+   "actual": "2026-11-26T00:45:00Z"
   }
  },
  "fetched": [
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }

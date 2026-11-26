@@ -21,10 +21,51 @@
    "status": "Departed",
    "scheduled": "2026-11-25T20:40:00Z",
    "actual": "2026-11-25T21:44:00Z"
+  },
+  "ZF 4359|2026-11-25T21:45:00Z": {
+   "number": "ZF 4359",
+   "airline": "AZUR Air",
+   "to": "Mattala",
+   "to_name": "Mattala",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-25T21:45:00Z",
+   "actual": "2026-11-25T23:30:00Z"
+  },
+  "UT 6119|2026-11-26T00:15:00Z": {
+   "number": "UT 6119",
+   "airline": "UTAir",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:15:00Z",
+   "actual": "2026-11-26T00:25:00Z"
+  },
+  "FV 6452|2026-11-26T00:45:00Z": {
+   "number": "FV 6452",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T00:45:00Z",
+   "actual": "2026-11-26T00:45:00Z"
+  },
+  "UT 125|2026-11-26T01:05:00Z": {
+   "number": "UT 125",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T01:05:00Z",
+   "actual": "2026-11-26T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-25T20:07:27Z",
-  "2026-11-25T22:07:26Z"
+  "2026-11-25T22:07:26Z",
+  "2026-11-26T00:07:25Z"
  ]
 }
