@@ -1,0 +1,19 @@
+{
+ "airport": "CEK",
+ "date": "2026-11-27",
+ "flights": {
+  "UJ 694|2026-11-26T20:00:00Z": {
+   "number": "UJ 694",
+   "airline": "AlMasria",
+   "to": "Hurghada",
+   "to_name": "Hurghada",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T20:00:00Z",
+   "actual": "2026-11-26T20:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-26T20:07:25Z"
+ ]
+}

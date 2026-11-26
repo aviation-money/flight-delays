@@ -11,10 +11,31 @@
    "status": "Unknown",
    "scheduled": "2026-11-26T17:00:00Z",
    "actual": null
+  },
+  "N4 3643|2026-11-26T19:10:00Z": {
+   "number": "N4 3643",
+   "airline": "Nordwind",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Airbus A330-300",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T19:10:00Z",
+   "actual": "2026-11-26T20:00:00Z"
+  },
+  "S7 5276|2026-11-26T20:45:00Z": {
+   "number": "S7 5276",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T20:45:00Z",
+   "actual": "2026-11-26T20:45:00Z"
   }
  },
  "fetched": [
   "2026-11-26T16:07:25Z",
-  "2026-11-26T18:07:27Z"
+  "2026-11-26T18:07:27Z",
+  "2026-11-26T20:07:25Z"
  ]
 }

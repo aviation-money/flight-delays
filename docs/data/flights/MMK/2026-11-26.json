@@ -130,7 +130,7 @@
    "model": "Airbus A319",
    "status": "Departed",
    "scheduled": "2026-11-26T17:55:00Z",
-   "actual": "2026-11-26T17:55:00Z"
+   "actual": "2026-11-26T18:19:00Z"
   },
   "DP 6856|2026-11-26T17:00:00Z": {
    "number": "DP 6856",
@@ -138,9 +138,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T17:00:00Z",
-   "actual": "2026-11-26T18:05:00Z"
+   "actual": "2026-11-26T18:58:00Z"
+  },
+  "SU 1325|2026-11-26T17:40:00Z": {
+   "number": "SU 1325",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T17:40:00Z",
+   "actual": "2026-11-26T19:40:00Z"
   }
  },
  "fetched": [
@@ -154,6 +164,7 @@
   "2026-11-26T12:07:25Z",
   "2026-11-26T14:07:36Z",
   "2026-11-26T16:07:25Z",
-  "2026-11-26T18:07:27Z"
+  "2026-11-26T18:07:27Z",
+  "2026-11-26T20:07:25Z"
  ]
 }

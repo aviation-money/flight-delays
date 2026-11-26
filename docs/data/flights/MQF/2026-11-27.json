@@ -1,0 +1,19 @@
+{
+ "airport": "MQF",
+ "date": "2026-11-27",
+ "flights": {
+  "RT 644|2026-11-26T20:10:00Z": {
+   "number": "RT 644",
+   "airline": "UVT Aero",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Bombardier",
+   "status": "Expected",
+   "scheduled": "2026-11-26T20:10:00Z",
+   "actual": "2026-11-26T20:10:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-26T20:07:25Z"
+ ]
+}

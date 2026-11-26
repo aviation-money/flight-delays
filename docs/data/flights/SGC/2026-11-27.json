@@ -1,0 +1,39 @@
+{
+ "airport": "SGC",
+ "date": "2026-11-27",
+ "flights": {
+  "KV 9488|2026-11-26T20:30:00Z": {
+   "number": "KV 9488",
+   "airline": "KrasAvia",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Yak 42",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T20:30:00Z",
+   "actual": "2026-11-26T20:30:00Z"
+  },
+  "RT 334|2026-11-26T19:40:00Z": {
+   "number": "RT 334",
+   "airline": "Yuvtaero",
+   "to": "UUA",
+   "to_name": "Bugulma",
+   "model": "Bombardier CRJ200",
+   "status": "Expected",
+   "scheduled": "2026-11-26T19:40:00Z",
+   "actual": "2026-11-26T21:00:00Z"
+  },
+  "UT 431|2026-11-26T21:00:00Z": {
+   "number": "UT 431",
+   "airline": "UTAir",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T21:00:00Z",
+   "actual": "2026-11-26T21:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-26T20:07:25Z"
+ ]
+}

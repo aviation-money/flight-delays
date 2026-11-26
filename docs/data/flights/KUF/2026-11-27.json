@@ -1,0 +1,29 @@
+{
+ "airport": "KUF",
+ "date": "2026-11-27",
+ "flights": {
+  "HY 9806|2026-11-26T20:05:00Z": {
+   "number": "HY 9806",
+   "airline": "Uzbekistan",
+   "to": "NMA",
+   "to_name": "Namangan",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T20:05:00Z",
+   "actual": "2026-11-26T20:05:00Z"
+  },
+  "FZ 996|2026-11-26T20:40:00Z": {
+   "number": "FZ 996",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T20:40:00Z",
+   "actual": "2026-11-26T20:40:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-26T20:07:25Z"
+ ]
+}

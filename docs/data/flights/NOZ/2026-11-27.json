@@ -1,8 +1,20 @@
 {
  "airport": "NOZ",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "WZ 5092|2026-11-26T20:05:00Z": {
+   "number": "WZ 5092",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-26T20:05:00Z",
+   "actual": "2026-11-26T20:05:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-26T18:07:27Z"
+  "2026-11-26T18:07:27Z",
+  "2026-11-26T20:07:25Z"
  ]
 }

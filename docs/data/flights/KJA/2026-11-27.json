@@ -8,12 +8,13 @@
    "to": "Kazan",
    "to_name": "Kazan",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T19:05:00Z",
    "actual": "2026-11-26T19:05:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T18:07:27Z"
+  "2026-11-26T18:07:27Z",
+  "2026-11-26T20:07:25Z"
  ]
 }

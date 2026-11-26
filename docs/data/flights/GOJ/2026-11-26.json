@@ -77,10 +77,10 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
-   "status": "GateClosed",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
    "scheduled": "2026-11-26T16:25:00Z",
-   "actual": "2026-11-26T17:30:00Z"
+   "actual": "2026-11-26T18:02:00Z"
   },
   "FV 6108|2026-11-26T17:15:00Z": {
    "number": "FV 6108",
@@ -98,9 +98,9 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": null,
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T19:00:00Z",
-   "actual": "2026-11-26T19:00:00Z"
+   "actual": "2026-11-26T19:15:00Z"
   }
  },
  "fetched": [
@@ -114,6 +114,7 @@
   "2026-11-26T12:07:25Z",
   "2026-11-26T14:07:36Z",
   "2026-11-26T16:07:25Z",
-  "2026-11-26T18:07:27Z"
+  "2026-11-26T18:07:27Z",
+  "2026-11-26T20:07:25Z"
  ]
 }

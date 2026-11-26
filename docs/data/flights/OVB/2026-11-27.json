@@ -28,9 +28,9 @@
    "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T17:45:00Z",
-   "actual": "2026-11-26T17:45:00Z"
+   "actual": "2026-11-26T17:57:00Z"
   },
   "S7 5245|2026-11-26T17:40:00Z": {
    "number": "S7 5245",
@@ -48,12 +48,123 @@
    "to": "NQZ",
    "to_name": "Astana",
    "model": "Bombardier Dash 8 Q400 / DHC-8-400",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T18:35:00Z",
-   "actual": "2026-11-26T18:35:00Z"
+   "actual": "2026-11-26T18:36:00Z"
+  },
+  "S7 5225|2026-11-26T19:15:00Z": {
+   "number": "S7 5225",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-26T19:15:00Z",
+   "actual": "2026-11-26T19:17:00Z"
+  },
+  "S7 5309|2026-11-26T19:20:00Z": {
+   "number": "S7 5309",
+   "airline": "S7",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-26T19:20:00Z",
+   "actual": "2026-11-26T19:23:00Z"
+  },
+  "S7 5223|2026-11-26T19:15:00Z": {
+   "number": "S7 5223",
+   "airline": "S7",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-26T19:15:00Z",
+   "actual": "2026-11-26T19:29:00Z"
+  },
+  "6R 590|2026-11-26T19:30:00Z": {
+   "number": "6R 590",
+   "airline": "Alrosa",
+   "to": "MJZ",
+   "to_name": "Mirny",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T19:30:00Z",
+   "actual": "2026-11-26T19:47:00Z"
+  },
+  "S7 5213|2026-11-26T19:25:00Z": {
+   "number": "S7 5213",
+   "airline": "S7",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-26T19:25:00Z",
+   "actual": "2026-11-26T19:54:00Z"
+  },
+  "6R 551|2026-11-26T20:20:00Z": {
+   "number": "6R 551",
+   "airline": "Alrosa",
+   "to": "PYJ",
+   "to_name": "Udachniy",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T20:20:00Z",
+   "actual": "2026-11-26T20:20:00Z"
+  },
+  "S7 5243|2026-11-26T20:20:00Z": {
+   "number": "S7 5243",
+   "airline": "S7",
+   "to": "MJZ",
+   "to_name": "Mirny",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T20:20:00Z",
+   "actual": "2026-11-26T20:20:00Z"
+  },
+  "R3 9917|2026-11-26T20:25:00Z": {
+   "number": "R3 9917",
+   "airline": "Yakutia",
+   "to": "Elga",
+   "to_name": "Elga",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-26T20:25:00Z",
+   "actual": "2026-11-26T20:25:00Z"
+  },
+  "S7 5357|2026-11-26T20:45:00Z": {
+   "number": "S7 5357",
+   "airline": "S7",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T20:45:00Z",
+   "actual": "2026-11-26T20:45:00Z"
+  },
+  "S7 5327|2026-11-26T20:55:00Z": {
+   "number": "S7 5327",
+   "airline": "S7",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T20:55:00Z",
+   "actual": "2026-11-26T20:55:00Z"
+  },
+  "S7 7091|2026-11-26T21:00:00Z": {
+   "number": "S7 7091",
+   "airline": "S7",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T21:00:00Z",
+   "actual": "2026-11-26T21:00:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T18:07:27Z"
+  "2026-11-26T18:07:27Z",
+  "2026-11-26T20:07:25Z"
  ]
 }
