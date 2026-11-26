@@ -1,11 +1,53 @@
 {
  "airport": "GDX",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "СЛ 1095|2026-11-26T22:00:00Z": {
+   "number": "СЛ 1095",
+   "airline": "Sila",
+   "to": "Susuman",
+   "to_name": "Susuman",
+   "model": "An-28",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T22:00:00Z",
+   "actual": "2026-11-26T22:00:00Z"
+  },
+  "IO 9135|2026-11-26T22:30:00Z": {
+   "number": "IO 9135",
+   "airline": "IrAero",
+   "to": "Severo-Evensk",
+   "to_name": "Severo-Evensk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-26T22:30:00Z",
+   "actual": "2026-11-26T22:30:00Z"
+  },
+  "АЯ 1097|2026-11-26T22:55:00Z": {
+   "number": "АЯ 1097",
+   "airline": "Aeroservis",
+   "to": "Sinegorye",
+   "to_name": "Sinegorye",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-26T22:55:00Z",
+   "actual": "2026-11-26T22:55:00Z"
+  },
+  "IO 133|2026-11-26T23:00:00Z": {
+   "number": "IO 133",
+   "airline": "IrAero",
+   "to": "KPW",
+   "to_name": "Keperveem",
+   "model": "An-24",
+   "status": "Departed",
+   "scheduled": "2026-11-26T23:00:00Z",
+   "actual": "2026-11-26T23:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-26T14:07:36Z",
   "2026-11-26T16:07:25Z",
   "2026-11-26T18:07:27Z",
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

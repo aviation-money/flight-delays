@@ -1,8 +1,20 @@
 {
  "airport": "TJM",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "N4 1449|2026-11-26T23:00:00Z": {
+   "number": "N4 1449",
+   "airline": "Nordwind",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T23:00:00Z",
+   "actual": "2026-11-26T23:00:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

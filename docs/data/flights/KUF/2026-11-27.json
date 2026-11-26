@@ -8,9 +8,9 @@
    "to": "NMA",
    "to_name": "Namangan",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T20:05:00Z",
-   "actual": "2026-11-26T20:05:00Z"
+   "actual": "2026-11-26T20:35:00Z"
   },
   "FZ 996|2026-11-26T20:40:00Z": {
    "number": "FZ 996",
@@ -18,12 +18,23 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T20:40:00Z",
-   "actual": "2026-11-26T20:40:00Z"
+   "actual": "2026-11-26T21:27:00Z"
+  },
+  "UT 414|2026-11-26T21:50:00Z": {
+   "number": "UT 414",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T21:50:00Z",
+   "actual": "2026-11-26T21:50:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

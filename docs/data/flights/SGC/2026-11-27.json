@@ -8,9 +8,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Yak 42",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T20:30:00Z",
-   "actual": "2026-11-26T20:30:00Z"
+   "actual": "2026-11-26T20:55:00Z"
   },
   "RT 334|2026-11-26T19:40:00Z": {
    "number": "RT 334",
@@ -18,9 +18,9 @@
    "to": "UUA",
    "to_name": "Bugulma",
    "model": "Bombardier CRJ200",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T19:40:00Z",
-   "actual": "2026-11-26T21:00:00Z"
+   "actual": "2026-11-26T21:18:00Z"
   },
   "UT 431|2026-11-26T21:00:00Z": {
    "number": "UT 431",
@@ -28,12 +28,13 @@
    "to": "TLK",
    "to_name": "Talakan",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:00:00Z",
-   "actual": "2026-11-26T21:00:00Z"
+   "actual": "2026-11-26T21:25:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

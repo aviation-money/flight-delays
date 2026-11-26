@@ -11,9 +11,40 @@
    "status": "Departed",
    "scheduled": "2026-11-26T19:25:00Z",
    "actual": "2026-11-26T19:59:00Z"
+  },
+  "UJ 661|2026-11-26T19:30:00Z": {
+   "number": "UJ 661",
+   "airline": "AlMasria",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T19:30:00Z",
+   "actual": "2026-11-26T21:30:00Z"
+  },
+  "Y7 912|2026-11-26T22:15:00Z": {
+   "number": "Y7 912",
+   "airline": "NordStar",
+   "to": "NSK",
+   "to_name": "Norilsk",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T22:15:00Z",
+   "actual": "2026-11-26T22:15:00Z"
+  },
+  "FV 5973|2026-11-26T22:45:00Z": {
+   "number": "FV 5973",
+   "airline": "Rossiya",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T22:45:00Z",
+   "actual": "2026-11-26T22:45:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

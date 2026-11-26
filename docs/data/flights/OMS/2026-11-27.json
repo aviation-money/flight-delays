@@ -8,13 +8,24 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T18:20:00Z",
    "actual": "2026-11-26T18:20:00Z"
+  },
+  "ZF 4083|2026-11-26T21:20:00Z": {
+   "number": "ZF 4083",
+   "airline": "AZUR Air",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 767-300",
+   "status": "Expected",
+   "scheduled": "2026-11-26T21:20:00Z",
+   "actual": "2026-11-26T21:20:00Z"
   }
  },
  "fetched": [
   "2026-11-26T18:07:27Z",
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

@@ -18,9 +18,9 @@
    "to": "HKT",
    "to_name": "Phuket",
    "model": "Boeing 777-300ER",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T20:15:00Z",
-   "actual": "2026-11-26T20:15:00Z"
+   "actual": "2026-11-26T20:29:00Z"
   },
   "S7 5240|2026-11-26T20:45:00Z": {
    "number": "S7 5240",
@@ -28,15 +28,56 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus Industrie А320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T20:45:00Z",
-   "actual": "2026-11-26T20:45:00Z"
+   "actual": "2026-11-26T21:03:00Z"
+  },
+  "HZ 5456|2026-11-26T22:10:00Z": {
+   "number": "HZ 5456",
+   "airline": "Aurora",
+   "to": "Harbin",
+   "to_name": "Harbin",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T22:10:00Z",
+   "actual": "2026-11-26T22:10:00Z"
+  },
+  "HZ 5603|2026-11-26T22:15:00Z": {
+   "number": "HZ 5603",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T22:15:00Z",
+   "actual": "2026-11-26T22:15:00Z"
+  },
+  "HZ 3100|2026-11-26T22:30:00Z": {
+   "number": "HZ 3100",
+   "airline": "Aurora",
+   "to": "Nikolayevsk-na-Amure Airport",
+   "to_name": "Nikolayevsk-na-Amure Airport",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Expected",
+   "scheduled": "2026-11-26T22:30:00Z",
+   "actual": "2026-11-26T22:30:00Z"
+  },
+  "S7 5238|2026-11-26T22:55:00Z": {
+   "number": "S7 5238",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus Industrie А321 sharklets",
+   "status": "Expected",
+   "scheduled": "2026-11-26T22:55:00Z",
+   "actual": "2026-11-26T22:55:00Z"
   }
  },
  "fetched": [
   "2026-11-26T14:07:36Z",
   "2026-11-26T16:07:25Z",
   "2026-11-26T18:07:27Z",
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

@@ -1,0 +1,19 @@
+{
+ "airport": "ZIA",
+ "date": "2026-11-27",
+ "flights": {
+  "SZ 376|2026-11-26T22:45:00Z": {
+   "number": "SZ 376",
+   "airline": "Somon Air",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T22:45:00Z",
+   "actual": "2026-11-26T22:45:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-26T22:07:24Z"
+ ]
+}

@@ -11,10 +11,51 @@
    "status": "Departed",
    "scheduled": "2026-11-26T19:05:00Z",
    "actual": "2026-11-26T19:05:00Z"
+  },
+  "S7 5310|2026-11-26T21:15:00Z": {
+   "number": "S7 5310",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-26T21:15:00Z",
+   "actual": "2026-11-26T21:15:00Z"
+  },
+  "SU 1495|2026-11-26T18:00:00Z": {
+   "number": "SU 1495",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T18:00:00Z",
+   "actual": "2026-11-26T21:30:00Z"
+  },
+  "UT 6130|2026-11-26T21:50:00Z": {
+   "number": "UT 6130",
+   "airline": "UTAir",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Boeing 737-500",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T21:50:00Z",
+   "actual": "2026-11-26T21:50:00Z"
+  },
+  "KV 129|2026-11-26T22:25:00Z": {
+   "number": "KV 129",
+   "airline": "KrasAvia",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "ATR 42-500",
+   "status": "Expected",
+   "scheduled": "2026-11-26T22:25:00Z",
+   "actual": "2026-11-26T22:25:00Z"
   }
  },
  "fetched": [
   "2026-11-26T18:07:27Z",
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

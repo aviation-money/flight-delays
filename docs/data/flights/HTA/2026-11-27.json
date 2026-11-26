@@ -18,9 +18,9 @@
    "to": "HKT",
    "to_name": "Phuket",
    "model": "Airbus A330-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T19:10:00Z",
-   "actual": "2026-11-26T20:00:00Z"
+   "actual": "2026-11-26T20:20:00Z"
   },
   "S7 5276|2026-11-26T20:45:00Z": {
    "number": "S7 5276",
@@ -28,14 +28,25 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T20:45:00Z",
-   "actual": "2026-11-26T20:45:00Z"
+   "actual": "2026-11-26T21:10:00Z"
+  },
+  "IO 105|2026-11-26T22:00:00Z": {
+   "number": "IO 105",
+   "airline": "IrAero",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T22:00:00Z",
+   "actual": "2026-11-26T22:10:00Z"
   }
  },
  "fetched": [
   "2026-11-26T16:07:25Z",
   "2026-11-26T18:07:27Z",
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

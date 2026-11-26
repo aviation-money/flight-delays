@@ -8,9 +8,9 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": null,
-   "status": "Delayed",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T20:10:00Z",
-   "actual": "2026-11-26T20:40:00Z"
+   "actual": "2026-11-26T22:00:00Z"
   },
   "SU 1021|2026-11-26T19:50:00Z": {
    "number": "SU 1021",
@@ -18,12 +18,53 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T19:50:00Z",
-   "actual": "2026-11-26T20:50:00Z"
+   "actual": "2026-11-26T22:00:00Z"
+  },
+  "J2 646|2026-11-26T21:50:00Z": {
+   "number": "J2 646",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Embraer 190",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T21:50:00Z",
+   "actual": "2026-11-26T22:05:00Z"
+  },
+  "FZ 980|2026-11-26T21:20:00Z": {
+   "number": "FZ 980",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T21:20:00Z",
+   "actual": "2026-11-26T22:30:00Z"
+  },
+  "Y7 918|2026-11-26T20:45:00Z": {
+   "number": "Y7 918",
+   "airline": "NordStar",
+   "to": "NSK",
+   "to_name": "Norilsk",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T20:45:00Z",
+   "actual": "2026-11-26T22:40:00Z"
+  },
+  "SU 652|2026-11-26T21:30:00Z": {
+   "number": "SU 652",
+   "airline": "Aeroflot",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Airbus A330-300",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T21:30:00Z",
+   "actual": "2026-11-26T23:00:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

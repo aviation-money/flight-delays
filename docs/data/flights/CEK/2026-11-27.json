@@ -8,12 +8,13 @@
    "to": "Hurghada",
    "to_name": "Hurghada",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T20:00:00Z",
-   "actual": "2026-11-26T20:00:00Z"
+   "actual": "2026-11-26T20:07:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }

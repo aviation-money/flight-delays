@@ -8,12 +8,13 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Bombardier",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T20:10:00Z",
-   "actual": "2026-11-26T20:10:00Z"
+   "actual": "2026-11-26T20:19:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T20:07:25Z"
+  "2026-11-26T20:07:25Z",
+  "2026-11-26T22:07:24Z"
  ]
 }
