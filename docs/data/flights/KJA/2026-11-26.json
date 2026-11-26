@@ -267,10 +267,10 @@
    "airline": "Rossiya",
    "to": "SVX",
    "to_name": "Ekaterinburg",
-   "model": "Airbus A319",
+   "model": "Sukhoi Superjet 100",
    "status": "Delayed",
    "scheduled": "2026-11-26T03:05:00Z",
-   "actual": "2026-11-26T07:05:00Z"
+   "actual": "2026-11-26T11:05:00Z"
   },
   "S7 5258|2026-11-26T04:00:00Z": {
    "number": "S7 5258",
@@ -337,8 +337,8 @@
    "airline": "NordStar",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Boeing 737-800",
-   "status": "Expected",
+   "model": "Boeing 737-8AS",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:00:00Z",
    "actual": "2026-11-26T10:00:00Z"
   },
@@ -348,9 +348,9 @@
    "to": "Manchzhuriya",
    "to_name": "Manchzhuriya",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T05:40:00Z",
-   "actual": "2026-11-26T11:00:00Z"
+   "actual": "2026-11-26T11:46:00Z"
   },
   "FV 6791НВ|2026-11-26T03:05:00Z": {
    "number": "FV 6791НВ",
@@ -361,6 +361,56 @@
    "status": "Delayed",
    "scheduled": "2026-11-26T03:05:00Z",
    "actual": "2026-11-26T11:05:00Z"
+  },
+  "FV 6875|2026-11-26T11:20:00Z": {
+   "number": "FV 6875",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T11:20:00Z",
+   "actual": "2026-11-26T11:20:00Z"
+  },
+  "FV 6476|2026-11-26T11:45:00Z": {
+   "number": "FV 6476",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T11:45:00Z",
+   "actual": "2026-11-26T11:45:00Z"
+  },
+  "SZ 214|2026-11-26T12:15:00Z": {
+   "number": "SZ 214",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T12:15:00Z",
+   "actual": "2026-11-26T12:15:00Z"
+  },
+  "FV 6635|2026-11-26T12:25:00Z": {
+   "number": "FV 6635",
+   "airline": "Rossiya",
+   "to": "Kharbin",
+   "to_name": "Kharbin",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T12:25:00Z",
+   "actual": "2026-11-26T12:25:00Z"
+  },
+  "S7 5312|2026-11-26T12:25:00Z": {
+   "number": "S7 5312",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-26T12:25:00Z",
+   "actual": "2026-11-26T12:25:00Z"
   }
  },
  "fetched": [
@@ -372,6 +422,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }

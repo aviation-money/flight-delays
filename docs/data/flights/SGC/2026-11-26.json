@@ -188,9 +188,29 @@
    "to": "NBC",
    "to_name": "Nizhnekamsk",
    "model": "Bombardier CRJ200",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T08:05:00Z",
-   "actual": "2026-11-26T09:40:00Z"
+   "actual": "2026-11-26T10:13:00Z"
+  },
+  "SZ 260|2026-11-26T11:40:00Z": {
+   "number": "SZ 260",
+   "airline": "Somon Air",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T11:40:00Z",
+   "actual": "2026-11-26T11:40:00Z"
+  },
+  "UT 296|2026-11-26T13:00:00Z": {
+   "number": "UT 296",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T13:00:00Z",
+   "actual": "2026-11-26T13:00:00Z"
   }
  },
  "fetched": [
@@ -201,6 +221,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }

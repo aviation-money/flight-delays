@@ -210,7 +210,7 @@
    "model": "Airbus A319",
    "status": "Delayed",
    "scheduled": "2026-11-26T02:55:00Z",
-   "actual": "2026-11-26T11:00:00Z"
+   "actual": "2026-11-26T12:00:00Z"
   },
   "UT 133|2026-11-26T08:55:00Z": {
    "number": "UT 133",
@@ -228,9 +228,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T09:10:00Z",
-   "actual": "2026-11-26T10:00:00Z"
+   "actual": "2026-11-26T10:12:00Z"
   },
   "C6 476|2026-11-26T10:10:00Z": {
    "number": "C6 476",
@@ -238,9 +238,9 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:10:00Z",
-   "actual": "2026-11-26T10:10:00Z"
+   "actual": "2026-11-26T10:17:00Z"
   },
   "DP 977|2026-11-26T01:30:00Z": {
    "number": "DP 977",
@@ -248,19 +248,19 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T01:30:00Z",
-   "actual": "2026-11-26T10:15:00Z"
+   "actual": "2026-11-26T11:14:00Z"
   },
   "UT 185|2026-11-26T07:55:00Z": {
    "number": "UT 185",
    "airline": "UTAir",
    "to": "NUX",
    "to_name": "Novyy Urengoy",
-   "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "model": "Boeing 737-500 (winglets)",
+   "status": "Departed",
    "scheduled": "2026-11-26T07:55:00Z",
-   "actual": "2026-11-26T10:20:00Z"
+   "actual": "2026-11-26T11:33:00Z"
   },
   "SU 2865|2026-11-26T07:45:00Z": {
    "number": "SU 2865",
@@ -268,9 +268,9 @@
    "to": "KRR",
    "to_name": "Krasnodar",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T07:45:00Z",
-   "actual": "2026-11-26T10:30:00Z"
+   "actual": "2026-11-26T10:46:00Z"
   },
   "7R 257|2026-11-26T10:50:00Z": {
    "number": "7R 257",
@@ -278,9 +278,9 @@
    "to": "NNM",
    "to_name": "Naryan Mar",
    "model": "Bombardier CRJ1",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:50:00Z",
-   "actual": "2026-11-26T10:50:00Z"
+   "actual": "2026-11-26T11:21:00Z"
   },
   "UT 1402|2026-11-26T06:45:00Z": {
    "number": "UT 1402",
@@ -288,9 +288,9 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:45:00Z",
-   "actual": "2026-11-26T11:00:00Z"
+   "actual": "2026-11-26T11:10:00Z"
   },
   "SU 864|2026-11-26T11:00:00Z": {
    "number": "SU 864",
@@ -298,9 +298,59 @@
    "to": "SYX",
    "to_name": "Sanya",
    "model": "Airbus A330-300",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-26T11:00:00Z",
-   "actual": "2026-11-26T11:00:00Z"
+   "actual": "2026-11-26T12:15:00Z"
+  },
+  "S7 5046|2026-11-26T11:25:00Z": {
+   "number": "S7 5046",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T11:25:00Z",
+   "actual": "2026-11-26T11:28:00Z"
+  },
+  "SU 1235|2026-11-26T11:35:00Z": {
+   "number": "SU 1235",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-26T11:35:00Z",
+   "actual": "2026-11-26T11:45:00Z"
+  },
+  "S7 1136|2026-11-26T10:55:00Z": {
+   "number": "S7 1136",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T10:55:00Z",
+   "actual": "2026-11-26T11:50:00Z"
+  },
+  "UT 304|2026-11-26T12:10:00Z": {
+   "number": "UT 304",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T12:10:00Z",
+   "actual": "2026-11-26T12:15:00Z"
+  },
+  "UT 833|2026-11-26T11:50:00Z": {
+   "number": "UT 833",
+   "airline": "UTAir",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T11:50:00Z",
+   "actual": "2026-11-26T12:50:00Z"
   }
  },
  "fetched": [
@@ -311,6 +361,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }

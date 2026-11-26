@@ -7,7 +7,7 @@
    "airline": "Pobeda",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737",
+   "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-26T08:05:00Z",
    "actual": "2026-11-26T08:25:00Z"
@@ -18,9 +18,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:55:00Z",
-   "actual": "2026-11-26T10:55:00Z"
+   "actual": "2026-11-26T11:16:00Z"
   }
  },
  "fetched": [
@@ -30,6 +30,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }

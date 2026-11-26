@@ -97,7 +97,7 @@
    "airline": "Rossiya",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-900",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-26T08:55:00Z",
    "actual": "2026-11-26T09:40:00Z"
@@ -137,7 +137,7 @@
    "airline": "Ural",
    "to": "DME",
    "to_name": "Moscow",
-   "model": "Airbus A321",
+   "model": "Airbus A321 NEO",
    "status": "Departed",
    "scheduled": "2026-11-26T10:00:00Z",
    "actual": "2026-11-26T09:55:00Z"
@@ -148,9 +148,49 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:50:00Z",
-   "actual": "2026-11-26T10:50:00Z"
+   "actual": "2026-11-26T10:48:00Z"
+  },
+  "DP 6832|2026-11-26T11:25:00Z": {
+   "number": "DP 6832",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T11:25:00Z",
+   "actual": "2026-11-26T11:50:00Z"
+  },
+  "D2 142|2026-11-26T11:50:00Z": {
+   "number": "D2 142",
+   "airline": "Severstal Aircompany",
+   "to": "Cherepovets",
+   "to_name": "Cherepovets",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T11:50:00Z",
+   "actual": "2026-11-26T11:50:00Z"
+  },
+  "N4 282|2026-11-26T10:20:00Z": {
+   "number": "N4 282",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T10:20:00Z",
+   "actual": "2026-11-26T12:00:00Z"
+  },
+  "SU 1019|2026-11-26T12:00:00Z": {
+   "number": "SU 1019",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T12:00:00Z",
+   "actual": "2026-11-26T12:15:00Z"
   }
  },
  "fetched": [
@@ -160,6 +200,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }

@@ -97,10 +97,10 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
-   "status": "Boarding",
+   "model": "Airbus A320",
+   "status": "Departed",
    "scheduled": "2026-11-26T07:30:00Z",
-   "actual": "2026-11-26T10:00:00Z"
+   "actual": "2026-11-26T10:45:00Z"
   },
   "SU 1095|2026-11-26T09:55:00Z": {
    "number": "SU 1095",
@@ -108,9 +108,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T09:55:00Z",
-   "actual": "2026-11-26T10:55:00Z"
+   "actual": "2026-11-26T11:18:00Z"
+  },
+  "S7 5028|2026-11-26T12:00:00Z": {
+   "number": "S7 5028",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T12:00:00Z",
+   "actual": "2026-11-26T12:00:00Z"
+  },
+  "SU 1421|2026-11-26T12:30:00Z": {
+   "number": "SU 1421",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Expected",
+   "scheduled": "2026-11-26T12:30:00Z",
+   "actual": "2026-11-26T12:30:00Z"
   }
  },
  "fetched": [
@@ -121,6 +141,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }

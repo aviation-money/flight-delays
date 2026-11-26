@@ -38,9 +38,9 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Airbus A321",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T08:00:00Z",
-   "actual": "2026-11-26T09:45:00Z"
+   "actual": "2026-11-26T11:31:00Z"
   },
   "SZ 338|2026-11-26T09:00:00Z": {
    "number": "SZ 338",
@@ -48,9 +48,19 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-900",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T09:00:00Z",
-   "actual": "2026-11-26T09:30:00Z"
+   "actual": "2026-11-26T10:19:00Z"
+  },
+  "B2 954|2026-11-26T12:35:00Z": {
+   "number": "B2 954",
+   "airline": "Belavia",
+   "to": "MSQ",
+   "to_name": "Minsk",
+   "model": "Boeing 737-300",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T12:35:00Z",
+   "actual": "2026-11-26T12:35:00Z"
   }
  },
  "fetched": [
@@ -60,6 +70,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }

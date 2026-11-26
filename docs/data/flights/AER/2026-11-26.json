@@ -167,7 +167,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A321",
+   "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-26T08:07:00Z",
    "actual": "2026-11-26T08:07:00Z"
@@ -185,8 +185,8 @@
   "FV 6560|2026-11-26T08:59:00Z": {
    "number": "FV 6560",
    "airline": "Rossiya",
-   "to": "St-Petersburg",
-   "to_name": "St-Petersburg",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
    "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-26T08:59:00Z",
@@ -208,9 +208,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T09:35:00Z",
-   "actual": "2026-11-26T10:00:00Z"
+   "actual": "2026-11-26T10:37:00Z"
   },
   "SU 1137|2026-11-26T10:20:00Z": {
    "number": "SU 1137",
@@ -218,9 +218,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:20:00Z",
-   "actual": "2026-11-26T10:20:00Z"
+   "actual": "2026-11-26T10:47:00Z"
   },
   "EY 858|2026-11-26T10:25:00Z": {
    "number": "EY 858",
@@ -238,9 +238,49 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:10:00Z",
-   "actual": "2026-11-26T10:30:00Z"
+   "actual": "2026-11-26T10:40:00Z"
+  },
+  "EY 858|2026-11-26T10:12:00Z": {
+   "number": "EY 858",
+   "airline": "Etihad",
+   "to": "AUH",
+   "to_name": "Abu Dhabi",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
+   "scheduled": "2026-11-26T10:12:00Z",
+   "actual": "2026-11-26T10:12:00Z"
+  },
+  "SU 1135|2026-11-26T11:10:00Z": {
+   "number": "SU 1135",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T11:10:00Z",
+   "actual": "2026-11-26T12:10:00Z"
+  },
+  "FV 6570|2026-11-26T12:35:00Z": {
+   "number": "FV 6570",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T12:35:00Z",
+   "actual": "2026-11-26T12:35:00Z"
+  },
+  "SU 1151|2026-11-26T13:05:00Z": {
+   "number": "SU 1151",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T13:05:00Z",
+   "actual": "2026-11-26T13:05:00Z"
   }
  },
  "fetched": [
@@ -250,6 +290,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }

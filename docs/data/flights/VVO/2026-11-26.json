@@ -270,7 +270,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-26T10:20:00Z",
-   "actual": "2026-11-26T10:20:00Z"
+   "actual": "2026-11-26T10:31:00Z"
   },
   "S7 6219|2026-11-26T11:05:00Z": {
    "number": "S7 6219",
@@ -280,7 +280,27 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-26T11:05:00Z",
-   "actual": "2026-11-26T11:05:00Z"
+   "actual": "2026-11-26T11:07:00Z"
+  },
+  "VJ 5521|2026-11-26T12:00:00Z": {
+   "number": "VJ 5521",
+   "airline": "VietJetAir",
+   "to": "PQC",
+   "to_name": "Duong Dong",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-26T12:00:00Z",
+   "actual": "2026-11-26T12:30:00Z"
+  },
+  "SU 7374|2026-11-26T13:00:00Z": {
+   "number": "SU 7374",
+   "airline": "Aeroflot",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "del2",
+   "status": "Expected",
+   "scheduled": "2026-11-26T13:00:00Z",
+   "actual": "2026-11-26T13:00:00Z"
   }
  },
  "fetched": [
@@ -294,6 +314,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }

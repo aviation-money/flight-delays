@@ -298,9 +298,9 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Sukhoi Superjet 100",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:10:00Z",
-   "actual": "2026-11-26T10:10:00Z"
+   "actual": "2026-11-26T10:11:00Z"
   },
   "HZ 5640|2026-11-26T10:40:00Z": {
    "number": "HZ 5640",
@@ -308,9 +308,29 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:40:00Z",
-   "actual": "2026-11-26T10:40:00Z"
+   "actual": "2026-11-26T10:52:00Z"
+  },
+  "FV 5702|2026-11-26T10:30:00Z": {
+   "number": "FV 5702",
+   "airline": "Rossiya",
+   "to": "Vladivostok",
+   "to_name": "Vladivostok",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T10:30:00Z",
+   "actual": "2026-11-26T11:35:00Z"
+  },
+  "HZ 5652|2026-11-26T11:55:00Z": {
+   "number": "HZ 5652",
+   "airline": "Aurora",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T11:55:00Z",
+   "actual": "2026-11-26T11:55:00Z"
   }
  },
  "fetched": [
@@ -324,6 +344,7 @@
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
-  "2026-11-26T10:07:24Z"
+  "2026-11-26T10:07:24Z",
+  "2026-11-26T12:07:25Z"
  ]
 }
