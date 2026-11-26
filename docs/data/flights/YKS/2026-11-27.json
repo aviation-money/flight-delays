@@ -1,0 +1,19 @@
+{
+ "airport": "YKS",
+ "date": "2026-11-27",
+ "flights": {
+  "S7 6518|2026-11-26T17:00:00Z": {
+   "number": "S7 6518",
+   "airline": "S7",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T17:00:00Z",
+   "actual": "2026-11-26T17:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-26T16:07:25Z"
+ ]
+}

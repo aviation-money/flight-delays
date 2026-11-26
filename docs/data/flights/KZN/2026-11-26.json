@@ -235,8 +235,8 @@
   "TK 430|2026-11-26T12:05:00Z": {
    "number": "TK 430",
    "airline": "Turkish",
-   "to": "Istanbul (Havalimani New)",
-   "to_name": "Istanbul (Havalimani New)",
+   "to": "IST",
+   "to_name": "Istanbul",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-26T12:05:00Z",
@@ -268,9 +268,9 @@
    "to": "GOJ",
    "to_name": "Nizhniy Novgorod",
    "model": "Canadair CRJ 200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T11:00:00Z",
-   "actual": "2026-11-26T14:10:00Z"
+   "actual": "2026-11-26T14:31:00Z"
   },
   "HY 650|2026-11-26T12:50:00Z": {
    "number": "HY 650",
@@ -278,9 +278,9 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320 NEO",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T12:50:00Z",
-   "actual": "2026-11-26T14:20:00Z"
+   "actual": "2026-11-26T14:21:00Z"
   },
   "N4 731|2026-11-26T09:00:00Z": {
    "number": "N4 731",
@@ -288,9 +288,9 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T09:00:00Z",
-   "actual": "2026-11-26T14:30:00Z"
+   "actual": "2026-11-26T15:01:00Z"
   },
   "EO 769|2026-11-26T14:50:00Z": {
    "number": "EO 769",
@@ -298,9 +298,29 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Embraer 190",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T14:50:00Z",
-   "actual": "2026-11-26T14:50:00Z"
+   "actual": "2026-11-26T14:45:00Z"
+  },
+  "SU 1193|2026-11-26T15:20:00Z": {
+   "number": "SU 1193",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-26T15:20:00Z",
+   "actual": "2026-11-26T15:25:00Z"
+  },
+  "5N 538|2026-11-26T16:10:00Z": {
+   "number": "5N 538",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T16:10:00Z",
+   "actual": "2026-11-26T16:10:00Z"
   }
  },
  "fetched": [
@@ -312,6 +332,7 @@
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
-  "2026-11-26T14:07:36Z"
+  "2026-11-26T14:07:36Z",
+  "2026-11-26T16:07:25Z"
  ]
 }

@@ -208,9 +208,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A319",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T02:55:00Z",
-   "actual": "2026-11-26T14:00:00Z"
+   "actual": "2026-11-26T14:50:00Z"
   },
   "UT 133|2026-11-26T08:55:00Z": {
    "number": "UT 133",
@@ -358,9 +358,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T13:20:00Z",
-   "actual": "2026-11-26T13:55:00Z"
+   "actual": "2026-11-26T14:36:00Z"
   },
   "DP 344|2026-11-26T13:50:00Z": {
    "number": "DP 344",
@@ -368,9 +368,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T13:50:00Z",
-   "actual": "2026-11-26T14:10:00Z"
+   "actual": "2026-11-26T14:44:00Z"
   },
   "SU 1243|2026-11-26T14:40:00Z": {
    "number": "SU 1243",
@@ -378,9 +378,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T14:40:00Z",
-   "actual": "2026-11-26T14:40:00Z"
+   "actual": "2026-11-26T14:53:00Z"
   },
   "UT 1106|2026-11-26T14:00:00Z": {
    "number": "UT 1106",
@@ -388,9 +388,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T14:00:00Z",
-   "actual": "2026-11-26T14:50:00Z"
+   "actual": "2026-11-26T14:42:00Z"
   },
   "S7 5048|2026-11-26T14:55:00Z": {
    "number": "S7 5048",
@@ -398,9 +398,49 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T14:55:00Z",
-   "actual": "2026-11-26T14:55:00Z"
+   "actual": "2026-11-26T15:00:00Z"
+  },
+  "UT 104|2026-11-26T15:45:00Z": {
+   "number": "UT 104",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T15:45:00Z",
+   "actual": "2026-11-26T15:45:00Z"
+  },
+  "UT 151|2026-11-26T16:00:00Z": {
+   "number": "UT 151",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T16:00:00Z",
+   "actual": "2026-11-26T16:00:00Z"
+  },
+  "SU 1259|2026-11-26T16:40:00Z": {
+   "number": "SU 1259",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T16:40:00Z",
+   "actual": "2026-11-26T16:40:00Z"
+  },
+  "EO 770|2026-11-26T17:05:00Z": {
+   "number": "EO 770",
+   "airline": "Pegas Fly",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Embraer 190",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T17:05:00Z",
+   "actual": "2026-11-26T17:05:00Z"
   }
  },
  "fetched": [
@@ -413,6 +453,7 @@
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
-  "2026-11-26T14:07:36Z"
+  "2026-11-26T14:07:36Z",
+  "2026-11-26T16:07:25Z"
  ]
 }

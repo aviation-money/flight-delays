@@ -1,0 +1,19 @@
+{
+ "airport": "HTA",
+ "date": "2026-11-27",
+ "flights": {
+  "N4 3643|2026-11-26T17:00:00Z": {
+   "number": "N4 3643",
+   "airline": "Nordwind",
+   "to": "Phuket",
+   "to_name": "Phuket",
+   "model": "Airbus A330-300",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T17:00:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-26T16:07:25Z"
+ ]
+}

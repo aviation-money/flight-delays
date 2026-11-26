@@ -338,7 +338,7 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T11:10:00Z",
    "actual": "2026-11-26T11:10:00Z"
   },
@@ -348,7 +348,7 @@
    "to": "IJK",
    "to_name": "Izhevsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T12:10:00Z",
    "actual": "2026-11-26T12:10:00Z"
   },
@@ -378,7 +378,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T13:00:00Z",
    "actual": "2026-11-26T13:00:00Z"
   },
@@ -407,7 +407,7 @@
    "airline": "Ural",
    "to": "KGD",
    "to_name": "Kaliningrad",
-   "model": "Airbus A321",
+   "model": "Airbus A321 NEO",
    "status": "CheckIn",
    "scheduled": "2026-11-26T13:55:00Z",
    "actual": "2026-11-26T13:55:00Z"
@@ -428,9 +428,9 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T14:15:00Z",
-   "actual": "2026-11-26T14:15:00Z"
+   "actual": "2026-11-26T14:43:00Z"
   },
   "U6 267|2026-11-26T14:45:00Z": {
    "number": "U6 267",
@@ -438,9 +438,69 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320-200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T14:45:00Z",
-   "actual": "2026-11-26T14:45:00Z"
+   "actual": "2026-11-26T15:02:00Z"
+  },
+  "S7 3031|2026-11-26T15:50:00Z": {
+   "number": "S7 3031",
+   "airline": "S7",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Airbus A320-200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T15:50:00Z",
+   "actual": "2026-11-26T15:50:00Z"
+  },
+  "EK 132|2026-11-26T16:00:00Z": {
+   "number": "EK 132",
+   "airline": "Emirates",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Airbus A380-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T16:00:00Z",
+   "actual": "2026-11-26T16:00:00Z"
+  },
+  "U6 349|2026-11-26T16:15:00Z": {
+   "number": "U6 349",
+   "airline": "Ural",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Airbus A321-200 (Sharklets)",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T16:15:00Z",
+   "actual": "2026-11-26T16:15:00Z"
+  },
+  "U6 2909|2026-11-26T16:20:00Z": {
+   "number": "U6 2909",
+   "airline": "Ural",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T16:20:00Z",
+   "actual": "2026-11-26T16:20:00Z"
+  },
+  "U6 93|2026-11-26T16:40:00Z": {
+   "number": "U6 93",
+   "airline": "Ural",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T16:40:00Z",
+   "actual": "2026-11-26T16:40:00Z"
+  },
+  "B2 956|2026-11-26T16:55:00Z": {
+   "number": "B2 956",
+   "airline": "Belavia",
+   "to": "MSQ",
+   "to_name": "Minsk",
+   "model": "Boeing 737-300",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T16:55:00Z",
+   "actual": "2026-11-26T16:55:00Z"
   }
  },
  "fetched": [
@@ -452,6 +512,7 @@
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
-  "2026-11-26T14:07:36Z"
+  "2026-11-26T14:07:36Z",
+  "2026-11-26T16:07:25Z"
  ]
 }

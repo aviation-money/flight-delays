@@ -68,9 +68,29 @@
    "to": "TLV",
    "to_name": "Tel Aviv Yafo",
    "model": "Tu-204",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T14:40:00Z",
-   "actual": "2026-11-26T14:40:00Z"
+   "actual": "2026-11-26T15:39:00Z"
+  },
+  "U6 2461|2026-11-26T15:10:00Z": {
+   "number": "U6 2461",
+   "airline": "Ural",
+   "to": "Tashkent",
+   "to_name": "Tashkent",
+   "model": "Airbus A321",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T15:10:00Z",
+   "actual": null
+  },
+  "U6 2447|2026-11-26T16:00:00Z": {
+   "number": "U6 2447",
+   "airline": "Ural",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Airbus A321",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T16:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -82,6 +102,7 @@
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
-  "2026-11-26T14:07:36Z"
+  "2026-11-26T14:07:36Z",
+  "2026-11-26T16:07:25Z"
  ]
 }

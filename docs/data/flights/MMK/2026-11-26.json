@@ -91,6 +91,36 @@
    "status": "Departed",
    "scheduled": "2026-11-26T12:10:00Z",
    "actual": "2026-11-26T13:05:00Z"
+  },
+  "D2 52|2026-11-26T15:15:00Z": {
+   "number": "D2 52",
+   "airline": "Severstal Aircompany",
+   "to": "ARH",
+   "to_name": "Arkhangelsk",
+   "model": "Bombardier CRJ200",
+   "status": "Departed",
+   "scheduled": "2026-11-26T15:15:00Z",
+   "actual": "2026-11-26T15:33:00Z"
+  },
+  "5N 518|2026-11-26T15:15:00Z": {
+   "number": "5N 518",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T15:15:00Z",
+   "actual": "2026-11-26T15:49:00Z"
+  },
+  "SU 1329|2026-11-26T15:55:00Z": {
+   "number": "SU 1329",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T15:55:00Z",
+   "actual": "2026-11-26T15:55:00Z"
   }
  },
  "fetched": [
@@ -102,6 +132,7 @@
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
-  "2026-11-26T14:07:36Z"
+  "2026-11-26T14:07:36Z",
+  "2026-11-26T16:07:25Z"
  ]
 }

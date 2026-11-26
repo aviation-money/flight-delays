@@ -128,7 +128,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T11:15:00Z",
    "actual": null
   },
@@ -138,7 +138,7 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T11:20:00Z",
    "actual": null
   },
@@ -147,7 +147,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320-214",
    "status": "Expected",
    "scheduled": "2026-11-26T11:40:00Z",
    "actual": null
@@ -181,6 +181,16 @@
    "status": "Expected",
    "scheduled": "2026-11-26T13:40:00Z",
    "actual": null
+  },
+  "SU 1057|2026-11-26T15:20:00Z": {
+   "number": "SU 1057",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T15:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -192,6 +202,7 @@
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
-  "2026-11-26T14:07:36Z"
+  "2026-11-26T14:07:36Z",
+  "2026-11-26T16:07:25Z"
  ]
 }

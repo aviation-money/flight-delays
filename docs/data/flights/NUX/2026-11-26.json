@@ -198,9 +198,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-400",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T11:30:00Z",
-   "actual": "2026-11-26T14:00:00Z"
+   "actual": "2026-11-26T15:38:00Z"
   },
   "UT 6120|2026-11-26T13:40:00Z": {
    "number": "UT 6120",
@@ -208,9 +208,9 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": null,
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T13:40:00Z",
-   "actual": "2026-11-26T14:10:00Z"
+   "actual": "2026-11-26T14:52:00Z"
   }
  },
  "fetched": [
@@ -223,6 +223,7 @@
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
-  "2026-11-26T14:07:36Z"
+  "2026-11-26T14:07:36Z",
+  "2026-11-26T16:07:25Z"
  ]
 }

@@ -178,9 +178,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T02:50:00Z",
-   "actual": "2026-11-26T15:00:00Z"
+   "actual": "2026-11-26T15:55:00Z"
   },
   "UT 287|2026-11-26T02:55:00Z": {
    "number": "UT 287",
@@ -240,7 +240,7 @@
    "model": "Boeing 737-800",
    "status": "Delayed",
    "scheduled": "2026-11-26T03:25:00Z",
-   "actual": "2026-11-26T15:00:00Z"
+   "actual": "2026-11-26T15:55:00Z"
   },
   "U6 174|2026-11-26T06:40:00Z": {
    "number": "U6 174",
@@ -321,6 +321,26 @@
    "status": "Departed",
    "scheduled": "2026-11-26T13:00:00Z",
    "actual": "2026-11-26T13:34:00Z"
+  },
+  "FV 6764|2026-11-26T15:45:00Z": {
+   "number": "FV 6764",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T15:45:00Z",
+   "actual": "2026-11-26T15:45:00Z"
+  },
+  "UT 102|2026-11-26T16:30:00Z": {
+   "number": "UT 102",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T16:30:00Z",
+   "actual": "2026-11-26T16:30:00Z"
   }
  },
  "fetched": [
@@ -333,6 +353,7 @@
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
-  "2026-11-26T14:07:36Z"
+  "2026-11-26T14:07:36Z",
+  "2026-11-26T16:07:25Z"
  ]
 }
