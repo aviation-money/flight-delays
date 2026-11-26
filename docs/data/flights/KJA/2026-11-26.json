@@ -328,9 +328,39 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T07:50:00Z",
    "actual": "2026-11-26T07:50:00Z"
+  },
+  "Y7 301|2026-11-26T10:00:00Z": {
+   "number": "Y7 301",
+   "airline": "NordStar",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T10:00:00Z",
+   "actual": "2026-11-26T10:00:00Z"
+  },
+  "IO 885|2026-11-26T05:40:00Z": {
+   "number": "IO 885",
+   "airline": "IrAero",
+   "to": "Manchzhuriya",
+   "to_name": "Manchzhuriya",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T05:40:00Z",
+   "actual": "2026-11-26T11:00:00Z"
+  },
+  "FV 6791НВ|2026-11-26T03:05:00Z": {
+   "number": "FV 6791НВ",
+   "airline": "Rossiya",
+   "to": "Ekaterinburg",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A319",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T03:05:00Z",
+   "actual": "2026-11-26T11:05:00Z"
   }
  },
  "fetched": [
@@ -341,6 +371,7 @@
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
-  "2026-11-26T08:07:25Z"
+  "2026-11-26T08:07:25Z",
+  "2026-11-26T10:07:24Z"
  ]
 }

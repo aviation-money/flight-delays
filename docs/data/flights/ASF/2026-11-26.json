@@ -28,9 +28,9 @@
    "to": "Makhachkala",
    "to_name": "Makhachkala",
    "model": null,
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T05:00:00Z",
-   "actual": "2026-11-26T08:00:00Z"
+   "actual": "2026-11-26T10:00:00Z"
   },
   "ЛЩ 9683|2026-11-26T06:00:00Z": {
    "number": "ЛЩ 9683",
@@ -68,9 +68,49 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T07:40:00Z",
-   "actual": "2026-11-26T09:05:00Z"
+   "actual": "2026-11-26T09:25:00Z"
+  },
+  "ЛЩ 9685|2026-11-26T08:45:00Z": {
+   "number": "ЛЩ 9685",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-26T08:45:00Z",
+   "actual": "2026-11-26T08:45:00Z"
+  },
+  "ЛЩ 9651|2026-11-26T09:30:00Z": {
+   "number": "ЛЩ 9651",
+   "airline": "Mars Avia",
+   "to": "Korchagina-MLSP",
+   "to_name": "Korchagina-MLSP",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T09:30:00Z",
+   "actual": "2026-11-26T09:30:00Z"
+  },
+  "SU 1679|2026-11-26T09:40:00Z": {
+   "number": "SU 1679",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T09:40:00Z",
+   "actual": "2026-11-26T09:40:00Z"
+  },
+  "ЛЩ 9653|2026-11-26T10:30:00Z": {
+   "number": "ЛЩ 9653",
+   "airline": "Mars Avia",
+   "to": "Korchagina-MLSP",
+   "to_name": "Korchagina-MLSP",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-26T10:30:00Z",
+   "actual": "2026-11-26T10:30:00Z"
   }
  },
  "fetched": [
@@ -80,6 +120,7 @@
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
-  "2026-11-26T08:07:25Z"
+  "2026-11-26T08:07:25Z",
+  "2026-11-26T10:07:24Z"
  ]
 }

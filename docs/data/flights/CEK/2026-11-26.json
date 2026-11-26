@@ -88,9 +88,29 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T08:40:00Z",
-   "actual": "2026-11-26T08:40:00Z"
+   "actual": "2026-11-26T09:16:00Z"
+  },
+  "SU 1535|2026-11-26T07:30:00Z": {
+   "number": "SU 1535",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T07:30:00Z",
+   "actual": "2026-11-26T10:00:00Z"
+  },
+  "SU 1095|2026-11-26T09:55:00Z": {
+   "number": "SU 1095",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T09:55:00Z",
+   "actual": "2026-11-26T10:55:00Z"
   }
  },
  "fetched": [
@@ -100,6 +120,7 @@
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
-  "2026-11-26T08:07:25Z"
+  "2026-11-26T08:07:25Z",
+  "2026-11-26T10:07:24Z"
  ]
 }

@@ -28,7 +28,7 @@
    "to": "Amderma-2",
    "to_name": "Amderma-2",
    "model": "Yak 42",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-26T07:00:00Z",
    "actual": "2026-11-26T07:00:00Z"
   },
@@ -48,9 +48,19 @@
    "to": "NNM",
    "to_name": "Naryan Mar",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T08:15:00Z",
-   "actual": "2026-11-26T08:15:00Z"
+   "actual": "2026-11-26T08:48:00Z"
+  },
+  "SU 1333|2026-11-26T10:00:00Z": {
+   "number": "SU 1333",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T10:00:00Z",
+   "actual": "2026-11-26T10:00:00Z"
   }
  },
  "fetched": [
@@ -59,6 +69,7 @@
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
-  "2026-11-26T08:07:25Z"
+  "2026-11-26T08:07:25Z",
+  "2026-11-26T10:07:24Z"
  ]
 }

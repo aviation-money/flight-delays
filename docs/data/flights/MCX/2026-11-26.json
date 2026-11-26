@@ -45,7 +45,7 @@
   "DP 192|2026-11-26T07:40:00Z": {
    "number": "DP 192",
    "airline": "Pobeda",
-   "to": "VKO",
+   "to": "Moscow",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
    "status": "Unknown",
@@ -57,7 +57,7 @@
    "airline": "Uzbekistan",
    "to": "TAS",
    "to_name": "Tashkent",
-   "model": null,
+   "model": "Airbus A320",
    "status": "Expected",
    "scheduled": "2026-11-26T08:30:00Z",
    "actual": null
@@ -65,11 +65,61 @@
   "DP 761|2026-11-26T08:50:00Z": {
    "number": "DP 761",
    "airline": "Pobeda",
-   "to": "DWC",
-   "to_name": "Jebel Ali",
+   "to": "Dubai",
+   "to_name": "Dubai",
    "model": "Boeing 737-800",
    "status": "Unknown",
    "scheduled": "2026-11-26T08:50:00Z",
+   "actual": null
+  },
+  "SU 1053|2026-11-26T09:20:00Z": {
+   "number": "SU 1053",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T09:20:00Z",
+   "actual": null
+  },
+  "A4 6112|2026-11-26T09:20:00Z": {
+   "number": "A4 6112",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T09:20:00Z",
+   "actual": null
+  },
+  "DP 941|2026-11-26T10:20:00Z": {
+   "number": "DP 941",
+   "airline": "Pobeda",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T10:20:00Z",
+   "actual": null
+  },
+  "DP 505|2026-11-26T10:25:00Z": {
+   "number": "DP 505",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T10:25:00Z",
+   "actual": null
+  },
+  "N4 706|2026-11-26T11:00:00Z": {
+   "number": "N4 706",
+   "airline": "Nordwind",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-900",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T11:00:00Z",
    "actual": null
   }
  },
@@ -79,6 +129,7 @@
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
-  "2026-11-26T08:07:25Z"
+  "2026-11-26T08:07:25Z",
+  "2026-11-26T10:07:24Z"
  ]
 }

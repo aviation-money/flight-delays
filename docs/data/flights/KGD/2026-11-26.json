@@ -98,9 +98,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-900",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T08:55:00Z",
-   "actual": "2026-11-26T08:55:00Z"
+   "actual": "2026-11-26T09:40:00Z"
   },
   "5N 506|2026-11-26T09:00:00Z": {
    "number": "5N 506",
@@ -108,9 +108,49 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T09:00:00Z",
-   "actual": "2026-11-26T09:00:00Z"
+   "actual": "2026-11-26T09:11:00Z"
+  },
+  "SU 1001|2026-11-26T07:15:00Z": {
+   "number": "SU 1001",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-26T07:15:00Z",
+   "actual": "2026-11-26T09:08:00Z"
+  },
+  "LUK 9623|2026-11-26T09:30:00Z": {
+   "number": "LUK 9623",
+   "airline": "LUK",
+   "to": "Kaliningrad",
+   "to_name": "Kaliningrad",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-26T09:30:00Z",
+   "actual": "2026-11-26T09:51:00Z"
+  },
+  "U6 372|2026-11-26T10:00:00Z": {
+   "number": "U6 372",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-26T10:00:00Z",
+   "actual": "2026-11-26T09:55:00Z"
+  },
+  "FV 6326|2026-11-26T10:50:00Z": {
+   "number": "FV 6326",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T10:50:00Z",
+   "actual": "2026-11-26T10:50:00Z"
   }
  },
  "fetched": [
@@ -119,6 +159,7 @@
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
-  "2026-11-26T08:07:25Z"
+  "2026-11-26T08:07:25Z",
+  "2026-11-26T10:07:24Z"
  ]
 }

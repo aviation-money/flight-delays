@@ -188,9 +188,19 @@
    "to": "Mirnyy",
    "to_name": "Mirnyy",
    "model": "An-38",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T08:00:00Z",
-   "actual": "2026-11-26T09:00:00Z"
+   "actual": "2026-11-26T09:12:00Z"
+  },
+  "R3 493|2026-11-26T11:00:00Z": {
+   "number": "R3 493",
+   "airline": "Yakutia",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-26T11:00:00Z",
+   "actual": "2026-11-26T11:00:00Z"
   }
  },
  "fetched": [
@@ -202,6 +212,7 @@
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
-  "2026-11-26T08:07:25Z"
+  "2026-11-26T08:07:25Z",
+  "2026-11-26T10:07:24Z"
  ]
 }

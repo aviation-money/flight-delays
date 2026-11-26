@@ -198,9 +198,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Embraer 170",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T02:50:00Z",
-   "actual": "2026-11-26T09:00:00Z"
+   "actual": "2026-11-26T09:28:00Z"
   },
   "UT 125|2026-11-26T03:20:00Z": {
    "number": "UT 125",
@@ -248,9 +248,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": null,
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:40:00Z",
-   "actual": "2026-11-26T08:20:00Z"
+   "actual": "2026-11-26T09:31:00Z"
   },
   "U6 623|2026-11-26T05:00:00Z": {
    "number": "U6 623",
@@ -258,9 +258,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T05:00:00Z",
-   "actual": "2026-11-26T08:20:00Z"
+   "actual": "2026-11-26T09:25:00Z"
   },
   "U6 300|2026-11-26T05:20:00Z": {
    "number": "U6 300",
@@ -268,9 +268,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A319",
-   "status": "Delayed",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T05:20:00Z",
-   "actual": "2026-11-26T08:20:00Z"
+   "actual": "2026-11-26T09:55:00Z"
   },
   "SU 1505|2026-11-26T08:25:00Z": {
    "number": "SU 1505",
@@ -278,9 +278,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T08:25:00Z",
-   "actual": "2026-11-26T08:25:00Z"
+   "actual": "2026-11-26T09:03:00Z"
+  },
+  "YC 956|2026-11-26T10:10:00Z": {
+   "number": "YC 956",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T10:10:00Z",
+   "actual": "2026-11-26T10:10:00Z"
+  },
+  "UT 541|2026-11-26T10:40:00Z": {
+   "number": "UT 541",
+   "airline": "UTAir",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T10:40:00Z",
+   "actual": "2026-11-26T10:40:00Z"
   }
  },
  "fetched": [
@@ -290,6 +310,7 @@
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
-  "2026-11-26T08:07:25Z"
+  "2026-11-26T08:07:25Z",
+  "2026-11-26T10:07:24Z"
  ]
 }

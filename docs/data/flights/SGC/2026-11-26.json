@@ -118,9 +118,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T02:15:00Z",
-   "actual": "2026-11-26T07:00:00Z"
+   "actual": "2026-11-26T09:15:00Z"
   },
   "SU 1513|2026-11-26T03:00:00Z": {
    "number": "SU 1513",
@@ -167,10 +167,10 @@
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737-400",
-   "status": "CheckIn",
+   "model": "Boeing 737-500 (winglets)",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:20:00Z",
-   "actual": "2026-11-26T07:00:00Z"
+   "actual": "2026-11-26T07:50:00Z"
   },
   "UT 139|2026-11-26T08:25:00Z": {
    "number": "UT 139",
@@ -178,9 +178,9 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T08:25:00Z",
-   "actual": "2026-11-26T08:25:00Z"
+   "actual": "2026-11-26T08:30:00Z"
   },
   "RT 456|2026-11-26T08:05:00Z": {
    "number": "RT 456",
@@ -190,7 +190,7 @@
    "model": "Bombardier CRJ200",
    "status": "Expected",
    "scheduled": "2026-11-26T08:05:00Z",
-   "actual": "2026-11-26T08:40:00Z"
+   "actual": "2026-11-26T09:40:00Z"
   }
  },
  "fetched": [
@@ -200,6 +200,7 @@
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
   "2026-11-26T06:07:26Z",
-  "2026-11-26T08:07:25Z"
+  "2026-11-26T08:07:25Z",
+  "2026-11-26T10:07:24Z"
  ]
 }
