@@ -41,6 +41,36 @@
    "status": "Expected",
    "scheduled": "2026-11-26T05:00:00Z",
    "actual": null
+  },
+  "DP 192|2026-11-26T07:40:00Z": {
+   "number": "DP 192",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T07:40:00Z",
+   "actual": null
+  },
+  "HY 9732|2026-11-26T08:30:00Z": {
+   "number": "HY 9732",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-26T08:30:00Z",
+   "actual": null
+  },
+  "DP 761|2026-11-26T08:50:00Z": {
+   "number": "DP 761",
+   "airline": "Pobeda",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T08:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -48,6 +78,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

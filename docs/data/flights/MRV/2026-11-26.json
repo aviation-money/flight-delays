@@ -68,9 +68,9 @@
    "to": "TLV",
    "to_name": "Tel Aviv Yafo",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T06:30:00Z",
-   "actual": "2026-11-26T06:30:00Z"
+   "actual": "2026-11-26T07:40:00Z"
   },
   "A4 6215|2026-11-26T07:00:00Z": {
    "number": "A4 6215",
@@ -78,9 +78,29 @@
    "to": "AYT",
    "to_name": "Antalya",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T07:00:00Z",
-   "actual": "2026-11-26T07:00:00Z"
+   "actual": "2026-11-26T07:40:00Z"
+  },
+  "A4 6075|2026-11-26T07:35:00Z": {
+   "number": "A4 6075",
+   "airline": "Azimuth",
+   "to": "Istanbul",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T07:35:00Z",
+   "actual": "2026-11-26T07:35:00Z"
+  },
+  "A4 6039|2026-11-26T08:30:00Z": {
+   "number": "A4 6039",
+   "airline": "Azimuth",
+   "to": "SKX",
+   "to_name": "Saransk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T08:30:00Z",
+   "actual": "2026-11-26T08:30:00Z"
   }
  },
  "fetched": [
@@ -88,6 +108,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

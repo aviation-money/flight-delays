@@ -78,9 +78,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T05:10:00Z",
-   "actual": "2026-11-26T06:00:00Z"
+   "actual": "2026-11-26T05:55:00Z"
   },
   "EO 733|2026-11-26T06:50:00Z": {
    "number": "EO 733",
@@ -88,9 +88,59 @@
    "to": "MMK",
    "to_name": "Murmansk",
    "model": "Embraer 190",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:50:00Z",
    "actual": "2026-11-26T06:50:00Z"
+  },
+  "RT 535|2026-11-26T07:20:00Z": {
+   "number": "RT 535",
+   "airline": "UVT Aero",
+   "to": "NAL",
+   "to_name": "Nalchik",
+   "model": "Canadair CRJ 200",
+   "status": "Departed",
+   "scheduled": "2026-11-26T07:20:00Z",
+   "actual": "2026-11-26T07:16:00Z"
+  },
+  "UJ 744|2026-11-26T02:45:00Z": {
+   "number": "UJ 744",
+   "airline": "AlMasria",
+   "to": "Hurghada",
+   "to_name": "Hurghada",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T02:45:00Z",
+   "actual": "2026-11-26T07:45:00Z"
+  },
+  "SU 1277|2026-11-26T07:50:00Z": {
+   "number": "SU 1277",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T07:50:00Z",
+   "actual": "2026-11-26T07:53:00Z"
+  },
+  "FV 6594|2026-11-26T08:00:00Z": {
+   "number": "FV 6594",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T08:00:00Z",
+   "actual": "2026-11-26T08:00:00Z"
+  },
+  "DP 779|2026-11-26T06:25:00Z": {
+   "number": "DP 779",
+   "airline": "Pobeda",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T06:25:00Z",
+   "actual": "2026-11-26T08:40:00Z"
   }
  },
  "fetched": [
@@ -98,6 +148,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

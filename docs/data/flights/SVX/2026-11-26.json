@@ -138,9 +138,9 @@
    "to": "DWC",
    "to_name": "Jebel Ali",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Delayed",
    "scheduled": "2026-11-26T01:35:00Z",
-   "actual": "2026-11-26T05:00:00Z"
+   "actual": "2026-11-26T09:00:00Z"
   },
   "UJ 662|2026-11-26T02:20:00Z": {
    "number": "UJ 662",
@@ -170,7 +170,7 @@
    "model": "Airbus A320",
    "status": "Delayed",
    "scheduled": "2026-11-26T03:15:00Z",
-   "actual": "2026-11-26T05:00:00Z"
+   "actual": "2026-11-26T09:00:00Z"
   },
   "U6 272|2026-11-26T04:30:00Z": {
    "number": "U6 272",
@@ -180,7 +180,7 @@
    "model": "Airbus A320",
    "status": "Delayed",
    "scheduled": "2026-11-26T04:30:00Z",
-   "actual": "2026-11-26T05:00:00Z"
+   "actual": "2026-11-26T09:00:00Z"
   },
   "U6 2007|2026-11-26T04:20:00Z": {
    "number": "U6 2007",
@@ -190,7 +190,7 @@
    "model": "Airbus A320",
    "status": "Delayed",
    "scheduled": "2026-11-26T04:20:00Z",
-   "actual": "2026-11-26T05:00:00Z"
+   "actual": "2026-11-26T09:00:00Z"
   },
   "NE 431|2026-11-26T03:50:00Z": {
    "number": "NE 431",
@@ -240,7 +240,7 @@
    "model": "Boeing 737-800",
    "status": "Delayed",
    "scheduled": "2026-11-26T01:15:00Z",
-   "actual": "2026-11-26T05:05:00Z"
+   "actual": "2026-11-26T09:00:00Z"
   },
   "U6 300|2026-11-26T07:00:00Z": {
    "number": "U6 300",
@@ -248,9 +248,39 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-26T07:00:00Z",
-   "actual": "2026-11-26T07:00:00Z"
+   "actual": "2026-11-26T09:00:00Z"
+  },
+  "WZ 1097|2026-11-26T06:45:00Z": {
+   "number": "WZ 1097",
+   "airline": "Red Wings",
+   "to": "NQZ",
+   "to_name": "Astana",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T06:45:00Z",
+   "actual": "2026-11-26T09:00:00Z"
+  },
+  "U6 623|2026-11-26T05:05:00Z": {
+   "number": "U6 623",
+   "airline": "Ural",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T05:05:00Z",
+   "actual": "2026-11-26T09:00:00Z"
+  },
+  "U6 773|2026-11-26T07:25:00Z": {
+   "number": "U6 773",
+   "airline": "Ural",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T07:25:00Z",
+   "actual": "2026-11-26T09:00:00Z"
   }
  },
  "fetched": [
@@ -259,6 +289,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

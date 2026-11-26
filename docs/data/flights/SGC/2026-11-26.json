@@ -171,6 +171,26 @@
    "status": "CheckIn",
    "scheduled": "2026-11-26T04:20:00Z",
    "actual": "2026-11-26T07:00:00Z"
+  },
+  "UT 139|2026-11-26T08:25:00Z": {
+   "number": "UT 139",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T08:25:00Z",
+   "actual": "2026-11-26T08:25:00Z"
+  },
+  "RT 456|2026-11-26T08:05:00Z": {
+   "number": "RT 456",
+   "airline": "Yuvtaero",
+   "to": "NBC",
+   "to_name": "Nizhnekamsk",
+   "model": "Bombardier CRJ200",
+   "status": "Expected",
+   "scheduled": "2026-11-26T08:05:00Z",
+   "actual": "2026-11-26T08:40:00Z"
   }
  },
  "fetched": [
@@ -179,6 +199,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

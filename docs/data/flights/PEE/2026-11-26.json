@@ -110,17 +110,17 @@
    "model": "Boeing 737",
    "status": "Delayed",
    "scheduled": "2026-11-26T03:50:00Z",
-   "actual": "2026-11-26T06:30:00Z"
+   "actual": "2026-11-26T08:30:00Z"
   },
   "NE 430|2026-11-26T04:45:00Z": {
    "number": "NE 430",
    "airline": "Nesma",
-   "to": "SVX",
+   "to": "Ekaterinburg",
    "to_name": "Ekaterinburg",
    "model": "Airbus",
    "status": "Delayed",
    "scheduled": "2026-11-26T04:45:00Z",
-   "actual": "2026-11-26T06:00:00Z"
+   "actual": "2026-11-26T08:00:00Z"
   },
   "FZ FDB4WN|2026-11-26T04:41:00Z": {
    "number": "FZ FDB4WN",
@@ -141,6 +141,16 @@
    "status": "Departed",
    "scheduled": "2026-11-26T00:50:00Z",
    "actual": "2026-11-26T05:15:00Z"
+  },
+  "SU 1201|2026-11-26T08:10:00Z": {
+   "number": "SU 1201",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T08:10:00Z",
+   "actual": "2026-11-26T08:10:00Z"
   }
  },
  "fetched": [
@@ -149,6 +159,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

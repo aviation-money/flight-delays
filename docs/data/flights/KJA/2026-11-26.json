@@ -298,7 +298,7 @@
    "to": "Moskva / VNK",
    "to_name": "Moskva / VNK",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T05:00:00Z",
    "actual": "2026-11-26T05:45:00Z"
   },
@@ -308,7 +308,7 @@
    "to": "IAA",
    "to_name": "Igarka",
    "model": "Yak 42",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:20:00Z",
    "actual": "2026-11-26T06:20:00Z"
   },
@@ -318,9 +318,19 @@
    "to": "Khatanga",
    "to_name": "Khatanga",
    "model": "Yak 42",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T07:00:00Z",
-   "actual": "2026-11-26T07:00:00Z"
+   "actual": "2026-11-26T07:30:00Z"
+  },
+  "S7 5308|2026-11-26T07:50:00Z": {
+   "number": "S7 5308",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-26T07:50:00Z",
+   "actual": "2026-11-26T07:50:00Z"
   }
  },
  "fetched": [
@@ -330,6 +340,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

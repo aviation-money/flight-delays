@@ -70,7 +70,7 @@
    "model": "ATR 72",
    "status": "CheckIn",
    "scheduled": "2026-11-26T05:00:00Z",
-   "actual": "2026-11-26T06:00:00Z"
+   "actual": "2026-11-26T08:00:00Z"
   },
   "NF 971|2026-11-26T06:40:00Z": {
    "number": "NF 971",
@@ -80,7 +80,27 @@
    "model": "Mil Mi",
    "status": "CheckIn",
    "scheduled": "2026-11-26T06:40:00Z",
-   "actual": "2026-11-26T06:40:00Z"
+   "actual": "2026-11-26T07:30:00Z"
+  },
+  "UT 303|2026-11-26T08:00:00Z": {
+   "number": "UT 303",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T08:00:00Z",
+   "actual": "2026-11-26T08:00:00Z"
+  },
+  "NF 973|2026-11-26T09:00:00Z": {
+   "number": "NF 973",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "Expected",
+   "scheduled": "2026-11-26T09:00:00Z",
+   "actual": "2026-11-26T09:00:00Z"
   }
  },
  "fetched": [
@@ -89,6 +109,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

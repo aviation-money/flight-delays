@@ -188,7 +188,7 @@
    "to": "YKS",
    "to_name": "Yakutsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T03:10:00Z",
    "actual": "2026-11-26T03:25:00Z"
   },
@@ -197,7 +197,7 @@
    "airline": "Aeroflot",
    "to": "BKK",
    "to_name": "Bangkok",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737-8LJ",
    "status": "Expected",
    "scheduled": "2026-11-26T00:50:00Z",
    "actual": "2026-11-26T04:10:00Z"
@@ -218,7 +218,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:30:00Z",
    "actual": "2026-11-26T04:54:00Z"
   },
@@ -228,7 +228,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T05:20:00Z",
    "actual": "2026-11-26T05:22:00Z"
   },
@@ -240,7 +240,27 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-26T06:45:00Z",
-   "actual": "2026-11-26T06:45:00Z"
+   "actual": "2026-11-26T07:02:00Z"
+  },
+  "HZ 5602|2026-11-26T06:35:00Z": {
+   "number": "HZ 5602",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T06:35:00Z",
+   "actual": "2026-11-26T08:15:00Z"
+  },
+  "KN 878|2026-11-26T09:05:00Z": {
+   "number": "KN 878",
+   "airline": "China United",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-26T09:05:00Z",
+   "actual": "2026-11-26T09:05:00Z"
   }
  },
  "fetched": [
@@ -252,6 +272,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

@@ -137,7 +137,7 @@
    "airline": "Yakutia",
    "to": "OVB",
    "to_name": "Novosibirsk",
-   "model": "Boeing 737-700",
+   "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-26T03:00:00Z",
    "actual": "2026-11-26T03:28:00Z"
@@ -148,9 +148,49 @@
    "to": "ZIX",
    "to_name": "Zhigansk",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:00:00Z",
-   "actual": "2026-11-26T06:00:00Z"
+   "actual": "2026-11-26T06:44:00Z"
+  },
+  "R3 433|2026-11-26T07:20:00Z": {
+   "number": "R3 433",
+   "airline": "Yakutia",
+   "to": "Olenek",
+   "to_name": "Olenek",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-26T07:20:00Z",
+   "actual": "2026-11-26T07:20:00Z"
+  },
+  "S7 6208|2026-11-26T07:45:00Z": {
+   "number": "S7 6208",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T07:45:00Z",
+   "actual": "2026-11-26T07:57:00Z"
+  },
+  "PI 287|2026-11-26T06:10:00Z": {
+   "number": "PI 287",
+   "airline": "Polar",
+   "to": "Olekminsk",
+   "to_name": "Olekminsk",
+   "model": "An-24",
+   "status": "Departed",
+   "scheduled": "2026-11-26T06:10:00Z",
+   "actual": "2026-11-26T08:00:00Z"
+  },
+  "6R 9922|2026-11-26T08:00:00Z": {
+   "number": "6R 9922",
+   "airline": "Alrosa",
+   "to": "Mirnyy",
+   "to_name": "Mirnyy",
+   "model": "An-38",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T08:00:00Z",
+   "actual": "2026-11-26T09:00:00Z"
   }
  },
  "fetched": [
@@ -161,6 +201,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

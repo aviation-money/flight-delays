@@ -151,6 +151,36 @@
    "status": "Expected",
    "scheduled": "2026-11-26T06:00:00Z",
    "actual": "2026-11-26T06:00:00Z"
+  },
+  "HZ 5607|2026-11-26T07:25:00Z": {
+   "number": "HZ 5607",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-26T07:25:00Z",
+   "actual": "2026-11-26T07:22:00Z"
+  },
+  "IO 312|2026-11-26T07:20:00Z": {
+   "number": "IO 312",
+   "airline": "IrAero",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-26T07:20:00Z",
+   "actual": "2026-11-26T07:35:00Z"
+  },
+  "S7 6202|2026-11-26T08:00:00Z": {
+   "number": "S7 6202",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T08:00:00Z",
+   "actual": "2026-11-26T08:00:00Z"
   }
  },
  "fetched": [
@@ -162,6 +192,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

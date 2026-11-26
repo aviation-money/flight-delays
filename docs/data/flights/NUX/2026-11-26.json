@@ -35,7 +35,7 @@
   "4G 9843|2026-11-26T03:30:00Z": {
    "number": "4G 9843",
    "airline": "Gazpromavia",
-   "to": "WNR",
+   "to": "Yamburg",
    "to_name": "Yamburg",
    "model": null,
    "status": "Departed",
@@ -105,8 +105,8 @@
   "UTH 8906|2026-11-26T05:30:00Z": {
    "number": "UTH 8906",
    "airline": "AO YuTeyr-Vertoletnye uslugi",
-   "to": "Korotchaevo",
-   "to_name": "Korotchaevo",
+   "to": "Tazovskiy",
+   "to_name": "Tazovskiy",
    "model": null,
    "status": "Departed",
    "scheduled": "2026-11-26T05:30:00Z",
@@ -118,9 +118,9 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:10:00Z",
-   "actual": "2026-11-26T06:30:00Z"
+   "actual": "2026-11-26T07:10:00Z"
   },
   "S7 5338|2026-11-26T06:35:00Z": {
    "number": "S7 5338",
@@ -128,9 +128,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:35:00Z",
-   "actual": "2026-11-26T06:35:00Z"
+   "actual": "2026-11-26T07:26:00Z"
   },
   "ЯЛ 41|2026-11-26T07:00:00Z": {
    "number": "ЯЛ 41",
@@ -138,9 +138,29 @@
    "to": "KKQ",
    "to_name": "Krasnoselkup",
    "model": "Mil Mi-8",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T07:00:00Z",
-   "actual": "2026-11-26T07:00:00Z"
+   "actual": "2026-11-26T07:03:00Z"
+  },
+  "UT 542|2026-11-26T07:30:00Z": {
+   "number": "UT 542",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-26T07:30:00Z",
+   "actual": "2026-11-26T07:43:00Z"
+  },
+  "4G 9843|2026-11-26T07:55:00Z": {
+   "number": "4G 9843",
+   "airline": "Gazpromavia",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-26T07:55:00Z",
+   "actual": "2026-11-26T07:55:00Z"
   }
  },
  "fetched": [
@@ -149,6 +169,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

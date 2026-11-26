@@ -17,7 +17,7 @@
    "airline": "Rossiya",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Boeing 737-900",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-26T01:05:00Z",
    "actual": "2026-11-26T05:03:00Z"
@@ -31,6 +31,16 @@
    "status": "Departed",
    "scheduled": "2026-11-26T01:25:00Z",
    "actual": "2026-11-26T01:55:00Z"
+  },
+  "SU 1247|2026-11-26T08:40:00Z": {
+   "number": "SU 1247",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T08:40:00Z",
+   "actual": "2026-11-26T09:00:00Z"
   }
  },
  "fetched": [
@@ -39,6 +49,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

@@ -198,9 +198,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-26T02:50:00Z",
-   "actual": "2026-11-26T02:56:00Z"
+   "actual": "2026-11-26T09:00:00Z"
   },
   "UT 125|2026-11-26T03:20:00Z": {
    "number": "UT 125",
@@ -208,9 +208,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T03:20:00Z",
-   "actual": "2026-11-26T06:00:00Z"
+   "actual": "2026-11-26T07:06:00Z"
   },
   "UT 541|2026-11-26T04:10:00Z": {
    "number": "UT 541",
@@ -245,12 +245,42 @@
   "U6 174|2026-11-26T06:40:00Z": {
    "number": "U6 174",
    "airline": "Ural",
-   "to": "Ekaterinburg",
+   "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": null,
    "status": "Delayed",
    "scheduled": "2026-11-26T06:40:00Z",
-   "actual": "2026-11-26T06:55:00Z"
+   "actual": "2026-11-26T08:20:00Z"
+  },
+  "U6 623|2026-11-26T05:00:00Z": {
+   "number": "U6 623",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T05:00:00Z",
+   "actual": "2026-11-26T08:20:00Z"
+  },
+  "U6 300|2026-11-26T05:20:00Z": {
+   "number": "U6 300",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A319",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T05:20:00Z",
+   "actual": "2026-11-26T08:20:00Z"
+  },
+  "SU 1505|2026-11-26T08:25:00Z": {
+   "number": "SU 1505",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T08:25:00Z",
+   "actual": "2026-11-26T08:25:00Z"
   }
  },
  "fetched": [
@@ -259,6 +289,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

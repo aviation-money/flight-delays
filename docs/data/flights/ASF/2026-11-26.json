@@ -28,9 +28,9 @@
    "to": "Makhachkala",
    "to_name": "Makhachkala",
    "model": null,
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-26T05:00:00Z",
-   "actual": "2026-11-26T05:00:00Z"
+   "actual": "2026-11-26T08:00:00Z"
   },
   "ЛЩ 9683|2026-11-26T06:00:00Z": {
    "number": "ЛЩ 9683",
@@ -38,9 +38,39 @@
    "to": "Filanovskogo-2",
    "to_name": "Filanovskogo-2",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:00:00Z",
-   "actual": "2026-11-26T06:00:00Z"
+   "actual": "2026-11-26T06:14:00Z"
+  },
+  "ЛЩ 9685|2026-11-26T07:30:00Z": {
+   "number": "ЛЩ 9685",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-2",
+   "to_name": "Filanovskogo-2",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T07:30:00Z",
+   "actual": "2026-11-26T07:30:00Z"
+  },
+  "ЛЩ 9651|2026-11-26T08:30:00Z": {
+   "number": "ЛЩ 9651",
+   "airline": "Mars Avia",
+   "to": "Korchagina-MLSP",
+   "to_name": "Korchagina-MLSP",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-26T08:30:00Z",
+   "actual": "2026-11-26T08:30:00Z"
+  },
+  "DP 6962|2026-11-26T07:40:00Z": {
+   "number": "DP 6962",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T07:40:00Z",
+   "actual": "2026-11-26T09:05:00Z"
   }
  },
  "fetched": [
@@ -49,6 +79,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

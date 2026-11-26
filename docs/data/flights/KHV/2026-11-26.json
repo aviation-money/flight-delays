@@ -187,7 +187,7 @@
    "airline": "VietJetAir",
    "to": "Fukuok",
    "to_name": "Fukuok",
-   "model": "Airbus A321 NEO",
+   "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-26T01:20:00Z",
    "actual": "2026-11-26T03:50:00Z"
@@ -230,7 +230,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-26T04:00:00Z",
-   "actual": "2026-11-26T05:35:00Z"
+   "actual": "2026-11-26T06:25:00Z"
   },
   "IO 311|2026-11-26T04:45:00Z": {
    "number": "IO 311",
@@ -248,9 +248,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus Industrie А330-200",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T07:05:00Z",
-   "actual": "2026-11-26T07:05:00Z"
+   "actual": "2026-11-26T07:25:00Z"
+  },
+  "S7 6513|2026-11-26T08:30:00Z": {
+   "number": "S7 6513",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus Industrie А320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T08:30:00Z",
+   "actual": "2026-11-26T08:30:00Z"
+  },
+  "HZ 5601|2026-11-26T09:00:00Z": {
+   "number": "HZ 5601",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T09:00:00Z",
+   "actual": "2026-11-26T09:00:00Z"
   }
  },
  "fetched": [
@@ -262,6 +282,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

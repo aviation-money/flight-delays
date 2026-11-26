@@ -98,9 +98,9 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:00:00Z",
-   "actual": "2026-11-26T06:00:00Z"
+   "actual": "2026-11-26T06:10:00Z"
   },
   "S7 2041|2026-11-26T06:15:00Z": {
    "number": "S7 2041",
@@ -118,7 +118,7 @@
    "to": "ASB",
    "to_name": "Ashgabat",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-26T06:55:00Z",
    "actual": "2026-11-26T06:55:00Z"
   },
@@ -141,6 +141,126 @@
    "status": "CheckIn",
    "scheduled": "2026-11-26T07:00:00Z",
    "actual": "2026-11-26T07:00:00Z"
+  },
+  "U6 1387|2026-11-26T07:15:00Z": {
+   "number": "U6 1387",
+   "airline": "Ural",
+   "to": "OGZ",
+   "to_name": "Vladikavkaz",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T07:15:00Z",
+   "actual": "2026-11-26T07:15:00Z"
+  },
+  "HY 604|2026-11-26T07:20:00Z": {
+   "number": "HY 604",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Boeing 767-300",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T07:20:00Z",
+   "actual": "2026-11-26T07:20:00Z"
+  },
+  "YK 966|2026-11-26T07:45:00Z": {
+   "number": "YK 966",
+   "airline": "Avia Traffic Company",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Boeing 737-300",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T07:45:00Z",
+   "actual": "2026-11-26T07:45:00Z"
+  },
+  "HH 718|2026-11-26T07:50:00Z": {
+   "number": "HH 718",
+   "airline": "Taban",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A321-200 (Sharklets)",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T07:50:00Z",
+   "actual": "2026-11-26T07:50:00Z"
+  },
+  "S7 1135|2026-11-26T08:00:00Z": {
+   "number": "S7 1135",
+   "airline": "S7",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T08:00:00Z",
+   "actual": "2026-11-26T08:00:00Z"
+  },
+  "U6 427|2026-11-26T08:00:00Z": {
+   "number": "U6 427",
+   "airline": "Ural",
+   "to": "GRV",
+   "to_name": "Grozny",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T08:00:00Z",
+   "actual": "2026-11-26T08:00:00Z"
+  },
+  "S7 2143|2026-11-26T08:05:00Z": {
+   "number": "S7 2143",
+   "airline": "S7",
+   "to": "VOG",
+   "to_name": "Volgograd",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T08:05:00Z",
+   "actual": "2026-11-26T08:05:00Z"
+  },
+  "S7 2505|2026-11-26T08:15:00Z": {
+   "number": "S7 2505",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T08:15:00Z",
+   "actual": "2026-11-26T08:15:00Z"
+  },
+  "U6 1343|2026-11-26T08:20:00Z": {
+   "number": "U6 1343",
+   "airline": "Ural",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T08:20:00Z",
+   "actual": "2026-11-26T08:20:00Z"
+  },
+  "U6 627|2026-11-26T08:30:00Z": {
+   "number": "U6 627",
+   "airline": "Ural",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T08:30:00Z",
+   "actual": "2026-11-26T08:30:00Z"
+  },
+  "S7 2153|2026-11-26T09:05:00Z": {
+   "number": "S7 2153",
+   "airline": "S7",
+   "to": "OGZ",
+   "to_name": "Vladikavkaz",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T09:05:00Z",
+   "actual": "2026-11-26T09:05:00Z"
+  },
+  "S7 3021|2026-11-26T09:05:00Z": {
+   "number": "S7 3021",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T09:05:00Z",
+   "actual": "2026-11-26T09:05:00Z"
   }
  },
  "fetched": [
@@ -148,6 +268,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }

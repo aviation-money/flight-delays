@@ -48,9 +48,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T02:05:00Z",
-   "actual": "2026-11-26T05:40:00Z"
+   "actual": "2026-11-26T06:23:00Z"
   },
   "FV 2442|2026-11-26T05:50:00Z": {
    "number": "FV 2442",
@@ -58,9 +58,9 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T05:50:00Z",
-   "actual": "2026-11-26T06:20:00Z"
+   "actual": "2026-11-26T06:59:00Z"
   },
   "S7 3034|2026-11-26T02:30:00Z": {
    "number": "S7 3034",
@@ -70,7 +70,7 @@
    "model": "Airbus A320",
    "status": "GateClosed",
    "scheduled": "2026-11-26T02:30:00Z",
-   "actual": "2026-11-26T06:20:00Z"
+   "actual": "2026-11-26T08:40:00Z"
   },
   "MR 816|2026-11-26T06:10:00Z": {
    "number": "MR 816",
@@ -78,9 +78,9 @@
    "to": "Eren-Khoto",
    "to_name": "Eren-Khoto",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T06:10:00Z",
-   "actual": "2026-11-26T07:00:00Z"
+   "actual": "2026-11-26T07:04:00Z"
   }
  },
  "fetched": [
@@ -91,6 +91,7 @@
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
   "2026-11-26T04:07:29Z",
-  "2026-11-26T06:07:26Z"
+  "2026-11-26T06:07:26Z",
+  "2026-11-26T08:07:25Z"
  ]
 }
