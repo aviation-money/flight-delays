@@ -8,9 +8,9 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T23:00:00Z",
-   "actual": "2026-11-25T23:30:00Z"
+   "actual": "2026-11-26T00:23:00Z"
   },
   "FV 6172|2026-11-26T01:05:00Z": {
    "number": "FV 6172",
@@ -21,11 +21,22 @@
    "status": "CheckIn",
    "scheduled": "2026-11-26T01:05:00Z",
    "actual": "2026-11-26T01:05:00Z"
+  },
+  "FV 6454|2026-11-26T01:25:00Z": {
+   "number": "FV 6454",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-26T01:25:00Z",
+   "actual": "2026-11-26T01:55:00Z"
   }
  },
  "fetched": [
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

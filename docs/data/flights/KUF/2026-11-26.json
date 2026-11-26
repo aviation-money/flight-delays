@@ -27,7 +27,7 @@
    "airline": "Ural",
    "to": "HRG",
    "to_name": "Hurghada",
-   "model": null,
+   "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-25T22:10:00Z",
    "actual": "2026-11-25T22:48:00Z"
@@ -36,6 +36,7 @@
  "fetched": [
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

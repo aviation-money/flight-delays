@@ -128,9 +128,9 @@
    "to": "Rostov-on-Don",
    "to_name": "Rostov-on-Don",
    "model": "Airbus Industrie А320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T23:45:00Z",
-   "actual": "2026-11-25T23:45:00Z"
+   "actual": "2026-11-26T00:35:00Z"
   },
   "НИ 401|2026-11-25T23:20:00Z": {
    "number": "НИ 401",
@@ -148,9 +148,9 @@
    "to": "GDX",
    "to_name": "Magadan",
    "model": "Airbus Industrie А320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:15:00Z",
-   "actual": "2026-11-26T00:15:00Z"
+   "actual": "2026-11-26T00:44:00Z"
   },
   "HZ 5684|2026-11-26T00:30:00Z": {
    "number": "HZ 5684",
@@ -158,9 +158,9 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:30:00Z",
-   "actual": "2026-11-26T00:30:00Z"
+   "actual": "2026-11-26T00:51:00Z"
   },
   "АП 9224|2026-11-26T00:30:00Z": {
    "number": "АП 9224",
@@ -168,9 +168,9 @@
    "to": "Uorgalan",
    "to_name": "Uorgalan",
    "model": "An-26",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:30:00Z",
-   "actual": "2026-11-26T00:30:00Z"
+   "actual": "2026-11-26T00:38:00Z"
   },
   "HZ 5612|2026-11-26T00:55:00Z": {
    "number": "HZ 5612",
@@ -178,9 +178,9 @@
    "to": "GDX",
    "to_name": "Magadan",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:55:00Z",
-   "actual": "2026-11-26T00:55:00Z"
+   "actual": "2026-11-26T01:03:00Z"
   }
  },
  "fetched": [
@@ -189,6 +189,7 @@
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

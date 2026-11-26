@@ -48,9 +48,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-25T23:50:00Z",
-   "actual": "2026-11-25T23:50:00Z"
+   "actual": "2026-11-26T00:56:00Z"
   },
   "YC 32|2026-11-26T00:05:00Z": {
    "number": "YC 32",
@@ -58,9 +58,9 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:05:00Z",
-   "actual": "2026-11-26T00:05:00Z"
+   "actual": "2026-11-26T00:35:00Z"
   },
   "HH 704|2026-11-26T00:30:00Z": {
    "number": "HH 704",
@@ -78,13 +78,14 @@
    "to": "NYM",
    "to_name": "Nadym",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:45:00Z",
-   "actual": "2026-11-26T00:45:00Z"
+   "actual": "2026-11-26T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

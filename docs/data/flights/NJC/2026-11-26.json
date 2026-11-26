@@ -28,7 +28,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T23:00:00Z",
    "actual": null
   },
@@ -46,6 +46,7 @@
  "fetched": [
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

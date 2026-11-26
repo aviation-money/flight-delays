@@ -18,24 +18,45 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:40:00Z",
-   "actual": "2026-11-26T00:40:00Z"
+   "actual": "2026-11-26T01:04:00Z"
   },
   "SU 1093|2026-11-26T01:05:00Z": {
    "number": "SU 1093",
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
-   "status": "CheckIn",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
    "scheduled": "2026-11-26T01:05:00Z",
-   "actual": "2026-11-26T01:05:00Z"
+   "actual": "2026-11-26T01:26:00Z"
+  },
+  "FV 6462|2026-11-26T01:25:00Z": {
+   "number": "FV 6462",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T01:25:00Z",
+   "actual": "2026-11-26T01:35:00Z"
+  },
+  "DP 6568|2026-11-26T00:30:00Z": {
+   "number": "DP 6568",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T00:30:00Z",
+   "actual": "2026-11-26T01:50:00Z"
   }
  },
  "fetched": [
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

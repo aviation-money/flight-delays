@@ -8,15 +8,26 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T23:50:00Z",
-   "actual": "2026-11-25T23:50:00Z"
+   "actual": "2026-11-26T00:24:00Z"
+  },
+  "SU 1457|2026-11-26T03:00:00Z": {
+   "number": "SU 1457",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T03:00:00Z",
+   "actual": "2026-11-26T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

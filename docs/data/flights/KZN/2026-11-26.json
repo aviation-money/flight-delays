@@ -10,7 +10,7 @@
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-25T21:40:00Z",
-   "actual": "2026-11-25T21:40:00Z"
+   "actual": "2026-11-25T21:36:00Z"
   },
   "FZ 974|2026-11-25T22:10:00Z": {
    "number": "FZ 974",
@@ -40,7 +40,7 @@
    "model": "Airbus A321",
    "status": "Boarding",
    "scheduled": "2026-11-25T22:20:00Z",
-   "actual": "2026-11-25T23:00:00Z"
+   "actual": "2026-11-26T02:45:00Z"
   },
   "NE 657|2026-11-26T00:20:00Z": {
    "number": "NE 657",
@@ -50,11 +50,22 @@
    "model": "Airbus A321",
    "status": "CheckIn",
    "scheduled": "2026-11-26T00:20:00Z",
-   "actual": "2026-11-26T00:20:00Z"
+   "actual": "2026-11-26T02:30:00Z"
+  },
+  "RT 651|2026-11-26T01:30:00Z": {
+   "number": "RT 651",
+   "airline": "UVT Aero",
+   "to": "RMZ",
+   "to_name": "Tobolsk",
+   "model": "Canadair CRJ 200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T01:30:00Z",
+   "actual": "2026-11-26T02:30:00Z"
   }
  },
  "fetched": [
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

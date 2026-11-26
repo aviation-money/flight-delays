@@ -100,7 +100,7 @@
    "model": "De Havilland Canada DHC-6 Twin Otter",
    "status": "Expected",
    "scheduled": "2026-11-25T23:00:00Z",
-   "actual": "2026-11-26T00:05:00Z"
+   "actual": "2026-11-26T00:22:00Z"
   },
   "S7 6203|2026-11-25T23:05:00Z": {
    "number": "S7 6203",
@@ -120,7 +120,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-25T21:45:00Z",
-   "actual": "2026-11-25T23:35:00Z"
+   "actual": "2026-11-25T23:58:00Z"
   },
   "S7 5204|2026-11-25T22:50:00Z": {
    "number": "S7 5204",
@@ -130,7 +130,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-25T22:50:00Z",
-   "actual": "2026-11-25T23:50:00Z"
+   "actual": "2026-11-26T00:19:00Z"
   },
   "U6 572|2026-11-25T22:20:00Z": {
    "number": "U6 572",
@@ -140,7 +140,7 @@
    "model": null,
    "status": "Expected",
    "scheduled": "2026-11-25T22:20:00Z",
-   "actual": "2026-11-25T23:50:00Z"
+   "actual": "2026-11-26T00:12:00Z"
   },
   "HZ 5680|2026-11-26T00:40:00Z": {
    "number": "HZ 5680",
@@ -150,7 +150,37 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-26T00:40:00Z",
-   "actual": "2026-11-26T00:40:00Z"
+   "actual": "2026-11-26T00:57:00Z"
+  },
+  "FV 5701|2026-11-26T01:00:00Z": {
+   "number": "FV 5701",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-26T01:00:00Z",
+   "actual": "2026-11-26T02:00:00Z"
+  },
+  "FV 6256|2026-11-26T02:05:00Z": {
+   "number": "FV 6256",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-26T02:05:00Z",
+   "actual": "2026-11-26T02:05:00Z"
+  },
+  "HZ 525|2026-11-26T03:00:00Z": {
+   "number": "HZ 525",
+   "airline": "Aurora",
+   "to": "TLY",
+   "to_name": "Plastun",
+   "model": "De Havilland Canada DHC-6 Twin Otter",
+   "status": "Expected",
+   "scheduled": "2026-11-26T03:00:00Z",
+   "actual": "2026-11-26T03:00:00Z"
   }
  },
  "fetched": [
@@ -159,6 +189,7 @@
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

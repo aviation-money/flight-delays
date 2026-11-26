@@ -38,14 +38,65 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:20:00Z",
    "actual": "2026-11-26T00:20:00Z"
+  },
+  "FV 6582|2026-11-26T01:30:00Z": {
+   "number": "FV 6582",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-26T01:30:00Z",
+   "actual": "2026-11-26T01:48:00Z"
+  },
+  "DP 6512|2026-11-26T01:00:00Z": {
+   "number": "DP 6512",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T01:00:00Z",
+   "actual": "2026-11-26T02:00:00Z"
+  },
+  "DP 366|2026-11-26T01:10:00Z": {
+   "number": "DP 366",
+   "airline": "Pobeda",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T01:10:00Z",
+   "actual": "2026-11-26T02:00:00Z"
+  },
+  "SU 1395|2026-11-26T02:20:00Z": {
+   "number": "SU 1395",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T02:20:00Z",
+   "actual": "2026-11-26T02:20:00Z"
+  },
+  "UJ 630|2026-11-26T02:40:00Z": {
+   "number": "UJ 630",
+   "airline": "Al Masriya Yuniversal Airlaynz",
+   "to": "Hurghada",
+   "to_name": "Hurghada",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T02:40:00Z",
+   "actual": "2026-11-26T02:40:00Z"
   }
  },
  "fetched": [
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }

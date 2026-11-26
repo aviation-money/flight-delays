@@ -18,9 +18,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-25T22:45:00Z",
-   "actual": "2026-11-25T23:55:00Z"
+   "actual": "2026-11-26T00:16:00Z"
   },
   "S7 2602|2026-11-26T00:50:00Z": {
    "number": "S7 2602",
@@ -28,15 +28,36 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:50:00Z",
-   "actual": "2026-11-26T00:50:00Z"
+   "actual": "2026-11-26T01:38:00Z"
+  },
+  "SU 1537|2026-11-26T01:20:00Z": {
+   "number": "SU 1537",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T01:20:00Z",
+   "actual": "2026-11-26T01:20:00Z"
+  },
+  "SU 1431|2026-11-26T02:55:00Z": {
+   "number": "SU 1431",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T02:55:00Z",
+   "actual": "2026-11-26T02:55:00Z"
   }
  },
  "fetched": [
   "2026-11-25T18:07:32Z",
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
-  "2026-11-26T00:07:25Z"
+  "2026-11-26T00:07:25Z",
+  "2026-11-26T02:07:35Z"
  ]
 }
