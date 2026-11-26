@@ -58,7 +58,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T02:05:00Z",
    "actual": "2026-11-26T02:05:00Z"
   },
@@ -68,9 +68,19 @@
    "to": "Mineralnye Vody",
    "to_name": "Mineralnye Vody",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T02:25:00Z",
-   "actual": "2026-11-26T02:25:00Z"
+   "actual": "2026-11-26T02:34:00Z"
+  },
+  "IQ 522|2026-11-26T04:00:00Z": {
+   "number": "IQ 522",
+   "airline": "Qazaq Air",
+   "to": "NQZ",
+   "to_name": "Astana",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "Canceled",
+   "scheduled": "2026-11-26T04:00:00Z",
+   "actual": "2026-11-26T04:00:00Z"
   }
  },
  "fetched": [
@@ -78,6 +88,7 @@
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }

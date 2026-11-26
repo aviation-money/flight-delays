@@ -117,7 +117,7 @@
    "airline": "Aeroflot",
    "to": "BKK",
    "to_name": "Bangkok",
-   "model": "Airbus Industrie А330-300",
+   "model": "Airbus A330-300",
    "status": "Departed",
    "scheduled": "2026-11-25T23:10:00Z",
    "actual": "2026-11-25T23:35:00Z"
@@ -181,6 +181,66 @@
    "status": "Departed",
    "scheduled": "2026-11-26T00:55:00Z",
    "actual": "2026-11-26T01:03:00Z"
+  },
+  "VJ 6843|2026-11-26T01:20:00Z": {
+   "number": "VJ 6843",
+   "airline": "VietJetAir",
+   "to": "Fukuok",
+   "to_name": "Fukuok",
+   "model": "Airbus A321 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-26T01:20:00Z",
+   "actual": "2026-11-26T03:50:00Z"
+  },
+  "EU 2926|2026-11-26T03:55:00Z": {
+   "number": "EU 2926",
+   "airline": "Chengdu",
+   "to": "Harbin",
+   "to_name": "Harbin",
+   "model": "Comac C909/ARJ21-700",
+   "status": "Expected",
+   "scheduled": "2026-11-26T03:55:00Z",
+   "actual": "2026-11-26T03:55:00Z"
+  },
+  "HZ 5628|2026-11-26T04:00:00Z": {
+   "number": "HZ 5628",
+   "airline": "Aurora",
+   "to": "Yuzhno-Sakhalinsk",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Canceled",
+   "scheduled": "2026-11-26T04:00:00Z",
+   "actual": "2026-11-26T04:00:00Z"
+  },
+  "HZ 3102|2026-11-26T04:15:00Z": {
+   "number": "HZ 3102",
+   "airline": "Aurora",
+   "to": "Nikolayevsk-na-Amure Airport",
+   "to_name": "Nikolayevsk-na-Amure Airport",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Expected",
+   "scheduled": "2026-11-26T04:15:00Z",
+   "actual": "2026-11-26T04:15:00Z"
+  },
+  "FV 5707|2026-11-26T04:00:00Z": {
+   "number": "FV 5707",
+   "airline": "Rossiya",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-26T04:00:00Z",
+   "actual": "2026-11-26T04:30:00Z"
+  },
+  "IO 311|2026-11-26T04:45:00Z": {
+   "number": "IO 311",
+   "airline": "IrAero",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-26T04:45:00Z",
+   "actual": "2026-11-26T04:45:00Z"
   }
  },
  "fetched": [
@@ -190,6 +250,7 @@
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }

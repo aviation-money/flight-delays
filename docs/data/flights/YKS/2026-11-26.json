@@ -108,9 +108,9 @@
    "to": "Molodo",
    "to_name": "Molodo",
    "model": "An-38",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T01:30:00Z",
-   "actual": "2026-11-26T01:30:00Z"
+   "actual": "2026-11-26T02:28:00Z"
   },
   "PI 215|2026-11-26T01:40:00Z": {
    "number": "PI 215",
@@ -118,9 +118,9 @@
    "to": "SUK",
    "to_name": "Batagay-Alyta",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T01:40:00Z",
-   "actual": "2026-11-26T01:40:00Z"
+   "actual": "2026-11-26T02:00:00Z"
   },
   "6R 9657|2026-11-26T02:00:00Z": {
    "number": "6R 9657",
@@ -128,9 +128,9 @@
    "to": "Saskylakh",
    "to_name": "Saskylakh",
    "model": "An-24",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T02:00:00Z",
-   "actual": "2026-11-26T02:00:00Z"
+   "actual": "2026-11-26T02:03:00Z"
   },
   "R3 465|2026-11-26T03:00:00Z": {
    "number": "R3 465",
@@ -138,9 +138,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Boeing 737-700",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T03:00:00Z",
-   "actual": "2026-11-26T03:00:00Z"
+   "actual": "2026-11-26T03:28:00Z"
   }
  },
  "fetched": [
@@ -149,6 +149,7 @@
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }

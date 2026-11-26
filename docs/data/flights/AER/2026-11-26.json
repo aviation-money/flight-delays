@@ -37,15 +37,36 @@
    "airline": "flydubai",
    "to": "DXB",
    "to_name": "Dubai",
-   "model": "Boeing 737",
+   "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-25T23:35:00Z",
    "actual": "2026-11-25T23:35:00Z"
+  },
+  "A4 5029|2026-11-26T04:00:00Z": {
+   "number": "A4 5029",
+   "airline": "Azimuth",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T04:00:00Z",
+   "actual": "2026-11-26T04:00:00Z"
+  },
+  "WZ 567|2026-11-26T04:30:00Z": {
+   "number": "WZ 567",
+   "airline": "Red Wings",
+   "to": "BUS",
+   "to_name": "Batumi",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T04:30:00Z",
+   "actual": "2026-11-26T04:30:00Z"
   }
  },
  "fetched": [
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }

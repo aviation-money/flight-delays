@@ -5,8 +5,8 @@
   "WZ 5004|2026-11-25T23:55:00Z": {
    "number": "WZ 5004",
    "airline": "Red Wings",
-   "to": "SVX",
-   "to_name": "Ekaterinburg",
+   "to": "PEE",
+   "to_name": "Perm",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-25T23:55:00Z",
@@ -17,10 +17,10 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
-   "status": "GateClosed",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
    "scheduled": "2026-11-26T02:00:00Z",
-   "actual": "2026-11-26T02:00:00Z"
+   "actual": "2026-11-26T02:36:00Z"
   },
   "PR 51|2026-11-26T02:30:00Z": {
    "number": "PR 51",
@@ -28,9 +28,19 @@
    "to": "Kedrovyy",
    "to_name": "Kedrovyy",
    "model": null,
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-26T02:30:00Z",
-   "actual": "2026-11-26T02:30:00Z"
+   "actual": "2026-11-26T04:30:00Z"
+  },
+  "N4 310|2026-11-26T01:15:00Z": {
+   "number": "N4 310",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T01:15:00Z",
+   "actual": "2026-11-26T03:43:00Z"
   }
  },
  "fetched": [
@@ -38,6 +48,7 @@
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }

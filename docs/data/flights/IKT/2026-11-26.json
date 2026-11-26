@@ -258,7 +258,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:30:00Z",
    "actual": null
   },
@@ -267,7 +267,7 @@
    "airline": "S7",
    "to": "DME",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Boeing 737-800",
    "status": "Unknown",
    "scheduled": "2026-11-26T01:25:00Z",
    "actual": null
@@ -321,6 +321,86 @@
    "status": "Expected",
    "scheduled": "2026-11-26T03:05:00Z",
    "actual": null
+  },
+  "S7 3022|2026-11-26T03:40:00Z": {
+   "number": "S7 3022",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T03:40:00Z",
+   "actual": null
+  },
+  "S7 6447|2026-11-26T04:05:00Z": {
+   "number": "S7 6447",
+   "airline": "S7",
+   "to": "NER",
+   "to_name": "Neryungri",
+   "model": "Embraer 170",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T04:05:00Z",
+   "actual": null
+  },
+  "FV 6882|2026-11-26T04:10:00Z": {
+   "number": "FV 6882",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-26T04:10:00Z",
+   "actual": null
+  },
+  "SU 2875|2026-11-26T04:30:00Z": {
+   "number": "SU 2875",
+   "airline": "Aeroflot",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T04:30:00Z",
+   "actual": null
+  },
+  "S7 6415|2026-11-26T04:40:00Z": {
+   "number": "S7 6415",
+   "airline": "S7",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T04:40:00Z",
+   "actual": null
+  },
+  "IO 141|2026-11-26T04:55:00Z": {
+   "number": "IO 141",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-26T04:55:00Z",
+   "actual": null
+  },
+  "UT 234|2026-11-26T05:00:00Z": {
+   "number": "UT 234",
+   "airline": "UTAir",
+   "to": "UKX",
+   "to_name": "Ust-Kut",
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T05:00:00Z",
+   "actual": null
+  },
+  "SU 1563|2026-11-26T05:05:00Z": {
+   "number": "SU 1563",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T05:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -329,6 +409,7 @@
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }

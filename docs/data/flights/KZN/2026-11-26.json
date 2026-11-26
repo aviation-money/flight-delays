@@ -40,7 +40,7 @@
    "model": "Airbus A321",
    "status": "Boarding",
    "scheduled": "2026-11-25T22:20:00Z",
-   "actual": "2026-11-26T02:45:00Z"
+   "actual": "2026-11-26T04:25:00Z"
   },
   "NE 657|2026-11-26T00:20:00Z": {
    "number": "NE 657",
@@ -48,9 +48,9 @@
    "to": "Sharm El Sheikh",
    "to_name": "Sharm El Sheikh",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-26T00:20:00Z",
-   "actual": "2026-11-26T02:30:00Z"
+   "actual": "2026-11-26T04:00:00Z"
   },
   "RT 651|2026-11-26T01:30:00Z": {
    "number": "RT 651",
@@ -60,12 +60,23 @@
    "model": "Canadair CRJ 200",
    "status": "CheckIn",
    "scheduled": "2026-11-26T01:30:00Z",
-   "actual": "2026-11-26T02:30:00Z"
+   "actual": "2026-11-26T04:30:00Z"
+  },
+  "SU 1279|2026-11-26T03:50:00Z": {
+   "number": "SU 1279",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T03:50:00Z",
+   "actual": "2026-11-26T04:30:00Z"
   }
  },
  "fetched": [
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }

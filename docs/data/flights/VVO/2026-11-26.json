@@ -108,7 +108,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-25T23:05:00Z",
    "actual": "2026-11-25T23:41:00Z"
   },
@@ -148,7 +148,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T00:40:00Z",
    "actual": "2026-11-26T00:57:00Z"
   },
@@ -158,9 +158,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T01:00:00Z",
-   "actual": "2026-11-26T02:00:00Z"
+   "actual": "2026-11-26T02:22:00Z"
   },
   "FV 6256|2026-11-26T02:05:00Z": {
    "number": "FV 6256",
@@ -170,7 +170,7 @@
    "model": "Boeing 777-300ER",
    "status": "Expected",
    "scheduled": "2026-11-26T02:05:00Z",
-   "actual": "2026-11-26T02:05:00Z"
+   "actual": "2026-11-26T03:50:00Z"
   },
   "HZ 525|2026-11-26T03:00:00Z": {
    "number": "HZ 525",
@@ -180,7 +180,47 @@
    "model": "De Havilland Canada DHC-6 Twin Otter",
    "status": "Expected",
    "scheduled": "2026-11-26T03:00:00Z",
-   "actual": "2026-11-26T03:00:00Z"
+   "actual": "2026-11-26T03:04:00Z"
+  },
+  "S7 6207|2026-11-26T03:10:00Z": {
+   "number": "S7 6207",
+   "airline": "S7",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T03:10:00Z",
+   "actual": "2026-11-26T03:25:00Z"
+  },
+  "SU 644|2026-11-26T00:50:00Z": {
+   "number": "SU 644",
+   "airline": "Aeroflot",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T00:50:00Z",
+   "actual": "2026-11-26T03:50:00Z"
+  },
+  "FV 6260|2026-11-26T03:50:00Z": {
+   "number": "FV 6260",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 747-400",
+   "status": "Expected",
+   "scheduled": "2026-11-26T03:50:00Z",
+   "actual": "2026-11-26T04:15:00Z"
+  },
+  "HZ 5606|2026-11-26T04:30:00Z": {
+   "number": "HZ 5606",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T04:30:00Z",
+   "actual": "2026-11-26T04:30:00Z"
   }
  },
  "fetched": [
@@ -190,6 +230,7 @@
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }

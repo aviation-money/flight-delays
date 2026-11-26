@@ -18,9 +18,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T01:50:00Z",
-   "actual": "2026-11-26T01:53:00Z"
+   "actual": "2026-11-26T02:19:00Z"
   },
   "NF 986|2026-11-26T03:00:00Z": {
    "number": "NF 986",
@@ -31,12 +31,53 @@
    "status": "Expected",
    "scheduled": "2026-11-26T03:00:00Z",
    "actual": "2026-11-26T03:00:00Z"
+  },
+  "UT 215|2026-11-26T03:40:00Z": {
+   "number": "UT 215",
+   "airline": "UTAir",
+   "to": "NYA",
+   "to_name": "Nyagan",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-26T03:40:00Z",
+   "actual": "2026-11-26T03:40:00Z"
+  },
+  "NF 977|2026-11-26T04:00:00Z": {
+   "number": "NF 977",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T04:00:00Z",
+   "actual": "2026-11-26T04:00:00Z"
+  },
+  "A4 6066|2026-11-26T04:35:00Z": {
+   "number": "A4 6066",
+   "airline": "Azimuth",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Canceled",
+   "scheduled": "2026-11-26T04:35:00Z",
+   "actual": "2026-11-26T04:35:00Z"
+  },
+  "UT 301|2026-11-26T05:00:00Z": {
+   "number": "UT 301",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T05:00:00Z",
+   "actual": "2026-11-26T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-25T20:07:27Z",
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }

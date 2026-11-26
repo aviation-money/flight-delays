@@ -21,11 +21,22 @@
    "status": "Expected",
    "scheduled": "2026-11-26T03:00:00Z",
    "actual": null
+  },
+  "U6 2617|2026-11-26T04:50:00Z": {
+   "number": "U6 2617",
+   "airline": "Ural",
+   "to": "UGC",
+   "to_name": "Urgench",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T04:50:00Z",
+   "actual": "2026-11-26T04:50:00Z"
   }
  },
  "fetched": [
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
-  "2026-11-26T02:07:35Z"
+  "2026-11-26T02:07:35Z",
+  "2026-11-26T04:07:29Z"
  ]
 }
