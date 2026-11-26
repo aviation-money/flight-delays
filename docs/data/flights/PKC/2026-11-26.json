@@ -68,9 +68,9 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:00:00Z",
-   "actual": "2026-11-26T04:00:00Z"
+   "actual": "2026-11-26T04:11:00Z"
   },
   "HZ 5685|2026-11-26T04:45:00Z": {
    "number": "HZ 5685",
@@ -78,9 +78,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:45:00Z",
-   "actual": "2026-11-26T04:45:00Z"
+   "actual": "2026-11-26T04:50:00Z"
   }
  },
  "fetched": [
@@ -92,6 +92,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

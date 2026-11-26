@@ -108,9 +108,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 777-300ER",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T03:50:00Z",
-   "actual": "2026-11-26T03:50:00Z"
+   "actual": "2026-11-26T03:43:00Z"
   },
   "HZ 3018|2026-11-26T04:15:00Z": {
    "number": "HZ 3018",
@@ -118,7 +118,7 @@
    "to": "Kurilsk",
    "to_name": "Kurilsk",
    "model": "Bombardier Dash 8 Q400 / DHC-8-400",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:15:00Z",
    "actual": "2026-11-26T04:15:00Z"
   },
@@ -128,9 +128,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T03:30:00Z",
-   "actual": "2026-11-26T04:15:00Z"
+   "actual": "2026-11-26T05:08:00Z"
   },
   "TG 2651|2026-11-25T23:00:00Z": {
    "number": "TG 2651",
@@ -141,6 +141,16 @@
    "status": "Delayed",
    "scheduled": "2026-11-25T23:00:00Z",
    "actual": "2026-11-26T04:30:00Z"
+  },
+  "SU 5823|2026-11-26T06:00:00Z": {
+   "number": "SU 5823",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A330-300",
+   "status": "Expected",
+   "scheduled": "2026-11-26T06:00:00Z",
+   "actual": "2026-11-26T06:00:00Z"
   }
  },
  "fetched": [
@@ -151,6 +161,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

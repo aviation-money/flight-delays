@@ -48,9 +48,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T02:55:00Z",
-   "actual": "2026-11-26T02:55:00Z"
+   "actual": "2026-11-26T04:15:00Z"
   },
   "S7 7002|2026-11-26T04:30:00Z": {
    "number": "S7 7002",
@@ -58,19 +58,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:30:00Z",
-   "actual": "2026-11-26T04:30:00Z"
+   "actual": "2026-11-26T04:40:00Z"
   },
   "N4 758|2026-11-26T02:05:00Z": {
    "number": "N4 758",
    "airline": "Nordwind",
    "to": "KZN",
    "to_name": "Kazan",
-   "model": "Airbus A321",
-   "status": "Boarding",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-26T02:05:00Z",
-   "actual": "2026-11-26T04:30:00Z"
+   "actual": "2026-11-26T05:01:00Z"
   }
  },
  "fetched": [
@@ -79,6 +79,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

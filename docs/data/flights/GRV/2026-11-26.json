@@ -21,12 +21,23 @@
    "status": "Unknown",
    "scheduled": "2026-11-26T03:30:00Z",
    "actual": null
+  },
+  "FV 5993|2026-11-26T07:00:00Z": {
+   "number": "FV 5993",
+   "airline": "Rossiya",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T07:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

@@ -20,13 +20,34 @@
    "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-26T04:10:00Z",
-   "actual": "2026-11-26T04:10:00Z"
+   "actual": "2026-11-26T04:24:00Z"
+  },
+  "WZ 902|2026-11-26T03:05:00Z": {
+   "number": "WZ 902",
+   "airline": "Red Wings",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Departed",
+   "scheduled": "2026-11-26T03:05:00Z",
+   "actual": "2026-11-26T05:40:00Z"
+  },
+  "DP 530|2026-11-26T06:40:00Z": {
+   "number": "DP 530",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T06:40:00Z",
+   "actual": "2026-11-26T06:40:00Z"
   }
  },
  "fetched": [
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

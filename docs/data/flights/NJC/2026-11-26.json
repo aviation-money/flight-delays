@@ -51,6 +51,16 @@
    "status": "Expected",
    "scheduled": "2026-11-26T05:00:00Z",
    "actual": null
+  },
+  "UT 316|2026-11-26T05:50:00Z": {
+   "number": "UT 316",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-26T05:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -58,6 +68,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

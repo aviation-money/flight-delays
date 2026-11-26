@@ -48,9 +48,9 @@
    "to": "Bovanenkovo",
    "to_name": "Bovanenkovo",
    "model": null,
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T03:30:00Z",
-   "actual": "2026-11-26T04:00:00Z"
+   "actual": "2026-11-26T05:38:00Z"
   },
   "4G 9847|2026-11-26T04:00:00Z": {
    "number": "4G 9847",
@@ -58,9 +58,9 @@
    "to": "WNR",
    "to_name": "Novyy Urengoy",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:00:00Z",
-   "actual": "2026-11-26T04:00:00Z"
+   "actual": "2026-11-26T04:03:00Z"
   },
   "4G 260|2026-11-26T04:05:00Z": {
    "number": "4G 260",
@@ -68,9 +68,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:05:00Z",
-   "actual": "2026-11-26T04:05:00Z"
+   "actual": "2026-11-26T04:21:00Z"
   },
   "4G 9814|2026-11-26T04:30:00Z": {
    "number": "4G 9814",
@@ -78,9 +78,9 @@
    "to": "Novyy Port",
    "to_name": "Novyy Port",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:30:00Z",
-   "actual": "2026-11-26T04:30:00Z"
+   "actual": "2026-11-26T04:49:00Z"
   },
   "YC 845|2026-11-26T04:45:00Z": {
    "number": "YC 845",
@@ -88,9 +88,59 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:45:00Z",
-   "actual": "2026-11-26T04:45:00Z"
+   "actual": "2026-11-26T05:08:00Z"
+  },
+  "YC 317|2026-11-26T05:25:00Z": {
+   "number": "YC 317",
+   "airline": "Yamal",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-26T05:25:00Z",
+   "actual": "2026-11-26T05:30:00Z"
+  },
+  "UTH 8906|2026-11-26T05:30:00Z": {
+   "number": "UTH 8906",
+   "airline": "AO YuTeyr-Vertoletnye uslugi",
+   "to": "Korotchaevo",
+   "to_name": "Korotchaevo",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-26T05:30:00Z",
+   "actual": "2026-11-26T05:42:00Z"
+  },
+  "FV 6818|2026-11-26T06:10:00Z": {
+   "number": "FV 6818",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T06:10:00Z",
+   "actual": "2026-11-26T06:30:00Z"
+  },
+  "S7 5338|2026-11-26T06:35:00Z": {
+   "number": "S7 5338",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T06:35:00Z",
+   "actual": "2026-11-26T06:35:00Z"
+  },
+  "ЯЛ 41|2026-11-26T07:00:00Z": {
+   "number": "ЯЛ 41",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "KKQ",
+   "to_name": "Krasnoselkup",
+   "model": "Mil Mi-8",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T07:00:00Z",
+   "actual": "2026-11-26T07:00:00Z"
   }
  },
  "fetched": [
@@ -98,6 +148,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

@@ -170,7 +170,7 @@
    "model": "Boeing 737-800",
    "status": "Delayed",
    "scheduled": "2026-11-26T02:30:00Z",
-   "actual": "2026-11-26T04:35:00Z"
+   "actual": "2026-11-26T07:00:00Z"
   },
   "DP 515|2026-11-26T02:50:00Z": {
    "number": "DP 515",
@@ -178,9 +178,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Delayed",
    "scheduled": "2026-11-26T02:50:00Z",
-   "actual": "2026-11-26T02:53:00Z"
+   "actual": "2026-11-26T06:45:00Z"
   },
   "UT 287|2026-11-26T02:55:00Z": {
    "number": "UT 287",
@@ -205,12 +205,12 @@
   "UT 125|2026-11-26T03:20:00Z": {
    "number": "UT 125",
    "airline": "UTAir",
-   "to": "Ufa",
+   "to": "UFA",
    "to_name": "Ufa",
    "model": "ATR 72",
-   "status": "Delayed",
+   "status": "Boarding",
    "scheduled": "2026-11-26T03:20:00Z",
-   "actual": "2026-11-26T04:00:00Z"
+   "actual": "2026-11-26T06:00:00Z"
   },
   "UT 541|2026-11-26T04:10:00Z": {
    "number": "UT 541",
@@ -228,9 +228,29 @@
    "to": "Beloyarskiy",
    "to_name": "Beloyarskiy",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:30:00Z",
-   "actual": "2026-11-26T04:30:00Z"
+   "actual": "2026-11-26T05:03:00Z"
+  },
+  "DP 339|2026-11-26T03:25:00Z": {
+   "number": "DP 339",
+   "airline": "Pobeda",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Boeing 737-800",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T03:25:00Z",
+   "actual": "2026-11-26T06:30:00Z"
+  },
+  "U6 174|2026-11-26T06:40:00Z": {
+   "number": "U6 174",
+   "airline": "Ural",
+   "to": "Ekaterinburg",
+   "to_name": "Ekaterinburg",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-26T06:40:00Z",
+   "actual": "2026-11-26T06:55:00Z"
   }
  },
  "fetched": [
@@ -238,6 +258,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

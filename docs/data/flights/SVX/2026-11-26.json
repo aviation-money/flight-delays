@@ -88,9 +88,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Delayed",
    "scheduled": "2026-11-25T21:20:00Z",
-   "actual": "2026-11-26T05:00:00Z"
+   "actual": "2026-11-26T07:00:00Z"
   },
   "FV 6122|2026-11-26T00:05:00Z": {
    "number": "FV 6122",
@@ -241,6 +241,16 @@
    "status": "Delayed",
    "scheduled": "2026-11-26T01:15:00Z",
    "actual": "2026-11-26T05:05:00Z"
+  },
+  "U6 300|2026-11-26T07:00:00Z": {
+   "number": "U6 300",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T07:00:00Z",
+   "actual": "2026-11-26T07:00:00Z"
   }
  },
  "fetched": [
@@ -248,6 +258,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

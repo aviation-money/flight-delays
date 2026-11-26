@@ -107,7 +107,7 @@
    "airline": "UTAir",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-26T02:40:00Z",
    "actual": "2026-11-26T03:13:00Z"
@@ -120,7 +120,7 @@
    "model": "ATR 72",
    "status": "CheckIn",
    "scheduled": "2026-11-26T02:15:00Z",
-   "actual": "2026-11-26T03:00:00Z"
+   "actual": "2026-11-26T07:00:00Z"
   },
   "SU 1513|2026-11-26T03:00:00Z": {
    "number": "SU 1513",
@@ -130,7 +130,7 @@
    "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-26T03:00:00Z",
-   "actual": "2026-11-26T03:23:00Z"
+   "actual": "2026-11-26T03:24:00Z"
   },
   "S7 5348|2026-11-26T03:55:00Z": {
    "number": "S7 5348",
@@ -138,9 +138,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T03:55:00Z",
-   "actual": "2026-11-26T03:55:00Z"
+   "actual": "2026-11-26T04:12:00Z"
   },
   "UT 481|2026-11-26T04:05:00Z": {
    "number": "UT 481",
@@ -148,9 +148,9 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:05:00Z",
-   "actual": "2026-11-26T04:05:00Z"
+   "actual": "2026-11-26T04:30:00Z"
   },
   "UT 259|2026-11-26T04:45:00Z": {
    "number": "UT 259",
@@ -158,9 +158,9 @@
    "to": "CEK",
    "to_name": "Chelyabinsk",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:45:00Z",
-   "actual": "2026-11-26T04:45:00Z"
+   "actual": "2026-11-26T05:23:00Z"
   },
   "UT 103|2026-11-26T04:20:00Z": {
    "number": "UT 103",
@@ -170,7 +170,7 @@
    "model": "Boeing 737-400",
    "status": "CheckIn",
    "scheduled": "2026-11-26T04:20:00Z",
-   "actual": "2026-11-26T05:00:00Z"
+   "actual": "2026-11-26T07:00:00Z"
   }
  },
  "fetched": [
@@ -178,6 +178,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

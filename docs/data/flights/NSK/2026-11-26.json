@@ -7,7 +7,7 @@
    "airline": "S7",
    "to": "OVB",
    "to_name": "Novosibirsk",
-   "model": "Airbus A320",
+   "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-26T01:45:00Z",
    "actual": null
@@ -18,7 +18,7 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Unknown",
+   "status": "Expected",
    "scheduled": "2026-11-26T02:15:00Z",
    "actual": null
   }
@@ -29,6 +29,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

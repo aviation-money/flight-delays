@@ -198,9 +198,9 @@
    "to": "Harbin",
    "to_name": "Harbin",
    "model": "Comac C909/ARJ21-700",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T03:55:00Z",
-   "actual": "2026-11-26T03:55:00Z"
+   "actual": "2026-11-26T04:08:00Z"
   },
   "HZ 5628|2026-11-26T04:00:00Z": {
    "number": "HZ 5628",
@@ -218,9 +218,9 @@
    "to": "Nikolayevsk-na-Amure Airport",
    "to_name": "Nikolayevsk-na-Amure Airport",
    "model": "De Havilland DHC-8-400 Dash 8",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:15:00Z",
-   "actual": "2026-11-26T04:15:00Z"
+   "actual": "2026-11-26T04:29:00Z"
   },
   "FV 5707|2026-11-26T04:00:00Z": {
    "number": "FV 5707",
@@ -230,7 +230,7 @@
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-26T04:00:00Z",
-   "actual": "2026-11-26T04:30:00Z"
+   "actual": "2026-11-26T05:35:00Z"
   },
   "IO 311|2026-11-26T04:45:00Z": {
    "number": "IO 311",
@@ -238,9 +238,19 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T04:45:00Z",
-   "actual": "2026-11-26T04:45:00Z"
+   "actual": "2026-11-26T05:32:00Z"
+  },
+  "SU 5807|2026-11-26T07:05:00Z": {
+   "number": "SU 5807",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus Industrie А330-200",
+   "status": "Expected",
+   "scheduled": "2026-11-26T07:05:00Z",
+   "actual": "2026-11-26T07:05:00Z"
   }
  },
  "fetched": [
@@ -251,6 +261,7 @@
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }

@@ -18,15 +18,26 @@
    "to": "Varandey",
    "to_name": "Varandey",
    "model": "An-24",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-26T04:30:00Z",
    "actual": "2026-11-26T04:30:00Z"
+  },
+  "СИ 9641|2026-11-26T07:00:00Z": {
+   "number": "СИ 9641",
+   "airline": "Arktika",
+   "to": "Amderma-2",
+   "to_name": "Amderma-2",
+   "model": "Yak 42",
+   "status": "Expected",
+   "scheduled": "2026-11-26T07:00:00Z",
+   "actual": "2026-11-26T07:00:00Z"
   }
  },
  "fetched": [
   "2026-11-25T22:07:26Z",
   "2026-11-26T00:07:25Z",
   "2026-11-26T02:07:35Z",
-  "2026-11-26T04:07:29Z"
+  "2026-11-26T04:07:29Z",
+  "2026-11-26T06:07:26Z"
  ]
 }
