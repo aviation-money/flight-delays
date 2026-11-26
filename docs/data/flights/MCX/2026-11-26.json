@@ -171,6 +171,16 @@
    "status": "Expected",
    "scheduled": "2026-11-26T13:00:00Z",
    "actual": null
+  },
+  "FV 6066|2026-11-26T13:40:00Z": {
+   "number": "FV 6066",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-26T13:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -181,6 +191,7 @@
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
-  "2026-11-26T12:07:25Z"
+  "2026-11-26T12:07:25Z",
+  "2026-11-26T14:07:36Z"
  ]
 }

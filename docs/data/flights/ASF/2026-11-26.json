@@ -97,7 +97,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-26T09:40:00Z",
    "actual": "2026-11-26T10:20:00Z"
@@ -121,6 +121,16 @@
    "status": "Departed",
    "scheduled": "2026-11-26T11:30:00Z",
    "actual": "2026-11-26T11:30:00Z"
+  },
+  "ZZZ 5104|2026-11-26T13:20:00Z": {
+   "number": "ZZZ 5104",
+   "airline": "Inostrannyy Neuchetnyy Perevozchik",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-26T13:20:00Z",
+   "actual": "2026-11-26T13:31:00Z"
   }
  },
  "fetched": [
@@ -132,6 +142,7 @@
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
-  "2026-11-26T12:07:25Z"
+  "2026-11-26T12:07:25Z",
+  "2026-11-26T14:07:36Z"
  ]
 }

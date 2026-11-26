@@ -71,6 +71,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-26T11:30:00Z",
    "actual": null
+  },
+  "S7 1166|2026-11-26T14:55:00Z": {
+   "number": "S7 1166",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "Unknown",
+   "scheduled": "2026-11-26T14:55:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -82,6 +92,7 @@
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
-  "2026-11-26T12:07:25Z"
+  "2026-11-26T12:07:25Z",
+  "2026-11-26T14:07:36Z"
  ]
 }

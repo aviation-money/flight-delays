@@ -88,9 +88,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T12:10:00Z",
-   "actual": "2026-11-26T12:30:00Z"
+   "actual": "2026-11-26T13:05:00Z"
   }
  },
  "fetched": [
@@ -101,6 +101,7 @@
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
-  "2026-11-26T12:07:25Z"
+  "2026-11-26T12:07:25Z",
+  "2026-11-26T14:07:36Z"
  ]
 }

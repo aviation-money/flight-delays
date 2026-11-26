@@ -68,9 +68,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T05:00:00Z",
-   "actual": "2026-11-26T12:00:00Z"
+   "actual": "2026-11-26T13:08:00Z"
   },
   "NF 971|2026-11-26T06:40:00Z": {
    "number": "NF 971",
@@ -101,6 +101,16 @@
    "status": "Expected",
    "scheduled": "2026-11-26T09:00:00Z",
    "actual": "2026-11-26T09:00:00Z"
+  },
+  "UT 352|2026-11-26T13:00:00Z": {
+   "number": "UT 352",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T13:00:00Z",
+   "actual": "2026-11-26T14:10:00Z"
   }
  },
  "fetched": [
@@ -112,6 +122,7 @@
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
-  "2026-11-26T12:07:25Z"
+  "2026-11-26T12:07:25Z",
+  "2026-11-26T14:07:36Z"
  ]
 }

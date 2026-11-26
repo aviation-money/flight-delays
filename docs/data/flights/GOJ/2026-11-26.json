@@ -41,6 +41,26 @@
    "status": "Departed",
    "scheduled": "2026-11-26T09:10:00Z",
    "actual": "2026-11-26T10:05:00Z"
+  },
+  "5G 121|2026-11-26T13:10:00Z": {
+   "number": "5G 121",
+   "airline": "Shirak Avia",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-26T13:10:00Z",
+   "actual": "2026-11-26T13:42:00Z"
+  },
+  "WZ 5030|2026-11-26T07:55:00Z": {
+   "number": "WZ 5030",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T07:55:00Z",
+   "actual": "2026-11-26T14:55:00Z"
   }
  },
  "fetched": [
@@ -51,6 +71,7 @@
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
-  "2026-11-26T12:07:25Z"
+  "2026-11-26T12:07:25Z",
+  "2026-11-26T14:07:36Z"
  ]
 }

@@ -167,7 +167,7 @@
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737-500",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-26T11:00:00Z",
    "actual": "2026-11-26T11:19:00Z"
@@ -178,9 +178,9 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T11:45:00Z",
-   "actual": "2026-11-26T12:15:00Z"
+   "actual": "2026-11-26T12:59:00Z"
   },
   "YC 89|2026-11-26T11:55:00Z": {
    "number": "YC 89",
@@ -188,9 +188,29 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T11:55:00Z",
-   "actual": "2026-11-26T12:25:00Z"
+   "actual": "2026-11-26T13:13:00Z"
+  },
+  "UT 186|2026-11-26T11:30:00Z": {
+   "number": "UT 186",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T11:30:00Z",
+   "actual": "2026-11-26T14:00:00Z"
+  },
+  "UT 6120|2026-11-26T13:40:00Z": {
+   "number": "UT 6120",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-26T13:40:00Z",
+   "actual": "2026-11-26T14:10:00Z"
   }
  },
  "fetched": [
@@ -202,6 +222,7 @@
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
-  "2026-11-26T12:07:25Z"
+  "2026-11-26T12:07:25Z",
+  "2026-11-26T14:07:36Z"
  ]
 }

@@ -318,7 +318,7 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T10:40:00Z",
    "actual": "2026-11-26T10:40:00Z"
   },
@@ -381,6 +381,66 @@
    "status": "CheckIn",
    "scheduled": "2026-11-26T13:00:00Z",
    "actual": "2026-11-26T13:00:00Z"
+  },
+  "B2 954|2026-11-26T12:50:00Z": {
+   "number": "B2 954",
+   "airline": "Belavia",
+   "to": "MSQ",
+   "to_name": "Minsk",
+   "model": "Boeing 737-300",
+   "status": "Departed",
+   "scheduled": "2026-11-26T12:50:00Z",
+   "actual": "2026-11-26T12:50:00Z"
+  },
+  "EK 134|2026-11-26T13:25:00Z": {
+   "number": "EK 134",
+   "airline": "Emirates",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Airbus A380-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T13:25:00Z",
+   "actual": "2026-11-26T13:25:00Z"
+  },
+  "U6 167|2026-11-26T13:55:00Z": {
+   "number": "U6 167",
+   "airline": "Ural",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T13:55:00Z",
+   "actual": "2026-11-26T13:55:00Z"
+  },
+  "D2 258|2026-11-26T14:15:00Z": {
+   "number": "D2 258",
+   "airline": "Severstal Aircompany",
+   "to": "CEE",
+   "to_name": "Cherepovets",
+   "model": "Bombardier CRJ200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T14:15:00Z",
+   "actual": "2026-11-26T14:15:00Z"
+  },
+  "S7 1073|2026-11-26T14:15:00Z": {
+   "number": "S7 1073",
+   "airline": "S7",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T14:15:00Z",
+   "actual": "2026-11-26T14:15:00Z"
+  },
+  "U6 267|2026-11-26T14:45:00Z": {
+   "number": "U6 267",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320-200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T14:45:00Z",
+   "actual": "2026-11-26T14:45:00Z"
   }
  },
  "fetched": [
@@ -391,6 +451,7 @@
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
-  "2026-11-26T12:07:25Z"
+  "2026-11-26T12:07:25Z",
+  "2026-11-26T14:07:36Z"
  ]
 }

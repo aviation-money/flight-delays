@@ -58,9 +58,19 @@
    "to": "MSQ",
    "to_name": "Minsk",
    "model": "Boeing 737-300",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T12:35:00Z",
-   "actual": "2026-11-26T12:35:00Z"
+   "actual": "2026-11-26T12:49:00Z"
+  },
+  "WZ 15|2026-11-26T14:40:00Z": {
+   "number": "WZ 15",
+   "airline": "Red Wings",
+   "to": "TLV",
+   "to_name": "Tel Aviv Yafo",
+   "model": "Tu-204",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T14:40:00Z",
+   "actual": "2026-11-26T14:40:00Z"
   }
  },
  "fetched": [
@@ -71,6 +81,7 @@
   "2026-11-26T06:07:26Z",
   "2026-11-26T08:07:25Z",
   "2026-11-26T10:07:24Z",
-  "2026-11-26T12:07:25Z"
+  "2026-11-26T12:07:25Z",
+  "2026-11-26T14:07:36Z"
  ]
 }
