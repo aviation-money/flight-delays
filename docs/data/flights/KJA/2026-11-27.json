@@ -1,0 +1,19 @@
+{
+ "airport": "KJA",
+ "date": "2026-11-27",
+ "flights": {
+  "SU 7313|2026-11-26T19:05:00Z": {
+   "number": "SU 7313",
+   "airline": "Aeroflot",
+   "to": "Kazan",
+   "to_name": "Kazan",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T19:05:00Z",
+   "actual": "2026-11-26T19:05:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-26T18:07:27Z"
+ ]
+}

@@ -68,9 +68,39 @@
    "to": "CEK",
    "to_name": "Chelyabinsk",
    "model": "Bombardier CRJ200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T12:55:00Z",
-   "actual": "2026-11-26T16:00:00Z"
+   "actual": "2026-11-26T16:15:00Z"
+  },
+  "SU 1225|2026-11-26T16:25:00Z": {
+   "number": "SU 1225",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T16:25:00Z",
+   "actual": "2026-11-26T17:30:00Z"
+  },
+  "FV 6108|2026-11-26T17:15:00Z": {
+   "number": "FV 6108",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-26T17:15:00Z",
+   "actual": "2026-11-26T17:33:00Z"
+  },
+  "HY 9672|2026-11-26T19:00:00Z": {
+   "number": "HY 9672",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T19:00:00Z",
+   "actual": "2026-11-26T19:00:00Z"
   }
  },
  "fetched": [
@@ -83,6 +113,7 @@
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
   "2026-11-26T14:07:36Z",
-  "2026-11-26T16:07:25Z"
+  "2026-11-26T16:07:25Z",
+  "2026-11-26T18:07:27Z"
  ]
 }

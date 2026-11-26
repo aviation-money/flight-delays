@@ -228,9 +228,29 @@
    "to": "MCX",
    "to_name": "Makhachkala",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T16:20:00Z",
-   "actual": "2026-11-26T16:20:00Z"
+   "actual": "2026-11-26T16:52:00Z"
+  },
+  "S7 5350|2026-11-26T17:40:00Z": {
+   "number": "S7 5350",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-26T17:40:00Z",
+   "actual": "2026-11-26T17:56:00Z"
+  },
+  "UT 413|2026-11-26T18:00:00Z": {
+   "number": "UT 413",
+   "airline": "UTAir",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T18:00:00Z",
+   "actual": "2026-11-26T18:00:00Z"
   }
  },
  "fetched": [
@@ -244,6 +264,7 @@
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
   "2026-11-26T14:07:36Z",
-  "2026-11-26T16:07:25Z"
+  "2026-11-26T16:07:25Z",
+  "2026-11-26T18:07:27Z"
  ]
 }

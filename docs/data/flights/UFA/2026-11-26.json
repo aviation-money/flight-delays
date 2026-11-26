@@ -408,19 +408,19 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T15:45:00Z",
-   "actual": "2026-11-26T15:45:00Z"
+   "actual": "2026-11-26T16:29:00Z"
   },
   "UT 151|2026-11-26T16:00:00Z": {
    "number": "UT 151",
    "airline": "UTAir",
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
-   "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-26T16:00:00Z",
-   "actual": "2026-11-26T16:00:00Z"
+   "actual": "2026-11-26T16:15:00Z"
   },
   "SU 1259|2026-11-26T16:40:00Z": {
    "number": "SU 1259",
@@ -428,9 +428,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T16:40:00Z",
-   "actual": "2026-11-26T16:40:00Z"
+   "actual": "2026-11-26T17:28:00Z"
   },
   "EO 770|2026-11-26T17:05:00Z": {
    "number": "EO 770",
@@ -438,9 +438,39 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Embraer 190",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T17:05:00Z",
-   "actual": "2026-11-26T17:05:00Z"
+   "actual": "2026-11-26T17:16:00Z"
+  },
+  "UT 126|2026-11-26T17:40:00Z": {
+   "number": "UT 126",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-26T17:40:00Z",
+   "actual": "2026-11-26T17:40:00Z"
+  },
+  "SU 1233|2026-11-26T17:50:00Z": {
+   "number": "SU 1233",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T17:50:00Z",
+   "actual": "2026-11-26T17:50:00Z"
+  },
+  "DP 6502|2026-11-26T12:50:00Z": {
+   "number": "DP 6502",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T12:50:00Z",
+   "actual": "2026-11-26T18:55:00Z"
   }
  },
  "fetched": [
@@ -454,6 +484,7 @@
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
   "2026-11-26T14:07:36Z",
-  "2026-11-26T16:07:25Z"
+  "2026-11-26T16:07:25Z",
+  "2026-11-26T18:07:27Z"
  ]
 }

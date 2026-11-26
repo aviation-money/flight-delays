@@ -1,9 +1,31 @@
 {
  "airport": "VVO",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "SU 832|2026-11-26T18:10:00Z": {
+   "number": "SU 832",
+   "airline": "Aeroflot",
+   "to": "CXR",
+   "to_name": "Nha Trang",
+   "model": "Airbus A330-300",
+   "status": "Expected",
+   "scheduled": "2026-11-26T18:10:00Z",
+   "actual": "2026-11-26T18:10:00Z"
+  },
+  "FV 6645|2026-11-26T19:00:00Z": {
+   "number": "FV 6645",
+   "airline": "Rossiya",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-26T19:00:00Z",
+   "actual": "2026-11-26T19:00:00Z"
+  }
+ },
  "fetched": [
   "2026-11-26T14:07:36Z",
-  "2026-11-26T16:07:25Z"
+  "2026-11-26T16:07:25Z",
+  "2026-11-26T18:07:27Z"
  ]
 }

@@ -71,6 +71,36 @@
    "status": "Departed",
    "scheduled": "2026-11-26T15:10:00Z",
    "actual": "2026-11-26T15:35:00Z"
+  },
+  "SU 1185|2026-11-26T17:10:00Z": {
+   "number": "SU 1185",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-26T17:10:00Z",
+   "actual": "2026-11-26T17:38:00Z"
+  },
+  "FV 6116|2026-11-26T17:20:00Z": {
+   "number": "FV 6116",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-26T17:20:00Z",
+   "actual": "2026-11-26T17:57:00Z"
+  },
+  "DP 6970|2026-11-26T18:15:00Z": {
+   "number": "DP 6970",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T18:15:00Z",
+   "actual": "2026-11-26T18:25:00Z"
   }
  },
  "fetched": [
@@ -83,6 +113,7 @@
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
   "2026-11-26T14:07:36Z",
-  "2026-11-26T16:07:25Z"
+  "2026-11-26T16:07:25Z",
+  "2026-11-26T18:07:27Z"
  ]
 }

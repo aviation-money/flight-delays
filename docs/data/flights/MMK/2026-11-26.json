@@ -118,9 +118,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T15:55:00Z",
-   "actual": "2026-11-26T15:55:00Z"
+   "actual": "2026-11-26T16:04:00Z"
+  },
+  "FV 6346|2026-11-26T17:55:00Z": {
+   "number": "FV 6346",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-26T17:55:00Z",
+   "actual": "2026-11-26T17:55:00Z"
+  },
+  "DP 6856|2026-11-26T17:00:00Z": {
+   "number": "DP 6856",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-26T17:00:00Z",
+   "actual": "2026-11-26T18:05:00Z"
   }
  },
  "fetched": [
@@ -133,6 +153,7 @@
   "2026-11-26T10:07:24Z",
   "2026-11-26T12:07:25Z",
   "2026-11-26T14:07:36Z",
-  "2026-11-26T16:07:25Z"
+  "2026-11-26T16:07:25Z",
+  "2026-11-26T18:07:27Z"
  ]
 }
