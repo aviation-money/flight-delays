@@ -48,9 +48,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "SSJ 100-95",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T17:50:00Z",
    "actual": "2026-11-27T18:30:00Z"
+  },
+  "5N 504|2026-11-27T19:50:00Z": {
+   "number": "5N 504",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-27T19:50:00Z",
+   "actual": "2026-11-27T19:50:00Z"
   }
  },
  "fetched": [
@@ -64,6 +74,7 @@
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
   "2026-11-27T16:07:29Z",
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }

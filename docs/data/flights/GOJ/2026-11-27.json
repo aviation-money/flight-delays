@@ -88,9 +88,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T16:25:00Z",
-   "actual": "2026-11-27T18:05:00Z"
+   "actual": "2026-11-27T18:34:00Z"
   },
   "FV 6108|2026-11-27T17:15:00Z": {
    "number": "FV 6108",
@@ -108,9 +108,19 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T18:20:00Z",
-   "actual": "2026-11-27T18:20:00Z"
+   "actual": "2026-11-27T18:41:00Z"
+  },
+  "S7 5056|2026-11-27T19:50:00Z": {
+   "number": "S7 5056",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-27T19:50:00Z",
+   "actual": "2026-11-27T19:59:00Z"
   }
  },
  "fetched": [
@@ -124,6 +134,7 @@
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
   "2026-11-27T16:07:29Z",
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }

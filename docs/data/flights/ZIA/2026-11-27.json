@@ -78,9 +78,9 @@
    "to": "TBS",
    "to_name": "Tbilisi",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:00:00Z",
-   "actual": "2026-11-27T18:00:00Z"
+   "actual": "2026-11-27T19:14:00Z"
   },
   "WZ 15|2026-11-27T14:40:00Z": {
    "number": "WZ 15",
@@ -118,9 +118,19 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T18:25:00Z",
-   "actual": "2026-11-27T18:25:00Z"
+   "actual": "2026-11-27T19:31:00Z"
+  },
+  "U6 2425|2026-11-27T19:40:00Z": {
+   "number": "U6 2425",
+   "airline": "Ural",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Airbus A321",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T19:40:00Z",
+   "actual": "2026-11-27T20:20:00Z"
   }
  },
  "fetched": [
@@ -134,6 +144,7 @@
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
   "2026-11-27T16:07:29Z",
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }

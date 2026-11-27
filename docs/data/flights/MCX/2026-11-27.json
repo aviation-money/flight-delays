@@ -158,8 +158,18 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T17:45:00Z",
+   "actual": null
+  },
+  "DP 501|2026-11-27T19:10:00Z": {
+   "number": "DP 501",
+   "airline": "Pobeda",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T19:10:00Z",
    "actual": null
   }
  },
@@ -174,6 +184,7 @@
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
   "2026-11-27T16:07:29Z",
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }

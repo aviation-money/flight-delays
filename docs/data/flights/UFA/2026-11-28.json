@@ -1,0 +1,19 @@
+{
+ "airport": "UFA",
+ "date": "2026-11-28",
+ "flights": {
+  "FZ 986|2026-11-27T20:05:00Z": {
+   "number": "FZ 986",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T20:05:00Z",
+   "actual": "2026-11-27T20:30:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-27T20:07:26Z"
+ ]
+}

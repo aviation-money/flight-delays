@@ -40,7 +40,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-27T17:30:00Z",
-   "actual": "2026-11-27T17:30:00Z"
+   "actual": "2026-11-27T17:45:00Z"
   },
   "S7 6215|2026-11-27T17:10:00Z": {
    "number": "S7 6215",
@@ -51,11 +51,42 @@
    "status": "Expected",
    "scheduled": "2026-11-27T17:10:00Z",
    "actual": "2026-11-27T17:37:00Z"
+  },
+  "CZ 8326|2026-11-27T20:15:00Z": {
+   "number": "CZ 8326",
+   "airline": "China Southern",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": "Airbus A320 NEO",
+   "status": "Expected",
+   "scheduled": "2026-11-27T20:15:00Z",
+   "actual": "2026-11-27T20:20:00Z"
+  },
+  "S7 5202|2026-11-27T19:50:00Z": {
+   "number": "S7 5202",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T19:50:00Z",
+   "actual": "2026-11-27T20:35:00Z"
+  },
+  "FV 2461|2026-11-27T21:05:00Z": {
+   "number": "FV 2461",
+   "airline": "Rossiya",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-27T21:05:00Z",
+   "actual": "2026-11-27T21:05:00Z"
   }
  },
  "fetched": [
   "2026-11-27T14:07:26Z",
   "2026-11-27T16:07:29Z",
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }

@@ -1,0 +1,39 @@
+{
+ "airport": "KUF",
+ "date": "2026-11-28",
+ "flights": {
+  "RT 246|2026-11-27T20:20:00Z": {
+   "number": "RT 246",
+   "airline": "UVT Aero",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Bombardier CRJ200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T20:20:00Z",
+   "actual": "2026-11-27T20:20:00Z"
+  },
+  "FZ 996|2026-11-27T20:40:00Z": {
+   "number": "FZ 996",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T20:40:00Z",
+   "actual": "2026-11-27T20:40:00Z"
+  },
+  "WZ 1353|2026-11-27T20:50:00Z": {
+   "number": "WZ 1353",
+   "airline": "Red Wings",
+   "to": "UGC",
+   "to_name": "Urgench",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T20:50:00Z",
+   "actual": "2026-11-27T20:50:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-27T20:07:26Z"
+ ]
+}

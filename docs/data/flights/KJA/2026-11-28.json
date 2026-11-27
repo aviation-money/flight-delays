@@ -8,12 +8,23 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T18:50:00Z",
    "actual": "2026-11-27T18:50:00Z"
+  },
+  "SU 634|2026-11-27T19:25:00Z": {
+   "number": "SU 634",
+   "airline": "Aeroflot",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-27T19:25:00Z",
+   "actual": "2026-11-27T19:25:00Z"
   }
  },
  "fetched": [
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }

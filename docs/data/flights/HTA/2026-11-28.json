@@ -1,9 +1,21 @@
 {
  "airport": "HTA",
  "date": "2026-11-28",
- "flights": {},
+ "flights": {
+  "S7 6426|2026-11-27T18:20:00Z": {
+   "number": "S7 6426",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T18:20:00Z",
+   "actual": "2026-11-27T19:50:00Z"
+  }
+ },
  "fetched": [
   "2026-11-27T16:07:29Z",
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }

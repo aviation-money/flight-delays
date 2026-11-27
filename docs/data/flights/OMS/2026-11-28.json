@@ -7,10 +7,10 @@
    "airline": "Nordwind",
    "to": "HKT",
    "to_name": "Phuket",
-   "model": "A330-3",
-   "status": "Expected",
+   "model": "Airbus A330",
+   "status": "Departed",
    "scheduled": "2026-11-27T18:35:00Z",
-   "actual": "2026-11-27T18:35:00Z"
+   "actual": "2026-11-27T18:37:00Z"
   },
   "WZ 5072|2026-11-27T18:50:00Z": {
    "number": "WZ 5072",
@@ -21,9 +21,20 @@
    "status": "Unknown",
    "scheduled": "2026-11-27T18:50:00Z",
    "actual": null
+  },
+  "FV 6846|2026-11-27T19:30:00Z": {
+   "number": "FV 6846",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-27T19:30:00Z",
+   "actual": "2026-11-27T19:56:00Z"
   }
  },
  "fetched": [
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }

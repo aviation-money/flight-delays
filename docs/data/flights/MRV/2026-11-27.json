@@ -361,6 +361,26 @@
    "status": "Departed",
    "scheduled": "2026-11-27T16:25:00Z",
    "actual": "2026-11-27T16:48:00Z"
+  },
+  "A4 6045|2026-11-27T20:25:00Z": {
+   "number": "A4 6045",
+   "airline": "Azimuth",
+   "to": "SCW",
+   "to_name": "Syktyvkar",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T20:25:00Z",
+   "actual": "2026-11-27T20:25:00Z"
+  },
+  "N4 702|2026-11-27T19:40:00Z": {
+   "number": "N4 702",
+   "airline": "Nordwind",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Boeing 737-900",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T19:40:00Z",
+   "actual": "2026-11-27T20:40:00Z"
   }
  },
  "fetched": [
@@ -374,6 +394,7 @@
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
   "2026-11-27T16:07:29Z",
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }

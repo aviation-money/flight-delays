@@ -8,7 +8,7 @@
    "to": "UBN",
    "to_name": "Ulaan Baatar",
    "model": "Bombardier CRJ",
-   "status": "Unknown",
+   "status": "Departed",
    "scheduled": "2026-11-27T16:05:00Z",
    "actual": null
   },
@@ -18,7 +18,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T16:30:00Z",
    "actual": null
   },
@@ -38,7 +38,7 @@
    "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T16:40:00Z",
    "actual": null
   },
@@ -68,7 +68,7 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T17:15:00Z",
    "actual": null
   },
@@ -101,10 +101,51 @@
    "status": "Expected",
    "scheduled": "2026-11-27T17:40:00Z",
    "actual": null
+  },
+  "SU 658|2026-11-27T19:50:00Z": {
+   "number": "SU 658",
+   "airline": "Aeroflot",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T19:50:00Z",
+   "actual": null
+  },
+  "S7 5278|2026-11-27T20:05:00Z": {
+   "number": "S7 5278",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T20:05:00Z",
+   "actual": null
+  },
+  "S7 6429|2026-11-27T20:20:00Z": {
+   "number": "S7 6429",
+   "airline": "S7",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-27T20:20:00Z",
+   "actual": null
+  },
+  "S7 6307|2026-11-27T21:00:00Z": {
+   "number": "S7 6307",
+   "airline": "S7",
+   "to": "BKK",
+   "to_name": "Bangkok",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T21:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-27T16:07:29Z",
-  "2026-11-27T18:07:26Z"
+  "2026-11-27T18:07:26Z",
+  "2026-11-27T20:07:26Z"
  ]
 }
