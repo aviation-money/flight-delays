@@ -278,9 +278,9 @@
    "to": "YKS",
    "to_name": "Yakutsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T10:10:00Z",
-   "actual": "2026-11-27T10:10:00Z"
+   "actual": "2026-11-27T10:14:00Z"
   },
   "FV 5702|2026-11-27T10:30:00Z": {
    "number": "FV 5702",
@@ -288,9 +288,39 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T10:30:00Z",
-   "actual": "2026-11-27T10:30:00Z"
+   "actual": "2026-11-27T10:58:00Z"
+  },
+  "HZ 5652|2026-11-27T11:55:00Z": {
+   "number": "HZ 5652",
+   "airline": "Aurora",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T11:55:00Z",
+   "actual": "2026-11-27T11:55:00Z"
+  },
+  "FV 6280|2026-11-27T12:10:00Z": {
+   "number": "FV 6280",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T12:10:00Z",
+   "actual": "2026-11-27T12:40:00Z"
+  },
+  "HZ 5430|2026-11-27T13:05:00Z": {
+   "number": "HZ 5430",
+   "airline": "Aurora",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T13:05:00Z",
+   "actual": "2026-11-27T13:05:00Z"
   }
  },
  "fetched": [
@@ -304,6 +334,7 @@
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
-  "2026-11-27T10:07:24Z"
+  "2026-11-27T10:07:24Z",
+  "2026-11-27T12:07:27Z"
  ]
 }

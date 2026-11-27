@@ -78,9 +78,9 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "Expected",
+   "status": "CheckIn",
    "scheduled": "2026-11-27T09:00:00Z",
-   "actual": "2026-11-27T09:00:00Z"
+   "actual": "2026-11-27T13:00:00Z"
   },
   "SU 1383|2026-11-27T01:50:00Z": {
    "number": "SU 1383",
@@ -88,9 +88,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Delayed",
    "scheduled": "2026-11-27T01:50:00Z",
-   "actual": "2026-11-27T10:40:00Z"
+   "actual": "2026-11-27T11:49:00Z"
+  },
+  "7R 297|2026-11-27T08:00:00Z": {
+   "number": "7R 297",
+   "airline": "RusLine",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Bombardier CRJ200",
+   "status": "Canceled",
+   "scheduled": "2026-11-27T08:00:00Z",
+   "actual": "2026-11-27T11:25:00Z"
+  },
+  "UT 352|2026-11-27T13:00:00Z": {
+   "number": "UT 352",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T13:00:00Z",
+   "actual": "2026-11-27T13:00:00Z"
   }
  },
  "fetched": [
@@ -101,6 +121,7 @@
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
-  "2026-11-27T10:07:24Z"
+  "2026-11-27T10:07:24Z",
+  "2026-11-27T12:07:27Z"
  ]
 }

@@ -58,9 +58,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T10:00:00Z",
-   "actual": "2026-11-27T10:00:00Z"
+   "actual": "2026-11-27T12:00:00Z"
+  },
+  "СИ 9643|2026-11-27T13:00:00Z": {
+   "number": "СИ 9643",
+   "airline": "Arktika",
+   "to": "Amderma-2",
+   "to_name": "Amderma-2",
+   "model": "Yak 42",
+   "status": "Canceled",
+   "scheduled": "2026-11-27T13:00:00Z",
+   "actual": "2026-11-27T13:00:00Z"
   }
  },
  "fetched": [
@@ -70,6 +80,7 @@
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
-  "2026-11-27T10:07:24Z"
+  "2026-11-27T10:07:24Z",
+  "2026-11-27T12:07:27Z"
  ]
 }

@@ -281,6 +281,26 @@
    "status": "Expected",
    "scheduled": "2026-11-27T09:40:00Z",
    "actual": "2026-11-27T09:40:00Z"
+  },
+  "SU 856|2026-11-27T11:45:00Z": {
+   "number": "SU 856",
+   "airline": "Aeroflot",
+   "to": "SYX",
+   "to_name": "Sanya",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T11:45:00Z",
+   "actual": "2026-11-27T11:48:00Z"
+  },
+  "FV 6647|2026-11-27T12:25:00Z": {
+   "number": "FV 6647",
+   "airline": "Rossiya",
+   "to": "PVG",
+   "to_name": "Shanghai",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-27T12:25:00Z",
+   "actual": "2026-11-27T12:25:00Z"
   }
  },
  "fetched": [
@@ -294,6 +314,7 @@
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
-  "2026-11-27T10:07:24Z"
+  "2026-11-27T10:07:24Z",
+  "2026-11-27T12:07:27Z"
  ]
 }

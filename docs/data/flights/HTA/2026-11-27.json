@@ -128,9 +128,29 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T09:50:00Z",
-   "actual": "2026-11-27T10:38:00Z"
+   "actual": "2026-11-27T10:17:00Z"
+  },
+  "HZ 4217|2026-11-27T11:10:00Z": {
+   "number": "HZ 4217",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-27T11:10:00Z",
+   "actual": "2026-11-27T11:12:00Z"
+  },
+  "IO 170|2026-11-27T12:40:00Z": {
+   "number": "IO 170",
+   "airline": "IrAero",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Bombardier CRJ",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T12:40:00Z",
+   "actual": "2026-11-27T12:40:00Z"
   }
  },
  "fetched": [
@@ -143,6 +163,7 @@
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
-  "2026-11-27T10:07:24Z"
+  "2026-11-27T10:07:24Z",
+  "2026-11-27T12:07:27Z"
  ]
 }

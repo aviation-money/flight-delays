@@ -188,7 +188,7 @@
    "to": "WNR",
    "to_name": "Novyy Urengoy",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T10:10:00Z",
    "actual": "2026-11-27T10:10:00Z"
   },
@@ -198,9 +198,39 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:40:00Z",
-   "actual": "2026-11-27T10:30:00Z"
+   "actual": "2026-11-27T10:53:00Z"
+  },
+  "YC 146|2026-11-27T11:45:00Z": {
+   "number": "YC 146",
+   "airline": "Yamal",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T11:45:00Z",
+   "actual": "2026-11-27T11:45:00Z"
+  },
+  "UT 186|2026-11-27T11:30:00Z": {
+   "number": "UT 186",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T11:30:00Z",
+   "actual": "2026-11-27T12:00:00Z"
+  },
+  "YC 377|2026-11-27T10:45:00Z": {
+   "number": "YC 377",
+   "airline": "Yamal",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T10:45:00Z",
+   "actual": "2026-11-27T12:30:00Z"
   }
  },
  "fetched": [
@@ -211,6 +241,7 @@
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
-  "2026-11-27T10:07:24Z"
+  "2026-11-27T10:07:24Z",
+  "2026-11-27T12:07:27Z"
  ]
 }
