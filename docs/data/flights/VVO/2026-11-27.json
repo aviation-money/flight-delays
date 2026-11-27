@@ -228,7 +228,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:20:00Z",
    "actual": "2026-11-27T06:23:00Z"
   },
@@ -238,7 +238,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:35:00Z",
    "actual": "2026-11-27T06:49:00Z"
   },
@@ -248,7 +248,7 @@
    "to": "PEK",
    "to_name": "Beijing",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:45:00Z",
    "actual": "2026-11-27T06:54:00Z"
   },
@@ -260,7 +260,7 @@
    "model": "Boeing 777-300ER",
    "status": "Expected",
    "scheduled": "2026-11-27T08:05:00Z",
-   "actual": "2026-11-27T08:05:00Z"
+   "actual": "2026-11-27T08:12:00Z"
   },
   "KN 878|2026-11-27T09:05:00Z": {
    "number": "KN 878",
@@ -270,7 +270,17 @@
    "model": "Boeing 737",
    "status": "Expected",
    "scheduled": "2026-11-27T09:05:00Z",
-   "actual": "2026-11-27T09:05:00Z"
+   "actual": "2026-11-27T09:07:00Z"
+  },
+  "EU 2718|2026-11-27T09:40:00Z": {
+   "number": "EU 2718",
+   "airline": "Chengdu",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T09:40:00Z",
+   "actual": "2026-11-27T09:40:00Z"
   }
  },
  "fetched": [
@@ -283,6 +293,7 @@
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
-  "2026-11-27T08:07:27Z"
+  "2026-11-27T08:07:27Z",
+  "2026-11-27T10:07:24Z"
  ]
 }

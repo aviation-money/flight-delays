@@ -97,10 +97,10 @@
    "airline": "Nordwind",
    "to": "LED",
    "to_name": "Saint-Petersburg",
-   "model": "Boeing 737-800",
-   "status": "Expected",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-27T02:25:00Z",
-   "actual": "2026-11-27T02:25:00Z"
+   "actual": "2026-11-27T08:12:00Z"
   },
   "IQ 522|2026-11-27T04:00:00Z": {
    "number": "IQ 522",
@@ -138,9 +138,39 @@
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T08:40:00Z",
-   "actual": "2026-11-27T08:40:00Z"
+   "actual": "2026-11-27T08:45:00Z"
+  },
+  "S7 5342|2026-11-27T09:10:00Z": {
+   "number": "S7 5342",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "EMB170",
+   "status": "Departed",
+   "scheduled": "2026-11-27T09:10:00Z",
+   "actual": "2026-11-27T09:10:00Z"
+  },
+  "YC 518|2026-11-27T09:40:00Z": {
+   "number": "YC 518",
+   "airline": "Yamal",
+   "to": "Noyabrsk",
+   "to_name": "Noyabrsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T09:40:00Z",
+   "actual": "2026-11-27T09:40:00Z"
+  },
+  "UT 140|2026-11-27T10:55:00Z": {
+   "number": "UT 140",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-27T10:55:00Z",
+   "actual": "2026-11-27T10:55:00Z"
   }
  },
  "fetched": [
@@ -151,6 +181,7 @@
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
-  "2026-11-27T08:07:27Z"
+  "2026-11-27T08:07:27Z",
+  "2026-11-27T10:07:24Z"
  ]
 }

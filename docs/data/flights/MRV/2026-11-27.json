@@ -128,9 +128,59 @@
    "to": "TBS",
    "to_name": "Tbilisi",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T07:20:00Z",
-   "actual": "2026-11-27T08:20:00Z"
+   "actual": "2026-11-27T08:33:00Z"
+  },
+  "SU 1311|2026-11-27T09:10:00Z": {
+   "number": "SU 1311",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-27T09:10:00Z",
+   "actual": "2026-11-27T09:14:00Z"
+  },
+  "U6 206|2026-11-27T08:20:00Z": {
+   "number": "U6 206",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-27T08:20:00Z",
+   "actual": "2026-11-27T09:38:00Z"
+  },
+  "DP 6914|2026-11-27T09:05:00Z": {
+   "number": "DP 6914",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-27T09:05:00Z",
+   "actual": "2026-11-27T09:52:00Z"
+  },
+  "A4 1128|2026-11-27T10:35:00Z": {
+   "number": "A4 1128",
+   "airline": "Azimuth",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-27T10:35:00Z",
+   "actual": "2026-11-27T10:35:00Z"
+  },
+  "SU 1345|2026-11-27T11:00:00Z": {
+   "number": "SU 1345",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T11:00:00Z",
+   "actual": "2026-11-27T11:00:00Z"
   }
  },
  "fetched": [
@@ -139,6 +189,7 @@
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
-  "2026-11-27T08:07:27Z"
+  "2026-11-27T08:07:27Z",
+  "2026-11-27T10:07:24Z"
  ]
 }

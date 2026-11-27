@@ -138,9 +138,9 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T07:30:00Z",
-   "actual": "2026-11-27T08:00:00Z"
+   "actual": "2026-11-27T08:20:00Z"
   },
   "RT 276|2026-11-27T08:00:00Z": {
    "number": "RT 276",
@@ -148,9 +148,9 @@
    "to": "RMZ",
    "to_name": "Tobolsk",
    "model": "Bombardier CRJ200",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T08:00:00Z",
-   "actual": "2026-11-27T08:00:00Z"
+   "actual": "2026-11-27T08:36:00Z"
   },
   "S7 7083|2026-11-27T08:10:00Z": {
    "number": "S7 7083",
@@ -161,6 +161,46 @@
    "status": "GateClosed",
    "scheduled": "2026-11-27T08:10:00Z",
    "actual": "2026-11-27T08:10:00Z"
+  },
+  "S7 7083|2026-11-27T08:40:00Z": {
+   "number": "S7 7083",
+   "airline": "S7",
+   "to": "NYM",
+   "to_name": "Nadym",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-27T08:40:00Z",
+   "actual": "2026-11-27T08:49:00Z"
+  },
+  "WZ 5304|2026-11-27T03:35:00Z": {
+   "number": "WZ 5304",
+   "airline": "Red Wings",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-27T03:35:00Z",
+   "actual": "2026-11-27T09:36:00Z"
+  },
+  "YAL 25150|2026-11-27T10:10:00Z": {
+   "number": "YAL 25150",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T10:10:00Z",
+   "actual": "2026-11-27T10:10:00Z"
+  },
+  "YC 22|2026-11-27T06:40:00Z": {
+   "number": "YC 22",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T06:40:00Z",
+   "actual": "2026-11-27T10:30:00Z"
   }
  },
  "fetched": [
@@ -170,6 +210,7 @@
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
-  "2026-11-27T08:07:27Z"
+  "2026-11-27T08:07:27Z",
+  "2026-11-27T10:07:24Z"
  ]
 }

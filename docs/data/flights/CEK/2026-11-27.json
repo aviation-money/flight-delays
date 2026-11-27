@@ -97,10 +97,20 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
+   "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-27T07:30:00Z",
    "actual": "2026-11-27T07:49:00Z"
+  },
+  "SU 1095|2026-11-27T09:55:00Z": {
+   "number": "SU 1095",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T09:55:00Z",
+   "actual": "2026-11-27T10:10:00Z"
   }
  },
  "fetched": [
@@ -110,6 +120,7 @@
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
-  "2026-11-27T08:07:27Z"
+  "2026-11-27T08:07:27Z",
+  "2026-11-27T10:07:24Z"
  ]
 }

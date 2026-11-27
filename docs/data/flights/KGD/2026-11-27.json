@@ -38,9 +38,59 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T09:00:00Z",
-   "actual": "2026-11-27T09:00:00Z"
+   "actual": "2026-11-27T08:51:00Z"
+  },
+  "U6 372|2026-11-27T10:00:00Z": {
+   "number": "U6 372",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T10:00:00Z",
+   "actual": "2026-11-27T10:00:00Z"
+  },
+  "FV 6310|2026-11-27T08:55:00Z": {
+   "number": "FV 6310",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T08:55:00Z",
+   "actual": "2026-11-27T10:30:00Z"
+  },
+  "FV 6324|2026-11-27T07:35:00Z": {
+   "number": "FV 6324",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T07:35:00Z",
+   "actual": "2026-11-27T10:35:00Z"
+  },
+  "DP 530|2026-11-27T06:40:00Z": {
+   "number": "DP 530",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T06:40:00Z",
+   "actual": "2026-11-27T10:45:00Z"
+  },
+  "FV 6326|2026-11-27T10:50:00Z": {
+   "number": "FV 6326",
+   "airline": "Rossiya",
+   "to": "Saint Petersburg",
+   "to_name": "Saint Petersburg",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T10:50:00Z",
+   "actual": "2026-11-27T10:50:00Z"
   }
  },
  "fetched": [
@@ -49,6 +99,7 @@
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
-  "2026-11-27T08:07:27Z"
+  "2026-11-27T08:07:27Z",
+  "2026-11-27T10:07:24Z"
  ]
 }

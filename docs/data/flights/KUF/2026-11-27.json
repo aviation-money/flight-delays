@@ -97,10 +97,80 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A321",
+   "model": "Airbus A320",
    "status": "Departed",
    "scheduled": "2026-11-27T06:25:00Z",
    "actual": "2026-11-27T07:45:00Z"
+  },
+  "SU 1605|2026-11-27T09:55:00Z": {
+   "number": "SU 1605",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T09:55:00Z",
+   "actual": "2026-11-27T09:55:00Z"
+  },
+  "FV 5967|2026-11-27T08:00:00Z": {
+   "number": "FV 5967",
+   "airline": "Rossiya",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-27T08:00:00Z",
+   "actual": "2026-11-27T10:00:00Z"
+  },
+  "WZ 5343|2026-11-27T08:45:00Z": {
+   "number": "WZ 5343",
+   "airline": "Red Wings",
+   "to": "GOJ",
+   "to_name": "Nizhniy Novgorod",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T08:45:00Z",
+   "actual": "2026-11-27T10:05:00Z"
+  },
+  "FV 6232|2026-11-27T08:10:00Z": {
+   "number": "FV 6232",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T08:10:00Z",
+   "actual": "2026-11-27T10:10:00Z"
+  },
+  "UT 282|2026-11-27T10:05:00Z": {
+   "number": "UT 282",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T10:05:00Z",
+   "actual": "2026-11-27T10:30:00Z"
+  },
+  "FV 6949|2026-11-27T10:40:00Z": {
+   "number": "FV 6949",
+   "airline": "Rossiya",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T10:40:00Z",
+   "actual": "2026-11-27T10:40:00Z"
+  },
+  "DP 6582|2026-11-27T11:05:00Z": {
+   "number": "DP 6582",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T11:05:00Z",
+   "actual": "2026-11-27T11:05:00Z"
   }
  },
  "fetched": [
@@ -110,6 +180,7 @@
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
-  "2026-11-27T08:07:27Z"
+  "2026-11-27T08:07:27Z",
+  "2026-11-27T10:07:24Z"
  ]
 }

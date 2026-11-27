@@ -188,9 +188,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T02:40:00Z",
-   "actual": "2026-11-27T07:00:00Z"
+   "actual": "2026-11-27T07:45:00Z"
   },
   "UT 139|2026-11-27T08:25:00Z": {
    "number": "UT 139",
@@ -198,9 +198,19 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T08:25:00Z",
-   "actual": "2026-11-27T09:00:00Z"
+   "actual": "2026-11-27T09:29:00Z"
+  },
+  "АЬ 776|2026-11-26T23:15:00Z": {
+   "number": "АЬ 776",
+   "airline": "Ikar",
+   "to": "Kazan Osnovnoy",
+   "to_name": "Kazan Osnovnoy",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-26T23:15:00Z",
+   "actual": "2026-11-27T10:45:00Z"
   }
  },
  "fetched": [
@@ -210,6 +220,7 @@
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
   "2026-11-27T06:07:28Z",
-  "2026-11-27T08:07:27Z"
+  "2026-11-27T08:07:27Z",
+  "2026-11-27T10:07:24Z"
  ]
 }
