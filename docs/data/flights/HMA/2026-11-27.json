@@ -21,12 +21,43 @@
    "status": "Departed",
    "scheduled": "2026-11-27T00:25:00Z",
    "actual": "2026-11-27T00:34:00Z"
+  },
+  "UT 301|2026-11-27T03:30:00Z": {
+   "number": "UT 301",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T03:30:00Z",
+   "actual": "2026-11-27T03:30:00Z"
+  },
+  "NF 969|2026-11-27T04:00:00Z": {
+   "number": "NF 969",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "Expected",
+   "scheduled": "2026-11-27T04:00:00Z",
+   "actual": "2026-11-27T04:00:00Z"
+  },
+  "UT 309|2026-11-27T05:00:00Z": {
+   "number": "UT 309",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-27T05:00:00Z",
+   "actual": "2026-11-27T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

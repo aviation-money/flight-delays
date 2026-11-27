@@ -188,7 +188,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:30:00Z",
    "actual": null
   },
@@ -261,6 +261,86 @@
    "status": "Expected",
    "scheduled": "2026-11-27T03:05:00Z",
    "actual": null
+  },
+  "S7 6451|2026-11-27T03:15:00Z": {
+   "number": "S7 6451",
+   "airline": "S7",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-27T03:15:00Z",
+   "actual": null
+  },
+  "S7 3022|2026-11-27T03:40:00Z": {
+   "number": "S7 3022",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T03:40:00Z",
+   "actual": null
+  },
+  "S7 6419|2026-11-27T03:45:00Z": {
+   "number": "S7 6419",
+   "airline": "S7",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T03:45:00Z",
+   "actual": null
+  },
+  "FV 6882|2026-11-27T04:10:00Z": {
+   "number": "FV 6882",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-27T04:10:00Z",
+   "actual": null
+  },
+  "S7 6327|2026-11-27T04:40:00Z": {
+   "number": "S7 6327",
+   "airline": "S7",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-27T04:40:00Z",
+   "actual": null
+  },
+  "IO 141|2026-11-27T04:55:00Z": {
+   "number": "IO 141",
+   "airline": "IrAero",
+   "to": "ODO",
+   "to_name": "Bodaybo",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-27T04:55:00Z",
+   "actual": null
+  },
+  "UT 234|2026-11-27T05:00:00Z": {
+   "number": "UT 234",
+   "airline": "UTAir",
+   "to": "UKX",
+   "to_name": "Ust-Kut",
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T05:00:00Z",
+   "actual": null
+  },
+  "SU 1563|2026-11-27T05:05:00Z": {
+   "number": "SU 1563",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T05:05:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -269,6 +349,7 @@
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

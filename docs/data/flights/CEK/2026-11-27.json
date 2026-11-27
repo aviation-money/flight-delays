@@ -48,9 +48,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T01:25:00Z",
-   "actual": "2026-11-27T01:55:00Z"
+   "actual": "2026-11-27T03:26:00Z"
   },
   "A4 6024|2026-11-27T02:05:00Z": {
    "number": "A4 6024",
@@ -58,9 +58,9 @@
    "to": "MRV",
    "to_name": "Mineralnyye Vody",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T02:05:00Z",
-   "actual": "2026-11-27T02:05:00Z"
+   "actual": "2026-11-27T02:12:00Z"
   },
   "DP 550|2026-11-27T00:40:00Z": {
    "number": "DP 550",
@@ -70,7 +70,7 @@
    "model": "Boeing 737",
    "status": "Expected",
    "scheduled": "2026-11-27T00:40:00Z",
-   "actual": "2026-11-27T02:30:00Z"
+   "actual": "2026-11-27T05:00:00Z"
   },
   "5N 528|2026-11-27T02:50:00Z": {
    "number": "5N 528",
@@ -78,9 +78,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Expected",
    "scheduled": "2026-11-27T02:50:00Z",
-   "actual": "2026-11-27T02:50:00Z"
+   "actual": "2026-11-27T04:50:00Z"
   },
   "DP 414|2026-11-27T01:30:00Z": {
    "number": "DP 414",
@@ -88,15 +88,16 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T01:30:00Z",
-   "actual": "2026-11-27T03:05:00Z"
+   "actual": "2026-11-27T03:14:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

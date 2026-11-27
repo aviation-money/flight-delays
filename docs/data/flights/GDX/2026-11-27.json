@@ -171,6 +171,46 @@
    "status": "Departed",
    "scheduled": "2026-11-27T03:30:00Z",
    "actual": "2026-11-27T02:16:00Z"
+  },
+  "IO 9709|2026-11-27T03:30:00Z": {
+   "number": "IO 9709",
+   "airline": "IrAero",
+   "to": "Baimskaya",
+   "to_name": "Baimskaya",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T03:30:00Z",
+   "actual": "2026-11-27T04:00:00Z"
+  },
+  "IO 9659|2026-11-27T01:30:00Z": {
+   "number": "IO 9659",
+   "airline": "IrAero",
+   "to": "Kupol",
+   "to_name": "Kupol",
+   "model": "An-24",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T01:30:00Z",
+   "actual": "2026-11-27T04:00:00Z"
+  },
+  "HZ 5613|2026-11-27T04:50:00Z": {
+   "number": "HZ 5613",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-27T04:50:00Z",
+   "actual": "2026-11-27T04:50:00Z"
+  },
+  "S7 6516|2026-11-27T04:25:00Z": {
+   "number": "S7 6516",
+   "airline": "S7",
+   "to": "Khabarovsk",
+   "to_name": "Khabarovsk",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-27T04:25:00Z",
+   "actual": "2026-11-27T04:52:00Z"
   }
  },
  "fetched": [
@@ -180,6 +220,7 @@
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

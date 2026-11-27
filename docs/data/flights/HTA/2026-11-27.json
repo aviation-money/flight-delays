@@ -81,6 +81,26 @@
    "status": "Departed",
    "scheduled": "2026-11-27T01:05:00Z",
    "actual": "2026-11-27T01:33:00Z"
+  },
+  "IO 176|2026-11-27T04:15:00Z": {
+   "number": "IO 176",
+   "airline": "IrAero",
+   "to": "Chara",
+   "to_name": "Chara",
+   "model": "An-24",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T04:15:00Z",
+   "actual": "2026-11-27T04:15:00Z"
+  },
+  "U6 623|2026-11-26T23:00:00Z": {
+   "number": "U6 623",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-26T23:00:00Z",
+   "actual": "2026-11-27T05:00:00Z"
   }
  },
  "fetched": [
@@ -89,6 +109,7 @@
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

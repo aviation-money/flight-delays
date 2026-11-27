@@ -38,9 +38,9 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:20:00Z",
-   "actual": "2026-11-27T02:45:00Z"
+   "actual": "2026-11-27T03:01:00Z"
   },
   "PTK 107|2026-11-26T23:30:00Z": {
    "number": "PTK 107",
@@ -61,6 +61,16 @@
    "status": "Delayed",
    "scheduled": "2026-11-26T23:15:00Z",
    "actual": "2026-11-27T03:00:00Z"
+  },
+  "HZ 5685|2026-11-27T04:45:00Z": {
+   "number": "HZ 5685",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T04:45:00Z",
+   "actual": "2026-11-27T04:45:00Z"
   }
  },
  "fetched": [
@@ -71,6 +81,7 @@
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

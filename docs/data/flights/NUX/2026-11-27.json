@@ -8,9 +8,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T02:50:00Z",
-   "actual": "2026-11-27T02:50:00Z"
+   "actual": "2026-11-27T03:11:00Z"
   },
   "UTH 9919|2026-11-27T03:00:00Z": {
    "number": "UTH 9919",
@@ -18,9 +18,9 @@
    "to": "WNR",
    "to_name": "Novyy Urengoy",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T03:00:00Z",
-   "actual": "2026-11-27T03:00:00Z"
+   "actual": "2026-11-27T03:31:00Z"
   },
   "4G 9843|2026-11-27T03:00:00Z": {
    "number": "4G 9843",
@@ -38,15 +38,76 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T03:05:00Z",
-   "actual": "2026-11-27T03:05:00Z"
+   "actual": "2026-11-27T03:36:00Z"
+  },
+  "S7 2572|2026-11-27T03:20:00Z": {
+   "number": "S7 2572",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-27T03:20:00Z",
+   "actual": "2026-11-27T03:26:00Z"
+  },
+  "4G 9816|2026-11-27T03:30:00Z": {
+   "number": "4G 9816",
+   "airline": "Gazpromavia",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-27T03:30:00Z",
+   "actual": "2026-11-27T03:52:00Z"
+  },
+  "4G 9847|2026-11-27T03:00:00Z": {
+   "number": "4G 9847",
+   "airline": "Gazpromavia",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-27T03:00:00Z",
+   "actual": "2026-11-27T04:00:00Z"
+  },
+  "S7 7083|2026-11-27T04:30:00Z": {
+   "number": "S7 7083",
+   "airline": "S7",
+   "to": "NYM",
+   "to_name": "Nadym",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T04:30:00Z",
+   "actual": "2026-11-27T04:30:00Z"
+  },
+  "4G 9814|2026-11-27T04:30:00Z": {
+   "number": "4G 9814",
+   "airline": "Gazpromavia",
+   "to": "Novyy Port",
+   "to_name": "Novyy Port",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T04:30:00Z",
+   "actual": "2026-11-27T04:30:00Z"
+  },
+  "YC 945|2026-11-27T04:40:00Z": {
+   "number": "YC 945",
+   "airline": "Yamal",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T04:40:00Z",
+   "actual": "2026-11-27T04:40:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

@@ -55,8 +55,8 @@
   "YC 32|2026-11-27T00:05:00Z": {
    "number": "YC 32",
    "airline": "Yamal",
-   "to": "SLY",
-   "to_name": "Salekhard",
+   "to": "Salehard",
+   "to_name": "Salehard",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
    "scheduled": "2026-11-27T00:05:00Z",
@@ -78,14 +78,15 @@
    "to": "Noyabrsk",
    "to_name": "Noyabrsk",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T03:00:00Z",
-   "actual": "2026-11-27T03:00:00Z"
+   "actual": "2026-11-27T03:16:00Z"
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

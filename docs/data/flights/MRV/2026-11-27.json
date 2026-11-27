@@ -58,9 +58,9 @@
    "to": "AYT",
    "to_name": "Antalya",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T01:20:00Z",
-   "actual": "2026-11-27T01:20:00Z"
+   "actual": "2026-11-27T01:59:00Z"
   },
   "A4 6099|2026-11-27T03:00:00Z": {
    "number": "A4 6099",
@@ -68,14 +68,45 @@
    "to": "BUS",
    "to_name": "Batumi",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T03:00:00Z",
-   "actual": "2026-11-27T03:00:00Z"
+   "actual": "2026-11-27T03:18:00Z"
+  },
+  "SU 812|2026-11-27T04:30:00Z": {
+   "number": "SU 812",
+   "airline": "Aeroflot",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T04:30:00Z",
+   "actual": "2026-11-27T04:30:00Z"
+  },
+  "A4 6073|2026-11-27T04:50:00Z": {
+   "number": "A4 6073",
+   "airline": "Azimuth",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T04:50:00Z",
+   "actual": "2026-11-27T04:50:00Z"
+  },
+  "YC 378|2026-11-27T05:00:00Z": {
+   "number": "YC 378",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T05:00:00Z",
+   "actual": "2026-11-27T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

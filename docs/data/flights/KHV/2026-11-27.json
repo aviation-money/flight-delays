@@ -150,7 +150,7 @@
    "model": "Airbus A320 NEO",
    "status": "Delayed",
    "scheduled": "2026-11-26T21:50:00Z",
-   "actual": "2026-11-27T02:50:00Z"
+   "actual": "2026-11-27T03:35:00Z"
   },
   "НИ 411|2026-11-27T02:50:00Z": {
    "number": "НИ 411",
@@ -168,9 +168,59 @@
    "to": "Neryungri",
    "to_name": "Neryungri",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T02:55:00Z",
-   "actual": "2026-11-27T02:55:00Z"
+   "actual": "2026-11-27T03:00:00Z"
+  },
+  "HZ 4008|2026-11-27T03:30:00Z": {
+   "number": "HZ 4008",
+   "airline": "Aurora",
+   "to": "Okha",
+   "to_name": "Okha",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Expected",
+   "scheduled": "2026-11-27T03:30:00Z",
+   "actual": "2026-11-27T03:30:00Z"
+  },
+  "HZ 5619|2026-11-27T03:45:00Z": {
+   "number": "HZ 5619",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-27T03:45:00Z",
+   "actual": "2026-11-27T03:51:00Z"
+  },
+  "HZ 5628|2026-11-27T04:00:00Z": {
+   "number": "HZ 5628",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T04:00:00Z",
+   "actual": "2026-11-27T04:00:00Z"
+  },
+  "НИ 469|2026-11-27T04:00:00Z": {
+   "number": "НИ 469",
+   "airline": "Khabavia",
+   "to": "BQG",
+   "to_name": "Bogorodskoye",
+   "model": "An-24",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T04:00:00Z",
+   "actual": "2026-11-27T04:00:00Z"
+  },
+  "HZ 3102|2026-11-27T04:40:00Z": {
+   "number": "HZ 3102",
+   "airline": "Aurora",
+   "to": "Nikolayevsk-na-Amure Airport",
+   "to_name": "Nikolayevsk-na-Amure Airport",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Expected",
+   "scheduled": "2026-11-27T04:40:00Z",
+   "actual": "2026-11-27T04:40:00Z"
   }
  },
  "fetched": [
@@ -180,6 +230,7 @@
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }

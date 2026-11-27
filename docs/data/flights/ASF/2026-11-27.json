@@ -8,15 +8,26 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T03:00:00Z",
-   "actual": "2026-11-27T03:00:00Z"
+   "actual": "2026-11-27T03:12:00Z"
+  },
+  "ЛЩ 9671|2026-11-27T04:30:00Z": {
+   "number": "ЛЩ 9671",
+   "airline": "Mars Avia",
+   "to": "Filanovskogo-1",
+   "to_name": "Filanovskogo-1",
+   "model": null,
+   "status": "Boarding",
+   "scheduled": "2026-11-27T04:30:00Z",
+   "actual": "2026-11-27T04:30:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
-  "2026-11-27T02:07:26Z"
+  "2026-11-27T02:07:26Z",
+  "2026-11-27T04:07:25Z"
  ]
 }
