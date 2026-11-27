@@ -1,0 +1,99 @@
+{
+ "airport": "VKO",
+ "date": "2026-11-28",
+ "flights": {
+  "FZ 952|2026-11-27T21:25:00Z": {
+   "number": "FZ 952",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T21:25:00Z",
+   "actual": "2026-11-27T21:25:00Z"
+  },
+  "J2 810|2026-11-27T21:35:00Z": {
+   "number": "J2 810",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T21:35:00Z",
+   "actual": "2026-11-27T21:50:00Z"
+  },
+  "UT 785B|2026-11-27T21:10:00Z": {
+   "number": "UT 785B",
+   "airline": "UTAir",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T21:10:00Z",
+   "actual": "2026-11-27T21:55:00Z"
+  },
+  "HY 606|2026-11-27T22:00:00Z": {
+   "number": "HY 606",
+   "airline": "Uzbekistan",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T22:00:00Z",
+   "actual": "2026-11-27T22:05:00Z"
+  },
+  "TK 410|2026-11-27T21:35:00Z": {
+   "number": "TK 410",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T21:35:00Z",
+   "actual": "2026-11-27T22:10:00Z"
+  },
+  "DP 997D|2026-11-27T22:10:00Z": {
+   "number": "DP 997D",
+   "airline": "Pobeda",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T22:10:00Z",
+   "actual": "2026-11-27T22:10:00Z"
+  },
+  "DP 1435|2026-11-27T21:45:00Z": {
+   "number": "DP 1435",
+   "airline": "Pobeda",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T21:45:00Z",
+   "actual": "2026-11-27T23:00:00Z"
+  },
+  "DP 1413|2026-11-27T21:20:00Z": {
+   "number": "DP 1413",
+   "airline": "Pobeda",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Boeing 737-800",
+   "status": "Canceled",
+   "scheduled": "2026-11-27T21:20:00Z",
+   "actual": "2026-11-27T23:00:00Z"
+  },
+  "DP 433D|2026-11-27T22:00:00Z": {
+   "number": "DP 433D",
+   "airline": "Pobeda",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T22:00:00Z",
+   "actual": "2026-11-27T23:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-27T22:07:29Z"
+ ]
+}

@@ -28,7 +28,7 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T16:55:00Z",
    "actual": "2026-11-27T17:22:00Z"
   },
@@ -48,7 +48,7 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T17:10:00Z",
    "actual": "2026-11-27T17:37:00Z"
   },
@@ -60,7 +60,7 @@
    "model": "Airbus A320 NEO",
    "status": "Expected",
    "scheduled": "2026-11-27T20:15:00Z",
-   "actual": "2026-11-27T20:20:00Z"
+   "actual": "2026-11-27T20:32:00Z"
   },
   "S7 5202|2026-11-27T19:50:00Z": {
    "number": "S7 5202",
@@ -70,7 +70,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-27T19:50:00Z",
-   "actual": "2026-11-27T20:35:00Z"
+   "actual": "2026-11-27T20:57:00Z"
   },
   "FV 2461|2026-11-27T21:05:00Z": {
    "number": "FV 2461",
@@ -80,13 +80,64 @@
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-27T21:05:00Z",
-   "actual": "2026-11-27T21:05:00Z"
+   "actual": "2026-11-27T21:35:00Z"
+  },
+  "S7 6404|2026-11-27T21:45:00Z": {
+   "number": "S7 6404",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T21:45:00Z",
+   "actual": "2026-11-27T22:20:00Z"
+  },
+  "U6 572|2026-11-27T21:20:00Z": {
+   "number": "U6 572",
+   "airline": "Ural",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T21:20:00Z",
+   "actual": "2026-11-27T21:55:00Z"
+  },
+  "HZ 5600|2026-11-27T22:00:00Z": {
+   "number": "HZ 5600",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T22:00:00Z",
+   "actual": "2026-11-27T22:00:00Z"
+  },
+  "HZ 5644|2026-11-27T22:20:00Z": {
+   "number": "HZ 5644",
+   "airline": "Aurora",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T22:20:00Z",
+   "actual": "2026-11-27T22:20:00Z"
+  },
+  "S7 5204|2026-11-27T22:50:00Z": {
+   "number": "S7 5204",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T22:50:00Z",
+   "actual": "2026-11-27T22:50:00Z"
   }
  },
  "fetched": [
   "2026-11-27T14:07:26Z",
   "2026-11-27T16:07:29Z",
   "2026-11-27T18:07:26Z",
-  "2026-11-27T20:07:26Z"
+  "2026-11-27T20:07:26Z",
+  "2026-11-27T22:07:29Z"
  ]
 }

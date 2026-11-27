@@ -1,0 +1,19 @@
+{
+ "airport": "MMK",
+ "date": "2026-11-28",
+ "flights": {
+  "D2 9706|2026-11-27T21:20:00Z": {
+   "number": "D2 9706",
+   "airline": "Severstal Aircompany",
+   "to": "Norilsk",
+   "to_name": "Norilsk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T21:20:00Z",
+   "actual": "2026-11-27T21:20:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-27T22:07:29Z"
+ ]
+}

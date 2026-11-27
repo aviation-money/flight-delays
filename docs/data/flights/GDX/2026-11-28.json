@@ -8,15 +8,86 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T20:35:00Z",
-   "actual": "2026-11-27T20:35:00Z"
+   "actual": "2026-11-27T20:44:00Z"
+  },
+  "СЛ 1095|2026-11-27T22:00:00Z": {
+   "number": "СЛ 1095",
+   "airline": "Sila",
+   "to": "Susuman",
+   "to_name": "Susuman",
+   "model": "An-28",
+   "status": "Expected",
+   "scheduled": "2026-11-27T22:00:00Z",
+   "actual": "2026-11-27T22:00:00Z"
+  },
+  "СЛ 81|2026-11-27T22:05:00Z": {
+   "number": "СЛ 81",
+   "airline": "Sila",
+   "to": "Omsukchan",
+   "to_name": "Omsukchan",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-27T22:05:00Z",
+   "actual": "2026-11-27T22:05:00Z"
+  },
+  "IO 9135|2026-11-27T22:30:00Z": {
+   "number": "IO 9135",
+   "airline": "IrAero",
+   "to": "Severo-Evensk",
+   "to_name": "Severo-Evensk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T22:30:00Z",
+   "actual": "2026-11-27T22:30:00Z"
+  },
+  "АЯ 1091|2026-11-27T22:55:00Z": {
+   "number": "АЯ 1091",
+   "airline": "Aeroservis",
+   "to": "Yagodnoe",
+   "to_name": "Yagodnoe",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T22:55:00Z",
+   "actual": "2026-11-27T22:55:00Z"
+  },
+  "АЯ 1097|2026-11-27T22:55:00Z": {
+   "number": "АЯ 1097",
+   "airline": "Aeroservis",
+   "to": "Sinegorye",
+   "to_name": "Sinegorye",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-27T22:55:00Z",
+   "actual": "2026-11-27T22:55:00Z"
+  },
+  "IO 133|2026-11-27T23:00:00Z": {
+   "number": "IO 133",
+   "airline": "IrAero",
+   "to": "Keperveem",
+   "to_name": "Keperveem",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-27T23:00:00Z",
+   "actual": "2026-11-27T23:00:00Z"
+  },
+  "IO 9801|2026-11-27T23:00:00Z": {
+   "number": "IO 9801",
+   "airline": "IrAero",
+   "to": "Kupol",
+   "to_name": "Kupol",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T23:00:00Z",
+   "actual": "2026-11-27T23:00:00Z"
   }
  },
  "fetched": [
   "2026-11-27T14:07:26Z",
   "2026-11-27T16:07:29Z",
   "2026-11-27T18:07:26Z",
-  "2026-11-27T20:07:26Z"
+  "2026-11-27T20:07:26Z",
+  "2026-11-27T22:07:29Z"
  ]
 }

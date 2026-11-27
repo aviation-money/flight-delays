@@ -1,0 +1,19 @@
+{
+ "airport": "KGD",
+ "date": "2026-11-28",
+ "flights": {
+  "UJ 682|2026-11-27T22:05:00Z": {
+   "number": "UJ 682",
+   "airline": "AlMasria",
+   "to": "Sharm el-Sheikh",
+   "to_name": "Sharm el-Sheikh",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T22:05:00Z",
+   "actual": "2026-11-27T22:45:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-27T22:07:29Z"
+ ]
+}

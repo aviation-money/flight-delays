@@ -1,0 +1,29 @@
+{
+ "airport": "KZN",
+ "date": "2026-11-28",
+ "flights": {
+  "FZ 974|2026-11-27T22:10:00Z": {
+   "number": "FZ 974",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737 MAX 8",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T22:10:00Z",
+   "actual": "2026-11-27T22:10:00Z"
+  },
+  "N4 1487|2026-11-27T22:20:00Z": {
+   "number": "N4 1487",
+   "airline": "Nordwind",
+   "to": "BSZ",
+   "to_name": "Bishkek",
+   "model": "Boeing 737-900",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T22:20:00Z",
+   "actual": "2026-11-27T22:20:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-27T22:07:29Z"
+ ]
+}

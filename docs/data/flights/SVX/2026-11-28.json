@@ -8,9 +8,9 @@
    "to": "TOF",
    "to_name": "Tomsk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T19:50:00Z",
-   "actual": "2026-11-27T19:50:00Z"
+   "actual": "2026-11-27T20:26:00Z"
   },
   "U6 775|2026-11-27T19:50:00Z": {
    "number": "U6 775",
@@ -18,9 +18,9 @@
    "to": "PKX",
    "to_name": "Beijing",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T19:50:00Z",
-   "actual": "2026-11-27T19:50:00Z"
+   "actual": "2026-11-27T20:22:00Z"
   },
   "SU 1021|2026-11-27T19:50:00Z": {
    "number": "SU 1021",
@@ -28,12 +28,63 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-27T19:50:00Z",
-   "actual": "2026-11-27T20:50:00Z"
+   "actual": "2026-11-27T21:50:00Z"
+  },
+  "NE 437|2026-11-27T21:10:00Z": {
+   "number": "NE 437",
+   "airline": "Nesma",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T21:10:00Z",
+   "actual": "2026-11-27T21:10:00Z"
+  },
+  "FZ 980|2026-11-27T21:20:00Z": {
+   "number": "FZ 980",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T21:20:00Z",
+   "actual": "2026-11-27T21:40:00Z"
+  },
+  "J2 646|2026-11-27T21:50:00Z": {
+   "number": "J2 646",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Embraer 190",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T21:50:00Z",
+   "actual": "2026-11-27T22:05:00Z"
+  },
+  "ZF 4037|2026-11-27T22:20:00Z": {
+   "number": "ZF 4037",
+   "airline": "AZUR Air",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 767-300",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T22:20:00Z",
+   "actual": "2026-11-27T22:20:00Z"
+  },
+  "U6 2951|2026-11-27T22:30:00Z": {
+   "number": "U6 2951",
+   "airline": "Ural",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T22:30:00Z",
+   "actual": "2026-11-27T22:30:00Z"
   }
  },
  "fetched": [
-  "2026-11-27T20:07:26Z"
+  "2026-11-27T20:07:26Z",
+  "2026-11-27T22:07:29Z"
  ]
 }

@@ -1,12 +1,44 @@
 {
  "airport": "PKC",
  "date": "2026-11-28",
- "flights": {},
+ "flights": {
+  "HZ 5617|2026-11-27T21:30:00Z": {
+   "number": "HZ 5617",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-27T21:30:00Z",
+   "actual": "2026-11-27T21:33:00Z"
+  },
+  "S7 6216|2026-11-27T21:35:00Z": {
+   "number": "S7 6216",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T21:35:00Z",
+   "actual": "2026-11-27T21:50:00Z"
+  },
+  "IO 771|2026-11-27T22:00:00Z": {
+   "number": "IO 771",
+   "airline": "IrAero",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-27T22:00:00Z",
+   "actual": "2026-11-27T22:10:00Z"
+  }
+ },
  "fetched": [
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
   "2026-11-27T16:07:29Z",
   "2026-11-27T18:07:26Z",
-  "2026-11-27T20:07:26Z"
+  "2026-11-27T20:07:26Z",
+  "2026-11-27T22:07:29Z"
  ]
 }

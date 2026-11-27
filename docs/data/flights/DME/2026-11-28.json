@@ -1,0 +1,39 @@
+{
+ "airport": "DME",
+ "date": "2026-11-28",
+ "flights": {
+  "U6 8253|2026-11-27T21:55:00Z": {
+   "number": "U6 8253",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A321",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T21:55:00Z",
+   "actual": "2026-11-27T21:55:00Z"
+  },
+  "YC 90|2026-11-27T22:30:00Z": {
+   "number": "YC 90",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Airbus A320-200",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T22:30:00Z",
+   "actual": "2026-11-27T22:30:00Z"
+  },
+  "S7 2571|2026-11-27T22:40:00Z": {
+   "number": "S7 2571",
+   "airline": "S7",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T22:40:00Z",
+   "actual": "2026-11-27T22:40:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-27T22:07:29Z"
+ ]
+}

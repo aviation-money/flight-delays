@@ -141,11 +141,52 @@
    "status": "Expected",
    "scheduled": "2026-11-27T21:00:00Z",
    "actual": null
+  },
+  "IO 180|2026-11-27T21:30:00Z": {
+   "number": "IO 180",
+   "airline": "IrAero",
+   "to": "ULK",
+   "to_name": "Lensk",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T21:30:00Z",
+   "actual": null
+  },
+  "IO 183|2026-11-27T21:40:00Z": {
+   "number": "IO 183",
+   "airline": "IrAero",
+   "to": "Chara",
+   "to_name": "Chara",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T21:40:00Z",
+   "actual": null
+  },
+  "S7 5228|2026-11-27T22:15:00Z": {
+   "number": "S7 5228",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-27T22:15:00Z",
+   "actual": null
+  },
+  "UT 165|2026-11-27T22:45:00Z": {
+   "number": "UT 165",
+   "airline": "UTAir",
+   "to": "UKX",
+   "to_name": "Ust-Kut",
+   "model": "ATR 72",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T22:45:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-27T16:07:29Z",
   "2026-11-27T18:07:26Z",
-  "2026-11-27T20:07:26Z"
+  "2026-11-27T20:07:26Z",
+  "2026-11-27T22:07:29Z"
  ]
 }
