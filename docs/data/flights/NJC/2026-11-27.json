@@ -71,6 +71,36 @@
    "status": "Expected",
    "scheduled": "2026-11-27T15:30:00Z",
    "actual": null
+  },
+  "S7 5364|2026-11-27T17:10:00Z": {
+   "number": "S7 5364",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T17:10:00Z",
+   "actual": null
+  },
+  "HY 9808|2026-11-27T18:15:00Z": {
+   "number": "HY 9808",
+   "airline": "Uzbekistan",
+   "to": "NMA",
+   "to_name": "Namangan",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-27T18:15:00Z",
+   "actual": null
+  },
+  "UT 1288|2026-11-27T18:20:00Z": {
+   "number": "UT 1288",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-27T18:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -84,6 +114,7 @@
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
-  "2026-11-27T16:07:29Z"
+  "2026-11-27T16:07:29Z",
+  "2026-11-27T18:07:26Z"
  ]
 }

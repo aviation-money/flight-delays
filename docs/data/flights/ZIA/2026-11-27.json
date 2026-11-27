@@ -80,7 +80,7 @@
    "model": "Sukhoi Superjet 100-95",
    "status": "Delayed",
    "scheduled": "2026-11-27T14:00:00Z",
-   "actual": "2026-11-27T17:00:00Z"
+   "actual": "2026-11-27T18:00:00Z"
   },
   "WZ 15|2026-11-27T14:40:00Z": {
    "number": "WZ 15",
@@ -108,9 +108,19 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A321",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T15:10:00Z",
-   "actual": "2026-11-27T16:30:00Z"
+   "actual": "2026-11-27T17:33:00Z"
+  },
+  "U6 2441|2026-11-27T18:25:00Z": {
+   "number": "U6 2441",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T18:25:00Z",
+   "actual": "2026-11-27T18:25:00Z"
   }
  },
  "fetched": [
@@ -123,6 +133,7 @@
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
-  "2026-11-27T16:07:29Z"
+  "2026-11-27T16:07:29Z",
+  "2026-11-27T18:07:26Z"
  ]
 }

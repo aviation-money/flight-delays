@@ -67,10 +67,20 @@
    "airline": "Red Wings",
    "to": "SVX",
    "to_name": "Ekaterinburg",
-   "model": "Sukhoi Superjet 100",
+   "model": "Sukhoi Superjet 100-95",
    "status": "CheckIn",
    "scheduled": "2026-11-27T17:00:00Z",
    "actual": "2026-11-27T17:00:00Z"
+  },
+  "S7 5074|2026-11-27T18:30:00Z": {
+   "number": "S7 5074",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T18:30:00Z",
+   "actual": "2026-11-27T18:30:00Z"
   }
  },
  "fetched": [
@@ -84,6 +94,7 @@
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
-  "2026-11-27T16:07:29Z"
+  "2026-11-27T16:07:29Z",
+  "2026-11-27T18:07:26Z"
  ]
 }

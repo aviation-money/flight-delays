@@ -338,7 +338,7 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T15:30:00Z",
    "actual": "2026-11-27T15:58:00Z"
   },
@@ -361,6 +361,76 @@
    "status": "GateClosed",
    "scheduled": "2026-11-27T16:30:00Z",
    "actual": "2026-11-27T16:30:00Z"
+  },
+  "DP 6946|2026-11-27T16:17:00Z": {
+   "number": "DP 6946",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-27T16:17:00Z",
+   "actual": "2026-11-27T16:17:00Z"
+  },
+  "SU 1127|2026-11-27T16:44:00Z": {
+   "number": "SU 1127",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-27T16:44:00Z",
+   "actual": "2026-11-27T16:44:00Z"
+  },
+  "FV 6568|2026-11-27T17:13:00Z": {
+   "number": "FV 6568",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-27T17:13:00Z",
+   "actual": "2026-11-27T17:13:00Z"
+  },
+  "A4 6120|2026-11-27T17:10:00Z": {
+   "number": "A4 6120",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-27T17:10:00Z",
+   "actual": "2026-11-27T17:43:00Z"
+  },
+  "FV 6876|2026-11-27T18:40:00Z": {
+   "number": "FV 6876",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T18:40:00Z",
+   "actual": "2026-11-27T18:40:00Z"
+  },
+  "DP 5942|2026-11-27T17:35:00Z": {
+   "number": "DP 5942",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T17:35:00Z",
+   "actual": "2026-11-27T18:40:00Z"
+  },
+  "FV 6560|2026-11-27T16:35:00Z": {
+   "number": "FV 6560",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:35:00Z",
+   "actual": "2026-11-27T19:05:00Z"
   }
  },
  "fetched": [
@@ -373,6 +443,7 @@
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
-  "2026-11-27T16:07:29Z"
+  "2026-11-27T16:07:29Z",
+  "2026-11-27T18:07:26Z"
  ]
 }

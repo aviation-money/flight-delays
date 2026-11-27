@@ -128,7 +128,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T13:40:00Z",
    "actual": null
   },
@@ -151,6 +151,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-27T16:20:00Z",
    "actual": null
+  },
+  "DP 192|2026-11-27T17:45:00Z": {
+   "number": "DP 192",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T17:45:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -163,6 +173,7 @@
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
-  "2026-11-27T16:07:29Z"
+  "2026-11-27T16:07:29Z",
+  "2026-11-27T18:07:26Z"
  ]
 }

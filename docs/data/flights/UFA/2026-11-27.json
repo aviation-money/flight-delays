@@ -338,9 +338,9 @@
    "to": "LBD",
    "to_name": "Khudzhand",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T15:35:00Z",
-   "actual": "2026-11-27T15:35:00Z"
+   "actual": "2026-11-27T16:08:00Z"
   },
   "UT 151|2026-11-27T16:00:00Z": {
    "number": "UT 151",
@@ -348,9 +348,9 @@
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
    "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T16:00:00Z",
-   "actual": "2026-11-27T16:00:00Z"
+   "actual": "2026-11-27T16:32:00Z"
   },
   "DP 6502|2026-11-27T13:20:00Z": {
    "number": "DP 6502",
@@ -358,9 +358,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T13:20:00Z",
-   "actual": "2026-11-27T16:05:00Z"
+   "actual": "2026-11-27T16:27:00Z"
   },
   "SU 1259|2026-11-27T16:40:00Z": {
    "number": "SU 1259",
@@ -368,9 +368,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T16:40:00Z",
-   "actual": "2026-11-27T16:40:00Z"
+   "actual": "2026-11-27T17:42:00Z"
   },
   "UT 104|2026-11-27T15:55:00Z": {
    "number": "UT 104",
@@ -378,9 +378,39 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "Boeing 737-400",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T15:55:00Z",
-   "actual": "2026-11-27T17:00:00Z"
+   "actual": "2026-11-27T17:05:00Z"
+  },
+  "FV 6414|2026-11-27T17:20:00Z": {
+   "number": "FV 6414",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-27T17:20:00Z",
+   "actual": "2026-11-27T17:28:00Z"
+  },
+  "FV 6606|2026-11-27T10:30:00Z": {
+   "number": "FV 6606",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T10:30:00Z",
+   "actual": "2026-11-27T18:25:00Z"
+  },
+  "NE 451|2026-11-27T18:10:00Z": {
+   "number": "NE 451",
+   "airline": "Nesma",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T18:10:00Z",
+   "actual": "2026-11-27T18:25:00Z"
   }
  },
  "fetched": [
@@ -394,6 +424,7 @@
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
   "2026-11-27T14:07:26Z",
-  "2026-11-27T16:07:29Z"
+  "2026-11-27T16:07:29Z",
+  "2026-11-27T18:07:26Z"
  ]
 }

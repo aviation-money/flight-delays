@@ -1,0 +1,19 @@
+{
+ "airport": "KJA",
+ "date": "2026-11-28",
+ "flights": {
+  "C6 456|2026-11-27T18:50:00Z": {
+   "number": "C6 456",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T18:50:00Z",
+   "actual": "2026-11-27T18:50:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-27T18:07:26Z"
+ ]
+}
