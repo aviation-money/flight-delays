@@ -48,13 +48,34 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:30:00Z",
-   "actual": "2026-11-27T00:30:00Z"
+   "actual": "2026-11-27T00:36:00Z"
+  },
+  "A4 6217|2026-11-27T01:20:00Z": {
+   "number": "A4 6217",
+   "airline": "Azimuth",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T01:20:00Z",
+   "actual": "2026-11-27T01:20:00Z"
+  },
+  "A4 6099|2026-11-27T03:00:00Z": {
+   "number": "A4 6099",
+   "airline": "Azimuth",
+   "to": "BUS",
+   "to_name": "Batumi",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T03:00:00Z",
+   "actual": "2026-11-27T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

@@ -1,10 +1,42 @@
 {
  "airport": "PEE",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "SU 1395|2026-11-27T02:20:00Z": {
+   "number": "SU 1395",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T02:20:00Z",
+   "actual": "2026-11-27T02:20:00Z"
+  },
+  "DP 570|2026-11-27T00:20:00Z": {
+   "number": "DP 570",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T00:20:00Z",
+   "actual": "2026-11-27T02:30:00Z"
+  },
+  "A4 4028|2026-11-27T02:55:00Z": {
+   "number": "A4 4028",
+   "airline": "Azimuth",
+   "to": "MCX",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T02:55:00Z",
+   "actual": "2026-11-27T02:55:00Z"
+  }
+ },
  "fetched": [
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

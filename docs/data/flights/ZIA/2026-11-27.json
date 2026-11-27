@@ -18,13 +18,24 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:55:00Z",
-   "actual": "2026-11-26T23:55:00Z"
+   "actual": "2026-11-27T00:46:00Z"
+  },
+  "U6 2131|2026-11-27T03:00:00Z": {
+   "number": "U6 2131",
+   "airline": "Ural",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A321",
+   "status": "Expected",
+   "scheduled": "2026-11-27T03:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

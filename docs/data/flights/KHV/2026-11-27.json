@@ -87,10 +87,10 @@
    "airline": "S7",
    "to": "VVO",
    "to_name": "Vladivostok",
-   "model": "del2",
-   "status": "Expected",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:05:00Z",
-   "actual": "2026-11-27T00:05:00Z"
+   "actual": "2026-11-27T00:17:00Z"
   },
   "НИ 415|2026-11-26T23:50:00Z": {
    "number": "НИ 415",
@@ -100,7 +100,7 @@
    "model": "An-24",
    "status": "Delayed",
    "scheduled": "2026-11-26T23:50:00Z",
-   "actual": "2026-11-27T00:10:00Z"
+   "actual": "2026-11-26T23:50:00Z"
   },
   "НИ 401|2026-11-26T23:20:00Z": {
    "number": "НИ 401",
@@ -110,7 +110,7 @@
    "model": "An-24",
    "status": "Delayed",
    "scheduled": "2026-11-26T23:20:00Z",
-   "actual": "2026-11-27T00:10:00Z"
+   "actual": "2026-11-26T23:20:00Z"
   },
   "HZ 5684|2026-11-27T00:30:00Z": {
    "number": "HZ 5684",
@@ -118,9 +118,9 @@
    "to": "PKC",
    "to_name": "Petropavlovsk-Kamchatskiy",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:30:00Z",
-   "actual": "2026-11-27T00:30:00Z"
+   "actual": "2026-11-27T00:36:00Z"
   },
   "HZ 5612|2026-11-27T00:55:00Z": {
    "number": "HZ 5612",
@@ -130,7 +130,47 @@
    "model": "Airbus A319",
    "status": "Departed",
    "scheduled": "2026-11-27T00:55:00Z",
-   "actual": "2026-11-27T00:55:00Z"
+   "actual": "2026-11-27T01:10:00Z"
+  },
+  "R3 2114|2026-11-27T01:10:00Z": {
+   "number": "R3 2114",
+   "airline": "Yakutia",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-27T01:10:00Z",
+   "actual": "2026-11-27T01:18:00Z"
+  },
+  "U6 174|2026-11-26T21:50:00Z": {
+   "number": "U6 174",
+   "airline": "Ural",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320 NEO",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T21:50:00Z",
+   "actual": "2026-11-27T02:50:00Z"
+  },
+  "НИ 411|2026-11-27T02:50:00Z": {
+   "number": "НИ 411",
+   "airline": "Khabavia",
+   "to": "Chegdomyn",
+   "to_name": "Chegdomyn",
+   "model": "Mil Mi-8",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T02:50:00Z",
+   "actual": "2026-11-27T02:50:00Z"
+  },
+  "FV 2467|2026-11-27T02:55:00Z": {
+   "number": "FV 2467",
+   "airline": "Rossiya",
+   "to": "Neryungri",
+   "to_name": "Neryungri",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-27T02:55:00Z",
+   "actual": "2026-11-27T02:55:00Z"
   }
  },
  "fetched": [
@@ -139,6 +179,7 @@
   "2026-11-26T18:07:27Z",
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

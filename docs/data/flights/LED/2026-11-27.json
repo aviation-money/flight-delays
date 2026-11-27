@@ -218,9 +218,9 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:20:00Z",
-   "actual": "2026-11-27T00:20:00Z"
+   "actual": "2026-11-27T00:15:00Z"
   },
   "VF 292|2026-11-27T00:35:00Z": {
    "number": "VF 292",
@@ -228,13 +228,24 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:35:00Z",
-   "actual": "2026-11-27T00:35:00Z"
+   "actual": "2026-11-27T02:20:00Z"
+  },
+  "JU 125|2026-11-27T01:10:00Z": {
+   "number": "JU 125",
+   "airline": "Air Serbia",
+   "to": "BEG",
+   "to_name": "Belgrade",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T01:10:00Z",
+   "actual": "2026-11-27T02:20:00Z"
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

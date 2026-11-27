@@ -45,8 +45,8 @@
   "SU 1781|2026-11-26T23:20:00Z": {
    "number": "SU 1781",
    "airline": "Aeroflot",
-   "to": "Moskva Sheremetevo",
-   "to_name": "Moskva Sheremetevo",
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-26T23:20:00Z",
@@ -58,9 +58,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:50:00Z",
-   "actual": "2026-11-26T23:50:00Z"
+   "actual": "2026-11-27T00:56:00Z"
   },
   "S7 2566|2026-11-27T00:25:00Z": {
    "number": "S7 2566",
@@ -68,9 +68,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:25:00Z",
-   "actual": "2026-11-27T00:25:00Z"
+   "actual": "2026-11-27T00:26:00Z"
   },
   "DP 6522|2026-11-27T01:05:00Z": {
    "number": "DP 6522",
@@ -78,15 +78,36 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T01:05:00Z",
-   "actual": "2026-11-27T01:05:00Z"
+   "actual": "2026-11-27T01:58:00Z"
+  },
+  "SU 1639|2026-11-27T02:05:00Z": {
+   "number": "SU 1639",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T02:05:00Z",
+   "actual": "2026-11-27T02:05:00Z"
+  },
+  "N4 308|2026-11-27T02:25:00Z": {
+   "number": "N4 308",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T02:25:00Z",
+   "actual": "2026-11-27T02:25:00Z"
   }
  },
  "fetched": [
   "2026-11-26T18:07:27Z",
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

@@ -1,9 +1,21 @@
 {
  "airport": "GRV",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "UT 356|2026-11-27T02:45:00Z": {
+   "number": "UT 356",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T02:45:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

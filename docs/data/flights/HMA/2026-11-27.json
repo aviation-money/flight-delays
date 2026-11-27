@@ -8,9 +8,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:45:00Z",
-   "actual": "2026-11-26T23:45:00Z"
+   "actual": "2026-11-27T00:16:00Z"
   },
   "UT 300|2026-11-27T00:25:00Z": {
    "number": "UT 300",
@@ -18,14 +18,15 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:25:00Z",
-   "actual": "2026-11-27T00:25:00Z"
+   "actual": "2026-11-27T00:34:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

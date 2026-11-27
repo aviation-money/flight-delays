@@ -268,13 +268,44 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Airbus A320 NEO",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:55:00Z",
    "actual": "2026-11-26T23:55:00Z"
+  },
+  "FV 6277|2026-11-27T02:30:00Z": {
+   "number": "FV 6277",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Boeing 777",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T02:30:00Z",
+   "actual": "2026-11-27T02:30:00Z"
+  },
+  "SU 1264|2026-11-27T02:40:00Z": {
+   "number": "SU 1264",
+   "airline": "Aeroflot",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T02:40:00Z",
+   "actual": "2026-11-27T02:40:00Z"
+  },
+  "SU 430|2026-11-27T02:45:00Z": {
+   "number": "SU 430",
+   "airline": "Aeroflot",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Airbus A330",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T02:45:00Z",
+   "actual": "2026-11-27T02:45:00Z"
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

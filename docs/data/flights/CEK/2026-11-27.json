@@ -18,34 +18,85 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:30:00Z",
-   "actual": "2026-11-27T00:30:00Z"
+   "actual": "2026-11-27T01:20:00Z"
   },
   "DP 324|2026-11-27T00:35:00Z": {
    "number": "DP 324",
    "airline": "Pobeda",
    "to": "AER",
    "to_name": "Sochi",
-   "model": "Boeing 737",
-   "status": "CheckIn",
+   "model": "Boeing 737-800",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:35:00Z",
-   "actual": "2026-11-27T00:35:00Z"
+   "actual": "2026-11-27T01:33:00Z"
   },
   "SU 1093|2026-11-27T01:05:00Z": {
    "number": "SU 1093",
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus",
-   "status": "CheckIn",
+   "model": "Airbus A321",
+   "status": "Departed",
    "scheduled": "2026-11-27T01:05:00Z",
-   "actual": "2026-11-27T01:05:00Z"
+   "actual": "2026-11-27T01:23:00Z"
+  },
+  "FV 6462|2026-11-27T01:25:00Z": {
+   "number": "FV 6462",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus",
+   "status": "Expected",
+   "scheduled": "2026-11-27T01:25:00Z",
+   "actual": "2026-11-27T01:55:00Z"
+  },
+  "A4 6024|2026-11-27T02:05:00Z": {
+   "number": "A4 6024",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T02:05:00Z",
+   "actual": "2026-11-27T02:05:00Z"
+  },
+  "DP 550|2026-11-27T00:40:00Z": {
+   "number": "DP 550",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-27T00:40:00Z",
+   "actual": "2026-11-27T02:30:00Z"
+  },
+  "5N 528|2026-11-27T02:50:00Z": {
+   "number": "5N 528",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T02:50:00Z",
+   "actual": "2026-11-27T02:50:00Z"
+  },
+  "DP 414|2026-11-27T01:30:00Z": {
+   "number": "DP 414",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T01:30:00Z",
+   "actual": "2026-11-27T03:05:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

@@ -11,6 +11,56 @@
    "status": "Departed",
    "scheduled": "2026-11-26T23:30:00Z",
    "actual": "2026-11-26T23:39:00Z"
+  },
+  "SU 1731|2026-11-27T01:25:00Z": {
+   "number": "SU 1731",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Departed",
+   "scheduled": "2026-11-27T01:25:00Z",
+   "actual": "2026-11-27T01:40:00Z"
+  },
+  "HZ 5615|2026-11-27T01:40:00Z": {
+   "number": "HZ 5615",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-27T01:40:00Z",
+   "actual": "2026-11-27T01:45:00Z"
+  },
+  "TGA 2653|2026-11-26T22:20:00Z": {
+   "number": "TGA 2653",
+   "airline": "Taiga",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T22:20:00Z",
+   "actual": "2026-11-27T02:45:00Z"
+  },
+  "PTK 107|2026-11-26T23:30:00Z": {
+   "number": "PTK 107",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "An-26",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T23:30:00Z",
+   "actual": "2026-11-27T03:00:00Z"
+  },
+  "PTK 251|2026-11-26T23:15:00Z": {
+   "number": "PTK 251",
+   "airline": "Petropavlovsk-Kamchatsky Air Enterprise",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Yak 40",
+   "status": "Delayed",
+   "scheduled": "2026-11-26T23:15:00Z",
+   "actual": "2026-11-27T03:00:00Z"
   }
  },
  "fetched": [
@@ -20,6 +70,7 @@
   "2026-11-26T18:07:27Z",
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

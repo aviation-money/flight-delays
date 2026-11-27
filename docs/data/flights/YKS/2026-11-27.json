@@ -25,12 +25,12 @@
   "PI 231|2026-11-26T21:00:00Z": {
    "number": "PI 231",
    "airline": "Polar",
-   "to": "Belaya Gora",
-   "to_name": "Belaya Gora",
+   "to": "Moma",
+   "to_name": "Moma",
    "model": "An-24",
    "status": "Delayed",
    "scheduled": "2026-11-26T21:00:00Z",
-   "actual": "2026-11-26T23:15:00Z"
+   "actual": "2026-11-27T02:00:00Z"
   },
   "S7 6402|2026-11-26T21:25:00Z": {
    "number": "S7 6402",
@@ -70,7 +70,7 @@
    "model": null,
    "status": "Delayed",
    "scheduled": "2026-11-26T20:20:00Z",
-   "actual": "2026-11-26T23:15:00Z"
+   "actual": "2026-11-27T02:15:00Z"
   },
   "SU 1751|2026-11-26T23:55:00Z": {
    "number": "SU 1751",
@@ -78,9 +78,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:55:00Z",
-   "actual": "2026-11-26T23:55:00Z"
+   "actual": "2026-11-27T00:34:00Z"
   },
   "PI 9925|2026-11-27T00:20:00Z": {
    "number": "PI 9925",
@@ -88,9 +88,9 @@
    "to": "Zhigansk",
    "to_name": "Zhigansk",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:20:00Z",
-   "actual": "2026-11-27T00:20:00Z"
+   "actual": "2026-11-27T00:31:00Z"
   },
   "PI 203|2026-11-27T00:20:00Z": {
    "number": "PI 203",
@@ -108,9 +108,19 @@
    "to": "Olekminsk",
    "to_name": "Olekminsk",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T01:00:00Z",
-   "actual": "2026-11-27T01:00:00Z"
+   "actual": "2026-11-27T01:12:00Z"
+  },
+  "6R 520|2026-11-27T02:40:00Z": {
+   "number": "6R 520",
+   "airline": "Alrosa",
+   "to": "MJZ",
+   "to_name": "Mirny",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-27T02:40:00Z",
+   "actual": "2026-11-27T02:40:00Z"
   }
  },
  "fetched": [
@@ -118,6 +128,7 @@
   "2026-11-26T18:07:27Z",
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

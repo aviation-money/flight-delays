@@ -48,9 +48,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:50:00Z",
-   "actual": "2026-11-26T23:50:00Z"
+   "actual": "2026-11-27T00:48:00Z"
   },
   "YC 32|2026-11-27T00:05:00Z": {
    "number": "YC 32",
@@ -58,9 +58,9 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:05:00Z",
-   "actual": "2026-11-27T00:05:00Z"
+   "actual": "2026-11-27T00:23:00Z"
   },
   "U6 9515|2026-11-27T00:15:00Z": {
    "number": "U6 9515",
@@ -68,13 +68,24 @@
    "to": "Gorno-Altajsk",
    "to_name": "Gorno-Altajsk",
    "model": "Airbus A320-200",
-   "status": "Boarding",
+   "status": "GateClosed",
    "scheduled": "2026-11-27T00:15:00Z",
    "actual": "2026-11-27T00:15:00Z"
+  },
+  "YC 419|2026-11-27T03:00:00Z": {
+   "number": "YC 419",
+   "airline": "Yamal",
+   "to": "Noyabrsk",
+   "to_name": "Noyabrsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T03:00:00Z",
+   "actual": "2026-11-27T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }

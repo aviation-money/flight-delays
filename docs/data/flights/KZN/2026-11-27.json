@@ -48,9 +48,9 @@
    "to": "BEG",
    "to_name": "Belgrade",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:15:00Z",
-   "actual": "2026-11-27T00:15:00Z"
+   "actual": "2026-11-27T00:41:00Z"
   },
   "RT 585|2026-11-27T00:45:00Z": {
    "number": "RT 585",
@@ -58,13 +58,24 @@
    "to": "KUF",
    "to_name": "Samara",
    "model": "Canadair CRJ 200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:45:00Z",
-   "actual": "2026-11-27T00:45:00Z"
+   "actual": "2026-11-27T00:41:00Z"
+  },
+  "HY 9652|2026-11-27T01:20:00Z": {
+   "number": "HY 9652",
+   "airline": "Uzbekistan",
+   "to": "FEG",
+   "to_name": "Fergana",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T01:20:00Z",
+   "actual": "2026-11-27T01:16:00Z"
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
-  "2026-11-27T00:07:25Z"
+  "2026-11-27T00:07:25Z",
+  "2026-11-27T02:07:26Z"
  ]
 }
