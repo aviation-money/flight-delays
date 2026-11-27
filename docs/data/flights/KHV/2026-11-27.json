@@ -145,12 +145,12 @@
   "U6 174|2026-11-26T21:50:00Z": {
    "number": "U6 174",
    "airline": "Ural",
-   "to": "LED",
-   "to_name": "Saint-Petersburg",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
    "model": "Airbus A320 NEO",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:50:00Z",
-   "actual": "2026-11-27T03:35:00Z"
+   "actual": "2026-11-27T03:57:00Z"
   },
   "НИ 411|2026-11-27T02:50:00Z": {
    "number": "НИ 411",
@@ -175,10 +175,10 @@
   "HZ 4008|2026-11-27T03:30:00Z": {
    "number": "HZ 4008",
    "airline": "Aurora",
-   "to": "Okha",
+   "to": "OHH",
    "to_name": "Okha",
    "model": "De Havilland DHC-8-400 Dash 8",
-   "status": "Expected",
+   "status": "Canceled",
    "scheduled": "2026-11-27T03:30:00Z",
    "actual": "2026-11-27T03:30:00Z"
   },
@@ -198,9 +198,9 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:00:00Z",
-   "actual": "2026-11-27T04:00:00Z"
+   "actual": "2026-11-27T04:12:00Z"
   },
   "НИ 469|2026-11-27T04:00:00Z": {
    "number": "НИ 469",
@@ -208,7 +208,7 @@
    "to": "BQG",
    "to_name": "Bogorodskoye",
    "model": "An-24",
-   "status": "Delayed",
+   "status": "Canceled",
    "scheduled": "2026-11-27T04:00:00Z",
    "actual": "2026-11-27T04:00:00Z"
   },
@@ -218,9 +218,29 @@
    "to": "Nikolayevsk-na-Amure Airport",
    "to_name": "Nikolayevsk-na-Amure Airport",
    "model": "De Havilland DHC-8-400 Dash 8",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:40:00Z",
-   "actual": "2026-11-27T04:40:00Z"
+   "actual": "2026-11-27T04:47:00Z"
+  },
+  "SU 5919|2026-11-27T04:35:00Z": {
+   "number": "SU 5919",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus Industrie А330-300",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T04:35:00Z",
+   "actual": "2026-11-27T06:20:00Z"
+  },
+  "SU 5807|2026-11-27T07:05:00Z": {
+   "number": "SU 5807",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus Industrie А330-200",
+   "status": "Expected",
+   "scheduled": "2026-11-27T07:05:00Z",
+   "actual": "2026-11-27T07:05:00Z"
   }
  },
  "fetched": [
@@ -231,6 +251,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

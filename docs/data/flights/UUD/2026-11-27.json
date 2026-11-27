@@ -45,9 +45,9 @@
   "S7 3034|2026-11-27T02:30:00Z": {
    "number": "S7 3034",
    "airline": "S7",
-   "to": "DME",
+   "to": "Moscow",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-27T02:30:00Z",
    "actual": "2026-11-27T02:52:00Z"
@@ -57,10 +57,20 @@
    "airline": "Red Wings",
    "to": "BAX",
    "to_name": "Barnaul",
-   "model": "Sukhoi Superjet 100",
+   "model": "Sukhoi Superjet 100-95",
    "status": "Departed",
    "scheduled": "2026-11-27T01:35:00Z",
    "actual": "2026-11-27T03:54:00Z"
+  },
+  "R3 2113|2026-11-27T06:00:00Z": {
+   "number": "R3 2113",
+   "airline": "Yakutia",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T06:00:00Z",
+   "actual": "2026-11-27T06:00:00Z"
   }
  },
  "fetched": [
@@ -70,6 +80,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

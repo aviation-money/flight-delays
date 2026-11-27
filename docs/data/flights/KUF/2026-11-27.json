@@ -37,7 +37,7 @@
    "airline": "Ural",
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
-   "model": null,
+   "model": "Airbus A321",
    "status": "Departed",
    "scheduled": "2026-11-27T01:00:00Z",
    "actual": "2026-11-27T01:29:00Z"
@@ -68,9 +68,29 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:00:00Z",
-   "actual": "2026-11-27T04:00:00Z"
+   "actual": "2026-11-27T04:41:00Z"
+  },
+  "0E 9161|2026-11-27T05:15:00Z": {
+   "number": "0E 9161",
+   "airline": "Aircompany North-West",
+   "to": "Sabetta",
+   "to_name": "Sabetta",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T05:15:00Z",
+   "actual": "2026-11-27T05:45:00Z"
+  },
+  "WZ 5303|2026-11-26T23:30:00Z": {
+   "number": "WZ 5303",
+   "airline": "Red Wings",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-26T23:30:00Z",
+   "actual": "2026-11-27T05:46:00Z"
   }
  },
  "fetched": [
@@ -78,6 +98,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

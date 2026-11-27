@@ -1,12 +1,24 @@
 {
  "airport": "GSV",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "WZ 5048|2026-11-27T05:35:00Z": {
+   "number": "WZ 5048",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-27T05:35:00Z",
+   "actual": "2026-11-27T05:52:00Z"
+  }
+ },
  "fetched": [
   "2026-11-26T20:07:25Z",
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

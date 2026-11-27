@@ -68,9 +68,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-27T00:40:00Z",
-   "actual": "2026-11-27T05:00:00Z"
+   "actual": "2026-11-27T06:30:00Z"
   },
   "5N 528|2026-11-27T02:50:00Z": {
    "number": "5N 528",
@@ -78,9 +78,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Boarding",
    "scheduled": "2026-11-27T02:50:00Z",
-   "actual": "2026-11-27T04:50:00Z"
+   "actual": "2026-11-27T06:00:00Z"
   },
   "DP 414|2026-11-27T01:30:00Z": {
    "number": "DP 414",
@@ -98,6 +98,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

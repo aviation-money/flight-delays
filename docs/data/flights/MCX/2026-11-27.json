@@ -27,7 +27,7 @@
    "airline": "UTAir",
    "to": "VKO",
    "to_name": "Moscow",
-   "model": "Boeing 737-800",
+   "model": "Boeing 737",
    "status": "Expected",
    "scheduled": "2026-11-27T03:00:00Z",
    "actual": null
@@ -41,12 +41,23 @@
    "status": "Expected",
    "scheduled": "2026-11-27T05:00:00Z",
    "actual": null
+  },
+  "A4 4027|2026-11-27T07:00:00Z": {
+   "number": "A4 4027",
+   "airline": "Azimuth",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-27T07:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

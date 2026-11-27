@@ -21,6 +21,16 @@
    "status": "Departed",
    "scheduled": "2026-11-27T01:15:00Z",
    "actual": "2026-11-27T01:16:00Z"
+  },
+  "A4 7062|2026-11-27T06:20:00Z": {
+   "number": "A4 7062",
+   "airline": "Azimuth",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T06:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -28,6 +38,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

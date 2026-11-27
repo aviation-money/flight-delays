@@ -70,7 +70,7 @@
    "model": null,
    "status": "Delayed",
    "scheduled": "2026-11-27T03:00:00Z",
-   "actual": "2026-11-27T04:00:00Z"
+   "actual": "2026-11-27T05:25:00Z"
   },
   "S7 7083|2026-11-27T04:30:00Z": {
    "number": "S7 7083",
@@ -88,9 +88,9 @@
    "to": "Novyy Port",
    "to_name": "Novyy Port",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:30:00Z",
-   "actual": "2026-11-27T04:30:00Z"
+   "actual": "2026-11-27T05:39:00Z"
   },
   "YC 945|2026-11-27T04:40:00Z": {
    "number": "YC 945",
@@ -98,9 +98,39 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:40:00Z",
-   "actual": "2026-11-27T04:40:00Z"
+   "actual": "2026-11-27T05:19:00Z"
+  },
+  "YC 222|2026-11-27T05:25:00Z": {
+   "number": "YC 222",
+   "airline": "Yamal",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-27T05:25:00Z",
+   "actual": "2026-11-27T05:32:00Z"
+  },
+  "ЯЛ 44|2026-11-27T05:30:00Z": {
+   "number": "ЯЛ 44",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "APU",
+   "to_name": "Apucarana",
+   "model": "Mil Mi-8",
+   "status": "Departed",
+   "scheduled": "2026-11-27T05:30:00Z",
+   "actual": "2026-11-27T05:35:00Z"
+  },
+  "YC 187|2026-11-27T05:40:00Z": {
+   "number": "YC 187",
+   "airline": "Yamal",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-27T05:40:00Z",
+   "actual": "2026-11-27T05:44:00Z"
   }
  },
  "fetched": [
@@ -108,6 +138,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

@@ -35,18 +35,29 @@
   "A4 5069|2026-11-27T03:57:00Z": {
    "number": "A4 5069",
    "airline": "Azimuth",
-   "to": "Istanbul",
+   "to": "IST",
    "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T03:57:00Z",
    "actual": "2026-11-27T03:57:00Z"
+  },
+  "DP 112|2026-11-27T05:10:00Z": {
+   "number": "DP 112",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T05:10:00Z",
+   "actual": "2026-11-27T05:55:00Z"
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

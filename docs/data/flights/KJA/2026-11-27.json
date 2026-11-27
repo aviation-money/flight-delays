@@ -238,7 +238,7 @@
    "to": "HTA",
    "to_name": "Chita",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T03:50:00Z",
    "actual": "2026-11-27T03:50:00Z"
   },
@@ -248,7 +248,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:05:00Z",
    "actual": "2026-11-27T04:05:00Z"
   },
@@ -258,7 +258,7 @@
    "to": "Igarka",
    "to_name": "Igarka",
    "model": "Boeing 737-400",
-   "status": "Delayed",
+   "status": "Canceled",
    "scheduled": "2026-11-27T02:00:00Z",
    "actual": "2026-11-27T04:30:00Z"
   },
@@ -268,7 +268,7 @@
    "to": "HTG",
    "to_name": "Khatanga",
    "model": "Yak 42",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:40:00Z",
    "actual": "2026-11-27T04:40:00Z"
   }
@@ -279,6 +279,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

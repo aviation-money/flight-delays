@@ -218,7 +218,7 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Unknown",
+   "status": "Expected",
    "scheduled": "2026-11-27T01:25:00Z",
    "actual": null
   },
@@ -238,7 +238,7 @@
    "to": "BKK",
    "to_name": "Bangkok",
    "model": "Boeing 737-800",
-   "status": "Unknown",
+   "status": "Expected",
    "scheduled": "2026-11-27T02:05:00Z",
    "actual": null
   },
@@ -277,7 +277,7 @@
    "airline": "S7",
    "to": "DME",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A319",
    "status": "Unknown",
    "scheduled": "2026-11-27T03:40:00Z",
    "actual": null
@@ -341,6 +341,16 @@
    "status": "Expected",
    "scheduled": "2026-11-27T05:05:00Z",
    "actual": null
+  },
+  "S7 5230|2026-11-27T05:10:00Z": {
+   "number": "S7 5230",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-27T05:10:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -350,6 +360,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

@@ -80,7 +80,7 @@
    "model": "Bombardier Dash 8 Q400 / DHC-8-400",
    "status": "Canceled",
    "scheduled": "2026-11-27T02:35:00Z",
-   "actual": "2026-11-26T23:45:00Z"
+   "actual": "2026-11-27T02:35:00Z"
   },
   "HZ 5681|2026-11-27T03:30:00Z": {
    "number": "HZ 5681",
@@ -108,9 +108,9 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T03:15:00Z",
-   "actual": "2026-11-27T03:45:00Z"
+   "actual": "2026-11-27T04:09:00Z"
   },
   "TG 2661|2026-11-27T03:50:00Z": {
    "number": "TG 2661",
@@ -118,7 +118,7 @@
    "to": "GVN",
    "to_name": "Sovetskaya Gavan",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T03:50:00Z",
    "actual": "2026-11-27T03:50:00Z"
   },
@@ -128,9 +128,19 @@
    "to": "Kurilsk",
    "to_name": "Kurilsk",
    "model": "Bombardier Dash 8 Q400 / DHC-8-400",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:15:00Z",
-   "actual": "2026-11-27T04:15:00Z"
+   "actual": "2026-11-27T04:02:00Z"
+  },
+  "HZ 5629|2026-11-27T06:30:00Z": {
+   "number": "HZ 5629",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T06:30:00Z",
+   "actual": "2026-11-27T06:30:00Z"
   }
  },
  "fetched": [
@@ -141,6 +151,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

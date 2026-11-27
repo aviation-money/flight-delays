@@ -107,10 +107,20 @@
    "airline": "Qazaq Air",
    "to": "NQZ",
    "to_name": "Astana",
-   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
-   "status": "Expected",
+   "model": "De Havilland Canada DHC-8-400 Dash 8Q",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:00:00Z",
-   "actual": "2026-11-27T04:00:00Z"
+   "actual": "2026-11-27T05:05:00Z"
+  },
+  "S7 5344|2026-11-27T05:45:00Z": {
+   "number": "S7 5344",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "EMB170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T05:45:00Z",
+   "actual": "2026-11-27T05:45:00Z"
   }
  },
  "fetched": [
@@ -119,6 +129,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

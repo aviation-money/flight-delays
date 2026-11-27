@@ -18,9 +18,19 @@
    "to": "Filanovskogo-1",
    "to_name": "Filanovskogo-1",
    "model": null,
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:30:00Z",
-   "actual": "2026-11-27T04:30:00Z"
+   "actual": "2026-11-27T04:33:00Z"
+  },
+  "J2 8236|2026-11-27T06:30:00Z": {
+   "number": "J2 8236",
+   "airline": "AZAL Azerbaijan",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Embraer 190",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T06:30:00Z",
+   "actual": "2026-11-27T06:30:00Z"
   }
  },
  "fetched": [
@@ -28,6 +38,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

@@ -88,9 +88,9 @@
    "to": "Chara",
    "to_name": "Chara",
    "model": "An-24",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:15:00Z",
-   "actual": "2026-11-27T04:15:00Z"
+   "actual": "2026-11-27T04:20:00Z"
   },
   "U6 623|2026-11-26T23:00:00Z": {
    "number": "U6 623",
@@ -98,9 +98,19 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:00:00Z",
-   "actual": "2026-11-27T05:00:00Z"
+   "actual": "2026-11-27T05:37:00Z"
+  },
+  "R3 9936|2026-11-27T05:10:00Z": {
+   "number": "R3 9936",
+   "airline": "Yakutia",
+   "to": "Elga (Neryungri)",
+   "to_name": "Elga (Neryungri)",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-27T05:10:00Z",
+   "actual": "2026-11-27T05:24:00Z"
   }
  },
  "fetched": [
@@ -110,6 +120,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

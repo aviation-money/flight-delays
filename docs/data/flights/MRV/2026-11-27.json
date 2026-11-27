@@ -77,8 +77,8 @@
    "airline": "Aeroflot",
    "to": "IST",
    "to_name": "Istanbul",
-   "model": "Airbus A320",
-   "status": "Boarding",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:30:00Z",
    "actual": "2026-11-27T04:30:00Z"
   },
@@ -88,9 +88,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:50:00Z",
-   "actual": "2026-11-27T04:50:00Z"
+   "actual": "2026-11-27T05:35:00Z"
   },
   "YC 378|2026-11-27T05:00:00Z": {
    "number": "YC 378",
@@ -98,15 +98,36 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Boarding",
    "scheduled": "2026-11-27T05:00:00Z",
-   "actual": "2026-11-27T05:00:00Z"
+   "actual": "2026-11-27T06:00:00Z"
+  },
+  "A4 6029|2026-11-27T06:10:00Z": {
+   "number": "A4 6029",
+   "airline": "Azimuth",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T06:10:00Z",
+   "actual": "2026-11-27T06:10:00Z"
+  },
+  "A4 6091|2026-11-27T06:30:00Z": {
+   "number": "A4 6091",
+   "airline": "Azimuth",
+   "to": "Sharm el Sheikh",
+   "to_name": "Sharm el Sheikh",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T06:30:00Z",
+   "actual": "2026-11-27T06:30:00Z"
   }
  },
  "fetched": [
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }

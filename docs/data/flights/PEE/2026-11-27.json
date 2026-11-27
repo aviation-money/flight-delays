@@ -18,9 +18,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "Delayed",
+   "status": "Boarding",
    "scheduled": "2026-11-27T00:20:00Z",
-   "actual": "2026-11-27T05:00:00Z"
+   "actual": "2026-11-27T06:30:00Z"
   },
   "A4 4028|2026-11-27T02:55:00Z": {
    "number": "A4 4028",
@@ -38,9 +38,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T01:00:00Z",
-   "actual": "2026-11-27T03:35:00Z"
+   "actual": "2026-11-27T04:01:00Z"
   },
   "DP 434|2026-11-27T00:50:00Z": {
    "number": "DP 434",
@@ -58,9 +58,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T01:30:00Z",
-   "actual": "2026-11-27T04:05:00Z"
+   "actual": "2026-11-27T04:13:00Z"
   }
  },
  "fetched": [
@@ -68,6 +68,7 @@
   "2026-11-26T22:07:24Z",
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
-  "2026-11-27T04:07:25Z"
+  "2026-11-27T04:07:25Z",
+  "2026-11-27T06:07:28Z"
  ]
 }
