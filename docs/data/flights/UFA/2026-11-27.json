@@ -18,9 +18,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T19:30:00Z",
-   "actual": "2026-11-26T21:30:00Z"
+   "actual": "2026-11-26T22:27:00Z"
   },
   "Y7 912|2026-11-26T22:15:00Z": {
    "number": "Y7 912",
@@ -28,9 +28,9 @@
    "to": "NSK",
    "to_name": "Norilsk",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:15:00Z",
-   "actual": "2026-11-26T22:15:00Z"
+   "actual": "2026-11-26T22:40:00Z"
   },
   "FV 5973|2026-11-26T22:45:00Z": {
    "number": "FV 5973",
@@ -38,13 +38,44 @@
    "to": "HRG",
    "to_name": "Hurghada",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:45:00Z",
-   "actual": "2026-11-26T22:45:00Z"
+   "actual": "2026-11-26T23:32:00Z"
+  },
+  "UT 6109|2026-11-26T23:40:00Z": {
+   "number": "UT 6109",
+   "airline": "UTAir",
+   "to": "IAA",
+   "to_name": "Igarka",
+   "model": "Boeing 737-400",
+   "status": "Canceled",
+   "scheduled": "2026-11-26T23:40:00Z",
+   "actual": "2026-11-26T23:40:00Z"
+  },
+  "UT 6127|2026-11-26T22:10:00Z": {
+   "number": "UT 6127",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-400",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T22:10:00Z",
+   "actual": "2026-11-26T23:50:00Z"
+  },
+  "FV 6412|2026-11-27T00:30:00Z": {
+   "number": "FV 6412",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T00:30:00Z",
+   "actual": "2026-11-27T00:30:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

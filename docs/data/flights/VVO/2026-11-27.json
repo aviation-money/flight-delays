@@ -38,7 +38,7 @@
    "to": "BQS",
    "to_name": "Blagoveschensk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T20:30:00Z",
    "actual": "2026-11-26T21:11:00Z"
   },
@@ -68,9 +68,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:00:00Z",
-   "actual": "2026-11-26T22:00:00Z"
+   "actual": "2026-11-26T22:06:00Z"
   },
   "S7 6404|2026-11-26T21:45:00Z": {
    "number": "S7 6404",
@@ -80,7 +80,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-26T21:45:00Z",
-   "actual": "2026-11-26T22:10:00Z"
+   "actual": "2026-11-26T22:11:00Z"
   },
   "S7 5204|2026-11-26T22:50:00Z": {
    "number": "S7 5204",
@@ -90,7 +90,7 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-26T22:50:00Z",
-   "actual": "2026-11-26T22:50:00Z"
+   "actual": "2026-11-26T23:12:00Z"
   },
   "S7 6203|2026-11-26T23:05:00Z": {
    "number": "S7 6203",
@@ -100,7 +100,37 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-26T23:05:00Z",
-   "actual": "2026-11-26T23:05:00Z"
+   "actual": "2026-11-26T23:06:00Z"
+  },
+  "HZ 511|2026-11-26T23:50:00Z": {
+   "number": "HZ 511",
+   "airline": "Aurora",
+   "to": "Dalnegorsk",
+   "to_name": "Dalnegorsk",
+   "model": "De Havilland Canada DHC-6 Twin Otter",
+   "status": "Expected",
+   "scheduled": "2026-11-26T23:50:00Z",
+   "actual": "2026-11-26T23:50:00Z"
+  },
+  "FV 5701|2026-11-27T00:20:00Z": {
+   "number": "FV 5701",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-27T00:20:00Z",
+   "actual": "2026-11-27T00:20:00Z"
+  },
+  "HZ 5680|2026-11-27T00:40:00Z": {
+   "number": "HZ 5680",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T00:40:00Z",
+   "actual": "2026-11-27T00:40:00Z"
   }
  },
  "fetched": [
@@ -108,6 +138,7 @@
   "2026-11-26T16:07:25Z",
   "2026-11-26T18:07:27Z",
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

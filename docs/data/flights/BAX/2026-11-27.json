@@ -1,10 +1,32 @@
 {
  "airport": "BAX",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "WZ 5055|2026-11-26T22:00:00Z": {
+   "number": "WZ 5055",
+   "airline": "Red Wings",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T22:00:00Z",
+   "actual": "2026-11-26T23:20:00Z"
+  },
+  "DP 6532|2026-11-26T22:45:00Z": {
+   "number": "DP 6532",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T22:45:00Z",
+   "actual": "2026-11-26T23:55:00Z"
+  }
+ },
  "fetched": [
   "2026-11-26T18:07:27Z",
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

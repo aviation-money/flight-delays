@@ -8,12 +8,23 @@
    "to": "LBD",
    "to_name": "Khudzhand",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:45:00Z",
-   "actual": "2026-11-26T22:45:00Z"
+   "actual": "2026-11-26T23:32:00Z"
+  },
+  "SZ 332|2026-11-26T23:55:00Z": {
+   "number": "SZ 332",
+   "airline": "Somon Air",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T23:55:00Z",
+   "actual": "2026-11-26T23:55:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

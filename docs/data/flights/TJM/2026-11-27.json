@@ -8,13 +8,34 @@
    "to": "LBD",
    "to_name": "Khudzhand",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:00:00Z",
-   "actual": "2026-11-26T23:00:00Z"
+   "actual": "2026-11-26T23:38:00Z"
+  },
+  "YC 177|2026-11-27T00:15:00Z": {
+   "number": "YC 177",
+   "airline": "Yamal",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T00:15:00Z",
+   "actual": "2026-11-27T00:15:00Z"
+  },
+  "FV 6452|2026-11-27T00:45:00Z": {
+   "number": "FV 6452",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T00:45:00Z",
+   "actual": "2026-11-27T00:45:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

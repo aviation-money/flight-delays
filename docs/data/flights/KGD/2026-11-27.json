@@ -1,8 +1,20 @@
 {
  "airport": "KGD",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "SM 926|2026-11-27T00:35:00Z": {
+   "number": "SM 926",
+   "airline": "Air Cairo",
+   "to": "Sharm el-Sheikh",
+   "to_name": "Sharm el-Sheikh",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T00:35:00Z",
+   "actual": "2026-11-27T00:35:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

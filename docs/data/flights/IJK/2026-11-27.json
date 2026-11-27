@@ -1,9 +1,21 @@
 {
  "airport": "IJK",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "A4 6236|2026-11-27T00:10:00Z": {
+   "number": "A4 6236",
+   "airline": "Azimuth",
+   "to": "MRV",
+   "to_name": "Mineralnyye Vody",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T00:10:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

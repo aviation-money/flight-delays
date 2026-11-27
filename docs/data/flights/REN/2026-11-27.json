@@ -1,9 +1,21 @@
 {
  "airport": "REN",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "FV 6172|2026-11-27T01:05:00Z": {
+   "number": "FV 6172",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T01:05:00Z",
+   "actual": "2026-11-27T01:05:00Z"
+  }
+ },
  "fetched": [
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

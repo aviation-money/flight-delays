@@ -11,9 +11,20 @@
    "status": "Expected",
    "scheduled": "2026-11-26T21:40:00Z",
    "actual": null
+  },
+  "FZ 994|2026-11-27T00:20:00Z": {
+   "number": "FZ 994",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-27T00:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

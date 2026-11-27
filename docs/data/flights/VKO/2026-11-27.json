@@ -8,16 +8,16 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737 MAX 8",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:25:00Z",
-   "actual": "2026-11-26T21:25:00Z"
+   "actual": "2026-11-26T22:30:00Z"
   },
   "TK 410|2026-11-26T21:35:00Z": {
    "number": "TK 410",
    "airline": "Turkish",
    "to": "IST",
    "to_name": "Istanbul",
-   "model": "Airbus A321",
+   "model": "Airbus A321 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-26T21:35:00Z",
    "actual": "2026-11-26T21:41:00Z"
@@ -28,9 +28,9 @@
    "to": "GYD",
    "to_name": "Baku",
    "model": "Boeing 767-300",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:35:00Z",
-   "actual": "2026-11-26T21:55:00Z"
+   "actual": "2026-11-26T22:27:00Z"
   },
   "HY 606|2026-11-26T22:00:00Z": {
    "number": "HY 606",
@@ -38,9 +38,9 @@
    "to": "SKD",
    "to_name": "Samarkand",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:00:00Z",
-   "actual": "2026-11-26T22:00:00Z"
+   "actual": "2026-11-26T22:32:00Z"
   },
   "TK 6886|2026-11-26T21:40:00Z": {
    "number": "TK 6886",
@@ -48,9 +48,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Boeing 777-300ER",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:40:00Z",
-   "actual": "2026-11-26T22:10:00Z"
+   "actual": "2026-11-26T22:59:00Z"
   },
   "UT 785B|2026-11-26T21:30:00Z": {
    "number": "UT 785B",
@@ -58,9 +58,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:30:00Z",
-   "actual": "2026-11-26T22:25:00Z"
+   "actual": "2026-11-26T23:02:00Z"
   },
   "DP 1403|2026-11-26T21:20:00Z": {
    "number": "DP 1403",
@@ -68,9 +68,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:20:00Z",
-   "actual": "2026-11-26T22:50:00Z"
+   "actual": "2026-11-26T23:09:00Z"
   },
   "TK 412|2026-11-26T23:05:00Z": {
    "number": "TK 412",
@@ -78,9 +78,9 @@
    "to": "IST",
    "to_name": "Istanbul",
    "model": "Airbus A330-300",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:05:00Z",
-   "actual": "2026-11-26T23:05:00Z"
+   "actual": "2026-11-26T23:14:00Z"
   },
   "UT 399B|2026-11-26T23:05:00Z": {
    "number": "UT 399B",
@@ -88,12 +88,93 @@
    "to": "GRV",
    "to_name": "Grozny",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-26T23:05:00Z",
-   "actual": "2026-11-26T23:05:00Z"
+   "actual": "2026-11-26T23:55:00Z"
+  },
+  "DP 413B|2026-11-26T23:30:00Z": {
+   "number": "DP 413B",
+   "airline": "Pobeda",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T23:30:00Z",
+   "actual": "2026-11-26T23:30:00Z"
+  },
+  "TK 422|2026-11-26T23:40:00Z": {
+   "number": "TK 422",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T23:40:00Z",
+   "actual": "2026-11-26T23:40:00Z"
+  },
+  "VF 276|2026-11-26T23:50:00Z": {
+   "number": "VF 276",
+   "airline": "AJet",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T23:50:00Z",
+   "actual": "2026-11-26T23:50:00Z"
+  },
+  "DP 433B|2026-11-26T23:30:00Z": {
+   "number": "DP 433B",
+   "airline": "Pobeda",
+   "to": "PEE",
+   "to_name": "Perm",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T23:30:00Z",
+   "actual": "2026-11-27T00:25:00Z"
+  },
+  "DP 997B|2026-11-26T22:00:00Z": {
+   "number": "DP 997B",
+   "airline": "Pobeda",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-26T22:00:00Z",
+   "actual": "2026-11-27T00:30:00Z"
+  },
+  "PC 387|2026-11-27T00:10:00Z": {
+   "number": "PC 387",
+   "airline": "Pegasus",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Airbus A321 NEO",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T00:10:00Z",
+   "actual": "2026-11-27T00:40:00Z"
+  },
+  "UT 355|2026-11-26T22:10:00Z": {
+   "number": "UT 355",
+   "airline": "UTAir",
+   "to": "GRV",
+   "to_name": "Grozny",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-26T22:10:00Z",
+   "actual": "2026-11-27T01:00:00Z"
+  },
+  "UT 355B|2026-11-27T00:10:00Z": {
+   "number": "UT 355B",
+   "airline": "UTAir",
+   "to": "GRV",
+   "to_name": "Grozny",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T00:10:00Z",
+   "actual": "2026-11-27T01:00:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

@@ -8,7 +8,7 @@
    "to": "NQZ",
    "to_name": "Astana",
    "model": "Boeing 737-900",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:45:00Z",
    "actual": "2026-11-26T21:40:00Z"
   },
@@ -18,9 +18,9 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:00:00Z",
-   "actual": "2026-11-26T22:00:00Z"
+   "actual": "2026-11-26T22:55:00Z"
   },
   "FZ 974|2026-11-26T22:10:00Z": {
    "number": "FZ 974",
@@ -28,9 +28,9 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737 MAX 8",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:10:00Z",
-   "actual": "2026-11-26T22:10:00Z"
+   "actual": "2026-11-26T22:15:00Z"
   },
   "RT 547|2026-11-26T22:20:00Z": {
    "number": "RT 547",
@@ -38,12 +38,33 @@
    "to": "TOF",
    "to_name": "Tomsk",
    "model": "Canadair CRJ 200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:20:00Z",
    "actual": "2026-11-26T22:20:00Z"
+  },
+  "JU 189|2026-11-27T00:15:00Z": {
+   "number": "JU 189",
+   "airline": "Air Serbia",
+   "to": "BEG",
+   "to_name": "Belgrade",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T00:15:00Z",
+   "actual": "2026-11-27T00:15:00Z"
+  },
+  "RT 585|2026-11-27T00:45:00Z": {
+   "number": "RT 585",
+   "airline": "UVT Aero",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Canadair CRJ 200",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T00:45:00Z",
+   "actual": "2026-11-27T00:45:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

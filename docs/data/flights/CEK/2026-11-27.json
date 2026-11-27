@@ -11,10 +11,41 @@
    "status": "Departed",
    "scheduled": "2026-11-26T20:00:00Z",
    "actual": "2026-11-26T20:07:00Z"
+  },
+  "DP 6568|2026-11-27T00:30:00Z": {
+   "number": "DP 6568",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-27T00:30:00Z",
+   "actual": "2026-11-27T00:30:00Z"
+  },
+  "DP 324|2026-11-27T00:35:00Z": {
+   "number": "DP 324",
+   "airline": "Pobeda",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T00:35:00Z",
+   "actual": "2026-11-27T00:35:00Z"
+  },
+  "SU 1093|2026-11-27T01:05:00Z": {
+   "number": "SU 1093",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T01:05:00Z",
+   "actual": "2026-11-27T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

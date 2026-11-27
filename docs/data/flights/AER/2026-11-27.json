@@ -11,9 +11,20 @@
    "status": "GateClosed",
    "scheduled": "2026-11-26T22:30:00Z",
    "actual": "2026-11-26T22:30:00Z"
+  },
+  "SU 1133|2026-11-26T22:33:00Z": {
+   "number": "SU 1133",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-26T22:33:00Z",
+   "actual": "2026-11-26T22:33:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

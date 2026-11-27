@@ -17,15 +17,76 @@
    "airline": "AZUR Air",
    "to": "HKT",
    "to_name": "Phuket",
-   "model": "Boeing 767-300",
-   "status": "Expected",
+   "model": "Boeing 767",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:20:00Z",
-   "actual": "2026-11-26T21:20:00Z"
+   "actual": "2026-11-26T21:42:00Z"
+  },
+  "FV 6472|2026-11-26T23:10:00Z": {
+   "number": "FV 6472",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-26T23:10:00Z",
+   "actual": "2026-11-26T23:20:00Z"
+  },
+  "DP 6524|2026-11-26T23:20:00Z": {
+   "number": "DP 6524",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Canceled",
+   "scheduled": "2026-11-26T23:20:00Z",
+   "actual": "2026-11-26T23:20:00Z"
+  },
+  "SU 1781|2026-11-26T23:20:00Z": {
+   "number": "SU 1781",
+   "airline": "Aeroflot",
+   "to": "Moskva Sheremetevo",
+   "to_name": "Moskva Sheremetevo",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-26T23:20:00Z",
+   "actual": "2026-11-26T23:49:00Z"
+  },
+  "SU 1763|2026-11-26T23:50:00Z": {
+   "number": "SU 1763",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-26T23:50:00Z",
+   "actual": "2026-11-26T23:50:00Z"
+  },
+  "S7 2566|2026-11-27T00:25:00Z": {
+   "number": "S7 2566",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T00:25:00Z",
+   "actual": "2026-11-27T00:25:00Z"
+  },
+  "DP 6522|2026-11-27T01:05:00Z": {
+   "number": "DP 6522",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T01:05:00Z",
+   "actual": "2026-11-27T01:05:00Z"
   }
  },
  "fetched": [
   "2026-11-26T18:07:27Z",
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

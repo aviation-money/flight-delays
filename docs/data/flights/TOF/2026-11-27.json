@@ -1,10 +1,32 @@
 {
  "airport": "TOF",
  "date": "2026-11-27",
- "flights": {},
+ "flights": {
+  "S7 2616|2026-11-27T00:30:00Z": {
+   "number": "S7 2616",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-27T00:30:00Z",
+   "actual": "2026-11-27T00:30:00Z"
+  },
+  "KV 247|2026-11-27T00:45:00Z": {
+   "number": "KV 247",
+   "airline": "KrasAvia",
+   "to": "SWT",
+   "to_name": "Strezhevoy",
+   "model": "ATR 42-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T00:45:00Z",
+   "actual": "2026-11-27T00:45:00Z"
+  }
+ },
  "fetched": [
   "2026-11-26T18:07:27Z",
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

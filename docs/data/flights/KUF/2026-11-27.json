@@ -27,14 +27,25 @@
    "airline": "UTAir",
    "to": "SGC",
    "to_name": "Surgut",
-   "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "model": "Boeing 737",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:50:00Z",
-   "actual": "2026-11-26T21:50:00Z"
+   "actual": "2026-11-26T22:21:00Z"
+  },
+  "U6 1869|2026-11-27T01:00:00Z": {
+   "number": "U6 1869",
+   "airline": "Ural",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T01:00:00Z",
+   "actual": "2026-11-27T01:00:00Z"
   }
  },
  "fetched": [
   "2026-11-26T20:07:25Z",
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }

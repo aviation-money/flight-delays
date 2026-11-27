@@ -38,9 +38,9 @@
    "to": "CEK",
    "to_name": "Chelyabinsk",
    "model": "Airbus A319",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-26T21:35:00Z",
-   "actual": "2026-11-26T21:35:00Z"
+   "actual": "2026-11-26T22:01:00Z"
   },
   "FV 6829|2026-11-26T21:35:00Z": {
    "number": "FV 6829",
@@ -100,7 +100,7 @@
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-26T21:50:00Z",
-   "actual": "2026-11-26T21:51:00Z"
+   "actual": "2026-11-26T21:48:00Z"
   },
   "N4 307|2026-11-26T21:45:00Z": {
    "number": "N4 307",
@@ -110,7 +110,7 @@
    "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-26T21:45:00Z",
-   "actual": "2026-11-26T21:52:00Z"
+   "actual": "2026-11-26T21:45:00Z"
   },
   "UJ 736|2026-11-26T22:05:00Z": {
    "number": "UJ 736",
@@ -118,9 +118,9 @@
    "to": "HRG",
    "to_name": "Hurghada",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:05:00Z",
-   "actual": "2026-11-26T22:05:00Z"
+   "actual": "2026-11-26T22:42:00Z"
   },
   "FV 6581|2026-11-26T22:10:00Z": {
    "number": "FV 6581",
@@ -128,9 +128,9 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "Airbus",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:10:00Z",
-   "actual": "2026-11-26T22:10:00Z"
+   "actual": "2026-11-26T22:12:00Z"
   },
   "5N 501|2026-11-26T22:30:00Z": {
    "number": "5N 501",
@@ -138,9 +138,9 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Boeing 737",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:30:00Z",
-   "actual": "2026-11-26T22:30:00Z"
+   "actual": "2026-11-26T22:23:00Z"
   },
   "5N 591|2026-11-26T22:40:00Z": {
    "number": "5N 591",
@@ -148,7 +148,7 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T22:40:00Z",
    "actual": "2026-11-26T22:40:00Z"
   },
@@ -168,12 +168,73 @@
    "to": "DYU",
    "to_name": "Dushanbe",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-26T23:00:00Z",
-   "actual": "2026-11-26T23:00:00Z"
+   "actual": "2026-11-26T23:10:00Z"
+  },
+  "SU 6979|2026-11-26T22:55:00Z": {
+   "number": "SU 6979",
+   "airline": "Aeroflot",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-26T22:55:00Z",
+   "actual": "2026-11-26T23:05:00Z"
+  },
+  "TK 404|2026-11-26T23:10:00Z": {
+   "number": "TK 404",
+   "airline": "Turkish",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-26T23:10:00Z",
+   "actual": "2026-11-26T23:09:00Z"
+  },
+  "5N 527|2026-11-26T23:10:00Z": {
+   "number": "5N 527",
+   "airline": "Smartavia",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-26T23:10:00Z",
+   "actual": "2026-11-26T23:09:00Z"
+  },
+  "PC 397|2026-11-26T23:30:00Z": {
+   "number": "PC 397",
+   "airline": "Pegasus",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Airbus A321 NEO",
+   "status": "Departed",
+   "scheduled": "2026-11-26T23:30:00Z",
+   "actual": "2026-11-26T23:36:00Z"
+  },
+  "YC 946|2026-11-27T00:20:00Z": {
+   "number": "YC 946",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T00:20:00Z",
+   "actual": "2026-11-27T00:20:00Z"
+  },
+  "VF 292|2026-11-27T00:35:00Z": {
+   "number": "VF 292",
+   "airline": "AJet",
+   "to": "SAW",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T00:35:00Z",
+   "actual": "2026-11-27T00:35:00Z"
   }
  },
  "fetched": [
-  "2026-11-26T22:07:24Z"
+  "2026-11-26T22:07:24Z",
+  "2026-11-27T00:07:25Z"
  ]
 }
