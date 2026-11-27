@@ -61,6 +61,16 @@
    "status": "Expected",
    "scheduled": "2026-11-27T11:35:00Z",
    "actual": null
+  },
+  "SU 1473|2026-11-27T15:30:00Z": {
+   "number": "SU 1473",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-27T15:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -73,6 +83,7 @@
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
-  "2026-11-27T14:07:26Z"
+  "2026-11-27T14:07:26Z",
+  "2026-11-27T16:07:29Z"
  ]
 }

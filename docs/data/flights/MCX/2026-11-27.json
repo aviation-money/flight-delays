@@ -131,6 +131,26 @@
    "status": "Expected",
    "scheduled": "2026-11-27T13:40:00Z",
    "actual": null
+  },
+  "SU 1057|2026-11-27T15:20:00Z": {
+   "number": "SU 1057",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-27T15:20:00Z",
+   "actual": null
+  },
+  "WZ 5917|2026-11-27T16:20:00Z": {
+   "number": "WZ 5917",
+   "airline": "Red Wings",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T16:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -142,6 +162,7 @@
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
-  "2026-11-27T14:07:26Z"
+  "2026-11-27T14:07:26Z",
+  "2026-11-27T16:07:29Z"
  ]
 }

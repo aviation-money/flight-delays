@@ -78,9 +78,9 @@
    "to": "TBS",
    "to_name": "Tbilisi",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Boarding",
+   "status": "Delayed",
    "scheduled": "2026-11-27T14:00:00Z",
-   "actual": "2026-11-27T14:00:00Z"
+   "actual": "2026-11-27T17:00:00Z"
   },
   "WZ 15|2026-11-27T14:40:00Z": {
    "number": "WZ 15",
@@ -88,9 +88,29 @@
    "to": "TLV",
    "to_name": "Tel Aviv Yafo",
    "model": "Tu-204",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:40:00Z",
-   "actual": "2026-11-27T14:40:00Z"
+   "actual": "2026-11-27T15:21:00Z"
+  },
+  "U6 2447|2026-11-27T16:00:00Z": {
+   "number": "U6 2447",
+   "airline": "Ural",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Airbus A321",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T16:00:00Z",
+   "actual": null
+  },
+  "U6 2461|2026-11-27T15:10:00Z": {
+   "number": "U6 2461",
+   "airline": "Ural",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A321",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T15:10:00Z",
+   "actual": "2026-11-27T16:30:00Z"
   }
  },
  "fetched": [
@@ -102,6 +122,7 @@
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
-  "2026-11-27T14:07:26Z"
+  "2026-11-27T14:07:26Z",
+  "2026-11-27T16:07:29Z"
  ]
 }

@@ -68,9 +68,9 @@
    "to": "HRG",
    "to_name": "Hurghada",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T13:30:00Z",
-   "actual": "2026-11-27T14:00:00Z"
+   "actual": "2026-11-27T14:52:00Z"
   },
   "5N 510|2026-11-27T14:05:00Z": {
    "number": "5N 510",
@@ -78,9 +78,19 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:05:00Z",
-   "actual": "2026-11-27T14:05:00Z"
+   "actual": "2026-11-27T14:13:00Z"
+  },
+  "SU 1225|2026-11-27T16:25:00Z": {
+   "number": "SU 1225",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T16:25:00Z",
+   "actual": "2026-11-27T16:25:00Z"
   }
  },
  "fetched": [
@@ -92,6 +102,7 @@
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
-  "2026-11-27T14:07:26Z"
+  "2026-11-27T14:07:26Z",
+  "2026-11-27T16:07:29Z"
  ]
 }

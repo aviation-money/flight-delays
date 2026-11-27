@@ -388,7 +388,7 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T13:40:00Z",
    "actual": "2026-11-27T13:40:00Z"
   },
@@ -397,8 +397,8 @@
    "airline": "IrAero",
    "to": "GYD",
    "to_name": "Baku",
-   "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:00:00Z",
    "actual": "2026-11-27T14:00:00Z"
   },
@@ -408,7 +408,7 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:25:00Z",
    "actual": "2026-11-27T14:25:00Z"
   },
@@ -418,9 +418,39 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T15:00:00Z",
    "actual": "2026-11-27T15:00:00Z"
+  },
+  "FV 6845|2026-11-27T16:05:00Z": {
+   "number": "FV 6845",
+   "airline": "Rossiya",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:05:00Z",
+   "actual": "2026-11-27T16:05:00Z"
+  },
+  "FV 6795|2026-11-27T16:10:00Z": {
+   "number": "FV 6795",
+   "airline": "Rossiya",
+   "to": "BSZ",
+   "to_name": "Bishkek",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:10:00Z",
+   "actual": "2026-11-27T16:10:00Z"
+  },
+  "SU 1489|2026-11-27T16:25:00Z": {
+   "number": "SU 1489",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:25:00Z",
+   "actual": "2026-11-27T16:25:00Z"
   }
  },
  "fetched": [
@@ -434,6 +464,7 @@
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
-  "2026-11-27T14:07:26Z"
+  "2026-11-27T14:07:26Z",
+  "2026-11-27T16:07:29Z"
  ]
 }

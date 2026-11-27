@@ -78,9 +78,9 @@
    "to": "OMS",
    "to_name": "Omsk",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T09:00:00Z",
-   "actual": "2026-11-27T14:30:00Z"
+   "actual": "2026-11-27T15:25:00Z"
   },
   "SU 1383|2026-11-27T01:50:00Z": {
    "number": "SU 1383",
@@ -98,7 +98,7 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Bombardier CRJ200",
-   "status": "GateClosed",
+   "status": "Canceled",
    "scheduled": "2026-11-27T08:00:00Z",
    "actual": "2026-11-27T14:00:00Z"
   },
@@ -107,10 +107,20 @@
    "airline": "UTAir",
    "to": "VKO",
    "to_name": "Moscow",
-   "model": "Boeing 737-500",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-27T13:00:00Z",
    "actual": "2026-11-27T13:40:00Z"
+  },
+  "7R 696|2026-11-27T12:00:00Z": {
+   "number": "7R 696",
+   "airline": "RusLine",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "Bombardier CRJ200",
+   "status": "Delayed",
+   "scheduled": "2026-11-27T12:00:00Z",
+   "actual": "2026-11-27T15:55:00Z"
   }
  },
  "fetched": [
@@ -123,6 +133,7 @@
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
-  "2026-11-27T14:07:26Z"
+  "2026-11-27T14:07:26Z",
+  "2026-11-27T16:07:29Z"
  ]
 }

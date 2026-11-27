@@ -10,10 +10,31 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-27T14:30:00Z",
-   "actual": "2026-11-27T14:30:00Z"
+   "actual": "2026-11-27T14:34:00Z"
+  },
+  "HZ 5472|2026-11-27T15:50:00Z": {
+   "number": "HZ 5472",
+   "airline": "Aurora",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-27T15:50:00Z",
+   "actual": "2026-11-27T15:50:00Z"
+  },
+  "HZ 5616|2026-11-27T16:55:00Z": {
+   "number": "HZ 5616",
+   "airline": "Aurora",
+   "to": "PKC",
+   "to_name": "Petropavlovsk-Kamchatskiy",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:55:00Z",
+   "actual": "2026-11-27T16:55:00Z"
   }
  },
  "fetched": [
-  "2026-11-27T14:07:26Z"
+  "2026-11-27T14:07:26Z",
+  "2026-11-27T16:07:29Z"
  ]
 }

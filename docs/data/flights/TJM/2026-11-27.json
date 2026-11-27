@@ -258,9 +258,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T13:05:00Z",
-   "actual": "2026-11-27T14:05:00Z"
+   "actual": "2026-11-27T14:20:00Z"
   },
   "UT 543|2026-11-27T14:05:00Z": {
    "number": "UT 543",
@@ -268,9 +268,39 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:05:00Z",
-   "actual": "2026-11-27T14:05:00Z"
+   "actual": "2026-11-27T14:25:00Z"
+  },
+  "FV 6764|2026-11-27T15:45:00Z": {
+   "number": "FV 6764",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T15:45:00Z",
+   "actual": "2026-11-27T15:45:00Z"
+  },
+  "UT 209|2026-11-27T14:00:00Z": {
+   "number": "UT 209",
+   "airline": "UTAir",
+   "to": "KZN",
+   "to_name": "Kazan",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T14:00:00Z",
+   "actual": "2026-11-27T16:10:00Z"
+  },
+  "UT 102|2026-11-27T16:30:00Z": {
+   "number": "UT 102",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-27T16:30:00Z",
+   "actual": "2026-11-27T16:30:00Z"
   }
  },
  "fetched": [
@@ -283,6 +313,7 @@
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
-  "2026-11-27T14:07:26Z"
+  "2026-11-27T14:07:26Z",
+  "2026-11-27T16:07:29Z"
  ]
 }

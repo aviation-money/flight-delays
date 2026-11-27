@@ -527,7 +527,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-27T12:15:00Z",
    "actual": "2026-11-27T12:39:00Z"
@@ -578,9 +578,9 @@
    "to": "MSQ",
    "to_name": "Minsk",
    "model": "Embraer 195",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T13:45:00Z",
-   "actual": "2026-11-27T14:05:00Z"
+   "actual": "2026-11-27T14:29:00Z"
   },
   "SU 1403|2026-11-27T14:05:00Z": {
    "number": "SU 1403",
@@ -588,9 +588,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:05:00Z",
-   "actual": "2026-11-27T14:05:00Z"
+   "actual": "2026-11-27T14:46:00Z"
   },
   "U6 266|2026-11-27T14:00:00Z": {
    "number": "U6 266",
@@ -598,9 +598,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:00:00Z",
-   "actual": "2026-11-27T14:10:00Z"
+   "actual": "2026-11-27T14:32:00Z"
   },
   "U6 219|2026-11-27T08:00:00Z": {
    "number": "U6 219",
@@ -608,9 +608,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T08:00:00Z",
-   "actual": "2026-11-27T14:15:00Z"
+   "actual": "2026-11-27T14:38:00Z"
   },
   "U6 173|2026-11-27T13:55:00Z": {
    "number": "U6 173",
@@ -618,9 +618,9 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T13:55:00Z",
-   "actual": "2026-11-27T14:15:00Z"
+   "actual": "2026-11-27T15:04:00Z"
   },
   "UT 302|2026-11-27T06:35:00Z": {
    "number": "UT 302",
@@ -628,19 +628,19 @@
    "to": "HMA",
    "to_name": "Khanty-Mansiysk",
    "model": "ATR 72",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:35:00Z",
-   "actual": "2026-11-27T14:25:00Z"
+   "actual": "2026-11-27T14:48:00Z"
   },
   "U6 2961|2026-11-27T14:30:00Z": {
    "number": "U6 2961",
    "airline": "Ural",
    "to": "TAS",
    "to_name": "Tashkent",
-   "model": "Airbus A320",
-   "status": "CheckIn",
+   "model": "Airbus A319",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:30:00Z",
-   "actual": "2026-11-27T14:30:00Z"
+   "actual": "2026-11-27T15:08:00Z"
   },
   "WZ 5049|2026-11-27T14:35:00Z": {
    "number": "WZ 5049",
@@ -648,9 +648,79 @@
    "to": "REN",
    "to_name": "Orenburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T14:35:00Z",
-   "actual": "2026-11-27T14:35:00Z"
+   "actual": "2026-11-27T15:11:00Z"
+  },
+  "UT 177|2026-11-27T15:10:00Z": {
+   "number": "UT 177",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-27T15:10:00Z",
+   "actual": "2026-11-27T15:37:00Z"
+  },
+  "U6 270|2026-11-27T15:30:00Z": {
+   "number": "U6 270",
+   "airline": "Ural",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-27T15:30:00Z",
+   "actual": "2026-11-27T15:48:00Z"
+  },
+  "U6 299|2026-11-27T15:40:00Z": {
+   "number": "U6 299",
+   "airline": "Ural",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Airbus A320",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T15:40:00Z",
+   "actual": "2026-11-27T15:50:00Z"
+  },
+  "UT 112|2026-11-27T14:00:00Z": {
+   "number": "UT 112",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-27T14:00:00Z",
+   "actual": "2026-11-27T16:00:00Z"
+  },
+  "S7 5020|2026-11-27T16:15:00Z": {
+   "number": "S7 5020",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T16:15:00Z",
+   "actual": "2026-11-27T16:15:00Z"
+  },
+  "UT 1105|2026-11-27T16:30:00Z": {
+   "number": "UT 1105",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-27T16:30:00Z",
+   "actual": "2026-11-27T16:30:00Z"
+  },
+  "U6 2861|2026-11-27T16:00:00Z": {
+   "number": "U6 2861",
+   "airline": "Ural",
+   "to": "SKD",
+   "to_name": "Samarkand",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T16:00:00Z",
+   "actual": "2026-11-27T17:00:00Z"
   }
  },
  "fetched": [
@@ -663,6 +733,7 @@
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
   "2026-11-27T12:07:27Z",
-  "2026-11-27T14:07:26Z"
+  "2026-11-27T14:07:26Z",
+  "2026-11-27T16:07:29Z"
  ]
 }

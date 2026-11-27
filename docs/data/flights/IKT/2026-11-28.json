@@ -1,0 +1,69 @@
+{
+ "airport": "IKT",
+ "date": "2026-11-28",
+ "flights": {
+  "IO 230|2026-11-27T16:05:00Z": {
+   "number": "IO 230",
+   "airline": "IrAero",
+   "to": "UBN",
+   "to_name": "Ulaan Baatar",
+   "model": "Bombardier CRJ",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T16:05:00Z",
+   "actual": null
+  },
+  "S7 6425|2026-11-27T16:30:00Z": {
+   "number": "S7 6425",
+   "airline": "S7",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:30:00Z",
+   "actual": null
+  },
+  "S7 6403|2026-11-27T16:35:00Z": {
+   "number": "S7 6403",
+   "airline": "S7",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:35:00Z",
+   "actual": null
+  },
+  "IO 113|2026-11-27T16:40:00Z": {
+   "number": "IO 113",
+   "airline": "IrAero",
+   "to": "UUD",
+   "to_name": "Ulan-Ude",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:40:00Z",
+   "actual": null
+  },
+  "S7 6417|2026-11-27T16:45:00Z": {
+   "number": "S7 6417",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:45:00Z",
+   "actual": null
+  },
+  "HZ 5653|2026-11-27T16:50:00Z": {
+   "number": "HZ 5653",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T16:50:00Z",
+   "actual": null
+  }
+ },
+ "fetched": [
+  "2026-11-27T16:07:29Z"
+ ]
+}
