@@ -68,7 +68,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T09:20:00Z",
    "actual": null
   },
@@ -108,7 +108,7 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Unknown",
+   "status": "Expected",
    "scheduled": "2026-11-27T12:20:00Z",
    "actual": null
   },
@@ -121,6 +121,16 @@
    "status": "Expected",
    "scheduled": "2026-11-27T13:00:00Z",
    "actual": null
+  },
+  "FV 6066|2026-11-27T13:40:00Z": {
+   "number": "FV 6066",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-27T13:40:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -131,6 +141,7 @@
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
-  "2026-11-27T12:07:27Z"
+  "2026-11-27T12:07:27Z",
+  "2026-11-27T14:07:26Z"
  ]
 }

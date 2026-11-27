@@ -80,7 +80,7 @@
    "model": "ATR 72",
    "status": "CheckIn",
    "scheduled": "2026-11-27T09:00:00Z",
-   "actual": "2026-11-27T13:00:00Z"
+   "actual": "2026-11-27T14:30:00Z"
   },
   "SU 1383|2026-11-27T01:50:00Z": {
    "number": "SU 1383",
@@ -88,9 +88,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T01:50:00Z",
-   "actual": "2026-11-27T11:49:00Z"
+   "actual": "2026-11-27T12:13:00Z"
   },
   "7R 297|2026-11-27T08:00:00Z": {
    "number": "7R 297",
@@ -98,9 +98,9 @@
    "to": "SLY",
    "to_name": "Salekhard",
    "model": "Bombardier CRJ200",
-   "status": "Canceled",
+   "status": "GateClosed",
    "scheduled": "2026-11-27T08:00:00Z",
-   "actual": "2026-11-27T11:25:00Z"
+   "actual": "2026-11-27T14:00:00Z"
   },
   "UT 352|2026-11-27T13:00:00Z": {
    "number": "UT 352",
@@ -108,9 +108,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-500",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T13:00:00Z",
-   "actual": "2026-11-27T13:00:00Z"
+   "actual": "2026-11-27T13:40:00Z"
   }
  },
  "fetched": [
@@ -122,6 +122,7 @@
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
-  "2026-11-27T12:07:27Z"
+  "2026-11-27T12:07:27Z",
+  "2026-11-27T14:07:26Z"
  ]
 }

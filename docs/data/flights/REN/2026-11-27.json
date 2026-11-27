@@ -38,9 +38,19 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-900",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T12:00:00Z",
-   "actual": "2026-11-27T12:25:00Z"
+   "actual": "2026-11-27T12:30:00Z"
+  },
+  "N4 78|2026-11-27T13:10:00Z": {
+   "number": "N4 78",
+   "airline": "Nordwind",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-27T13:10:00Z",
+   "actual": "2026-11-27T13:37:00Z"
   }
  },
  "fetched": [
@@ -52,6 +62,7 @@
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
-  "2026-11-27T12:07:27Z"
+  "2026-11-27T12:07:27Z",
+  "2026-11-27T14:07:26Z"
  ]
 }

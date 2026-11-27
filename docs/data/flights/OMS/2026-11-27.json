@@ -168,9 +168,9 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T10:55:00Z",
-   "actual": "2026-11-27T10:55:00Z"
+   "actual": "2026-11-27T12:07:00Z"
   },
   "SU 1689|2026-11-27T11:15:00Z": {
    "number": "SU 1689",
@@ -178,9 +178,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T11:15:00Z",
-   "actual": "2026-11-27T11:15:00Z"
+   "actual": "2026-11-27T12:01:00Z"
   },
   "UT 306|2026-11-27T12:00:00Z": {
    "number": "UT 306",
@@ -198,9 +198,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "EMB170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T13:05:00Z",
-   "actual": "2026-11-27T13:05:00Z"
+   "actual": "2026-11-27T13:12:00Z"
+  },
+  "WZ 5072|2026-11-27T13:30:00Z": {
+   "number": "WZ 5072",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-27T13:30:00Z",
+   "actual": "2026-11-27T13:57:00Z"
   }
  },
  "fetched": [
@@ -213,6 +223,7 @@
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
-  "2026-11-27T12:07:27Z"
+  "2026-11-27T12:07:27Z",
+  "2026-11-27T14:07:26Z"
  ]
 }

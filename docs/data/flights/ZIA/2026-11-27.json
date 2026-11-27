@@ -68,9 +68,29 @@
    "to": "MSQ",
    "to_name": "Minsk",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T12:35:00Z",
-   "actual": "2026-11-27T12:35:00Z"
+   "actual": "2026-11-27T12:42:00Z"
+  },
+  "WZ 565|2026-11-27T14:00:00Z": {
+   "number": "WZ 565",
+   "airline": "Red Wings",
+   "to": "TBS",
+   "to_name": "Tbilisi",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T14:00:00Z",
+   "actual": "2026-11-27T14:00:00Z"
+  },
+  "WZ 15|2026-11-27T14:40:00Z": {
+   "number": "WZ 15",
+   "airline": "Red Wings",
+   "to": "TLV",
+   "to_name": "Tel Aviv Yafo",
+   "model": "Tu-204",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T14:40:00Z",
+   "actual": "2026-11-27T14:40:00Z"
   }
  },
  "fetched": [
@@ -81,6 +101,7 @@
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
-  "2026-11-27T12:07:27Z"
+  "2026-11-27T12:07:27Z",
+  "2026-11-27T14:07:26Z"
  ]
 }

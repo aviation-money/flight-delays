@@ -338,7 +338,7 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A319",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T11:45:00Z",
    "actual": "2026-11-27T11:45:00Z"
   },
@@ -348,7 +348,7 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T12:25:00Z",
    "actual": "2026-11-27T12:25:00Z"
   },
@@ -358,9 +358,69 @@
    "to": "PVG",
    "to_name": "Shanghai",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T12:50:00Z",
    "actual": "2026-11-27T12:50:00Z"
+  },
+  "FV 6725|2026-11-27T13:25:00Z": {
+   "number": "FV 6725",
+   "airline": "Rossiya",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-27T13:25:00Z",
+   "actual": "2026-11-27T13:25:00Z"
+  },
+  "SU 1487|2026-11-27T13:05:00Z": {
+   "number": "SU 1487",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-27T13:05:00Z",
+   "actual": "2026-11-27T13:35:00Z"
+  },
+  "S7 6432|2026-11-27T13:40:00Z": {
+   "number": "S7 6432",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-27T13:40:00Z",
+   "actual": "2026-11-27T13:40:00Z"
+  },
+  "IO 473|2026-11-27T14:00:00Z": {
+   "number": "IO 473",
+   "airline": "IrAero",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-27T14:00:00Z",
+   "actual": "2026-11-27T14:00:00Z"
+  },
+  "FV 6685|2026-11-27T14:25:00Z": {
+   "number": "FV 6685",
+   "airline": "Rossiya",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-27T14:25:00Z",
+   "actual": "2026-11-27T14:25:00Z"
+  },
+  "S7 5320|2026-11-27T15:00:00Z": {
+   "number": "S7 5320",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T15:00:00Z",
+   "actual": "2026-11-27T15:00:00Z"
   }
  },
  "fetched": [
@@ -373,6 +433,7 @@
   "2026-11-27T06:07:28Z",
   "2026-11-27T08:07:27Z",
   "2026-11-27T10:07:24Z",
-  "2026-11-27T12:07:27Z"
+  "2026-11-27T12:07:27Z",
+  "2026-11-27T14:07:26Z"
  ]
 }
