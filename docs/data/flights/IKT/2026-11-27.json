@@ -298,7 +298,7 @@
    "to": "KJA",
    "to_name": "Krasnoyarsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T04:10:00Z",
    "actual": null
   },
@@ -351,6 +351,26 @@
    "status": "Expected",
    "scheduled": "2026-11-27T05:10:00Z",
    "actual": null
+  },
+  "S7 6321|2026-11-27T07:20:00Z": {
+   "number": "S7 6321",
+   "airline": "S7",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T07:20:00Z",
+   "actual": null
+  },
+  "IO 410|2026-11-27T07:30:00Z": {
+   "number": "IO 410",
+   "airline": "IrAero",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T07:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -361,6 +381,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

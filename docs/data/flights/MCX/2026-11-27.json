@@ -51,6 +51,16 @@
    "status": "Expected",
    "scheduled": "2026-11-27T07:00:00Z",
    "actual": null
+  },
+  "DP 941|2026-11-27T08:30:00Z": {
+   "number": "DP 941",
+   "airline": "Pobeda",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T08:30:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -58,6 +68,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

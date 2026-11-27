@@ -131,6 +131,36 @@
    "status": "Departed",
    "scheduled": "2026-11-27T05:40:00Z",
    "actual": "2026-11-27T05:44:00Z"
+  },
+  "UT 542|2026-11-27T07:30:00Z": {
+   "number": "UT 542",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T07:30:00Z",
+   "actual": "2026-11-27T08:00:00Z"
+  },
+  "RT 276|2026-11-27T08:00:00Z": {
+   "number": "RT 276",
+   "airline": "UVT Aero",
+   "to": "RMZ",
+   "to_name": "Tobolsk",
+   "model": "Bombardier CRJ200",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T08:00:00Z",
+   "actual": "2026-11-27T08:00:00Z"
+  },
+  "S7 7083|2026-11-27T08:10:00Z": {
+   "number": "S7 7083",
+   "airline": "S7",
+   "to": "NYM",
+   "to_name": "Nadym",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T08:10:00Z",
+   "actual": "2026-11-27T08:10:00Z"
   }
  },
  "fetched": [
@@ -139,6 +169,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

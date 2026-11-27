@@ -118,9 +118,29 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "EMB170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T05:45:00Z",
-   "actual": "2026-11-27T05:45:00Z"
+   "actual": "2026-11-27T06:07:00Z"
+  },
+  "S7 6452|2026-11-27T07:25:00Z": {
+   "number": "S7 6452",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "EMB170",
+   "status": "Departed",
+   "scheduled": "2026-11-27T07:25:00Z",
+   "actual": "2026-11-27T07:55:00Z"
+  },
+  "UT 187|2026-11-27T08:40:00Z": {
+   "number": "UT 187",
+   "airline": "UTAir",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "ATR 72",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T08:40:00Z",
+   "actual": "2026-11-27T08:40:00Z"
   }
  },
  "fetched": [
@@ -130,6 +150,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

@@ -118,9 +118,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:15:00Z",
-   "actual": "2026-11-27T06:15:00Z"
+   "actual": "2026-11-27T06:45:00Z"
   },
   "N4 62|2026-11-27T06:20:00Z": {
    "number": "N4 62",
@@ -128,7 +128,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-900",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:20:00Z",
    "actual": "2026-11-27T06:20:00Z"
   },
@@ -138,9 +138,9 @@
    "to": "Sukhum",
    "to_name": "Sukhum",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:50:00Z",
-   "actual": "2026-11-27T06:50:00Z"
+   "actual": "2026-11-27T06:44:00Z"
   },
   "RT 541|2026-11-27T07:00:00Z": {
    "number": "RT 541",
@@ -148,9 +148,39 @@
    "to": "PEE",
    "to_name": "Perm",
    "model": "Canadair CRJ 200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T07:00:00Z",
-   "actual": "2026-11-27T07:00:00Z"
+   "actual": "2026-11-27T06:56:00Z"
+  },
+  "N4 250|2026-11-27T05:15:00Z": {
+   "number": "N4 250",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T05:15:00Z",
+   "actual": "2026-11-27T07:37:00Z"
+  },
+  "DP 973|2026-11-27T07:10:00Z": {
+   "number": "DP 973",
+   "airline": "Pobeda",
+   "to": "IST",
+   "to_name": "Istanbul",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T07:10:00Z",
+   "actual": "2026-11-27T08:12:00Z"
+  },
+  "SU 2867|2026-11-27T09:05:00Z": {
+   "number": "SU 2867",
+   "airline": "Aeroflot",
+   "to": "KRR",
+   "to_name": "Krasnodar",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T09:05:00Z",
+   "actual": "2026-11-27T09:05:00Z"
   }
  },
  "fetched": [
@@ -158,6 +188,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

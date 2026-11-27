@@ -271,6 +271,46 @@
    "status": "Departed",
    "scheduled": "2026-11-27T04:40:00Z",
    "actual": "2026-11-27T04:40:00Z"
+  },
+  "S7 5308|2026-11-27T07:50:00Z": {
+   "number": "S7 5308",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-27T07:50:00Z",
+   "actual": "2026-11-27T07:50:00Z"
+  },
+  "FV 6841|2026-11-27T08:05:00Z": {
+   "number": "FV 6841",
+   "airline": "Rossiya",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Expected",
+   "scheduled": "2026-11-27T08:05:00Z",
+   "actual": "2026-11-27T08:05:00Z"
+  },
+  "Y7 207|2026-11-27T08:20:00Z": {
+   "number": "Y7 207",
+   "airline": "NordStar",
+   "to": "Norilsk",
+   "to_name": "Norilsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-27T08:20:00Z",
+   "actual": "2026-11-27T08:20:00Z"
+  },
+  "KV 155|2026-11-27T09:00:00Z": {
+   "number": "KV 155",
+   "airline": "KrasAvia",
+   "to": "Tura",
+   "to_name": "Tura",
+   "model": "ATR 42-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T09:00:00Z",
+   "actual": "2026-11-27T09:00:00Z"
   }
  },
  "fetched": [
@@ -280,6 +320,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

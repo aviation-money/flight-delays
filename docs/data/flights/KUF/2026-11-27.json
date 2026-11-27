@@ -78,9 +78,9 @@
    "to": "Sabetta",
    "to_name": "Sabetta",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T05:15:00Z",
-   "actual": "2026-11-27T05:45:00Z"
+   "actual": "2026-11-27T06:07:00Z"
   },
   "WZ 5303|2026-11-26T23:30:00Z": {
    "number": "WZ 5303",
@@ -91,6 +91,16 @@
    "status": "Departed",
    "scheduled": "2026-11-26T23:30:00Z",
    "actual": "2026-11-27T05:46:00Z"
+  },
+  "SU 1603|2026-11-27T06:25:00Z": {
+   "number": "SU 1603",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-27T06:25:00Z",
+   "actual": "2026-11-27T07:45:00Z"
   }
  },
  "fetched": [
@@ -99,6 +109,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

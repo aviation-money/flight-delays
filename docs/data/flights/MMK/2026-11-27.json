@@ -11,6 +11,46 @@
    "status": "Departed",
    "scheduled": "2026-11-26T23:55:00Z",
    "actual": "2026-11-27T00:12:00Z"
+  },
+  "D2 52|2026-11-27T08:00:00Z": {
+   "number": "D2 52",
+   "airline": "Severstal Aircompany",
+   "to": "ARH",
+   "to_name": "Arkhangelsk",
+   "model": "Bombardier CRJ200",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T08:00:00Z",
+   "actual": "2026-11-27T08:00:00Z"
+  },
+  "5N 508|2026-11-27T07:55:00Z": {
+   "number": "5N 508",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T07:55:00Z",
+   "actual": "2026-11-27T08:15:00Z"
+  },
+  "SU 1319|2026-11-27T08:40:00Z": {
+   "number": "SU 1319",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-27T08:40:00Z",
+   "actual": "2026-11-27T08:40:00Z"
+  },
+  "FV 6344|2026-11-27T09:05:00Z": {
+   "number": "FV 6344",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T09:05:00Z",
+   "actual": "2026-11-27T09:05:00Z"
   }
  },
  "fetched": [
@@ -18,6 +58,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

@@ -61,6 +61,26 @@
    "status": "Expected",
    "scheduled": "2026-11-27T06:00:00Z",
    "actual": "2026-11-27T06:00:00Z"
+  },
+  "NF 967|2026-11-27T07:40:00Z": {
+   "number": "NF 967",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "Expected",
+   "scheduled": "2026-11-27T07:40:00Z",
+   "actual": "2026-11-27T07:40:00Z"
+  },
+  "UT 305|2026-11-27T09:00:00Z": {
+   "number": "UT 305",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-27T09:00:00Z",
+   "actual": "2026-11-27T09:00:00Z"
   }
  },
  "fetched": [
@@ -69,6 +89,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

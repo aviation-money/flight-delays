@@ -68,9 +68,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T00:40:00Z",
-   "actual": "2026-11-27T06:30:00Z"
+   "actual": "2026-11-27T06:50:00Z"
   },
   "5N 528|2026-11-27T02:50:00Z": {
    "number": "5N 528",
@@ -78,9 +78,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-27T02:50:00Z",
-   "actual": "2026-11-27T06:00:00Z"
+   "actual": "2026-11-27T06:36:00Z"
   },
   "DP 414|2026-11-27T01:30:00Z": {
    "number": "DP 414",
@@ -91,6 +91,16 @@
    "status": "Departed",
    "scheduled": "2026-11-27T01:30:00Z",
    "actual": "2026-11-27T03:14:00Z"
+  },
+  "SU 1535|2026-11-27T07:30:00Z": {
+   "number": "SU 1535",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus",
+   "status": "Departed",
+   "scheduled": "2026-11-27T07:30:00Z",
+   "actual": "2026-11-27T07:49:00Z"
   }
  },
  "fetched": [
@@ -99,6 +109,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

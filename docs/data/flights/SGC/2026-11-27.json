@@ -167,7 +167,7 @@
    "airline": "UTAir",
    "to": "UFA",
    "to_name": "Ufa",
-   "model": "Boeing 737-500",
+   "model": "Boeing 737",
    "status": "Departed",
    "scheduled": "2026-11-27T04:40:00Z",
    "actual": "2026-11-27T05:20:00Z"
@@ -191,6 +191,16 @@
    "status": "CheckIn",
    "scheduled": "2026-11-27T02:40:00Z",
    "actual": "2026-11-27T07:00:00Z"
+  },
+  "UT 139|2026-11-27T08:25:00Z": {
+   "number": "UT 139",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T08:25:00Z",
+   "actual": "2026-11-27T09:00:00Z"
   }
  },
  "fetched": [
@@ -199,6 +209,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }

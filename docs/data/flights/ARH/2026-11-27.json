@@ -18,9 +18,9 @@
    "to": "MMK",
    "to_name": "Murmansk",
    "model": "CRJ200LR",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:00:00Z",
-   "actual": "2026-11-27T06:00:00Z"
+   "actual": "2026-11-27T06:28:00Z"
   },
   "СИ 9641|2026-11-27T06:00:00Z": {
    "number": "СИ 9641",
@@ -28,9 +28,29 @@
    "to": "Amderma-2",
    "to_name": "Amderma-2",
    "model": "Yak 42",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T06:00:00Z",
-   "actual": "2026-11-27T06:00:00Z"
+   "actual": "2026-11-27T07:08:00Z"
+  },
+  "FV 6304|2026-11-27T07:20:00Z": {
+   "number": "FV 6304",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T07:20:00Z",
+   "actual": "2026-11-27T07:20:00Z"
+  },
+  "5N 145|2026-11-27T08:15:00Z": {
+   "number": "5N 145",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-27T08:15:00Z",
+   "actual": "2026-11-27T08:15:00Z"
   }
  },
  "fetched": [
@@ -38,6 +58,7 @@
   "2026-11-27T00:07:25Z",
   "2026-11-27T02:07:26Z",
   "2026-11-27T04:07:25Z",
-  "2026-11-27T06:07:28Z"
+  "2026-11-27T06:07:28Z",
+  "2026-11-27T08:07:27Z"
  ]
 }
