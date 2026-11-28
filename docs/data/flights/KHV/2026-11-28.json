@@ -48,16 +48,16 @@
    "to": "NGK",
    "to_name": "Nogliki-Sakhalin Island",
    "model": "De Havilland DHC-8-400 Dash 8",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T23:05:00Z",
-   "actual": "2026-11-28T01:00:00Z"
+   "actual": "2026-11-28T01:57:00Z"
   },
   "SU 654|2026-11-27T23:10:00Z": {
    "number": "SU 654",
    "airline": "Aeroflot",
    "to": "BKK",
    "to_name": "Bangkok",
-   "model": "Airbus Industrie А330-300",
+   "model": "Airbus A330-300",
    "status": "Departed",
    "scheduled": "2026-11-27T23:10:00Z",
    "actual": "2026-11-27T23:58:00Z"
@@ -98,9 +98,49 @@
    "to": "Kamran",
    "to_name": "Kamran",
    "model": "Airbus A321 NEO",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T01:20:00Z",
-   "actual": "2026-11-28T01:20:00Z"
+   "actual": "2026-11-28T02:59:00Z"
+  },
+  "FV 2477|2026-11-28T03:25:00Z": {
+   "number": "FV 2477",
+   "airline": "Rossiya",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-28T03:25:00Z",
+   "actual": "2026-11-28T03:35:00Z"
+  },
+  "HZ 5628|2026-11-28T04:00:00Z": {
+   "number": "HZ 5628",
+   "airline": "Aurora",
+   "to": "Yuzhno-Sakhalinsk",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Canceled",
+   "scheduled": "2026-11-28T04:00:00Z",
+   "actual": "2026-11-28T04:00:00Z"
+  },
+  "FV 5707|2026-11-28T04:00:00Z": {
+   "number": "FV 5707",
+   "airline": "Rossiya",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-28T04:00:00Z",
+   "actual": "2026-11-28T04:00:00Z"
+  },
+  "HZ 3102|2026-11-28T04:30:00Z": {
+   "number": "HZ 3102",
+   "airline": "Aurora",
+   "to": "Nikolayevsk-na-Amure Airport",
+   "to_name": "Nikolayevsk-na-Amure Airport",
+   "model": "De Havilland DHC-8-400 Dash 8",
+   "status": "Expected",
+   "scheduled": "2026-11-28T04:30:00Z",
+   "actual": "2026-11-28T04:30:00Z"
   }
  },
  "fetched": [
@@ -110,6 +150,7 @@
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
-  "2026-11-28T02:07:34Z"
+  "2026-11-28T02:07:34Z",
+  "2026-11-28T04:07:27Z"
  ]
 }

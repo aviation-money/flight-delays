@@ -11,11 +11,22 @@
    "status": "Departed",
    "scheduled": "2026-11-27T22:05:00Z",
    "actual": "2026-11-27T23:18:00Z"
+  },
+  "SU 1009|2026-11-28T04:10:00Z": {
+   "number": "SU 1009",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T04:10:00Z",
+   "actual": "2026-11-28T04:10:00Z"
   }
  },
  "fetched": [
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
-  "2026-11-28T02:07:34Z"
+  "2026-11-28T02:07:34Z",
+  "2026-11-28T04:07:27Z"
  ]
 }

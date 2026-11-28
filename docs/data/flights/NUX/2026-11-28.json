@@ -8,9 +8,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Bombardier CRJ200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T02:50:00Z",
-   "actual": "2026-11-28T02:50:00Z"
+   "actual": "2026-11-28T03:18:00Z"
   },
   "YC 189|2026-11-28T03:05:00Z": {
    "number": "YC 189",
@@ -18,15 +18,56 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T03:05:00Z",
-   "actual": "2026-11-28T03:05:00Z"
+   "actual": "2026-11-28T03:15:00Z"
+  },
+  "S7 5336|2026-11-28T03:35:00Z": {
+   "number": "S7 5336",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-28T03:35:00Z",
+   "actual": "2026-11-28T03:40:00Z"
+  },
+  "S7 2572|2026-11-28T03:20:00Z": {
+   "number": "S7 2572",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-28T03:20:00Z",
+   "actual": "2026-11-28T03:44:00Z"
+  },
+  "4G 9847|2026-11-28T04:00:00Z": {
+   "number": "4G 9847",
+   "airline": "Gazpromavia",
+   "to": "WNR",
+   "to_name": "Novyy Urengoy",
+   "model": null,
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T04:00:00Z",
+   "actual": "2026-11-28T04:00:00Z"
+  },
+  "4G 9816|2026-11-28T04:30:00Z": {
+   "number": "4G 9816",
+   "airline": "Gazpromavia",
+   "to": "Novyy Port",
+   "to_name": "Novyy Port",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T04:30:00Z",
+   "actual": "2026-11-28T04:30:00Z"
   }
  },
  "fetched": [
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
-  "2026-11-28T02:07:34Z"
+  "2026-11-28T02:07:34Z",
+  "2026-11-28T04:07:27Z"
  ]
 }

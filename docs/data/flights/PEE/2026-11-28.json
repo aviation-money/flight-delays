@@ -18,9 +18,9 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T00:50:00Z",
-   "actual": "2026-11-28T01:50:00Z"
+   "actual": "2026-11-28T02:21:00Z"
   },
   "FV 6582|2026-11-28T01:30:00Z": {
    "number": "FV 6582",
@@ -38,9 +38,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T01:10:00Z",
-   "actual": "2026-11-28T02:00:00Z"
+   "actual": "2026-11-28T02:39:00Z"
   },
   "SU 1395|2026-11-28T02:20:00Z": {
    "number": "SU 1395",
@@ -48,9 +48,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T02:20:00Z",
-   "actual": "2026-11-28T02:20:00Z"
+   "actual": "2026-11-28T02:51:00Z"
   },
   "DP 570|2026-11-28T00:20:00Z": {
    "number": "DP 570",
@@ -58,9 +58,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T00:20:00Z",
-   "actual": "2026-11-28T02:25:00Z"
+   "actual": "2026-11-28T03:05:00Z"
   },
   "IO 483|2026-11-28T02:30:00Z": {
    "number": "IO 483",
@@ -68,15 +68,26 @@
    "to": "Baku",
    "to_name": "Baku",
    "model": "Sukhoi Superjet 100",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T02:30:00Z",
-   "actual": "2026-11-28T02:30:00Z"
+   "actual": "2026-11-28T02:56:00Z"
+  },
+  "DP 6512|2026-11-28T01:00:00Z": {
+   "number": "DP 6512",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737",
+   "status": "Departed",
+   "scheduled": "2026-11-28T01:00:00Z",
+   "actual": "2026-11-28T03:44:00Z"
   }
  },
  "fetched": [
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
-  "2026-11-28T02:07:34Z"
+  "2026-11-28T02:07:34Z",
+  "2026-11-28T04:07:27Z"
  ]
 }

@@ -35,8 +35,8 @@
   "Y7 4701|2026-11-28T00:25:00Z": {
    "number": "Y7 4701",
    "airline": "NordStar",
-   "to": "Bovanenkovo",
-   "to_name": "Bovanenkovo",
+   "to": "NSK",
+   "to_name": "Norilsk",
    "model": "Boeing 737-800",
    "status": "Departed",
    "scheduled": "2026-11-28T00:25:00Z",
@@ -68,9 +68,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "CheckIn",
    "scheduled": "2026-11-28T01:50:00Z",
-   "actual": "2026-11-28T02:05:00Z"
+   "actual": "2026-11-28T04:30:00Z"
   },
   "5N 592|2026-11-28T02:15:00Z": {
    "number": "5N 592",
@@ -80,7 +80,7 @@
    "model": "Boeing 737-800",
    "status": "CheckIn",
    "scheduled": "2026-11-28T02:15:00Z",
-   "actual": "2026-11-28T02:15:00Z"
+   "actual": "2026-11-28T04:30:00Z"
   },
   "DP 560|2026-11-28T00:40:00Z": {
    "number": "DP 560",
@@ -120,7 +120,7 @@
    "model": "Airbus A320",
    "status": "CheckIn",
    "scheduled": "2026-11-28T02:55:00Z",
-   "actual": "2026-11-28T02:55:00Z"
+   "actual": "2026-11-28T04:55:00Z"
   },
   "UT 364|2026-11-28T03:00:00Z": {
    "number": "UT 364",
@@ -128,15 +128,16 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "CheckIn",
    "scheduled": "2026-11-28T03:00:00Z",
-   "actual": "2026-11-28T03:00:00Z"
+   "actual": "2026-11-28T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
-  "2026-11-28T02:07:34Z"
+  "2026-11-28T02:07:34Z",
+  "2026-11-28T04:07:27Z"
  ]
 }

@@ -8,9 +8,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T01:50:00Z",
-   "actual": "2026-11-28T02:50:00Z"
+   "actual": "2026-11-28T03:27:00Z"
   },
   "NF 986|2026-11-28T03:00:00Z": {
    "number": "NF 986",
@@ -28,15 +28,46 @@
    "to": "TJM",
    "to_name": "Tyumen",
    "model": "ATR 72",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T03:00:00Z",
-   "actual": "2026-11-28T03:00:00Z"
+   "actual": "2026-11-28T03:05:00Z"
+  },
+  "UT 301|2026-11-28T03:30:00Z": {
+   "number": "UT 301",
+   "airline": "UTAir",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-28T03:30:00Z",
+   "actual": "2026-11-28T03:52:00Z"
+  },
+  "UT 121|2026-11-28T05:00:00Z": {
+   "number": "UT 121",
+   "airline": "UTAir",
+   "to": "URJ",
+   "to_name": "Uray",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T05:00:00Z",
+   "actual": "2026-11-28T05:00:00Z"
+  },
+  "NF 977|2026-11-28T04:00:00Z": {
+   "number": "NF 977",
+   "airline": "Air Vanuatu",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "Mil Mi",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T04:00:00Z",
+   "actual": "2026-11-28T05:00:00Z"
   }
  },
  "fetched": [
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
-  "2026-11-28T02:07:34Z"
+  "2026-11-28T02:07:34Z",
+  "2026-11-28T04:07:27Z"
  ]
 }

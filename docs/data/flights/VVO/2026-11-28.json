@@ -138,7 +138,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T00:40:00Z",
    "actual": "2026-11-28T01:06:00Z"
   },
@@ -148,7 +148,7 @@
    "to": "KHV",
    "to_name": "Khabarovsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T01:00:00Z",
    "actual": "2026-11-28T01:29:00Z"
   },
@@ -160,7 +160,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-28T02:20:00Z",
-   "actual": "2026-11-28T02:20:00Z"
+   "actual": "2026-11-28T02:30:00Z"
   },
   "SU 1705|2026-11-28T02:05:00Z": {
    "number": "SU 1705",
@@ -170,7 +170,17 @@
    "model": "Boeing 777-300ER",
    "status": "Expected",
    "scheduled": "2026-11-28T02:05:00Z",
-   "actual": "2026-11-28T02:30:00Z"
+   "actual": "2026-11-28T02:58:00Z"
+  },
+  "R3 492|2026-11-28T04:50:00Z": {
+   "number": "R3 492",
+   "airline": "Yakutia",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-28T04:50:00Z",
+   "actual": "2026-11-28T04:50:00Z"
   }
  },
  "fetched": [
@@ -180,6 +190,7 @@
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
-  "2026-11-28T02:07:34Z"
+  "2026-11-28T02:07:34Z",
+  "2026-11-28T04:07:27Z"
  ]
 }
