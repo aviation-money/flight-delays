@@ -425,7 +425,7 @@
   "CA 870|2026-11-28T10:00:00Z": {
    "number": "CA 870",
    "airline": "Air China",
-   "to": "PEK",
+   "to": "Beijing",
    "to_name": "Beijing",
    "model": "Boeing 737-800",
    "status": "Unknown",
@@ -471,6 +471,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-28T12:20:00Z",
    "actual": null
+  },
+  "S7 6325|2026-11-28T13:55:00Z": {
+   "number": "S7 6325",
+   "airline": "S7",
+   "to": "PVG",
+   "to_name": "Shanghai",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-28T13:55:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -484,6 +494,7 @@
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
-  "2026-11-28T12:07:27Z"
+  "2026-11-28T12:07:27Z",
+  "2026-11-28T14:07:25Z"
  ]
 }

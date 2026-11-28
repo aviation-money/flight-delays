@@ -158,9 +158,9 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T09:50:00Z",
-   "actual": "2026-11-28T11:20:00Z"
+   "actual": "2026-11-28T12:10:00Z"
   },
   "S7 5032|2026-11-28T11:25:00Z": {
    "number": "S7 5032",
@@ -181,6 +181,16 @@
    "status": "Expected",
    "scheduled": "2026-11-28T12:55:00Z",
    "actual": "2026-11-28T12:55:00Z"
+  },
+  "N4 856|2026-11-28T13:25:00Z": {
+   "number": "N4 856",
+   "airline": "Nordwind",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T13:25:00Z",
+   "actual": "2026-11-28T13:25:00Z"
   }
  },
  "fetched": [
@@ -192,6 +202,7 @@
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
-  "2026-11-28T12:07:27Z"
+  "2026-11-28T12:07:27Z",
+  "2026-11-28T14:07:25Z"
  ]
 }

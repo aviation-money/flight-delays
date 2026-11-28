@@ -118,9 +118,9 @@
    "to": "Sabetta",
    "to_name": "Sabetta",
    "model": null,
-   "status": "Delayed",
+   "status": "GateClosed",
    "scheduled": "2026-11-28T10:30:00Z",
-   "actual": "2026-11-28T11:30:00Z"
+   "actual": "2026-11-28T13:40:00Z"
   },
   "YC 146|2026-11-28T11:45:00Z": {
    "number": "YC 146",
@@ -138,9 +138,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T11:55:00Z",
-   "actual": "2026-11-28T11:55:00Z"
+   "actual": "2026-11-28T12:35:00Z"
   },
   "UT 186|2026-11-28T11:30:00Z": {
    "number": "UT 186",
@@ -148,9 +148,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-400",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T11:30:00Z",
-   "actual": "2026-11-28T12:10:00Z"
+   "actual": "2026-11-28T12:20:00Z"
   }
  },
  "fetched": [
@@ -162,6 +162,7 @@
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
-  "2026-11-28T12:07:27Z"
+  "2026-11-28T12:07:27Z",
+  "2026-11-28T14:07:25Z"
  ]
 }

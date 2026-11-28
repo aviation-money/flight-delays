@@ -248,9 +248,9 @@
    "to": "Istanbul (Havalimani New)",
    "to_name": "Istanbul (Havalimani New)",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T12:05:00Z",
-   "actual": "2026-11-28T12:05:00Z"
+   "actual": "2026-11-28T12:15:00Z"
   },
   "HY 650|2026-11-28T12:50:00Z": {
    "number": "HY 650",
@@ -258,9 +258,9 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T12:50:00Z",
-   "actual": "2026-11-28T12:50:00Z"
+   "actual": "2026-11-28T12:39:00Z"
   },
   "RT 519|2026-11-28T13:00:00Z": {
    "number": "RT 519",
@@ -268,9 +268,29 @@
    "to": "Kirov",
    "to_name": "Kirov",
    "model": "Canadair CRJ 200",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T13:00:00Z",
-   "actual": "2026-11-28T13:00:00Z"
+   "actual": "2026-11-28T12:56:00Z"
+  },
+  "UT 134|2026-11-28T11:20:00Z": {
+   "number": "UT 134",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "ATR 72-500",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T11:20:00Z",
+   "actual": "2026-11-28T13:48:00Z"
+  },
+  "T5 736|2026-11-28T15:00:00Z": {
+   "number": "T5 736",
+   "airline": "Turkmenistan",
+   "to": "Ashgabat",
+   "to_name": "Ashgabat",
+   "model": "Boeing 737",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T15:00:00Z",
+   "actual": "2026-11-28T15:00:00Z"
   }
  },
  "fetched": [
@@ -281,6 +301,7 @@
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
-  "2026-11-28T12:07:27Z"
+  "2026-11-28T12:07:27Z",
+  "2026-11-28T14:07:25Z"
  ]
 }

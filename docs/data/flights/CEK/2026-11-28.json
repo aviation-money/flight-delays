@@ -108,19 +108,39 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T12:00:00Z",
-   "actual": "2026-11-28T12:00:00Z"
+   "actual": "2026-11-28T12:10:00Z"
   },
   "SU 1421|2026-11-28T12:30:00Z": {
    "number": "SU 1421",
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-28T12:30:00Z",
+   "actual": "2026-11-28T12:48:00Z"
+  },
+  "5N 3104|2026-11-28T14:10:00Z": {
+   "number": "5N 3104",
+   "airline": "Smartavia",
+   "to": "KGD",
+   "to_name": "Kaliningrad",
+   "model": "Boeing 737",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T14:10:00Z",
+   "actual": "2026-11-28T14:10:00Z"
+  },
+  "SU 1423|2026-11-28T14:30:00Z": {
+   "number": "SU 1423",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
    "model": "Airbus",
    "status": "Expected",
-   "scheduled": "2026-11-28T12:30:00Z",
-   "actual": "2026-11-28T12:30:00Z"
+   "scheduled": "2026-11-28T14:30:00Z",
+   "actual": "2026-11-28T14:30:00Z"
   }
  },
  "fetched": [
@@ -132,6 +152,7 @@
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
-  "2026-11-28T12:07:27Z"
+  "2026-11-28T12:07:27Z",
+  "2026-11-28T14:07:25Z"
  ]
 }

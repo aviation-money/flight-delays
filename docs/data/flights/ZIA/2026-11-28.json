@@ -67,10 +67,10 @@
    "airline": "Belavia",
    "to": "MSQ",
    "to_name": "Minsk",
-   "model": "Embraer 190",
-   "status": "CheckIn",
+   "model": "Embraer 195",
+   "status": "Departed",
    "scheduled": "2026-11-28T12:35:00Z",
-   "actual": "2026-11-28T12:35:00Z"
+   "actual": "2026-11-28T12:40:00Z"
   }
  },
  "fetched": [
@@ -81,6 +81,7 @@
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
-  "2026-11-28T12:07:27Z"
+  "2026-11-28T12:07:27Z",
+  "2026-11-28T14:07:25Z"
  ]
 }
