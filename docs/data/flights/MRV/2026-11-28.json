@@ -298,9 +298,9 @@
    "to": "DME",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T13:55:00Z",
-   "actual": "2026-11-28T13:55:00Z"
+   "actual": "2026-11-28T14:16:00Z"
   },
   "SU 1301|2026-11-28T14:05:00Z": {
    "number": "SU 1301",
@@ -308,7 +308,7 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T14:05:00Z",
    "actual": "2026-11-28T14:05:00Z"
   },
@@ -318,9 +318,59 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T14:40:00Z",
    "actual": "2026-11-28T14:40:00Z"
+  },
+  "S7 2168|2026-11-28T15:10:00Z": {
+   "number": "S7 2168",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-28T15:10:00Z",
+   "actual": "2026-11-28T15:10:00Z"
+  },
+  "A4 1170|2026-11-28T15:10:00Z": {
+   "number": "A4 1170",
+   "airline": "Azimuth",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-28T15:10:00Z",
+   "actual": "2026-11-28T15:10:00Z"
+  },
+  "SU 1317|2026-11-28T15:40:00Z": {
+   "number": "SU 1317",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-28T15:40:00Z",
+   "actual": "2026-11-28T15:44:00Z"
+  },
+  "A4 6011|2026-11-28T15:45:00Z": {
+   "number": "A4 6011",
+   "airline": "Azimuth",
+   "to": "Makhachkala",
+   "to_name": "Makhachkala",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T15:45:00Z",
+   "actual": "2026-11-28T15:45:00Z"
+  },
+  "A4 6119|2026-11-28T16:50:00Z": {
+   "number": "A4 6119",
+   "airline": "Azimuth",
+   "to": "Sochi",
+   "to_name": "Sochi",
+   "model": "Sukhoi Superjet 100",
+   "status": "Unknown",
+   "scheduled": "2026-11-28T16:50:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -332,6 +382,7 @@
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
-  "2026-11-28T14:07:25Z"
+  "2026-11-28T14:07:25Z",
+  "2026-11-28T16:07:26Z"
  ]
 }

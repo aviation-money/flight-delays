@@ -378,7 +378,7 @@
    "to": "SYX",
    "to_name": "Sanya",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T14:15:00Z",
    "actual": "2026-11-28T14:15:00Z"
   },
@@ -388,7 +388,7 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T14:20:00Z",
    "actual": "2026-11-28T14:20:00Z"
   },
@@ -398,7 +398,7 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Sukhoi Superjet 100-95",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T14:25:00Z",
    "actual": "2026-11-28T14:25:00Z"
   },
@@ -408,7 +408,7 @@
    "to": "ALA",
    "to_name": "Almaty",
    "model": "Airbus A319",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T14:50:00Z",
    "actual": "2026-11-28T14:50:00Z"
   },
@@ -418,9 +418,29 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T15:00:00Z",
    "actual": "2026-11-28T15:00:00Z"
+  },
+  "VJ 6875|2026-11-28T15:30:00Z": {
+   "number": "VJ 6875",
+   "airline": "VietJetAir",
+   "to": "Kamran",
+   "to_name": "Kamran",
+   "model": "Airbus A330-300",
+   "status": "Delayed",
+   "scheduled": "2026-11-28T15:30:00Z",
+   "actual": "2026-11-28T15:30:00Z"
+  },
+  "SU 1489|2026-11-28T16:25:00Z": {
+   "number": "SU 1489",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-28T16:25:00Z",
+   "actual": "2026-11-28T16:25:00Z"
   }
  },
  "fetched": [
@@ -434,6 +454,7 @@
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
-  "2026-11-28T14:07:25Z"
+  "2026-11-28T14:07:25Z",
+  "2026-11-28T16:07:26Z"
  ]
 }

@@ -51,6 +51,36 @@
    "status": "Canceled",
    "scheduled": "2026-11-28T11:50:00Z",
    "actual": "2026-11-28T11:50:00Z"
+  },
+  "A4 4063|2026-11-28T15:20:00Z": {
+   "number": "A4 4063",
+   "airline": "Azimuth",
+   "to": "GYD",
+   "to_name": "Baku",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T15:20:00Z",
+   "actual": "2026-11-28T15:50:00Z"
+  },
+  "DP 520|2026-11-28T11:30:00Z": {
+   "number": "DP 520",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-28T11:30:00Z",
+   "actual": "2026-11-28T15:53:00Z"
+  },
+  "SU 1175|2026-11-28T16:20:00Z": {
+   "number": "SU 1175",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T16:20:00Z",
+   "actual": "2026-11-28T16:20:00Z"
   }
  },
  "fetched": [
@@ -63,6 +93,7 @@
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
-  "2026-11-28T14:07:25Z"
+  "2026-11-28T14:07:25Z",
+  "2026-11-28T16:07:26Z"
  ]
 }

@@ -188,9 +188,9 @@
    "to": "AER",
    "to_name": "Sochi",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T12:55:00Z",
-   "actual": "2026-11-28T13:26:00Z"
+   "actual": "2026-11-28T13:59:00Z"
   },
   "S7 5352|2026-11-28T12:35:00Z": {
    "number": "S7 5352",
@@ -218,9 +218,29 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "ATR 72",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T14:15:00Z",
-   "actual": "2026-11-28T14:15:00Z"
+   "actual": "2026-11-28T14:43:00Z"
+  },
+  "FV 6764|2026-11-28T15:45:00Z": {
+   "number": "FV 6764",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T15:45:00Z",
+   "actual": "2026-11-28T15:45:00Z"
+  },
+  "UT 719|2026-11-28T16:15:00Z": {
+   "number": "UT 719",
+   "airline": "UTAir",
+   "to": "SSH",
+   "to_name": "Sharm el Sheikh",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-28T16:15:00Z",
+   "actual": "2026-11-28T16:15:00Z"
   }
  },
  "fetched": [
@@ -233,6 +253,7 @@
   "2026-11-28T08:07:25Z",
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
-  "2026-11-28T14:07:25Z"
+  "2026-11-28T14:07:25Z",
+  "2026-11-28T16:07:26Z"
  ]
 }

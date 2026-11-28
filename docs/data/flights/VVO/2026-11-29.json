@@ -10,10 +10,31 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-28T14:30:00Z",
-   "actual": "2026-11-28T14:30:00Z"
+   "actual": "2026-11-28T14:36:00Z"
+  },
+  "HZ 5472|2026-11-28T15:50:00Z": {
+   "number": "HZ 5472",
+   "airline": "Aurora",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T15:50:00Z",
+   "actual": "2026-11-28T15:50:00Z"
+  },
+  "SU 1721|2026-11-28T14:05:00Z": {
+   "number": "SU 1721",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-28T14:05:00Z",
+   "actual": "2026-11-28T17:05:00Z"
   }
  },
  "fetched": [
-  "2026-11-28T14:07:25Z"
+  "2026-11-28T14:07:25Z",
+  "2026-11-28T16:07:26Z"
  ]
 }
