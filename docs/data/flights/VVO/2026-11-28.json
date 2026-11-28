@@ -140,7 +140,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-28T00:40:00Z",
-   "actual": "2026-11-28T00:40:00Z"
+   "actual": "2026-11-28T01:06:00Z"
   },
   "FV 5701|2026-11-28T01:00:00Z": {
    "number": "FV 5701",
@@ -150,7 +150,27 @@
    "model": "Sukhoi Superjet 100",
    "status": "Expected",
    "scheduled": "2026-11-28T01:00:00Z",
-   "actual": "2026-11-28T01:00:00Z"
+   "actual": "2026-11-28T01:29:00Z"
+  },
+  "HZ 5606|2026-11-28T02:20:00Z": {
+   "number": "HZ 5606",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-28T02:20:00Z",
+   "actual": "2026-11-28T02:20:00Z"
+  },
+  "SU 1705|2026-11-28T02:05:00Z": {
+   "number": "SU 1705",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 777-300ER",
+   "status": "Expected",
+   "scheduled": "2026-11-28T02:05:00Z",
+   "actual": "2026-11-28T02:30:00Z"
   }
  },
  "fetched": [
@@ -159,6 +179,7 @@
   "2026-11-27T18:07:26Z",
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
-  "2026-11-28T00:07:26Z"
+  "2026-11-28T00:07:26Z",
+  "2026-11-28T02:07:34Z"
  ]
 }

@@ -38,9 +38,9 @@
    "to": "MQF",
    "to_name": "Magnitogorsk",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T23:55:00Z",
-   "actual": "2026-11-27T23:55:00Z"
+   "actual": "2026-11-28T01:33:00Z"
   },
   "FZ 978|2026-11-28T00:30:00Z": {
    "number": "FZ 978",
@@ -48,13 +48,14 @@
    "to": "DXB",
    "to_name": "Dubai",
    "model": "Boeing 737",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T00:30:00Z",
-   "actual": "2026-11-28T00:30:00Z"
+   "actual": "2026-11-28T00:56:00Z"
   }
  },
  "fetched": [
   "2026-11-27T22:07:29Z",
-  "2026-11-28T00:07:26Z"
+  "2026-11-28T00:07:26Z",
+  "2026-11-28T02:07:34Z"
  ]
 }

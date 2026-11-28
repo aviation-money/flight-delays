@@ -1,10 +1,42 @@
 {
  "airport": "REN",
  "date": "2026-11-28",
- "flights": {},
+ "flights": {
+  "FV 6172|2026-11-28T01:05:00Z": {
+   "number": "FV 6172",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T01:05:00Z",
+   "actual": "2026-11-28T01:50:00Z"
+  },
+  "FV 6454|2026-11-28T01:25:00Z": {
+   "number": "FV 6454",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-28T01:25:00Z",
+   "actual": "2026-11-28T02:01:00Z"
+  },
+  "5N 588|2026-11-28T02:30:00Z": {
+   "number": "5N 588",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T02:30:00Z",
+   "actual": "2026-11-28T02:30:00Z"
+  }
+ },
  "fetched": [
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
-  "2026-11-28T00:07:26Z"
+  "2026-11-28T00:07:26Z",
+  "2026-11-28T02:07:34Z"
  ]
 }

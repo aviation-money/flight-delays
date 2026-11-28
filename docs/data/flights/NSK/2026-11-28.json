@@ -1,11 +1,33 @@
 {
  "airport": "NSK",
  "date": "2026-11-28",
- "flights": {},
+ "flights": {
+  "S7 5304|2026-11-28T01:45:00Z": {
+   "number": "S7 5304",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320",
+   "status": "Expected",
+   "scheduled": "2026-11-28T01:45:00Z",
+   "actual": null
+  },
+  "S7 2582|2026-11-28T02:15:00Z": {
+   "number": "S7 2582",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Unknown",
+   "scheduled": "2026-11-28T02:15:00Z",
+   "actual": null
+  }
+ },
  "fetched": [
   "2026-11-27T18:07:26Z",
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
-  "2026-11-28T00:07:26Z"
+  "2026-11-28T00:07:26Z",
+  "2026-11-28T02:07:34Z"
  ]
 }

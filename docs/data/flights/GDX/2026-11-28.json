@@ -108,9 +108,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T23:10:00Z",
-   "actual": "2026-11-27T23:40:00Z"
+   "actual": "2026-11-28T00:11:00Z"
   },
   "IO 9701|2026-11-27T23:30:00Z": {
    "number": "IO 9701",
@@ -128,9 +128,9 @@
    "to": "Kupol",
    "to_name": "Kupol",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T00:00:00Z",
-   "actual": "2026-11-28T00:00:00Z"
+   "actual": "2026-11-28T00:58:00Z"
   },
   "IO 9703|2026-11-28T00:30:00Z": {
    "number": "IO 9703",
@@ -148,9 +148,9 @@
    "to": "Kupol",
    "to_name": "Kupol",
    "model": null,
-   "status": "Expected",
+   "status": "GateClosed",
    "scheduled": "2026-11-28T00:30:00Z",
-   "actual": "2026-11-28T00:30:00Z"
+   "actual": "2026-11-28T02:00:00Z"
   },
   "IO 9705|2026-11-28T01:00:00Z": {
    "number": "IO 9705",
@@ -161,6 +161,36 @@
    "status": "Expected",
    "scheduled": "2026-11-28T01:00:00Z",
    "actual": "2026-11-28T01:00:00Z"
+  },
+  "IO 9659|2026-11-28T01:30:00Z": {
+   "number": "IO 9659",
+   "airline": "IrAero",
+   "to": "Kupol",
+   "to_name": "Kupol",
+   "model": "An-24",
+   "status": "Expected",
+   "scheduled": "2026-11-28T01:30:00Z",
+   "actual": "2026-11-28T02:00:00Z"
+  },
+  "СЛ 9479|2026-11-28T02:00:00Z": {
+   "number": "СЛ 9479",
+   "airline": "Sila",
+   "to": "Kubaka",
+   "to_name": "Kubaka",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T02:00:00Z",
+   "actual": "2026-11-28T02:00:00Z"
+  },
+  "IO 114|2026-11-28T03:00:00Z": {
+   "number": "IO 114",
+   "airline": "IrAero",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T03:00:00Z",
+   "actual": "2026-11-28T03:00:00Z"
   }
  },
  "fetched": [
@@ -169,6 +199,7 @@
   "2026-11-27T18:07:26Z",
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
-  "2026-11-28T00:07:26Z"
+  "2026-11-28T00:07:26Z",
+  "2026-11-28T02:07:34Z"
  ]
 }

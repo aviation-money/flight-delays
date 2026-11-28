@@ -68,9 +68,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T00:30:00Z",
-   "actual": "2026-11-28T00:30:00Z"
+   "actual": "2026-11-28T00:47:00Z"
   },
   "S7 5264|2026-11-28T00:35:00Z": {
    "number": "S7 5264",
@@ -78,9 +78,9 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T00:35:00Z",
-   "actual": "2026-11-28T00:35:00Z"
+   "actual": "2026-11-28T00:52:00Z"
   },
   "SU 1751|2026-11-27T23:55:00Z": {
    "number": "SU 1751",
@@ -88,9 +88,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-27T23:55:00Z",
-   "actual": "2026-11-28T00:50:00Z"
+   "actual": "2026-11-28T01:02:00Z"
   }
  },
  "fetched": [
@@ -98,6 +98,7 @@
   "2026-11-27T18:07:26Z",
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
-  "2026-11-28T00:07:26Z"
+  "2026-11-28T00:07:26Z",
+  "2026-11-28T02:07:34Z"
  ]
 }

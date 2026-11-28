@@ -218,9 +218,9 @@
    "to": "NYM",
    "to_name": "Nadym",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T23:50:00Z",
-   "actual": "2026-11-27T23:50:00Z"
+   "actual": "2026-11-27T23:58:00Z"
   },
   "PC 1575|2026-11-27T23:55:00Z": {
    "number": "PC 1575",
@@ -238,9 +238,9 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T23:55:00Z",
-   "actual": "2026-11-27T23:55:00Z"
+   "actual": "2026-11-28T00:08:00Z"
   },
   "PC 397|2026-11-27T23:30:00Z": {
    "number": "PC 397",
@@ -258,9 +258,9 @@
    "to": "SKD",
    "to_name": "Samarkand",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T22:00:00Z",
-   "actual": "2026-11-28T00:30:00Z"
+   "actual": "2026-11-28T01:07:00Z"
   },
   "VF 292|2026-11-28T00:35:00Z": {
    "number": "VF 292",
@@ -268,13 +268,54 @@
    "to": "SAW",
    "to_name": "Istanbul",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T00:35:00Z",
-   "actual": "2026-11-28T00:35:00Z"
+   "actual": "2026-11-28T00:44:00Z"
+  },
+  "WZ 701|2026-11-28T01:20:00Z": {
+   "number": "WZ 701",
+   "airline": "Red Wings",
+   "to": "TBS",
+   "to_name": "Tbilisi",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T01:20:00Z",
+   "actual": "2026-11-28T02:00:00Z"
+  },
+  "U6 547|2026-11-28T03:00:00Z": {
+   "number": "U6 547",
+   "airline": "Ural",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Airbus A320",
+   "status": "Canceled",
+   "scheduled": "2026-11-28T03:00:00Z",
+   "actual": "2026-11-28T03:00:00Z"
+  },
+  "FV 6810|2026-11-28T03:00:00Z": {
+   "number": "FV 6810",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T03:00:00Z",
+   "actual": "2026-11-28T03:00:00Z"
+  },
+  "JU 125|2026-11-28T01:10:00Z": {
+   "number": "JU 125",
+   "airline": "Air Serbia",
+   "to": "BEG",
+   "to_name": "Belgrade",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T01:10:00Z",
+   "actual": "2026-11-28T03:00:00Z"
   }
  },
  "fetched": [
   "2026-11-27T22:07:29Z",
-  "2026-11-28T00:07:26Z"
+  "2026-11-28T00:07:26Z",
+  "2026-11-28T02:07:34Z"
  ]
 }

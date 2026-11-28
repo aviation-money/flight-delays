@@ -51,6 +51,36 @@
    "status": "Departed",
    "scheduled": "2026-11-27T23:00:00Z",
    "actual": "2026-11-27T23:25:00Z"
+  },
+  "S7 3034|2026-11-28T02:30:00Z": {
+   "number": "S7 3034",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T02:30:00Z",
+   "actual": "2026-11-28T02:05:00Z"
+  },
+  "SU 1455|2026-11-28T02:05:00Z": {
+   "number": "SU 1455",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T02:05:00Z",
+   "actual": "2026-11-28T02:40:00Z"
+  },
+  "WZ 5094|2026-11-28T02:40:00Z": {
+   "number": "WZ 5094",
+   "airline": "Red Wings",
+   "to": "TOF",
+   "to_name": "Tomsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T02:40:00Z",
+   "actual": "2026-11-28T02:40:00Z"
   }
  },
  "fetched": [
@@ -58,6 +88,7 @@
   "2026-11-27T18:07:26Z",
   "2026-11-27T20:07:26Z",
   "2026-11-27T22:07:29Z",
-  "2026-11-28T00:07:26Z"
+  "2026-11-28T00:07:26Z",
+  "2026-11-28T02:07:34Z"
  ]
 }
