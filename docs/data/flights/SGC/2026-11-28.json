@@ -221,6 +221,36 @@
    "status": "Departed",
    "scheduled": "2026-11-28T13:40:00Z",
    "actual": "2026-11-28T13:55:00Z"
+  },
+  "S7 5350|2026-11-28T17:40:00Z": {
+   "number": "S7 5350",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-28T17:40:00Z",
+   "actual": "2026-11-28T17:40:00Z"
+  },
+  "UT 139|2026-11-28T08:25:00Z": {
+   "number": "UT 139",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-28T08:25:00Z",
+   "actual": "2026-11-28T17:50:00Z"
+  },
+  "UT 119|2026-11-28T13:45:00Z": {
+   "number": "UT 119",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-28T13:45:00Z",
+   "actual": "2026-11-28T18:00:00Z"
   }
  },
  "fetched": [
@@ -234,6 +264,7 @@
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
-  "2026-11-28T16:07:26Z"
+  "2026-11-28T16:07:26Z",
+  "2026-11-28T18:07:24Z"
  ]
 }

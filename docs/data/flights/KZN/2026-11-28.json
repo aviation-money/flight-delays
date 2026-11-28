@@ -318,9 +318,79 @@
    "to": "LED",
    "to_name": "Saint-Petersburg",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T16:10:00Z",
-   "actual": "2026-11-28T16:10:00Z"
+   "actual": "2026-11-28T16:15:00Z"
+  },
+  "3F 3386|2026-11-28T17:30:00Z": {
+   "number": "3F 3386",
+   "airline": "FlyOne Armenia",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-28T17:30:00Z",
+   "actual": "2026-11-28T17:31:00Z"
+  },
+  "SU 1195|2026-11-28T17:35:00Z": {
+   "number": "SU 1195",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320 (Sharklets)",
+   "status": "Departed",
+   "scheduled": "2026-11-28T17:35:00Z",
+   "actual": "2026-11-28T17:34:00Z"
+  },
+  "ZF 4319|2026-11-28T17:20:00Z": {
+   "number": "ZF 4319",
+   "airline": "Azurair",
+   "to": "Sri-Lanka (Mattala Rajapaksa)",
+   "to_name": "Sri-Lanka (Mattala Rajapaksa)",
+   "model": "Boeing 767",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T17:20:00Z",
+   "actual": "2026-11-28T17:40:00Z"
+  },
+  "N4 248|2026-11-28T18:10:00Z": {
+   "number": "N4 248",
+   "airline": "Nordwind",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T18:10:00Z",
+   "actual": "2026-11-28T18:10:00Z"
+  },
+  "FV 6596|2026-11-28T18:20:00Z": {
+   "number": "FV 6596",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T18:20:00Z",
+   "actual": "2026-11-28T18:20:00Z"
+  },
+  "RT 549|2026-11-28T18:25:00Z": {
+   "number": "RT 549",
+   "airline": "UVT Aero",
+   "to": "IAR",
+   "to_name": "Yaroslavl",
+   "model": "Canadair CRJ 200",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T18:25:00Z",
+   "actual": "2026-11-28T18:25:00Z"
+  },
+  "N4 1323|2026-11-28T19:00:00Z": {
+   "number": "N4 1323",
+   "airline": "Nordwind",
+   "to": "Tashkent",
+   "to_name": "Tashkent",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T19:00:00Z",
+   "actual": "2026-11-28T19:00:00Z"
   }
  },
  "fetched": [
@@ -333,6 +403,7 @@
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
-  "2026-11-28T16:07:26Z"
+  "2026-11-28T16:07:26Z",
+  "2026-11-28T18:07:24Z"
  ]
 }

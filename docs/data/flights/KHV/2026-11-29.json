@@ -17,14 +17,15 @@
    "airline": "Uzbekistan",
    "to": "TAS",
    "to_name": "Tashkent",
-   "model": "Airbus A321",
-   "status": "Expected",
+   "model": "Airbus A321 NEO",
+   "status": "Departed",
    "scheduled": "2026-11-28T16:00:00Z",
-   "actual": "2026-11-28T16:00:00Z"
+   "actual": "2026-11-28T16:05:00Z"
   }
  },
  "fetched": [
   "2026-11-28T14:07:25Z",
-  "2026-11-28T16:07:26Z"
+  "2026-11-28T16:07:26Z",
+  "2026-11-28T18:07:24Z"
  ]
 }

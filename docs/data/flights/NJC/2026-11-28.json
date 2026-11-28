@@ -71,6 +71,16 @@
    "status": "Unknown",
    "scheduled": "2026-11-28T06:20:00Z",
    "actual": null
+  },
+  "UT 1288|2026-11-28T18:20:00Z": {
+   "number": "UT 1288",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-28T18:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -84,6 +94,7 @@
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
-  "2026-11-28T16:07:26Z"
+  "2026-11-28T16:07:26Z",
+  "2026-11-28T18:07:24Z"
  ]
 }

@@ -228,9 +228,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T15:45:00Z",
-   "actual": "2026-11-28T15:45:00Z"
+   "actual": "2026-11-28T16:46:00Z"
   },
   "UT 719|2026-11-28T16:15:00Z": {
    "number": "UT 719",
@@ -238,9 +238,29 @@
    "to": "SSH",
    "to_name": "Sharm el Sheikh",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T16:15:00Z",
-   "actual": "2026-11-28T16:15:00Z"
+   "actual": "2026-11-28T17:12:00Z"
+  },
+  "UT 102|2026-11-28T16:30:00Z": {
+   "number": "UT 102",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-28T16:30:00Z",
+   "actual": "2026-11-28T17:45:00Z"
+  },
+  "S7 5354|2026-11-28T17:30:00Z": {
+   "number": "S7 5354",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-28T17:30:00Z",
+   "actual": "2026-11-28T17:48:00Z"
   }
  },
  "fetched": [
@@ -254,6 +274,7 @@
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
-  "2026-11-28T16:07:26Z"
+  "2026-11-28T16:07:26Z",
+  "2026-11-28T18:07:24Z"
  ]
 }

@@ -88,9 +88,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T16:25:00Z",
-   "actual": "2026-11-28T16:25:00Z"
+   "actual": "2026-11-28T16:39:00Z"
+  },
+  "FV 6644|2026-11-28T09:40:00Z": {
+   "number": "FV 6644",
+   "airline": "Rossiya",
+   "to": "AER",
+   "to_name": "Sochi",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-28T09:40:00Z",
+   "actual": "2026-11-28T17:41:00Z"
+  },
+  "HY 9672|2026-11-28T19:00:00Z": {
+   "number": "HY 9672",
+   "airline": "Uzbekistan",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T19:00:00Z",
+   "actual": "2026-11-28T19:00:00Z"
   }
  },
  "fetched": [
@@ -103,6 +123,7 @@
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
-  "2026-11-28T16:07:26Z"
+  "2026-11-28T16:07:26Z",
+  "2026-11-28T18:07:24Z"
  ]
 }

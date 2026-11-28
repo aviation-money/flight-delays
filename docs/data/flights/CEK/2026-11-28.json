@@ -141,6 +141,26 @@
    "status": "Departed",
    "scheduled": "2026-11-28T14:30:00Z",
    "actual": "2026-11-28T14:59:00Z"
+  },
+  "S7 7046|2026-11-28T17:55:00Z": {
+   "number": "S7 7046",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T17:55:00Z",
+   "actual": "2026-11-28T17:55:00Z"
+  },
+  "U6 2811|2026-11-28T18:20:00Z": {
+   "number": "U6 2811",
+   "airline": "Ural",
+   "to": "Dushanbe",
+   "to_name": "Dushanbe",
+   "model": "Airbus",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T18:20:00Z",
+   "actual": "2026-11-28T18:20:00Z"
   }
  },
  "fetched": [
@@ -154,6 +174,7 @@
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
-  "2026-11-28T16:07:26Z"
+  "2026-11-28T16:07:26Z",
+  "2026-11-28T18:07:24Z"
  ]
 }

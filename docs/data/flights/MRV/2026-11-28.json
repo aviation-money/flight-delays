@@ -358,9 +358,9 @@
    "to": "Makhachkala",
    "to_name": "Makhachkala",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T15:45:00Z",
-   "actual": "2026-11-28T15:45:00Z"
+   "actual": "2026-11-28T16:07:00Z"
   },
   "A4 6119|2026-11-28T16:50:00Z": {
    "number": "A4 6119",
@@ -371,6 +371,36 @@
    "status": "Unknown",
    "scheduled": "2026-11-28T16:50:00Z",
    "actual": null
+  },
+  "DP 6912|2026-11-28T16:35:00Z": {
+   "number": "DP 6912",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T16:35:00Z",
+   "actual": "2026-11-28T18:25:00Z"
+  },
+  "A4 6067|2026-11-28T18:40:00Z": {
+   "number": "A4 6067",
+   "airline": "Azimuth",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T18:40:00Z",
+   "actual": "2026-11-28T18:40:00Z"
+  },
+  "C6 450|2026-11-28T19:00:00Z": {
+   "number": "C6 450",
+   "airline": "Centrum Air",
+   "to": "TAS",
+   "to_name": "Tashkent",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T19:00:00Z",
+   "actual": "2026-11-28T19:00:00Z"
   }
  },
  "fetched": [
@@ -383,6 +413,7 @@
   "2026-11-28T10:07:32Z",
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
-  "2026-11-28T16:07:26Z"
+  "2026-11-28T16:07:26Z",
+  "2026-11-28T18:07:24Z"
  ]
 }

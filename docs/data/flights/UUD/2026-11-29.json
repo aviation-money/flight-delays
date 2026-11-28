@@ -1,8 +1,20 @@
 {
  "airport": "UUD",
  "date": "2026-11-29",
- "flights": {},
+ "flights": {
+  "IO 315|2026-11-28T17:30:00Z": {
+   "number": "IO 315",
+   "airline": "IrAero",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-28T17:30:00Z",
+   "actual": "2026-11-28T17:38:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-28T16:07:26Z"
+  "2026-11-28T16:07:26Z",
+  "2026-11-28T18:07:24Z"
  ]
 }
