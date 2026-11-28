@@ -148,9 +148,9 @@
    "to": "JMU",
    "to_name": "Jiamusi",
    "model": "Comac C909/ARJ21-700",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-28T03:55:00Z",
-   "actual": "2026-11-28T09:40:00Z"
+   "actual": "2026-11-28T09:57:00Z"
   },
   "FV 6280|2026-11-28T07:05:00Z": {
    "number": "FV 6280",
@@ -208,9 +208,9 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T10:10:00Z",
-   "actual": "2026-11-28T10:10:00Z"
+   "actual": "2026-11-28T10:21:00Z"
   },
   "SU 7373|2026-11-28T11:00:00Z": {
    "number": "SU 7373",
@@ -221,6 +221,36 @@
    "status": "Expected",
    "scheduled": "2026-11-28T11:00:00Z",
    "actual": "2026-11-28T11:00:00Z"
+  },
+  "HZ 5652|2026-11-28T11:55:00Z": {
+   "number": "HZ 5652",
+   "airline": "Aurora",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-28T11:55:00Z",
+   "actual": "2026-11-28T11:55:00Z"
+  },
+  "EU 2926|2026-11-28T09:15:00Z": {
+   "number": "EU 2926",
+   "airline": "Chengdu",
+   "to": "HRB",
+   "to_name": "Harbin",
+   "model": "Comac C909/ARJ21-700",
+   "status": "Delayed",
+   "scheduled": "2026-11-28T09:15:00Z",
+   "actual": "2026-11-28T12:40:00Z"
+  },
+  "SU 850|2026-11-28T12:10:00Z": {
+   "number": "SU 850",
+   "airline": "Aeroflot",
+   "to": "SYX",
+   "to_name": "Sanya",
+   "model": "Boeing 737-800",
+   "status": "Delayed",
+   "scheduled": "2026-11-28T12:10:00Z",
+   "actual": "2026-11-28T12:40:00Z"
   }
  },
  "fetched": [
@@ -234,6 +264,7 @@
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
-  "2026-11-28T10:07:32Z"
+  "2026-11-28T10:07:32Z",
+  "2026-11-28T12:07:27Z"
  ]
 }

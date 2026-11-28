@@ -181,6 +181,36 @@
    "status": "Departed",
    "scheduled": "2026-11-28T07:15:00Z",
    "actual": "2026-11-28T07:40:00Z"
+  },
+  "UT 213|2026-11-28T11:45:00Z": {
+   "number": "UT 213",
+   "airline": "UTAir",
+   "to": "BAX",
+   "to_name": "Barnaul",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-28T11:45:00Z",
+   "actual": "2026-11-28T11:46:00Z"
+  },
+  "KA 568|2026-11-28T11:25:00Z": {
+   "number": "KA 568",
+   "airline": "Cathay Dragon",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T11:25:00Z",
+   "actual": "2026-11-28T11:55:00Z"
+  },
+  "UT 296|2026-11-28T13:00:00Z": {
+   "number": "UT 296",
+   "airline": "UTAir",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T13:00:00Z",
+   "actual": "2026-11-28T13:00:00Z"
   }
  },
  "fetched": [
@@ -191,6 +221,7 @@
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
-  "2026-11-28T10:07:32Z"
+  "2026-11-28T10:07:32Z",
+  "2026-11-28T12:07:27Z"
  ]
 }

@@ -61,6 +61,26 @@
    "status": "Departed",
    "scheduled": "2026-11-28T09:00:00Z",
    "actual": "2026-11-28T09:13:00Z"
+  },
+  "FV 6114|2026-11-28T12:50:00Z": {
+   "number": "FV 6114",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T12:50:00Z",
+   "actual": "2026-11-28T12:50:00Z"
+  },
+  "RT 9151|2026-11-28T13:00:00Z": {
+   "number": "RT 9151",
+   "airline": "UVT Aero",
+   "to": "NBC",
+   "to_name": "Nizhnekamsk",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T13:00:00Z",
+   "actual": "2026-11-28T13:00:00Z"
   }
  },
  "fetched": [
@@ -70,6 +90,7 @@
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
-  "2026-11-28T10:07:32Z"
+  "2026-11-28T10:07:32Z",
+  "2026-11-28T12:07:27Z"
  ]
 }

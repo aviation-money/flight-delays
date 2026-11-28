@@ -151,6 +151,36 @@
    "status": "Expected",
    "scheduled": "2026-11-28T10:55:00Z",
    "actual": "2026-11-28T10:55:00Z"
+  },
+  "UT 306|2026-11-28T12:50:00Z": {
+   "number": "UT 306",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-28T12:50:00Z",
+   "actual": "2026-11-28T12:50:00Z"
+  },
+  "RT 652|2026-11-28T13:00:00Z": {
+   "number": "RT 652",
+   "airline": "UVT Aero",
+   "to": "RMZ",
+   "to_name": "Tobolsk",
+   "model": "TsR200",
+   "status": "Expected",
+   "scheduled": "2026-11-28T13:00:00Z",
+   "actual": "2026-11-28T13:00:00Z"
+  },
+  "S7 5346|2026-11-28T13:05:00Z": {
+   "number": "S7 5346",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "EMB170",
+   "status": "Expected",
+   "scheduled": "2026-11-28T13:05:00Z",
+   "actual": "2026-11-28T13:05:00Z"
   }
  },
  "fetched": [
@@ -162,6 +192,7 @@
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
   "2026-11-28T08:07:25Z",
-  "2026-11-28T10:07:32Z"
+  "2026-11-28T10:07:32Z",
+  "2026-11-28T12:07:27Z"
  ]
 }
