@@ -88,9 +88,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T01:20:00Z",
-   "actual": "2026-11-28T06:30:00Z"
+   "actual": "2026-11-28T07:00:00Z"
   },
   "UT 123|2026-11-28T02:40:00Z": {
    "number": "UT 123",
@@ -148,9 +148,29 @@
    "to": "URJ",
    "to_name": "Uray",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T05:50:00Z",
-   "actual": "2026-11-28T05:50:00Z"
+   "actual": "2026-11-28T05:59:00Z"
+  },
+  "YC 9741|2026-11-28T07:20:00Z": {
+   "number": "YC 9741",
+   "airline": "Yamal",
+   "to": "Sabetta",
+   "to_name": "Sabetta",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-28T07:20:00Z",
+   "actual": "2026-11-28T07:47:00Z"
+  },
+  "SU 1505|2026-11-28T08:25:00Z": {
+   "number": "SU 1505",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T08:25:00Z",
+   "actual": "2026-11-28T08:25:00Z"
   }
  },
  "fetched": [
@@ -159,6 +179,7 @@
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
-  "2026-11-28T06:07:24Z"
+  "2026-11-28T06:07:24Z",
+  "2026-11-28T08:07:25Z"
  ]
 }

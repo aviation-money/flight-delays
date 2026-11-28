@@ -111,6 +111,26 @@
    "status": "Canceled",
    "scheduled": "2026-11-28T04:00:00Z",
    "actual": "2026-11-28T04:00:00Z"
+  },
+  "YC 418|2026-11-28T08:20:00Z": {
+   "number": "YC 418",
+   "airline": "Yamal",
+   "to": "SLY",
+   "to_name": "Salekhard",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T08:20:00Z",
+   "actual": "2026-11-28T08:20:00Z"
+  },
+  "YC 918|2026-11-28T08:30:00Z": {
+   "number": "YC 918",
+   "airline": "Yamal",
+   "to": "NUX",
+   "to_name": "Novyy Urengoy",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T08:30:00Z",
+   "actual": "2026-11-28T08:30:00Z"
   }
  },
  "fetched": [
@@ -120,6 +140,7 @@
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
-  "2026-11-28T06:07:24Z"
+  "2026-11-28T06:07:24Z",
+  "2026-11-28T08:07:25Z"
  ]
 }

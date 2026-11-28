@@ -18,9 +18,29 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T06:50:00Z",
-   "actual": "2026-11-28T07:05:00Z"
+   "actual": "2026-11-28T07:15:00Z"
+  },
+  "SU 1759|2026-11-28T07:30:00Z": {
+   "number": "SU 1759",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-28T07:30:00Z",
+   "actual": "2026-11-28T07:31:00Z"
+  },
+  "S7 7068|2026-11-28T07:45:00Z": {
+   "number": "S7 7068",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A320",
+   "status": "Departed",
+   "scheduled": "2026-11-28T07:45:00Z",
+   "actual": "2026-11-28T07:47:00Z"
   }
  },
  "fetched": [
@@ -28,6 +48,7 @@
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
-  "2026-11-28T06:07:24Z"
+  "2026-11-28T06:07:24Z",
+  "2026-11-28T08:07:25Z"
  ]
 }

@@ -88,9 +88,19 @@
    "to": "KKQ",
    "to_name": "Krasnoselkup",
    "model": "Mil Mi-8",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T07:00:00Z",
    "actual": "2026-11-28T07:00:00Z"
+  },
+  "UT 542|2026-11-28T07:30:00Z": {
+   "number": "UT 542",
+   "airline": "UTAir",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-28T07:30:00Z",
+   "actual": "2026-11-28T07:33:00Z"
   }
  },
  "fetched": [
@@ -99,6 +109,7 @@
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
-  "2026-11-28T06:07:24Z"
+  "2026-11-28T06:07:24Z",
+  "2026-11-28T08:07:25Z"
  ]
 }

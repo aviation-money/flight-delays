@@ -178,7 +178,7 @@
    "to": "YKS",
    "to_name": "Yakutsk",
    "model": "Sukhoi Superjet 100",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:50:00Z",
    "actual": "2026-11-28T04:52:00Z"
   },
@@ -188,7 +188,7 @@
    "to": "UUS",
    "to_name": "Yuzhno-Sakhalinsk",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T05:20:00Z",
    "actual": "2026-11-28T05:24:00Z"
   },
@@ -200,7 +200,7 @@
    "model": "Airbus A319",
    "status": "Expected",
    "scheduled": "2026-11-28T06:35:00Z",
-   "actual": "2026-11-28T06:35:00Z"
+   "actual": "2026-11-28T06:42:00Z"
   },
   "CA 810|2026-11-28T06:45:00Z": {
    "number": "CA 810",
@@ -210,7 +210,27 @@
    "model": "Airbus A321",
    "status": "Expected",
    "scheduled": "2026-11-28T06:45:00Z",
-   "actual": "2026-11-28T06:45:00Z"
+   "actual": "2026-11-28T07:15:00Z"
+  },
+  "HZ 5608|2026-11-28T07:55:00Z": {
+   "number": "HZ 5608",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Expected",
+   "scheduled": "2026-11-28T07:55:00Z",
+   "actual": "2026-11-28T08:00:00Z"
+  },
+  "S7 6207|2026-11-28T08:30:00Z": {
+   "number": "S7 6207",
+   "airline": "S7",
+   "to": "YKS",
+   "to_name": "Yakutsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-28T08:30:00Z",
+   "actual": "2026-11-28T08:30:00Z"
   }
  },
  "fetched": [
@@ -222,6 +242,7 @@
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
-  "2026-11-28T06:07:24Z"
+  "2026-11-28T06:07:24Z",
+  "2026-11-28T08:07:25Z"
  ]
 }

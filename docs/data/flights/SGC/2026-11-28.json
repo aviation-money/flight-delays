@@ -148,9 +148,9 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "Boeing 737-400",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:20:00Z",
-   "actual": "2026-11-28T06:30:00Z"
+   "actual": "2026-11-28T07:54:00Z"
   },
   "UT 735|2026-11-28T04:30:00Z": {
    "number": "UT 735",
@@ -160,7 +160,27 @@
    "model": "Boeing 737-800",
    "status": "Expected",
    "scheduled": "2026-11-28T04:30:00Z",
-   "actual": "2026-11-28T06:50:00Z"
+   "actual": "2026-11-28T04:30:00Z"
+  },
+  "UT 153|2026-11-28T07:10:00Z": {
+   "number": "UT 153",
+   "airline": "UTAir",
+   "to": "Beloyarskiy",
+   "to_name": "Beloyarskiy",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-28T07:10:00Z",
+   "actual": "2026-11-28T07:19:00Z"
+  },
+  "UT 1407|2026-11-28T07:15:00Z": {
+   "number": "UT 1407",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-500",
+   "status": "Departed",
+   "scheduled": "2026-11-28T07:15:00Z",
+   "actual": "2026-11-28T07:40:00Z"
   }
  },
  "fetched": [
@@ -169,6 +189,7 @@
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
-  "2026-11-28T06:07:24Z"
+  "2026-11-28T06:07:24Z",
+  "2026-11-28T08:07:25Z"
  ]
 }

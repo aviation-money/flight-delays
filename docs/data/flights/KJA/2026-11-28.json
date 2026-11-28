@@ -288,9 +288,19 @@
    "to": "Norilsk",
    "to_name": "Norilsk",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T07:00:00Z",
    "actual": "2026-11-28T07:00:00Z"
+  },
+  "S7 5308|2026-11-28T07:50:00Z": {
+   "number": "S7 5308",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-28T07:50:00Z",
+   "actual": "2026-11-28T07:50:00Z"
   }
  },
  "fetched": [
@@ -300,6 +310,7 @@
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
-  "2026-11-28T06:07:24Z"
+  "2026-11-28T06:07:24Z",
+  "2026-11-28T08:07:25Z"
  ]
 }

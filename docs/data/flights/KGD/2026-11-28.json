@@ -28,9 +28,79 @@
    "to": "Kaliningrad",
    "to_name": "Kaliningrad",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T07:00:00Z",
-   "actual": "2026-11-28T07:00:00Z"
+   "actual": "2026-11-28T07:03:00Z"
+  },
+  "SU 1001|2026-11-28T07:15:00Z": {
+   "number": "SU 1001",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-28T07:15:00Z",
+   "actual": "2026-11-28T07:17:00Z"
+  },
+  "FV 6324|2026-11-28T07:35:00Z": {
+   "number": "FV 6324",
+   "airline": "Rossiya",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-28T07:35:00Z",
+   "actual": "2026-11-28T07:38:00Z"
+  },
+  "DP 530|2026-11-28T06:40:00Z": {
+   "number": "DP 530",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T06:40:00Z",
+   "actual": "2026-11-28T08:25:00Z"
+  },
+  "N4 855|2026-11-28T08:50:00Z": {
+   "number": "N4 855",
+   "airline": "Nordwind",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T08:50:00Z",
+   "actual": "2026-11-28T08:50:00Z"
+  },
+  "FV 6310|2026-11-28T08:55:00Z": {
+   "number": "FV 6310",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-900",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T08:55:00Z",
+   "actual": "2026-11-28T08:55:00Z"
+  },
+  "5N 3103|2026-11-28T08:55:00Z": {
+   "number": "5N 3103",
+   "airline": "Smartavia",
+   "to": "CEK",
+   "to_name": "Chelyabinsk",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T08:55:00Z",
+   "actual": "2026-11-28T08:55:00Z"
+  },
+  "5N 506|2026-11-28T09:00:00Z": {
+   "number": "5N 506",
+   "airline": "Smartavia",
+   "to": "Saint Petersburg",
+   "to_name": "Saint Petersburg",
+   "model": "Boeing 737",
+   "status": "Expected",
+   "scheduled": "2026-11-28T09:00:00Z",
+   "actual": "2026-11-28T09:00:00Z"
   }
  },
  "fetched": [
@@ -38,6 +108,7 @@
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
-  "2026-11-28T06:07:24Z"
+  "2026-11-28T06:07:24Z",
+  "2026-11-28T08:07:25Z"
  ]
 }

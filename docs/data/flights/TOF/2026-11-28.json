@@ -48,9 +48,19 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T06:40:00Z",
-   "actual": "2026-11-28T06:40:00Z"
+   "actual": "2026-11-28T06:44:00Z"
+  },
+  "UT 157|2026-11-28T09:05:00Z": {
+   "number": "UT 157",
+   "airline": "UTAir",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "ATR 72",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T09:05:00Z",
+   "actual": "2026-11-28T09:05:00Z"
   }
  },
  "fetched": [
@@ -60,6 +70,7 @@
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
-  "2026-11-28T06:07:24Z"
+  "2026-11-28T06:07:24Z",
+  "2026-11-28T08:07:25Z"
  ]
 }
