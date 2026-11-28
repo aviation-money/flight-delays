@@ -18,15 +18,36 @@
    "to": "KGD",
    "to_name": "Kaliningrad",
    "model": "Boeing 737-800",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:40:00Z",
-   "actual": "2026-11-28T04:40:00Z"
+   "actual": "2026-11-28T05:04:00Z"
+  },
+  "FV 6226|2026-11-28T06:00:00Z": {
+   "number": "FV 6226",
+   "airline": "Rossiya",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T06:00:00Z",
+   "actual": "2026-11-28T06:00:00Z"
+  },
+  "LUK 9633|2026-11-28T06:00:00Z": {
+   "number": "LUK 9633",
+   "airline": "LUKOIL-AVIA LLC",
+   "to": "GSV",
+   "to_name": "Saratov",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T06:00:00Z",
+   "actual": "2026-11-28T06:00:00Z"
   }
  },
  "fetched": [
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

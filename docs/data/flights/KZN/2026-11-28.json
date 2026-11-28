@@ -68,9 +68,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320 (Sharklets)",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T03:50:00Z",
-   "actual": "2026-11-28T03:56:00Z"
+   "actual": "2026-11-28T03:50:00Z"
   },
   "NE 651|2026-11-28T03:35:00Z": {
    "number": "NE 651",
@@ -78,9 +78,9 @@
    "to": "Hurghada",
    "to_name": "Hurghada",
    "model": "Airbus A320",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T03:35:00Z",
-   "actual": "2026-11-28T04:05:00Z"
+   "actual": "2026-11-28T04:01:00Z"
   },
   "RT 453|2026-11-28T04:20:00Z": {
    "number": "RT 453",
@@ -88,15 +88,66 @@
    "to": "RMZ",
    "to_name": "Tobolsk",
    "model": "Canadair CRJ 200",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:20:00Z",
-   "actual": "2026-11-28T04:20:00Z"
+   "actual": "2026-11-28T04:07:00Z"
+  },
+  "U6 2989|2026-11-28T05:50:00Z": {
+   "number": "U6 2989",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A320",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T05:50:00Z",
+   "actual": "2026-11-28T05:50:00Z"
+  },
+  "WZ 1068|2026-11-28T06:00:00Z": {
+   "number": "WZ 1068",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100-95",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T06:00:00Z",
+   "actual": "2026-11-28T06:00:00Z"
+  },
+  "RT 529|2026-11-28T05:50:00Z": {
+   "number": "RT 529",
+   "airline": "UVT Aero",
+   "to": "GRV",
+   "to_name": "Grozny",
+   "model": "Canadair CRJ 200",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T05:50:00Z",
+   "actual": "2026-11-28T06:20:00Z"
+  },
+  "DP 779|2026-11-28T06:25:00Z": {
+   "number": "DP 779",
+   "airline": "Pobeda",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T06:25:00Z",
+   "actual": "2026-11-28T06:25:00Z"
+  },
+  "WZ 1501|2026-11-28T06:50:00Z": {
+   "number": "WZ 1501",
+   "airline": "Red Wings",
+   "to": "TBS",
+   "to_name": "Tbilisi",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T06:50:00Z",
+   "actual": "2026-11-28T06:50:00Z"
   }
  },
  "fetched": [
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

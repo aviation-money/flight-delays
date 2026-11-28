@@ -65,7 +65,7 @@
   "IO 483|2026-11-28T02:30:00Z": {
    "number": "IO 483",
    "airline": "IrAero",
-   "to": "Baku",
+   "to": "GYD",
    "to_name": "Baku",
    "model": "Sukhoi Superjet 100",
    "status": "Departed",
@@ -81,6 +81,16 @@
    "status": "Departed",
    "scheduled": "2026-11-28T01:00:00Z",
    "actual": "2026-11-28T03:44:00Z"
+  },
+  "UJ 754|2026-11-27T23:10:00Z": {
+   "number": "UJ 754",
+   "airline": "Al Masriya Yuniversal Airlaynz",
+   "to": "Sharm el Sheikh",
+   "to_name": "Sharm el Sheikh",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T23:10:00Z",
+   "actual": "2026-11-28T06:05:00Z"
   }
  },
  "fetched": [
@@ -88,6 +98,7 @@
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

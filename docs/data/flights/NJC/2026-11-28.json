@@ -51,6 +51,26 @@
    "status": "Expected",
    "scheduled": "2026-11-28T02:05:00Z",
    "actual": null
+  },
+  "UT 316|2026-11-28T05:50:00Z": {
+   "number": "UT 316",
+   "airline": "UTAir",
+   "to": "HMA",
+   "to_name": "Khanty-Mansiysk",
+   "model": "ATR 72",
+   "status": "Expected",
+   "scheduled": "2026-11-28T05:50:00Z",
+   "actual": null
+  },
+  "A4 4048|2026-11-28T06:20:00Z": {
+   "number": "A4 4048",
+   "airline": "Azimuth",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-28T06:20:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -58,6 +78,7 @@
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

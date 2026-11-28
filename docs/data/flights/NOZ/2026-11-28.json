@@ -48,9 +48,9 @@
    "to": "KZN",
    "to_name": "Kazan",
    "model": "Airbus A321",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T03:15:00Z",
-   "actual": "2026-11-28T03:50:00Z"
+   "actual": "2026-11-28T03:46:00Z"
   },
   "S7 7010|2026-11-28T04:45:00Z": {
    "number": "S7 7010",
@@ -58,9 +58,19 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Embraer 170",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:45:00Z",
-   "actual": "2026-11-28T04:45:00Z"
+   "actual": "2026-11-28T05:03:00Z"
+  },
+  "WZ 5092|2026-11-28T06:10:00Z": {
+   "number": "WZ 5092",
+   "airline": "Red Wings",
+   "to": "SVX",
+   "to_name": "Ekaterinburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T06:10:00Z",
+   "actual": "2026-11-28T07:00:00Z"
   }
  },
  "fetched": [
@@ -69,6 +79,7 @@
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

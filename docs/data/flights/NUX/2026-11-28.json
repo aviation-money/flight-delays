@@ -48,9 +48,9 @@
    "to": "WNR",
    "to_name": "Novyy Urengoy",
    "model": null,
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:00:00Z",
-   "actual": "2026-11-28T04:00:00Z"
+   "actual": "2026-11-28T04:19:00Z"
   },
   "4G 9816|2026-11-28T04:30:00Z": {
    "number": "4G 9816",
@@ -58,9 +58,39 @@
    "to": "Novyy Port",
    "to_name": "Novyy Port",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:30:00Z",
-   "actual": "2026-11-28T04:30:00Z"
+   "actual": "2026-11-28T04:45:00Z"
+  },
+  "YC 917|2026-11-28T05:25:00Z": {
+   "number": "YC 917",
+   "airline": "Yamal",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-28T05:25:00Z",
+   "actual": "2026-11-28T05:28:00Z"
+  },
+  "4G 9814|2026-11-28T05:30:00Z": {
+   "number": "4G 9814",
+   "airline": "Gazpromavia",
+   "to": "Novyy Port",
+   "to_name": "Novyy Port",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-28T05:30:00Z",
+   "actual": "2026-11-28T05:43:00Z"
+  },
+  "ЯЛ 41|2026-11-28T07:00:00Z": {
+   "number": "ЯЛ 41",
+   "airline": "OOO Aviatsionnaya kompaniya Yamal",
+   "to": "KKQ",
+   "to_name": "Krasnoselkup",
+   "model": "Mil Mi-8",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T07:00:00Z",
+   "actual": "2026-11-28T07:00:00Z"
   }
  },
  "fetched": [
@@ -68,6 +98,7 @@
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

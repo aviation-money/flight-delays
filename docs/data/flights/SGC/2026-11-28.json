@@ -141,6 +141,26 @@
    "status": "Departed",
    "scheduled": "2026-11-28T03:55:00Z",
    "actual": "2026-11-28T03:56:00Z"
+  },
+  "UT 103|2026-11-28T04:20:00Z": {
+   "number": "UT 103",
+   "airline": "UTAir",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-400",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T04:20:00Z",
+   "actual": "2026-11-28T06:30:00Z"
+  },
+  "UT 735|2026-11-28T04:30:00Z": {
+   "number": "UT 735",
+   "airline": "UTAir",
+   "to": "DWC",
+   "to_name": "Jebel Ali",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-28T04:30:00Z",
+   "actual": "2026-11-28T06:50:00Z"
   }
  },
  "fetched": [
@@ -148,6 +168,7 @@
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

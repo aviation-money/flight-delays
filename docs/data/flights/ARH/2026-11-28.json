@@ -11,12 +11,33 @@
    "status": "Departed",
    "scheduled": "2026-11-28T02:55:00Z",
    "actual": "2026-11-28T03:24:00Z"
+  },
+  "D2 53|2026-11-28T06:00:00Z": {
+   "number": "D2 53",
+   "airline": "Severstal Aircompany",
+   "to": "MMK",
+   "to_name": "Murmansk",
+   "model": "CRJ200LR",
+   "status": "Departed",
+   "scheduled": "2026-11-28T06:00:00Z",
+   "actual": "2026-11-28T06:00:00Z"
+  },
+  "СИ 9641|2026-11-28T06:00:00Z": {
+   "number": "СИ 9641",
+   "airline": "Arktika",
+   "to": "Amderma-2",
+   "to_name": "Amderma-2",
+   "model": "Yak 42",
+   "status": "Canceled",
+   "scheduled": "2026-11-28T06:00:00Z",
+   "actual": "2026-11-28T06:00:00Z"
   }
  },
  "fetched": [
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

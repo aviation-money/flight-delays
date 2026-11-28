@@ -78,15 +78,26 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Airbus A320",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:50:00Z",
    "actual": "2026-11-28T04:50:00Z"
+  },
+  "DP 112|2026-11-28T05:40:00Z": {
+   "number": "DP 112",
+   "airline": "Pobeda",
+   "to": "VKO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-28T05:40:00Z",
+   "actual": "2026-11-28T07:00:00Z"
   }
  },
  "fetched": [
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

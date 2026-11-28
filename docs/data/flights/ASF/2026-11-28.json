@@ -7,7 +7,7 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-28T03:00:00Z",
    "actual": "2026-11-28T03:23:00Z"
@@ -18,9 +18,9 @@
    "to": "Filanovskogo-1",
    "to_name": "Filanovskogo-1",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T05:00:00Z",
-   "actual": "2026-11-28T05:00:00Z"
+   "actual": "2026-11-28T05:14:00Z"
   }
  },
  "fetched": [
@@ -28,6 +28,7 @@
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }

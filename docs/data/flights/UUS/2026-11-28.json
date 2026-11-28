@@ -68,9 +68,39 @@
    "to": "DEE",
    "to_name": "Kunashir Island",
    "model": "Bombardier Dash 8 Q400 / DHC-8-400",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:05:00Z",
-   "actual": "2026-11-28T04:05:00Z"
+   "actual": "2026-11-28T03:58:00Z"
+  },
+  "HZ 5607|2026-11-28T05:10:00Z": {
+   "number": "HZ 5607",
+   "airline": "Aurora",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-28T05:10:00Z",
+   "actual": "2026-11-28T05:07:00Z"
+  },
+  "FV 5708|2026-11-28T06:30:00Z": {
+   "number": "FV 5708",
+   "airline": "Rossiya",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Sukhoi Superjet 100",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T06:30:00Z",
+   "actual": "2026-11-28T06:30:00Z"
+  },
+  "SU 5823|2026-11-28T06:00:00Z": {
+   "number": "SU 5823",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A330-300",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T06:00:00Z",
+   "actual": "2026-11-28T06:50:00Z"
   }
  },
  "fetched": [
@@ -81,6 +111,7 @@
   "2026-11-27T22:07:29Z",
   "2026-11-28T00:07:26Z",
   "2026-11-28T02:07:34Z",
-  "2026-11-28T04:07:27Z"
+  "2026-11-28T04:07:27Z",
+  "2026-11-28T06:07:24Z"
  ]
 }
