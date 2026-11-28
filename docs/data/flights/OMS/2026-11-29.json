@@ -1,8 +1,20 @@
 {
  "airport": "OMS",
  "date": "2026-11-29",
- "flights": {},
+ "flights": {
+  "N4 3691|2026-11-28T20:10:00Z": {
+   "number": "N4 3691",
+   "airline": "Nordwind",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "A330-3",
+   "status": "Expected",
+   "scheduled": "2026-11-28T20:10:00Z",
+   "actual": "2026-11-28T20:10:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-28T18:07:24Z"
+  "2026-11-28T18:07:24Z",
+  "2026-11-28T20:07:28Z"
  ]
 }

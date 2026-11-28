@@ -21,11 +21,32 @@
    "status": "Departed",
    "scheduled": "2026-11-28T16:00:00Z",
    "actual": "2026-11-28T16:05:00Z"
+  },
+  "S7 6511|2026-11-28T19:10:00Z": {
+   "number": "S7 6511",
+   "airline": "S7",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus Industrie А320",
+   "status": "Departed",
+   "scheduled": "2026-11-28T19:10:00Z",
+   "actual": "2026-11-28T19:10:00Z"
+  },
+  "S7 6406|2026-11-28T20:55:00Z": {
+   "number": "S7 6406",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "del2",
+   "status": "Expected",
+   "scheduled": "2026-11-28T20:55:00Z",
+   "actual": "2026-11-28T20:55:00Z"
   }
  },
  "fetched": [
   "2026-11-28T14:07:25Z",
   "2026-11-28T16:07:26Z",
-  "2026-11-28T18:07:24Z"
+  "2026-11-28T18:07:24Z",
+  "2026-11-28T20:07:28Z"
  ]
 }

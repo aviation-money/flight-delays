@@ -1,0 +1,29 @@
+{
+ "airport": "KUF",
+ "date": "2026-11-29",
+ "flights": {
+  "UJ 648|2026-11-28T20:10:00Z": {
+   "number": "UJ 648",
+   "airline": "AlMasria",
+   "to": "HRG",
+   "to_name": "Hurghada",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T20:10:00Z",
+   "actual": "2026-11-28T20:10:00Z"
+  },
+  "FZ 996|2026-11-28T20:40:00Z": {
+   "number": "FZ 996",
+   "airline": "flydubai",
+   "to": "DXB",
+   "to_name": "Dubai",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T20:40:00Z",
+   "actual": "2026-11-28T20:40:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-28T20:07:28Z"
+ ]
+}

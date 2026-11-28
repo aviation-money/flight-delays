@@ -1,0 +1,29 @@
+{
+ "airport": "SVX",
+ "date": "2026-11-29",
+ "flights": {
+  "SU 632|2026-11-28T19:50:00Z": {
+   "number": "SU 632",
+   "airline": "Aeroflot",
+   "to": "GOI",
+   "to_name": "Vasco da Gama",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T19:50:00Z",
+   "actual": "2026-11-28T19:50:00Z"
+  },
+  "2S 126|2026-11-28T20:25:00Z": {
+   "number": "2S 126",
+   "airline": "Southwind",
+   "to": "AYT",
+   "to_name": "Antalya",
+   "model": null,
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T20:25:00Z",
+   "actual": "2026-11-28T20:25:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-28T20:07:28Z"
+ ]
+}

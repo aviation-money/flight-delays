@@ -11,9 +11,20 @@
    "status": "Departed",
    "scheduled": "2026-11-28T17:10:00Z",
    "actual": "2026-11-28T17:10:00Z"
+  },
+  "YK 768|2026-11-28T19:40:00Z": {
+   "number": "YK 768",
+   "airline": "Avia Traffic Company",
+   "to": "OSS",
+   "to_name": "Osh",
+   "model": "Boeing 737-300",
+   "status": "Expected",
+   "scheduled": "2026-11-28T19:40:00Z",
+   "actual": "2026-11-28T19:40:00Z"
   }
  },
  "fetched": [
-  "2026-11-28T18:07:24Z"
+  "2026-11-28T18:07:24Z",
+  "2026-11-28T20:07:28Z"
  ]
 }

@@ -91,6 +91,26 @@
    "status": "Delayed",
    "scheduled": "2026-11-28T15:35:00Z",
    "actual": "2026-11-28T19:00:00Z"
+  },
+  "U6 2441|2026-11-28T18:25:00Z": {
+   "number": "U6 2441",
+   "airline": "Ural",
+   "to": "DYU",
+   "to_name": "Dushanbe",
+   "model": "Airbus A321",
+   "status": "Delayed",
+   "scheduled": "2026-11-28T18:25:00Z",
+   "actual": "2026-11-28T19:35:00Z"
+  },
+  "SZ 276|2026-11-28T20:50:00Z": {
+   "number": "SZ 276",
+   "airline": "Somon Air",
+   "to": "LBD",
+   "to_name": "Khudzhand",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T20:50:00Z",
+   "actual": "2026-11-28T20:50:00Z"
   }
  },
  "fetched": [
@@ -104,6 +124,7 @@
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
   "2026-11-28T16:07:26Z",
-  "2026-11-28T18:07:24Z"
+  "2026-11-28T18:07:24Z",
+  "2026-11-28T20:07:28Z"
  ]
 }

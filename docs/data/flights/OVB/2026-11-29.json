@@ -28,16 +28,16 @@
    "to": "NER",
    "to_name": "Neryungri",
    "model": "Airbus A321",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T17:40:00Z",
-   "actual": "2026-11-28T17:40:00Z"
+   "actual": "2026-11-28T18:10:00Z"
   },
   "S7 5255|2026-11-28T17:45:00Z": {
    "number": "S7 5255",
    "airline": "S7",
    "to": "UUD",
    "to_name": "Ulan-Ude",
-   "model": "Airbus A320",
+   "model": "Airbus A320 (Sharklets)",
    "status": "Departed",
    "scheduled": "2026-11-28T17:45:00Z",
    "actual": "2026-11-28T18:00:00Z"
@@ -51,9 +51,80 @@
    "status": "Canceled",
    "scheduled": "2026-11-28T18:35:00Z",
    "actual": "2026-11-28T18:35:00Z"
+  },
+  "S7 5223|2026-11-28T19:15:00Z": {
+   "number": "S7 5223",
+   "airline": "S7",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T19:15:00Z",
+   "actual": "2026-11-28T19:15:00Z"
+  },
+  "S7 5309|2026-11-28T19:20:00Z": {
+   "number": "S7 5309",
+   "airline": "S7",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Embraer 170",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T19:20:00Z",
+   "actual": "2026-11-28T19:20:00Z"
+  },
+  "S7 5225|2026-11-28T19:15:00Z": {
+   "number": "S7 5225",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Embraer 170",
+   "status": "Departed",
+   "scheduled": "2026-11-28T19:15:00Z",
+   "actual": "2026-11-28T19:48:00Z"
+  },
+  "S7 5213|2026-11-28T19:25:00Z": {
+   "number": "S7 5213",
+   "airline": "S7",
+   "to": "BQS",
+   "to_name": "Blagoveschensk",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T19:25:00Z",
+   "actual": "2026-11-28T19:55:00Z"
+  },
+  "9Z 3515|2026-11-28T20:45:00Z": {
+   "number": "9Z 3515",
+   "airline": "Siamwings Airlines",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Airbus A330-200",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T20:45:00Z",
+   "actual": "2026-11-28T20:45:00Z"
+  },
+  "S7 5357|2026-11-28T20:45:00Z": {
+   "number": "S7 5357",
+   "airline": "S7",
+   "to": "TLK",
+   "to_name": "Talakan",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T20:45:00Z",
+   "actual": "2026-11-28T20:45:00Z"
+  },
+  "S7 5327|2026-11-28T20:55:00Z": {
+   "number": "S7 5327",
+   "airline": "S7",
+   "to": "NJC",
+   "to_name": "Nizhnevartovsk",
+   "model": "Embraer 170",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T20:55:00Z",
+   "actual": "2026-11-28T20:55:00Z"
   }
  },
  "fetched": [
-  "2026-11-28T18:07:24Z"
+  "2026-11-28T18:07:24Z",
+  "2026-11-28T20:07:28Z"
  ]
 }

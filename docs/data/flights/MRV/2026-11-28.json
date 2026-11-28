@@ -378,9 +378,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "Boarding",
+   "status": "Departed",
    "scheduled": "2026-11-28T16:35:00Z",
-   "actual": "2026-11-28T18:25:00Z"
+   "actual": "2026-11-28T18:27:00Z"
   },
   "A4 6067|2026-11-28T18:40:00Z": {
    "number": "A4 6067",
@@ -388,9 +388,9 @@
    "to": "NJC",
    "to_name": "Nizhnevartovsk",
    "model": "Sukhoi Superjet 100",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-28T18:40:00Z",
-   "actual": "2026-11-28T18:40:00Z"
+   "actual": "2026-11-28T18:48:00Z"
   },
   "C6 450|2026-11-28T19:00:00Z": {
    "number": "C6 450",
@@ -398,9 +398,9 @@
    "to": "TAS",
    "to_name": "Tashkent",
    "model": "Airbus A320",
-   "status": "CheckIn",
+   "status": "GateClosed",
    "scheduled": "2026-11-28T19:00:00Z",
-   "actual": "2026-11-28T19:00:00Z"
+   "actual": "2026-11-28T19:55:00Z"
   }
  },
  "fetched": [
@@ -414,6 +414,7 @@
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
   "2026-11-28T16:07:26Z",
-  "2026-11-28T18:07:24Z"
+  "2026-11-28T18:07:24Z",
+  "2026-11-28T20:07:28Z"
  ]
 }

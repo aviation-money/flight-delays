@@ -1,0 +1,19 @@
+{
+ "airport": "SGC",
+ "date": "2026-11-29",
+ "flights": {
+  "UT 417|2026-11-28T21:00:00Z": {
+   "number": "UT 417",
+   "airline": "UTAir",
+   "to": "KUF",
+   "to_name": "Samara",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T21:00:00Z",
+   "actual": "2026-11-28T21:00:00Z"
+  }
+ },
+ "fetched": [
+  "2026-11-28T20:07:28Z"
+ ]
+}

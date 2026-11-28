@@ -478,9 +478,39 @@
    "to": "SGC",
    "to_name": "Surgut",
    "model": "Boeing 737-800",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T18:10:00Z",
    "actual": "2026-11-28T19:00:00Z"
+  },
+  "S7 8406|2026-11-28T18:31:00Z": {
+   "number": "S7 8406",
+   "airline": "S7",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-28T18:31:00Z",
+   "actual": "2026-11-28T18:31:00Z"
+  },
+  "FV 6876|2026-11-28T18:34:00Z": {
+   "number": "FV 6876",
+   "airline": "Rossiya",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-28T18:34:00Z",
+   "actual": "2026-11-28T18:34:00Z"
+  },
+  "DP 343|2026-11-28T19:55:00Z": {
+   "number": "DP 343",
+   "airline": "Pobeda",
+   "to": "UFA",
+   "to_name": "Ufa",
+   "model": "Boeing 737-800",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T19:55:00Z",
+   "actual": "2026-11-28T20:10:00Z"
   }
  },
  "fetched": [
@@ -494,6 +524,7 @@
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
   "2026-11-28T16:07:26Z",
-  "2026-11-28T18:07:24Z"
+  "2026-11-28T18:07:24Z",
+  "2026-11-28T20:07:28Z"
  ]
 }

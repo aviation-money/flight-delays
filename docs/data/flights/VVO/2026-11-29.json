@@ -31,11 +31,42 @@
    "status": "Expected",
    "scheduled": "2026-11-28T14:05:00Z",
    "actual": "2026-11-28T17:42:00Z"
+  },
+  "S7 5202|2026-11-28T19:50:00Z": {
+   "number": "S7 5202",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-28T19:50:00Z",
+   "actual": "2026-11-28T19:50:00Z"
+  },
+  "S7 6241|2026-11-28T20:50:00Z": {
+   "number": "S7 6241",
+   "airline": "S7",
+   "to": "PKX",
+   "to_name": "Beijing",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-28T20:50:00Z",
+   "actual": "2026-11-28T20:50:00Z"
+  },
+  "Y7 3210|2026-11-28T21:00:00Z": {
+   "number": "Y7 3210",
+   "airline": "NordStar",
+   "to": "KJA",
+   "to_name": "Krasnoyarsk",
+   "model": "Boeing 737-800",
+   "status": "Expected",
+   "scheduled": "2026-11-28T21:00:00Z",
+   "actual": "2026-11-28T21:00:00Z"
   }
  },
  "fetched": [
   "2026-11-28T14:07:25Z",
   "2026-11-28T16:07:26Z",
-  "2026-11-28T18:07:24Z"
+  "2026-11-28T18:07:24Z",
+  "2026-11-28T20:07:28Z"
  ]
 }

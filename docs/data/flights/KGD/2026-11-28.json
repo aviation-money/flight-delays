@@ -328,9 +328,69 @@
    "to": "VKO",
    "to_name": "Moscow",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T18:15:00Z",
-   "actual": "2026-11-28T18:15:00Z"
+   "actual": "2026-11-28T18:36:00Z"
+  },
+  "DP 1264|2026-11-28T18:25:00Z": {
+   "number": "DP 1264",
+   "airline": "Pobeda",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T18:25:00Z",
+   "actual": "2026-11-28T19:15:00Z"
+  },
+  "5N 534|2026-11-28T19:20:00Z": {
+   "number": "5N 534",
+   "airline": "Smartavia",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-28T19:20:00Z",
+   "actual": "2026-11-28T19:33:00Z"
+  },
+  "DP 536|2026-11-28T15:30:00Z": {
+   "number": "DP 536",
+   "airline": "Pobeda",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Boeing 737-800",
+   "status": "Departed",
+   "scheduled": "2026-11-28T15:30:00Z",
+   "actual": "2026-11-28T19:47:00Z"
+  },
+  "N4 865|2026-11-28T19:55:00Z": {
+   "number": "N4 865",
+   "airline": "Nordwind",
+   "to": "TJM",
+   "to_name": "Tyumen",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T19:55:00Z",
+   "actual": "2026-11-28T19:55:00Z"
+  },
+  "RT 9445|2026-11-28T20:30:00Z": {
+   "number": "RT 9445",
+   "airline": "UVT Aero",
+   "to": "Moscow",
+   "to_name": "Moscow",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T20:30:00Z",
+   "actual": "2026-11-28T20:15:00Z"
+  },
+  "DP 6832|2026-11-28T16:35:00Z": {
+   "number": "DP 6832",
+   "airline": "Pobeda",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Boeing 737-800",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T16:35:00Z",
+   "actual": "2026-11-28T20:45:00Z"
   }
  },
  "fetched": [
@@ -344,6 +404,7 @@
   "2026-11-28T12:07:27Z",
   "2026-11-28T14:07:25Z",
   "2026-11-28T16:07:26Z",
-  "2026-11-28T18:07:24Z"
+  "2026-11-28T18:07:24Z",
+  "2026-11-28T20:07:28Z"
  ]
 }
