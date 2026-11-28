@@ -421,6 +421,16 @@
    "status": "Expected",
    "scheduled": "2026-11-28T06:25:00Z",
    "actual": null
+  },
+  "CA 870|2026-11-28T10:00:00Z": {
+   "number": "CA 870",
+   "airline": "Air China",
+   "to": "PEK",
+   "to_name": "Beijing",
+   "model": "Boeing 737-800",
+   "status": "Unknown",
+   "scheduled": "2026-11-28T10:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
@@ -432,6 +442,7 @@
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
-  "2026-11-28T08:07:25Z"
+  "2026-11-28T08:07:25Z",
+  "2026-11-28T10:07:32Z"
  ]
 }

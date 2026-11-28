@@ -7,10 +7,20 @@
    "airline": "Aeroflot",
    "to": "SVO",
    "to_name": "Moscow",
-   "model": "Airbus A320",
-   "status": "GateClosed",
+   "model": "Airbus A320-214",
+   "status": "Departed",
    "scheduled": "2026-11-28T07:55:00Z",
-   "actual": "2026-11-28T07:55:00Z"
+   "actual": "2026-11-28T08:24:00Z"
+  },
+  "5G 171|2026-11-28T10:45:00Z": {
+   "number": "5G 171",
+   "airline": "Shirak Avia",
+   "to": "EVN",
+   "to_name": "Yerevan",
+   "model": "Boeing 737-500",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T10:45:00Z",
+   "actual": "2026-11-28T10:45:00Z"
   }
  },
  "fetched": [
@@ -20,6 +30,7 @@
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
-  "2026-11-28T08:07:25Z"
+  "2026-11-28T08:07:25Z",
+  "2026-11-28T10:07:32Z"
  ]
 }

@@ -98,9 +98,19 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T08:00:00Z",
-   "actual": "2026-11-28T08:00:00Z"
+   "actual": "2026-11-28T08:16:00Z"
+  },
+  "SU 1203|2026-11-28T11:00:00Z": {
+   "number": "SU 1203",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T11:00:00Z",
+   "actual": "2026-11-28T11:00:00Z"
   }
  },
  "fetched": [
@@ -110,6 +120,7 @@
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
-  "2026-11-28T08:07:25Z"
+  "2026-11-28T08:07:25Z",
+  "2026-11-28T10:07:32Z"
  ]
 }

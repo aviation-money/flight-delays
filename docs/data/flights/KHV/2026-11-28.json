@@ -150,7 +150,7 @@
    "model": "Comac C909/ARJ21-700",
    "status": "Delayed",
    "scheduled": "2026-11-28T03:55:00Z",
-   "actual": "2026-11-28T04:30:00Z"
+   "actual": "2026-11-28T09:40:00Z"
   },
   "FV 6280|2026-11-28T07:05:00Z": {
    "number": "FV 6280",
@@ -158,9 +158,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Boeing 777-300",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-28T07:05:00Z",
-   "actual": "2026-11-28T07:55:00Z"
+   "actual": "2026-11-28T08:27:00Z"
   },
   "SU 5807|2026-11-28T05:15:00Z": {
    "number": "SU 5807",
@@ -168,9 +168,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus Industrie А330-200",
-   "status": "Delayed",
+   "status": "Departed",
    "scheduled": "2026-11-28T05:15:00Z",
-   "actual": "2026-11-28T07:55:00Z"
+   "actual": "2026-11-28T08:43:00Z"
   },
   "HZ 5601|2026-11-28T09:00:00Z": {
    "number": "HZ 5601",
@@ -178,9 +178,49 @@
    "to": "VVO",
    "to_name": "Vladivostok",
    "model": "Airbus A319",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-28T09:00:00Z",
-   "actual": "2026-11-28T09:00:00Z"
+   "actual": "2026-11-28T09:21:00Z"
+  },
+  "HZ 5624|2026-11-28T09:15:00Z": {
+   "number": "HZ 5624",
+   "airline": "Aurora",
+   "to": "UUS",
+   "to_name": "Yuzhno-Sakhalinsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-28T09:15:00Z",
+   "actual": "2026-11-28T09:26:00Z"
+  },
+  "HZ 5642|2026-11-28T09:25:00Z": {
+   "number": "HZ 5642",
+   "airline": "Aurora",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A319",
+   "status": "Departed",
+   "scheduled": "2026-11-28T09:25:00Z",
+   "actual": "2026-11-28T09:43:00Z"
+  },
+  "FV 5702|2026-11-28T10:10:00Z": {
+   "number": "FV 5702",
+   "airline": "Rossiya",
+   "to": "VVO",
+   "to_name": "Vladivostok",
+   "model": "Sukhoi Superjet 100",
+   "status": "Expected",
+   "scheduled": "2026-11-28T10:10:00Z",
+   "actual": "2026-11-28T10:10:00Z"
+  },
+  "SU 7373|2026-11-28T11:00:00Z": {
+   "number": "SU 7373",
+   "airline": "Aeroflot",
+   "to": "Omsk",
+   "to_name": "Omsk",
+   "model": "del2",
+   "status": "Expected",
+   "scheduled": "2026-11-28T11:00:00Z",
+   "actual": "2026-11-28T11:00:00Z"
   }
  },
  "fetched": [
@@ -193,6 +233,7 @@
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
-  "2026-11-28T08:07:25Z"
+  "2026-11-28T08:07:25Z",
+  "2026-11-28T10:07:32Z"
  ]
 }

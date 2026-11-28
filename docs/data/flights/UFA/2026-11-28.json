@@ -68,9 +68,9 @@
    "to": "EVN",
    "to_name": "Yerevan",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T01:50:00Z",
-   "actual": "2026-11-28T08:00:00Z"
+   "actual": "2026-11-28T08:11:00Z"
   },
   "5N 592|2026-11-28T02:15:00Z": {
    "number": "5N 592",
@@ -118,9 +118,9 @@
    "to": "SVO",
    "to_name": "Moscow",
    "model": "Airbus A320",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T02:55:00Z",
-   "actual": "2026-11-28T08:05:00Z"
+   "actual": "2026-11-28T08:27:00Z"
   },
   "UT 364|2026-11-28T03:00:00Z": {
    "number": "UT 364",
@@ -148,19 +148,19 @@
    "to": "SVX",
    "to_name": "Ekaterinburg",
    "model": "Sukhoi Superjet 100",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T04:20:00Z",
-   "actual": "2026-11-28T08:00:00Z"
+   "actual": "2026-11-28T08:09:00Z"
   },
   "UT 9045|2026-11-28T07:50:00Z": {
    "number": "UT 9045",
    "airline": "UTAir",
    "to": "BTK",
    "to_name": "Bratsk",
-   "model": "Boeing 737-500",
-   "status": "GateClosed",
+   "model": "Boeing 737-500 (winglets)",
+   "status": "Departed",
    "scheduled": "2026-11-28T07:50:00Z",
-   "actual": "2026-11-28T07:50:00Z"
+   "actual": "2026-11-28T08:14:00Z"
   },
   "UT 185|2026-11-28T07:55:00Z": {
    "number": "UT 185",
@@ -168,9 +168,69 @@
    "to": "NUX",
    "to_name": "Novyy Urengoy",
    "model": "Boeing 737-400",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T07:55:00Z",
-   "actual": "2026-11-28T08:30:00Z"
+   "actual": "2026-11-28T08:39:00Z"
+  },
+  "YC 247|2026-11-28T09:15:00Z": {
+   "number": "YC 247",
+   "airline": "Yamal",
+   "to": "NYM",
+   "to_name": "Nadym",
+   "model": "Sukhoi Superjet 100",
+   "status": "Departed",
+   "scheduled": "2026-11-28T09:15:00Z",
+   "actual": "2026-11-28T09:15:00Z"
+  },
+  "Y7 4703|2026-11-28T09:50:00Z": {
+   "number": "Y7 4703",
+   "airline": "NordStar",
+   "to": "Bovanenkovo",
+   "to_name": "Bovanenkovo",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T09:50:00Z",
+   "actual": "2026-11-28T09:50:00Z"
+  },
+  "S7 6420|2026-11-28T09:45:00Z": {
+   "number": "S7 6420",
+   "airline": "S7",
+   "to": "IKT",
+   "to_name": "Irkutsk",
+   "model": "Boeing 737-800",
+   "status": "GateClosed",
+   "scheduled": "2026-11-28T09:45:00Z",
+   "actual": "2026-11-28T09:55:00Z"
+  },
+  "D2 9774|2026-11-28T10:00:00Z": {
+   "number": "D2 9774",
+   "airline": "Severstal Aircompany",
+   "to": "LED",
+   "to_name": "Saint-Petersburg",
+   "model": "Sukhoi Superjet 100",
+   "status": "Boarding",
+   "scheduled": "2026-11-28T10:00:00Z",
+   "actual": "2026-11-28T10:00:00Z"
+  },
+  "UT 6496|2026-11-28T10:35:00Z": {
+   "number": "UT 6496",
+   "airline": "UTAir",
+   "to": "SGC",
+   "to_name": "Surgut",
+   "model": "Boeing 737-500",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T10:35:00Z",
+   "actual": "2026-11-28T10:35:00Z"
+  },
+  "S7 1136|2026-11-28T10:55:00Z": {
+   "number": "S7 1136",
+   "airline": "S7",
+   "to": "DME",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T10:55:00Z",
+   "actual": "2026-11-28T10:55:00Z"
   }
  },
  "fetched": [
@@ -180,6 +240,7 @@
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
-  "2026-11-28T08:07:25Z"
+  "2026-11-28T08:07:25Z",
+  "2026-11-28T10:07:32Z"
  ]
 }

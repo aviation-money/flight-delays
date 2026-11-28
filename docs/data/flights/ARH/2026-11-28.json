@@ -47,10 +47,20 @@
    "airline": "Smartavia",
    "to": "KGD",
    "to_name": "Kaliningrad",
-   "model": "Boeing 737",
-   "status": "CheckIn",
+   "model": "Boeing 737-700",
+   "status": "Departed",
    "scheduled": "2026-11-28T08:15:00Z",
-   "actual": "2026-11-28T08:15:00Z"
+   "actual": "2026-11-28T08:29:00Z"
+  },
+  "SU 1333|2026-11-28T10:00:00Z": {
+   "number": "SU 1333",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A320",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T10:00:00Z",
+   "actual": "2026-11-28T10:00:00Z"
   }
  },
  "fetched": [
@@ -59,6 +69,7 @@
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
-  "2026-11-28T08:07:25Z"
+  "2026-11-28T08:07:25Z",
+  "2026-11-28T10:07:32Z"
  ]
 }

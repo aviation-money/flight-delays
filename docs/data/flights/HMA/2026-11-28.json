@@ -78,9 +78,19 @@
    "to": "UFA",
    "to_name": "Ufa",
    "model": "ATR 72",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-28T08:00:00Z",
-   "actual": "2026-11-28T08:00:00Z"
+   "actual": "2026-11-28T08:07:00Z"
+  },
+  "UT 305|2026-11-28T09:50:00Z": {
+   "number": "UT 305",
+   "airline": "UTAir",
+   "to": "OMS",
+   "to_name": "Omsk",
+   "model": "ATR 72",
+   "status": "Departed",
+   "scheduled": "2026-11-28T09:50:00Z",
+   "actual": "2026-11-28T09:50:00Z"
   }
  },
  "fetched": [
@@ -90,6 +100,7 @@
   "2026-11-28T02:07:34Z",
   "2026-11-28T04:07:27Z",
   "2026-11-28T06:07:24Z",
-  "2026-11-28T08:07:25Z"
+  "2026-11-28T08:07:25Z",
+  "2026-11-28T10:07:32Z"
  ]
 }
