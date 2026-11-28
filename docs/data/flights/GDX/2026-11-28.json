@@ -48,9 +48,9 @@
    "to": "Yagodnoe",
    "to_name": "Yagodnoe",
    "model": null,
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T22:55:00Z",
-   "actual": "2026-11-27T22:55:00Z"
+   "actual": "2026-11-27T23:34:00Z"
   },
   "АЯ 1097|2026-11-27T22:55:00Z": {
    "number": "АЯ 1097",
@@ -78,9 +78,89 @@
    "to": "Kupol",
    "to_name": "Kupol",
    "model": null,
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T23:00:00Z",
-   "actual": "2026-11-27T23:00:00Z"
+   "actual": "2026-11-27T23:17:00Z"
+  },
+  "IO 131|2026-11-27T22:30:00Z": {
+   "number": "IO 131",
+   "airline": "IrAero",
+   "to": "Severo-Evensk",
+   "to_name": "Severo-Evensk",
+   "model": null,
+   "status": "Delayed",
+   "scheduled": "2026-11-27T22:30:00Z",
+   "actual": "2026-11-27T23:15:00Z"
+  },
+  "СЛ 9477|2026-11-27T23:30:00Z": {
+   "number": "СЛ 9477",
+   "airline": "Sila",
+   "to": "Kubaka",
+   "to_name": "Kubaka",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-27T23:30:00Z",
+   "actual": "2026-11-27T23:30:00Z"
+  },
+  "S7 5220|2026-11-27T23:10:00Z": {
+   "number": "S7 5220",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Airbus A321",
+   "status": "GateClosed",
+   "scheduled": "2026-11-27T23:10:00Z",
+   "actual": "2026-11-27T23:40:00Z"
+  },
+  "IO 9701|2026-11-27T23:30:00Z": {
+   "number": "IO 9701",
+   "airline": "IrAero",
+   "to": "Baimskaya",
+   "to_name": "Baimskaya",
+   "model": null,
+   "status": "Departed",
+   "scheduled": "2026-11-27T23:30:00Z",
+   "actual": "2026-11-27T23:51:00Z"
+  },
+  "IO 9605|2026-11-28T00:00:00Z": {
+   "number": "IO 9605",
+   "airline": "IrAero",
+   "to": "Kupol",
+   "to_name": "Kupol",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T00:00:00Z",
+   "actual": "2026-11-28T00:00:00Z"
+  },
+  "IO 9703|2026-11-28T00:30:00Z": {
+   "number": "IO 9703",
+   "airline": "IrAero",
+   "to": "Keperveem",
+   "to_name": "Keperveem",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T00:30:00Z",
+   "actual": "2026-11-28T00:30:00Z"
+  },
+  "IO 9803|2026-11-28T00:30:00Z": {
+   "number": "IO 9803",
+   "airline": "IrAero",
+   "to": "Kupol",
+   "to_name": "Kupol",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T00:30:00Z",
+   "actual": "2026-11-28T00:30:00Z"
+  },
+  "IO 9705|2026-11-28T01:00:00Z": {
+   "number": "IO 9705",
+   "airline": "IrAero",
+   "to": "Baimskaya",
+   "to_name": "Baimskaya",
+   "model": null,
+   "status": "Expected",
+   "scheduled": "2026-11-28T01:00:00Z",
+   "actual": "2026-11-28T01:00:00Z"
   }
  },
  "fetched": [
@@ -88,6 +168,7 @@
   "2026-11-27T16:07:29Z",
   "2026-11-27T18:07:26Z",
   "2026-11-27T20:07:26Z",
-  "2026-11-27T22:07:29Z"
+  "2026-11-27T22:07:29Z",
+  "2026-11-28T00:07:26Z"
  ]
 }

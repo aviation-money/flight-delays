@@ -1,8 +1,20 @@
 {
  "airport": "GOJ",
  "date": "2026-11-28",
- "flights": {},
+ "flights": {
+  "JU 187|2026-11-28T00:25:00Z": {
+   "number": "JU 187",
+   "airline": "Air Serbia",
+   "to": "BEG",
+   "to_name": "Belgrade",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T00:25:00Z",
+   "actual": "2026-11-28T00:25:00Z"
+  }
+ },
  "fetched": [
-  "2026-11-27T22:07:29Z"
+  "2026-11-27T22:07:29Z",
+  "2026-11-28T00:07:26Z"
  ]
 }

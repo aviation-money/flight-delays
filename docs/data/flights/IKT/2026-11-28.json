@@ -128,7 +128,7 @@
    "to": "UUD",
    "to_name": "Ulan-Ude",
    "model": "Embraer 170",
-   "status": "Expected",
+   "status": "Departed",
    "scheduled": "2026-11-27T20:20:00Z",
    "actual": null
   },
@@ -181,12 +181,73 @@
    "status": "Unknown",
    "scheduled": "2026-11-27T22:45:00Z",
    "actual": null
+  },
+  "IO 171|2026-11-27T23:15:00Z": {
+   "number": "IO 171",
+   "airline": "IrAero",
+   "to": "HTA",
+   "to_name": "Chita",
+   "model": "Bombardier CRJ",
+   "status": "Expected",
+   "scheduled": "2026-11-27T23:15:00Z",
+   "actual": null
+  },
+  "SU 660|2026-11-27T23:20:00Z": {
+   "number": "SU 660",
+   "airline": "Aeroflot",
+   "to": "HKT",
+   "to_name": "Phuket",
+   "model": "Airbus A321-200 (Sharklets)",
+   "status": "Expected",
+   "scheduled": "2026-11-27T23:20:00Z",
+   "actual": null
+  },
+  "S7 6443|2026-11-27T23:30:00Z": {
+   "number": "S7 6443",
+   "airline": "S7",
+   "to": "BTK",
+   "to_name": "Bratsk",
+   "model": "Embraer 170",
+   "status": "Unknown",
+   "scheduled": "2026-11-27T23:30:00Z",
+   "actual": null
+  },
+  "IO 347|2026-11-28T00:20:00Z": {
+   "number": "IO 347",
+   "airline": "IrAero",
+   "to": "Nizhneangarsk",
+   "to_name": "Nizhneangarsk",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-28T00:20:00Z",
+   "actual": null
+  },
+  "S7 5232|2026-11-28T00:30:00Z": {
+   "number": "S7 5232",
+   "airline": "S7",
+   "to": "OVB",
+   "to_name": "Novosibirsk",
+   "model": "Embraer 170",
+   "status": "Expected",
+   "scheduled": "2026-11-28T00:30:00Z",
+   "actual": null
+  },
+  "IO 85|2026-11-28T01:00:00Z": {
+   "number": "IO 85",
+   "airline": "IrAero",
+   "to": "ERG",
+   "to_name": "Erbogachen",
+   "model": "An-24",
+   "status": "Unknown",
+   "scheduled": "2026-11-28T01:00:00Z",
+   "actual": null
   }
  },
  "fetched": [
   "2026-11-27T16:07:29Z",
   "2026-11-27T18:07:26Z",
   "2026-11-27T20:07:26Z",
-  "2026-11-27T22:07:29Z"
+  "2026-11-27T22:07:29Z",
+  "2026-11-28T00:07:26Z"
  ]
 }

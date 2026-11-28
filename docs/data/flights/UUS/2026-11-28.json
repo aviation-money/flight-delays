@@ -8,9 +8,9 @@
    "to": "IKT",
    "to_name": "Irkutsk",
    "model": "Boeing 737-800",
-   "status": "GateClosed",
+   "status": "Departed",
    "scheduled": "2026-11-27T21:50:00Z",
-   "actual": "2026-11-27T21:50:00Z"
+   "actual": "2026-11-27T21:57:00Z"
   },
   "S7 5258|2026-11-27T22:45:00Z": {
    "number": "S7 5258",
@@ -18,9 +18,29 @@
    "to": "OVB",
    "to_name": "Novosibirsk",
    "model": "Airbus A321",
-   "status": "CheckIn",
+   "status": "Departed",
    "scheduled": "2026-11-27T22:45:00Z",
-   "actual": "2026-11-27T22:45:00Z"
+   "actual": "2026-11-27T22:43:00Z"
+  },
+  "HZ 3016|2026-11-27T23:20:00Z": {
+   "number": "HZ 3016",
+   "airline": "Aurora",
+   "to": "Kurilsk",
+   "to_name": "Kurilsk",
+   "model": "Bombardier Dash 8 Q400 / DHC-8-400",
+   "status": "Departed",
+   "scheduled": "2026-11-27T23:20:00Z",
+   "actual": "2026-11-27T23:05:00Z"
+  },
+  "HZ 5627|2026-11-28T00:40:00Z": {
+   "number": "HZ 5627",
+   "airline": "Aurora",
+   "to": "KHV",
+   "to_name": "Khabarovsk",
+   "model": "Airbus A319",
+   "status": "CheckIn",
+   "scheduled": "2026-11-28T00:40:00Z",
+   "actual": "2026-11-28T00:40:00Z"
   }
  },
  "fetched": [
@@ -28,6 +48,7 @@
   "2026-11-27T16:07:29Z",
   "2026-11-27T18:07:26Z",
   "2026-11-27T20:07:26Z",
-  "2026-11-27T22:07:29Z"
+  "2026-11-27T22:07:29Z",
+  "2026-11-28T00:07:26Z"
  ]
 }

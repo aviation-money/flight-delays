@@ -11,9 +11,20 @@
    "status": "Expected",
    "scheduled": "2026-11-27T21:20:00Z",
    "actual": "2026-11-27T21:20:00Z"
+  },
+  "SU 1327|2026-11-27T23:55:00Z": {
+   "number": "SU 1327",
+   "airline": "Aeroflot",
+   "to": "SVO",
+   "to_name": "Moscow",
+   "model": "Airbus A321",
+   "status": "Departed",
+   "scheduled": "2026-11-27T23:55:00Z",
+   "actual": "2026-11-27T23:55:00Z"
   }
  },
  "fetched": [
-  "2026-11-27T22:07:29Z"
+  "2026-11-27T22:07:29Z",
+  "2026-11-28T00:07:26Z"
  ]
 }
